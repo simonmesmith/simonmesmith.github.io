@@ -1,3 +1,0 @@
-dependencies:
-  post:
-    - bundle exec jekyll build
