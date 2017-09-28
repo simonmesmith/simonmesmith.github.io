@@ -87,4 +87,5 @@ exclude:
 
 # Add collections
 collections:
-  automation
+  automation:
+    output: true
