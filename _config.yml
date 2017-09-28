@@ -89,4 +89,3 @@ exclude:
 collections:
   automation:
     output: true
-    title: Automation Job Tracker
