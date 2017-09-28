@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Add collections
+collections:
+  collections_dir: collections
+  - automation
