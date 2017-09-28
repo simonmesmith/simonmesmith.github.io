@@ -87,7 +87,4 @@ exclude:
 
 # Add collections
 collections:
-  collections_dir: collections
-  automation:
-    output: true
-    permalink: /:collection/:name
+  automation
