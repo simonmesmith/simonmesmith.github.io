@@ -87,5 +87,6 @@ exclude:
 
 # Add collections
 collections:
+  collections_dir: collections
   automation:
     output: true
