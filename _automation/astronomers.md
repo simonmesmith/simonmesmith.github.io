@@ -1,6 +1,9 @@
 ---
 layout: automation
 title: Astronomers
+soc: 19-2011
+probability: 0.041
+rank: 129
 ---
 
 * While this will probably augment what astrophysicists do rather than replace them, a neural network has proven to “accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.”[^1]
