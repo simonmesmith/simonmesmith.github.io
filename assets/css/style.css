@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.footnote {
+  vertical-align: super;
+  font-size: 80%;
+}
