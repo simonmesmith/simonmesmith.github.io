@@ -1,10 +1,10 @@
 ---
 layout: automation
 title: Actors
-soc: 27-2011 
+soc: 27-2011
 probability: 0.37
 rank: 259
----
+--- 
 
 * Researchers working on AI predict that by 2045, AI will be editing film, filling in gaps in footage and creating believable live-action characters.[^1]
 
