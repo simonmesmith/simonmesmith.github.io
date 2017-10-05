@@ -26,10 +26,11 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          {% assign active = page.url | downcase | split: "/" %}
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/automation">Automation</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="/blog" {% if active[1] == "blog" %}class="active"{% endif %}>Blog</a>
+            <a href="/automation" {% if active[1] == "automation" %}class="active"{% endif %}>Automation</a>
+            <a href="/about" {% if active[1] == "about" %}class="active"{% endif %}>About</a>
           </nav>
         </header>
       </div>
