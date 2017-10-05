@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-.footnote {
-  vertical-align: super;
-  font-size: 80%;
+.attributes {
+  padding: 10px;
+  background: #eee;
+  border: solid 1px #ccc;
 }
