@@ -10,6 +10,10 @@ rank: 0.021
 
 * Amazon researchers have also trained an AI to function as a stylist. It consumed a dataset of labeled fashion data and can now say whether your outfit looks stylish. A threat to stylists? Likely.[^2]
 
+* Established and startup tech companies are leveraging AI to understand and compete in the fashion industry.[^3] Chinese tech giant Tencent, for example, is analyzing fashion trends on QQ, one of its social messaging apps, to understand color and fabric trends. Another company, LUXSENS, is using deep learning to find the best price for luxury bags.
+
 [^1]:	[Amazon has developed an AI fashion designer](http://ift.tt/2vquAqh)
 
 [^2]:	[Amazon has developed an AI fashion designer](http://ift.tt/2vquAqh)
+
+[^3]:	[The Fashion Industry Is Learning More And More About How You Spend, Thanks To AI](http://ift.tt/2xlRznz)
