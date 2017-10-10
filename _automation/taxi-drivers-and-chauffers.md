@@ -10,7 +10,7 @@ rank: 531
 * In May 2017, investment firm Goldman Sachs projected autonomous cars could replace 6.2 million professional drivers by 2030.[^5]
 * Self-driving car company Waymo (formerly part of Google) could have self-driving cars—with _no human behind the wheel as a copilot_ on the road towards the end of 2017.[^6]
 * Self-driving car company Voyage launched a fleet of self-driving taxis in a Sano Jose, California retirement community called The Villages in October 2017.[^7]
-* While surveys show people aren’t entirely comfortable with self-driving cars[^8], the company’s behind them are working to change that. In October 2017, for example, Waymo announced a public education campaign to convince people that self-driving cars “can transform our lives.”[^9]
+* While surveys show people aren’t entirely comfortable with self-driving cars[^8], the companies behind them are working to change that. In October 2017, for example, Waymo announced a public education campaign to convince people that self-driving cars “can transform our lives.”[^9]
 * Self-driving car technology is progressing rapidly. In October 2017, for example, Nvidia announced that its newest autonomous vehicle-focused computer platform—Drive PX, or “Pegasus”—would handle 320 trillion operations per second, making it at least 10x faster than its predecessor.[^10]
 
 [^1]:	[In the long run, Uber will cut 40,000 jobs in London][1]
