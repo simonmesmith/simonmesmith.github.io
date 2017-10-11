@@ -6,10 +6,10 @@ probability: 0.79
 rank: 431
 ---
 
-* Trucking is a $700 billion industry in which drivers represent one-third of costs. [^1]
-*  As of 2015, truck driver was the most common job in 29 of the 50 US states.[^2] About 1.8 million Americans, mainly men, drive heavy trucks for a living. [^3]
+* Trucking is a $700 billion industry in which drivers represent one-third of costs.[^1]
+*  As of 2015, truck driver was the most common job in 29 of the 50 US states.[^2] About 1.8 million Americans, mainly men, drive heavy trucks for a living.[^3]
 * As of 2017, truckers in the US made an average of $41,340 per year (which is just 38% what they made in 1980, factoring inflation).[^4]
-* Truckers can’t drive more than 11 hours per day without an eight-hour break. [^5]
+* Truckers can’t drive more than 11 hours per day without an eight-hour break.[^5]
 * A self-driving truck would effectively double the output of a trucking network at one-quarter the cost, amounting to an 8x increase in productivity.[^6]
 * In 2016, a White House report predicted that 2.2 to 3.1 million US jobs would be threatened or significantly altered by autonomous vehicle technology, and that truck driving would be among them.[^7]
 * In 2016, Otto (acquired by Uber) successfully used a self-driving truck to deliver 45,000 cans of Budweiser in a roughly 130 mile journey from Fort Collins, Colorado, to Colorado Springs. That same year, a semi-automated platoon of trucks crossed Europe in an experiment coordinated by DAF, Daimler, Iveco, MAN, Scania and Volvo.[^8]
