@@ -39,6 +39,9 @@ disqus: simonsmithca
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-3660694-1
 
+# Enter your HubSpot Hub ID to activate HubSpot tracking
+hubspot: 3795564
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://www.simonsmith.ca
