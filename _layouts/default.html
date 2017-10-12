@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{% if page.layout == 'automation' %}Automation – {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
@@ -26,11 +27,11 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          {% assign active = page.url | downcase | split: "/" %}
+          {% assign active = page.url | downcase | split: '/' %}
           <nav>
-            <a href="/" {% if active[1] == "" %}class="active"{% endif %}>Blog</a>
-            <a href="/automation" {% if active[1] == "automation" %}class="active"{% endif %}>Automation</a>
-            <a href="/about" {% if active[1] == "about" %}class="active"{% endif %}>About</a>
+            <a href="/" {% if page.layout == 'post' %}class="active"{% endif %}>Blog</a>
+            <a href="/automation" {% if active[1] == 'automation' %}class="active"{% endif %}>Automation</a>
+            <a href="/about" {% if active[1] == 'about' %}class="active"{% endif %}>About</a>
           </nav>
         </header>
       </div>
