@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
-soc: 43-6014 
+soc: 43-6014
 probability: 0.96
 rank: 634
 ---

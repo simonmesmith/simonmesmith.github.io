@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Tailors, Dressmakers, and Custom Sewers
-soc: 51-6052 
+soc: 51-6052
 probability: 0.84
 rank: 479
 ---

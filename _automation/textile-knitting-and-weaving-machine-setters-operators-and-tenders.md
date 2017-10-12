@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Textile Knitting and Weaving Machine Setters, Operators, and Tenders
-soc: 51-6063 
+soc: 51-6063
 probability: 0.73
 rank: 400
 ---

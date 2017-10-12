@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Physicians and Surgeons
-soc: 29-1060 
+soc: 29-1060
 probability: 0.0042
 rank: 15
 ---

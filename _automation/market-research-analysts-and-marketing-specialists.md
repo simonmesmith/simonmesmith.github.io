@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: automation
 title: Market Research Analysts and Marketing Specialists
 soc: 13-1161
 probability: 0.61

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Multimedia Artists and Animators
-soc: 27-1014 
+soc: 27-1014
 probability: 0.015
 rank: 68
 ---

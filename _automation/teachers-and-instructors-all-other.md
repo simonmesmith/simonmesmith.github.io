@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: automation
 title: Teachers and Instructors, All Other
 soc: 25-3999
-probability: 0.0095 
+probability: 0.0095
 rank: 48
 ---
 

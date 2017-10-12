@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Retail Salespersons
-soc: 41-2031 
+soc: 41-2031
 probability: 0.92
 rank: 570
 ---

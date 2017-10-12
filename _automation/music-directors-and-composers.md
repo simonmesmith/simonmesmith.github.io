@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Music Directors and Composers
-soc: 27-2041 
+soc: 27-2041
 probability: 0.015
 rank: 72
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Writers and Authors
-soc: 27-3043 
+soc: 27-3043
 probability: 0.038
 rank: 123
 ---

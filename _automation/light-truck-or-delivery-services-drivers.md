@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: automation
 title: Light Truck or Delivery Services Drivers
-soc: 53-3033 
+soc: 53-3033
 probability: 0.69
 rank: 380
 ---
