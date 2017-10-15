@@ -8,9 +8,9 @@ layout: default
   <div class="attributes">
     <ul>
       <li>{{ page.probability.oxford | times: 100 }}% chance of automation<sup><a target="_blank" href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf">?</a></sup></li>
-      <li>{{ page.employment.us }} jobs in the US</li>
-      {% if page.wage.annual.us %}<li>{{ page.wage.annual.us | money }} annual salary average</li>{% endif %}
-      {% if page.wage.hourly.us %}<li>{{ page.wage.hourly.us | money }} hourly wage average</li>{% endif %}
+      <li>{{ page.employment.us }} people employed in the US</li>
+      {% if page.wage.annual.us %}<li>${{ page.wage.annual.us | money }} median annual wage</li>{% endif %}
+      {% if page.wage.hourly.us %}<li>${{ page.wage.hourly.us | money }} median hourly wage</li>{% endif %}
       <li>What they do: {{ page.soc.definition }}</li>
     </ul>
   </div>
