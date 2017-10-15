@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Terrazzo Workers and Finishers
+soc:
+  code: 47-2053
+  title: Terrazzo Workers and Finishers
+  definition: 'Apply a mixture of cement, sand, pigment, or marble chips to floors, stairways, and cabinet fixtures to fashion durable and decorative surfaces.'
+employment:
+  us: 3420
+wage:
+  hourly:
+    us: 22.11
+  annual:
+    us: 45990
+probability:
+  oxford: 0.88
+rank:
+  oxford: 519
+---

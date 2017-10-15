@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+soc:
+  code: 51-7042
+  title: Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+  definition: 'Set up, operate, or tend woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, and wood nailing machines. May operate CNC equipment.'
+employment:
+  us: 76130
+wage:
+  hourly:
+    us: 14.35
+  annual:
+    us: 29850
+probability:
+  oxford: 0.97
+rank:
+  oxford: 645
+---

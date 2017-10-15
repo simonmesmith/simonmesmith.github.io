@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Multimedia Artists and Animators
-soc: 27-1014
-probability: 0.015
-rank: 68
+soc:
+  code: 27-1014
+  title: Multimedia Artists and Animators
+  definition: 'Create special effects, animation, or other visual images using film, video, computers, or other electronic tools and media for use in products or creations, such as computer games, movies, music videos, and commercials.'
+employment:
+  us: 29810
+wage:
+  hourly:
+    us: 34.71
+  annual:
+    us: 72200
+probability:
+  oxford: 0.015
+rank:
+  oxford: 68
 ---
 
 * Thanks to its ability to generalize, AI can turn 2D images into 3D images by getting trained on a database associating 2D with 3D images and extrapolating what it learns to new 2D images. Researchers have used such a system to create 3D facial images from selfies.[^1] While not perfect, it shows how designers that render 3D images by hand may either face near-term automation or, at the very least, have a tool in their arsenal to hasten the 3D rendering process.

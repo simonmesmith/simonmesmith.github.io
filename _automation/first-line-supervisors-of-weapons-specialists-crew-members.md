@@ -1,0 +1,19 @@
+---
+layout: automation
+title: First-Line Supervisors of Weapons Specialists/Crew Members
+soc:
+  code: 55-2012
+  title: First-Line Supervisors of Weapons Specialists/Crew Members
+  definition: 'Supervise and coordinate the activities of weapons specialists/crew members. Supervisors may also perform the same activities as the workers they supervise.'
+employment:
+  us: #N/A
+wage:
+  hourly:
+    us: #N/A
+  annual:
+    us: #N/A
+probability:
+  oxford: #N/A
+rank:
+  oxford: #N/A
+---

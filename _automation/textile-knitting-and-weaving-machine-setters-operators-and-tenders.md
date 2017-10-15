@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Textile Knitting and Weaving Machine Setters, Operators, and Tenders
-soc: 51-6063
-probability: 0.73
-rank: 400
+soc:
+  code: 51-6063
+  title: Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+  definition: 'Set up, operate, or tend machines that knit, loop, weave, or draw in textiles. Excludes “Sewing Machine Operators" (51-6031).'
+employment:
+  us: 21550
+wage:
+  hourly:
+    us: 13.65
+  annual:
+    us: 28380
+probability:
+  oxford: 0.73
+rank:
+  oxford: 400
 ---
 
 * Most clothes are still made by hand in countries with extremely low wages, often in dangerous conditions. The industry has been largely resistant to automation as clothes are soft and hard for robots to work with. But this is starting to change. As it does, the economics of garment manufacturing will favour local manufacturing by robots within countries for which clothes are destined, due to reduced transportation costs. This could lead to significant unemployment in developing nations; one report suggests that up to 85% of jobs in developing countries are at risk from automation.[^1]

@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Cutting and Slicing Machine Setters, Operators, and Tenders
+soc:
+  code: 51-9032
+  title: Cutting and Slicing Machine Setters, Operators, and Tenders
+  definition: 'Set up, operate, or tend machines that cut or slice materials, such as glass, stone, cork, rubber, tobacco, food, paper, or insulating material. Excludes “Woodworking Machine Setters, Operators, and Tenders" (51-7040), "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic" (51-4031), and "Textile Cutting Machine Setters, Operators, and Tenders" (51-6062).'
+employment:
+  us: 61330
+wage:
+  hourly:
+    us: 16.35
+  annual:
+    us: 34000
+probability:
+  oxford: 0.86
+rank:
+  oxford: 496
+---

@@ -1,0 +1,19 @@
+---
+layout: automation
+title: File Clerks
+soc:
+  code: 43-4071
+  title: File Clerks
+  definition: 'File correspondence, cards, invoices, receipts, and other records in alphabetical or numerical order or according to the filing system used. Locate and remove material from file when requested.'
+employment:
+  us: 130950
+wage:
+  hourly:
+    us: 15.03
+  annual:
+    us: 31260
+probability:
+  oxford: 0.97
+rank:
+  oxford: 662
+---

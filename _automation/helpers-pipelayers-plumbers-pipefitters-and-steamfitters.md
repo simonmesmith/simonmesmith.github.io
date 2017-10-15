@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+soc:
+  code: 47-3015
+  title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+  definition: 'Help plumbers, pipefitters, steamfitters, or pipelayers by performing duties requiring less skill. Duties include using, supplying or holding materials or tools, and cleaning work area and equipment. Construction laborers who do not primarily assist plumbers, pipefitters, steamfitters, or pipelayers are classified under "Construction Laborers" (47-2061). Apprentice workers are classified with the appropriate skilled construction trade occupation (47-2011 through 47-2231).'
+employment:
+  us: 54080
+wage:
+  hourly:
+    us: 14.73
+  annual:
+    us: 30640
+probability:
+  oxford: 0.57
+rank:
+  oxford: 320
+---

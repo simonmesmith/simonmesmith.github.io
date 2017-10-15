@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Labor Relations Specialists
+soc:
+  code: 13-1075
+  title: Labor Relations Specialists
+  definition: 'Resolve disputes between workers and managers, negotiate collective bargaining agreements, or coordinate grievance procedures to handle employee complaints. Excludes equal employment opportunity (EEO) officers who are included in “Compliance Officers” (13-1041).'
+employment:
+  us: 79430
+wage:
+  hourly:
+    us: 30.89
+  annual:
+    us: 64250
+probability:
+  oxford: #N/A
+rank:
+  oxford: #N/A
+---

@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Computer Programmers
-soc: 15-1131
-probability: 0.48
-rank: 293
+soc:
+  code: 15-1131
+  title: Computer Programmers
+  definition: 'Create, modify, and test the code, forms, and script that allow computer applications to run. Work from specifications drawn up by software developers or other individuals. May assist software developers by analyzing user needs and designing software solutions. May develop and write computer programs to store, locate, and retrieve specific documents, data, and information.'
+employment:
+  us: 271200
+wage:
+  hourly:
+    us: 40.95
+  annual:
+    us: 85180
+probability:
+  oxford: 0.48
+rank:
+  oxford: 293
 ---
 
 * Certain types of development work—especially translating clear requirements into code—should be _particularly_ amenable to automation, since programming languages are less ambiguous than spoken languages such as English, and there is _so_ much code online for machines to learn from, such as on Stack Overflow and GitHub.

@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Writers and Authors
-soc: 27-3043
-probability: 0.038
-rank: 123
+soc:
+  code: 27-3043
+  title: Writers and Authors
+  definition: 'Originate and prepare written material, such as scripts, stories, advertisements, and other material. Excludes "Public Relations Specialists" (27-3031) and "Technical Writers" (27-3042).'
+employment:
+  us: 44690
+wage:
+  hourly:
+    us: 34.58
+  annual:
+    us: 71920
+probability:
+  oxford: 0.038
+rank:
+  oxford: 123
 ---
 
 * Writing is a fairly broad category of activities and occupations, but everywhere you look AI is automating the process.

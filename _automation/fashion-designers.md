@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Fashion Designers
-soc: 27-1022 
-probability: 89
-rank: 0.021
+soc:
+  code: 27-1022
+  title: Fashion Designers
+  definition: 'Design clothing and accessories. Create original designs or adapt fashion trends.'
+employment:
+  us: 19230
+wage:
+  hourly:
+    us: 36.77
+  annual:
+    us: 76480
+probability:
+  oxford: 0.021
+rank:
+  oxford: 89
 ---
 
 * A research team at Amazon created an algorithm that learns about a style of fashion from images and then generates new items in that style.[^1] Imagine browsing Amazon in future and instead of it recommending items from _existing_ products, it generates _nonexistent_ items inspired by things you’ve previously bought, then makes them if you buy them. 

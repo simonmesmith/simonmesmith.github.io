@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Retail Salespersons
-soc: 41-2031
-probability: 0.92
-rank: 570
+soc:
+  code: 41-2031
+  title: Retail Salespersons
+  definition: 'Sell merchandise, such as furniture, motor vehicles, appliances, or apparel to consumers. Excludes "Cashiers" (41-2011).'
+employment:
+  us: 4528550
+wage:
+  hourly:
+    us: 13.07
+  annual:
+    us: 27180
+probability:
+  oxford: 0.92
+rank:
+  oxford: 570
 ---
 
 * Retail jobs are likely to face near-term automation (while simultaneously being made unnecessary by the growth of ecommerce). Some predictions call for 80% of retail jobs to disappear within the coming decades.[^1] A 2017 report from investment advisory firm Cornerstone Capital Group estimated that 6 to 7.5 million retail jobs will soon be rendered obsolete by automation.[^2]

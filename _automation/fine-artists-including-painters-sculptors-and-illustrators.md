@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Fine Artists, Including Painters, Sculptors, and Illustrators
-soc: 27-1013 
-probability: 0.042
-rank: 131
+soc:
+  code: 27-1013
+  title: Fine Artists, Including Painters, Sculptors, and Illustrators
+  definition: 'Create original artwork using any of a wide variety of media and techniques.'
+employment:
+  us: 11520
+wage:
+  hourly:
+    us: 27.6
+  annual:
+    us: 57410
+probability:
+  oxford: 0.042
+rank:
+  oxford: 131
 ---
 
 * While some claim creative professions are safe from AI and automation, I don't agree. Certain creative activities—such as crafting coherent long-form narratives—are likely safe until AI gains a better understanding of the world and human relationships. But other forms, including visual art, seem well within the capacity of current AI. This is particularly the case with generative adversarial networks (GANs), in which one AI (the generator) tries to fool another AI (the discriminator) at producing artistic output, with both AIs getting continuously better at their job.  

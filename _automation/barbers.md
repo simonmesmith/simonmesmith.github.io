@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Barbers
+soc:
+  code: 39-5011
+  title: Barbers
+  definition: 'Provide barbering services, such as cutting, trimming, shampooing, and styling hair, trimming beards, or giving shaves.'
+employment:
+  us: 15900
+wage:
+  hourly:
+    us: 14.38
+  annual:
+    us: 29900
+probability:
+  oxford: 0.8
+rank:
+  oxford: 439
+---

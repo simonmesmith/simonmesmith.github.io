@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Computer Systems Analysts
+soc:
+  code: 15-1121
+  title: Computer Systems Analysts
+  definition: 'Analyze science, engineering, business, and other data processing problems to implement and improve computer systems. Analyze user requirements, procedures, and problems to automate or improve existing systems and review computer system capabilities, workflow, and scheduling limitations. May analyze or recommend commercially available software.'
+employment:
+  us: 568960
+wage:
+  hourly:
+    us: 44.05
+  annual:
+    us: 91620
+probability:
+  oxford: 0.0065
+rank:
+  oxford: 32
+---

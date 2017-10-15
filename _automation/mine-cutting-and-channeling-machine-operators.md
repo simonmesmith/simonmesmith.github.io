@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Mine Cutting and Channeling Machine Operators
-soc: 47-5042
-probability: 0.59
-rank: 327
+soc:
+  code: 47-5042
+  title: Mine Cutting and Channeling Machine Operators
+  definition: 'Operate machinery such as longwall shears, plows, and cutting machines to cut or channel along the face or seams of coal mines, stone quarries, or other mining surfaces to facilitate blasting, separating, or removing minerals or materials from mines or from the Earth''s surface. Includes shale planers.'
+employment:
+  us: 5930
+wage:
+  hourly:
+    us: 24.36
+  annual:
+    us: 50670
+probability:
+  oxford: 0.59
+rank:
+  oxford: 327
 ---
 
 * Fully automated mines are coming. Mining companies are using massive amounts of data to increase productivity and cut costs.[^1]

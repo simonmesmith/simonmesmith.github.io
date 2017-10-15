@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Logisticians
+soc:
+  code: 13-1081
+  title: Logisticians
+  definition: 'Analyze and coordinate the logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources. Excludes “Transportation, Storage, and Distribution Managers” (11-3071).'
+employment:
+  us: 146060
+wage:
+  hourly:
+    us: 37.41
+  annual:
+    us: 77810
+probability:
+  oxford: 0.012
+rank:
+  oxford: 55
+---

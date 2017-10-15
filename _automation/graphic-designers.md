@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Graphic Designers
-soc: 27-1024 
-probability: 0.082
-rank: 161
+soc:
+  code: 27-1024
+  title: Graphic Designers
+  definition: 'Design or create graphics to meet specific commercial or promotional needs, such as packaging, displays, or logos. May use a variety of mediums to achieve artistic or decorative effects.'
+employment:
+  us: 210710
+wage:
+  hourly:
+    us: 25.14
+  annual:
+    us: 52290
+probability:
+  oxford: 0.082
+rank:
+  oxford: 161
 ---
 
 * [Logojoy](https://logojoy.com/) uses artificial intelligence to create logos. As of mid-September 2017, they report creating more than 8.5 million logos.

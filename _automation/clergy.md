@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Clergy
-soc: 21-2011
-probability: 0.0081
-rank: 42
+soc:
+  code: 21-2011
+  title: Clergy
+  definition: 'Conduct religious worship and perform other spiritual functions associated with beliefs and practices of religious faith or denomination. Provide spiritual and moral guidance and assistance to members.'
+employment:
+  us: 49320
+wage:
+  hourly:
+    us: 23.77
+  annual:
+    us: 49450
+probability:
+  oxford: 0.0081
+rank:
+  oxford: 42
 ---
 
 * Clergy seem highly _unlikely_ to be automated—would people take spiritual guidance from a robot?—but early signs suggest that people project spirituality upon them, and that they may therefore see greater uptake than anticipated. 

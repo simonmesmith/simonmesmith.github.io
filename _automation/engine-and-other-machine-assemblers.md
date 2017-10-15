@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Engine and Other Machine Assemblers
-soc: 51-2031
-probability: 0.82
-rank: 449
+soc:
+  code: 51-2031
+  title: Engine and Other Machine Assemblers
+  definition: 'Construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing.'
+employment:
+  us: 38150
+wage:
+  hourly:
+    us: 20.71
+  annual:
+    us: 43090
+probability:
+  oxford: 0.82
+rank:
+  oxford: 449
 ---
 
 * Robots combined with a shift to electric cars will likely result in significant automation and job cuts within vehicle assembly plants. Electric vehicles will result in factories with an assembly area half the previous size, with 30% fewer labor hours per car.[^1]

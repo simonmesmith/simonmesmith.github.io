@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Craft Artists
+soc:
+  code: 27-1012
+  title: Craft Artists
+  definition: 'Create or reproduce hand-made objects for sale and exhibition using a variety of techniques, such as welding, weaving, pottery, and needlecraft.'
+employment:
+  us: 5070
+wage:
+  hourly:
+    us: 18.7
+  annual:
+    us: 38900
+probability:
+  oxford: 0.035
+rank:
+  oxford: 116
+---

@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Teachers and Instructors, All Other
-soc: 25-3999
-probability: 0.0095
-rank: 48
+soc:
+  code: 25-3099
+  title: Teachers and Instructors, All Other
+  definition: 'All teachers and instructors not listed separately.'
+employment:
+  us: #N/A
+wage:
+  hourly:
+    us: #N/A
+  annual:
+    us: #N/A
+probability:
+  oxford: #N/A
+rank:
+  oxford: #N/A
 ---
 
 * Teachers and instructors have been given a low probability of automation but I think this conflates the repetitive aspects of teaching—such as marking—with the less repetitive, such as engaging in dialogue and discussion. And the repetitive aspects are certainly being automated (which I imagine most teachers will embrace).

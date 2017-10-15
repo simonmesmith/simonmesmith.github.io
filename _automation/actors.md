@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Actors
-soc: 27-2011 
-probability: 0.37
-rank: 259
+soc:
+  code: 27-2011
+  title: Actors
+  definition: 'Play parts in stage, television, radio, video, motion picture productions, or other settings for entertainment, information, or instruction. Interpret serious or comic role by speech, gesture, and body movement to entertain or inform audience. May dance and sing.'
+employment:
+  us: 48620
+wage:
+  hourly:
+    us: 39.84
+  annual:
+    us: 
+probability:
+  oxford: 0.37
+rank:
+  oxford: 259
 ---
 
 * Researchers working on AI predict that by 2045, AI will be editing film, filling in gaps in footage and creating believable live-action characters.[^1]

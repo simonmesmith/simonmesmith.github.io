@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Bartenders
-soc: 35-3011
-probability: 0.77
-rank: 422
+soc:
+  code: 35-3011
+  title: Bartenders
+  definition: 'Mix and serve drinks to patrons, directly or through waitstaff.'
+employment:
+  us: 603320
+wage:
+  hourly:
+    us: 12.3
+  annual:
+    us: 25580
+probability:
+  oxford: 0.77
+rank:
+  oxford: 422
 ---
 
 * Robot bartenders are currently a novelty, but they demonstrate the potential of automation in food services. “Tipsy Robot” claims to be the first bar on land to use robots that can make cocktails.[^1] “On land” is an important qualifier as another robot bartender already works aboard a cruise ship.

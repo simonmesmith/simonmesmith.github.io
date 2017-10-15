@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Pest Control Workers
+soc:
+  code: 37-2021
+  title: Pest Control Workers
+  definition: 'Apply or release chemical solutions or toxic gases and set traps to kill or remove pests and vermin that infest buildings and surrounding areas.'
+employment:
+  us: 72830
+wage:
+  hourly:
+    us: 16.84
+  annual:
+    us: 35020
+probability:
+  oxford: 0.66
+rank:
+  oxford: 364
+---

@@ -6,7 +6,12 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="attributes">
-    Oxford probability of automation<sup><a target="_blank" href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf">?</a></sup>: {{ page.probability | times: 100 }}%
+    <ul>
+      <li>{{ page.probability.oxford | times: 100 }}% chance of automation<sup><a target="_blank" href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf">?</a></sup></li>
+      <li>{{ page.employment.us }} jobs in the US</li>
+      <li>{{ page.wage.annual.us }} average annual salary</li>
+      <li>Refers to: {{ page.soc.definition }}
+    </ul>
   </div>
 
   <div class="entry">

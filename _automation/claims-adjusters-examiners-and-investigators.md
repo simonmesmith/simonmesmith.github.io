@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Claims Adjusters, Examiners, and Investigators
+soc:
+  code: 13-1031
+  title: Claims Adjusters, Examiners, and Investigators
+  definition: 'Review settled claims to determine that payments and settlements are made in accordance with company practices and procedures. Confer with legal counsel on claims requiring litigation. May also settle insurance claims. Excludes "Fire Inspectors and Investigators" (33-2021).'
+employment:
+  us: 274420
+wage:
+  hourly:
+    us: 31.24
+  annual:
+    us: 64990
+probability:
+  oxford: 0.98
+rank:
+  oxford: 675
+---

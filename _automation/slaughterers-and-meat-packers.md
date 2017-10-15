@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Slaughterers and Meat Packers
-soc: 51-3023
-probability: 0.6
-rank: 333
+soc:
+  code: 51-3023
+  title: Slaughterers and Meat Packers
+  definition: 'Work in slaughtering, meat packing, or wholesale establishments performing precision functions involving the preparation of meat. Work may include specialized slaughtering tasks, cutting standard or premium cuts of meat for marketing, making sausage, or wrapping meats. Excludes “Meat, Poultry, and Fish Cutters and Trimmers" (51-3022) who perform routine meat cutting.'
+employment:
+  us: 80780
+wage:
+  hourly:
+    us: 13
+  annual:
+    us: 27040
+probability:
+  oxford: 0.6
+rank:
+  oxford: 333
 ---
 
 * As a vegetarian, my preference would be to eliminate animal slaughter completely and move to an entirely plant-based diet supplemented by lab-grown meat for those who really can't live without animal products. But until that happens, many people work in meat slaughtering and packing—and their jobs are slowly disappearing.

@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Nuclear Power Reactor Operators
+soc:
+  code: 51-8011
+  title: Nuclear Power Reactor Operators
+  definition: 'Operate or control nuclear reactors. Move control rods, start and stop equipment, monitor and adjust controls, and record data in logs. Implement emergency procedures when needed. May respond to abnormalities, determine cause, and recommend corrective action.'
+employment:
+  us: 7170
+wage:
+  hourly:
+    us: 43.93
+  annual:
+    us: 91370
+probability:
+  oxford: 0.95
+rank:
+  oxford: 614
+---

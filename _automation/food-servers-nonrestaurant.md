@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Food Servers, Nonrestaurant
+soc:
+  code: 35-3041
+  title: Food Servers, Nonrestaurant
+  definition: 'Serve food to individuals outside of a restaurant environment, such as in hotel rooms, hospital rooms, residential care facilities, or cars. Excludes "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers" (41-9091) and "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop" (35-3022).'
+employment:
+  us: 261520
+wage:
+  hourly:
+    us: 11.29
+  annual:
+    us: 23490
+probability:
+  oxford: 0.86
+rank:
+  oxford: 492
+---

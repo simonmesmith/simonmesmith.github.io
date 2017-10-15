@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Cooks, Fast Food
-soc: 35-2011
-probability: 0.81
-rank: 441
+soc:
+  code: 35-2011
+  title: Cooks, Fast Food
+  definition: 'Prepare and cook food in a fast food restaurant with a limited menu. Duties of these cooks are limited to preparation of a few basic items and normally involve operating large-volume single-purpose cooking equipment.'
+employment:
+  us: 513200
+wage:
+  hourly:
+    us: 9.89
+  annual:
+    us: 20570
+probability:
+  oxford: 0.81
+rank:
+  oxford: 441
 ---
 
 * Fast food cooks are already being automated. [Zume][1], for example, is a pizzeria that uses robots to make pizza.[^1] Zume sold its first pizza on April 1, 2016 and aims to service the entire San Francisco Bay Area from one facility by the end of 2018; it raised $50 million towards this end in October 2017.[^2] 

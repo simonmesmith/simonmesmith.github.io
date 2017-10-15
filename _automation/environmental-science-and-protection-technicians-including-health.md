@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Environmental Science and Protection Technicians, Including Health
+soc:
+  code: 19-4091
+  title: Environmental Science and Protection Technicians, Including Health
+  definition: 'Perform laboratory and field tests to monitor the environment and investigate sources of pollution, including those that affect health, under the direction of an environmental scientist, engineer, or other specialist. May collect samples of gases, soil, water, and other materials for testing.'
+employment:
+  us: 32950
+wage:
+  hourly:
+    us: 23.05
+  annual:
+    us: 47930
+probability:
+  oxford: 0.77
+rank:
+  oxford: 419
+---

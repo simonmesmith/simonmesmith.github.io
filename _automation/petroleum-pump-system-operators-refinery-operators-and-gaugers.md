@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Petroleum Pump System Operators, Refinery Operators, and Gaugers
+soc:
+  code: 51-8093
+  title: Petroleum Pump System Operators, Refinery Operators, and Gaugers
+  definition: 'Operate or control petroleum refining or processing units. May specialize in controlling manifold and pumping systems, gauging or testing oil in storage tanks, or regulating the flow of oil into pipelines.'
+employment:
+  us: 41630
+wage:
+  hourly:
+    us: 32.63
+  annual:
+    us: 67870
+probability:
+  oxford: 0.71
+rank:
+  oxford: 389
+---

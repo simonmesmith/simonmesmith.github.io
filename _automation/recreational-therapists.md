@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Recreational Therapists
+soc:
+  code: 29-1125
+  title: Recreational Therapists
+  definition: 'Plan, direct, or coordinate medically-approved recreation programs for patients in hospitals, nursing homes, or other institutions. Activities include sports, trips, dramatics, social activities, and arts and crafts. May assess a patient condition and recommend appropriate recreational activity. Excludes “Recreation Workers” (39-9032).'
+employment:
+  us: 18100
+wage:
+  hourly:
+    us: 23.17
+  annual:
+    us: 48190
+probability:
+  oxford: 0.0028
+rank:
+  oxford: 1
+---

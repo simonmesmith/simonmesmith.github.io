@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Bookkeeping, Accounting, and Auditing Clerks
-soc: 43-3031  
-probability: 0.98
-rank: 671
+soc:
+  code: 43-3031
+  title: Bookkeeping, Accounting, and Auditing Clerks
+  definition: 'Compute, classify, and record numerical data to keep financial records complete. Perform any combination of routine calculating, posting, and verifying duties to obtain primary financial data for use in maintaining accounting records. May also check the accuracy of figures, calculations, and postings pertaining to business transactions recorded by other workers. Excludes “Payroll and Timekeeping Clerks” (43-3051).'
+employment:
+  us: 1566960
+wage:
+  hourly:
+    us: 19.34
+  annual:
+    us: 40220
+probability:
+  oxford: 0.98
+rank:
+  oxford: 671
 ---
 
 * Accounting is, according to some studies, one of the most susceptible professions to automation. For example, a 2013 Oxford University found that bookkeeping, accounting and auditing clerks have a 98% chance of being automated in the near future.[^1]

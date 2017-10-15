@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Financial Specialists, All Other
+soc:
+  code: 13-2099
+  title: Financial Specialists, All Other
+  definition: 'All financial specialists not listed separately.'
+employment:
+  us: 123270
+wage:
+  hourly:
+    us: 36.65
+  annual:
+    us: 76230
+probability:
+  oxford: 0.33
+rank:
+  oxford: 245
+---

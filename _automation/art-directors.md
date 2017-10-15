@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Art Directors
-soc: 27-1011
-probability: 0.023
-rank: 95
+soc:
+  code: 27-1011
+  title: Art Directors
+  definition: 'Formulate design concepts and presentation approaches for visual communications media, such as print, broadcasting, and advertising. Direct workers engaged in art work or layout design.'
+employment:
+  us: 36210
+wage:
+  hourly:
+    us: 48.64
+  annual:
+    us: 101170
+probability:
+  oxford: 0.023
+rank:
+  oxford: 95
 ---
 
 * It might seem unlikely that art directors, creative directors and other creative professionals could be automated, since creative professions are supposed to be more immune to the impact of artificial intelligence. But there are signs that aspects of the creative process, if not the entire process, can indeed be automated. 

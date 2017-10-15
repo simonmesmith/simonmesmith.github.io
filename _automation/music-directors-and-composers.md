@@ -1,9 +1,21 @@
 ---
 layout: automation
 title: Music Directors and Composers
-soc: 27-2041
-probability: 0.015
-rank: 72
+soc:
+  code: 27-2041
+  title: Music Directors and Composers
+  definition: 'Conduct, direct, plan, and lead instrumental or vocal performances by musical groups, such as orchestras, bands, choirs, and glee clubs. Includes arrangers, composers, choral directors, and orchestrators.'
+employment:
+  us: 18380
+wage:
+  hourly:
+    us: 29.15
+  annual:
+    us: 60630
+probability:
+  oxford: 0.015
+rank:
+  oxford: 72
 ---
 
 * Music composition is a challenge that AI researchers are tackling due to its requirement for creativity—something much more challenging for computers than calculation, and still several breakthroughs away from human-level in many domains. There has been much progress in recent years.

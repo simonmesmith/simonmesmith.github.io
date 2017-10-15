@@ -1,0 +1,19 @@
+---
+layout: automation
+title: Oral and Maxillofacial Surgeons
+soc:
+  code: 29-1022
+  title: Oral and Maxillofacial Surgeons
+  definition: 'Perform surgery and related procedures on the hard and soft tissues of the oral and maxillofacial regions to treat diseases, injuries, or defects. May diagnose problems of the oral and maxillofacial regions. May perform surgery to improve function or appearance.'
+employment:
+  us: 5380
+wage:
+  hourly:
+    us: 111.96
+  annual:
+    us: 232870
+probability:
+  oxford: 0.0036
+rank:
+  oxford: 9
+---
