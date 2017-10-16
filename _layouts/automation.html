@@ -19,7 +19,7 @@ layout: default
     {{ content }}
   </div>
 
-  {% assign companies = site.companies | where:'soc_codes', page.soc.code %}
+  {% assign companies = site.companies | where:'soc', page.soc.code %}
   <h2>Companies</h2>
   {% if companies.size > 0 %}
     <ul>
