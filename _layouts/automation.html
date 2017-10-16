@@ -20,13 +20,21 @@ layout: default
   </div>
 
   {% assign companies = site.companies | where:'soc_codes', page.soc.code %}
-  <h2>Companies</h2>
-  <ul>
+  {% if companies.size > 0 %}
+    <h2>Companies</h2>
+    <ul>
+  {% endif %}
   {% for company in companies %}
     <li>
       <a href="{{ company.url }}">{{ company.name }}</a>: {{ company.description }}
     </li>
   {% endfor %}
+  {% if companies.size > 0 %}
+    </ul>
+  {% endif %}
+
+  <h2>Comments</h2>
 
   {% include disqus.html %}
+
 </article>
