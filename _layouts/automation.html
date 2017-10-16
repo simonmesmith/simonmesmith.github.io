@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post">
+<article class="automation">
   <h1>{{ page.title }}</h1>
 
   <div class="attributes">
@@ -18,6 +18,17 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+
+  {% assign companies = site.companies | where:'soc_codes', page.soc.code %}
+  {% if companies.size != null }
+    <h2>Companies</h2>
+    <ul>
+    {% for company in companies %}
+      <li>
+        <a href="{{ company.url }}">{{ company.name }}</a>: {{ company.description }}
+      </li>
+    {% endfor %}
+  {% endif %}
 
   {% include disqus.html %}
 </article>

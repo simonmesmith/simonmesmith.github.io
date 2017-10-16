@@ -92,3 +92,5 @@ exclude:
 collections:
   automation:
     output: true
+  companies:
+    output: false
