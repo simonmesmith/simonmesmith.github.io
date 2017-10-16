@@ -25,6 +25,7 @@ rank:
 * Several companies are working to automate the creation of content, including Automated Insights, Narrative Science and Articoolo.
 * Neural networks can generate novel brand names by learning from existing brand names in a product category. (See, for example, my post on [creating drug brand names with neural networks][4].) Now companies have begun to use these names. For example, one brewery named a beer “The Fine Stranger” based on work by neural network tinkerer [Janelle C. Shane][5].[^4]
 * Coca Cola aims to use AI for content marketing. “Content creation is something that we have been doing for a very long time—we brief creative agencies and then they come up with stories,” said Coca Cola global senior digital director Mariano Bosaz in an October 2017 article. “What I want to start experimenting with is automated narratives.”[^5]
+* Researchers have taught a machine to predict suspense on a sentence-by-sentence basis, providing a module that can help with generating narratives.[^6]
 
 [^1]:	[Generating Appealing Brand Names][1]
 
@@ -36,6 +37,8 @@ rank:
 
 [^5]:	[The Amazing Ways Coca Cola Uses Artificial Intelligence And Big Data To Drive Success][7]
 
+[^6]:	[A model of suspense for narrative generation - Open Research Online][8]
+
 [1]:	https://arxiv.org/abs/1706.09335
 [2]:	https://arxiv.org/abs/1709.08366
 [3]:	http://ift.tt/2fhmTgg
@@ -43,3 +46,4 @@ rank:
 [5]:	http://lewisandquark.tumblr.com/
 [6]:	http://ift.tt/2hQgbT4
 [7]:	http://ift.tt/2g1s9oI
+[8]:	http://ift.tt/2wYXGP1
