@@ -1,3 +1,4 @@
-.DS_Store
-.Ulysses-Group.plist
 _DelSyncFiles
+.DS_Store
+_site
+.Ulysses-Group.plist
