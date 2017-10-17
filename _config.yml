@@ -94,3 +94,5 @@ collections:
     output: true
   companies:
     output: false
+  news:
+    output: false
