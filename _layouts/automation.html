@@ -28,7 +28,7 @@ layout: default
   {% endif %}
   {% for article in news %}
     <li>
-      <a href="{{ article.url }}">{{ article.title }}</a>: {{ article.description }}
+      <a href="{{ article.link }}">{{ article.title }}</a>: {{ article.description }}
     </li>
   {% endfor %}
   {% if news.size > 0 %}
@@ -44,7 +44,7 @@ layout: default
   {% endif %}
   {% for company in companies %}
     <li>
-      <a href="{{ company.url }}">{{ company.name }}</a>: {{ company.description }}
+      <a href="{{ company.link }}">{{ company.name }}</a>: {{ company.description }}
     </li>
   {% endfor %}
   {% if companies.size > 0 %}
