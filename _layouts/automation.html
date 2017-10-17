@@ -18,7 +18,7 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
+ 
   {% assign news = site.news | where:'soc', page.soc.code %}
   <h2>Related news</h2>
   {% if news.size > 0 %}
@@ -44,7 +44,7 @@ layout: default
   {% endif %}
   {% for company in companies %}
     <li>
-      <a href="{{ company.link }}">{{ company.name }}</a>: {{ company.description }}
+      <a href="http://{{ company.domain }}">{{ company.name }}</a>: {{ company.description }}
     </li>
   {% endfor %}
   {% if companies.size > 0 %}
