@@ -19,22 +19,6 @@ layout: default
     {{ content }}
   </div>
 
-  {% assign news = site.news | where:'soc', page.soc.code %}
-  <h2>Related news</h2>
-  {% if news.size > 0 %}
-    <ul>
-  {% else %}
-    <p>I haven't added any related news yet. If you know some, please post it in the comments.</p>
-  {% endif %}
-  {% for article in news %}
-    <li>
-      <a href="{{ article.url }}">{{ article.title }}</a>: {{ article.description }}
-    </li>
-  {% endfor %}
-  {% if news.size > 0 %}
-    </ul>
-  {% endif %}
-
   {% assign companies = site.companies | where:'soc', page.soc.code %}
   <h2>Related companies</h2>
   {% if companies.size > 0 %}
