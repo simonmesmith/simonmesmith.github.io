@@ -17,9 +17,3 @@ probability:
 rank:
   oxford: 381
 ---
-
-* Savioke makes robots for hotels and, as of October 2017, had 12 robots in use across the United States.[^1]
-
-[^1]:	[These hotel workers are on call 24/7 and they don't even want tips][1]
-
-[1]:	http://ift.tt/2gEhUaz

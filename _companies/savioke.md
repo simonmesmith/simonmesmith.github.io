@@ -4,7 +4,7 @@ title: Savioke
 name: Savioke
 description: Provides robots to the services industry, including hotels, elder care, hospitals, restaurants and offices.
 domain: savioke.com
-soc:
+soc-codes:
   - 37-2012
   - 35-3041
   - 39-6011

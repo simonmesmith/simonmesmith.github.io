@@ -17,9 +17,3 @@ probability:
 rank:
   oxford: 244
 ---
-
-* Think you wouldn't watch a movie made by an AI or featuring AI actors? Given how much computer-generated imagery now features in top-grossing films, you might not even know. And such computerization should only increase. 
-
-* Researchers involved with AI in film, for example, predict that by 2045 AI will be editing films, filling gaps in footage and creating believable live-action characters.[^1] (I think this is an incredibly conservative estimate, and my gut says the technology will be available within five years and—if it offers sufficient advantages, including economic—widely deployed within 10.)
-
-[^1]:	['Digital humans' created by AI will dominate Hollywood by 2045](http://ift.tt/2vosc3W)

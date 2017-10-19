@@ -1,58 +1,109 @@
 ---
-layout: default
+layout: base
 ---
 
-<article class="automation">
-  <h1>{{ page.title }}</h1>
+{% include header.html type="automation" %}
 
-  <div class="attributes">
-    <ul>
-      <li>{{ page.probability.oxford | times: 100 }}% chance of automation<sup><a target="_blank" href="http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf">?</a></sup></li>
-      <li>{{ page.employment.us }} people employed in the US</li>
-      {% if page.wage.annual.us %}<li>${{ page.wage.annual.us | money }} median annual wage</li>{% endif %}
-      {% if page.wage.hourly.us %}<li>${{ page.wage.hourly.us | money }} median hourly wage</li>{% endif %}
-      <li>What they do: {{ page.soc.definition }}</li>
-    </ul>
-  </div>
+<div class="container">
 
-  <div class="entry">
+  <article role="main" class="automation">
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">{{ page.probability.oxford | times: 100 }}% risk</h3>
+          </div>
+          <div class="panel-body">
+            of automation
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">{{ page.employment.us }} employed</h3>
+          </div>
+          <div class="panel-body">
+            in the US
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">
+              {% if page.wage.annual.us  %}
+                ${{ page.wage.annual.us | money }}
+              {% else %}
+                ${{ page.wage.hourly.us | money }}
+              {% endif %}
+            </h3>
+          </div>
+          <div class="panel-body">
+            {% if page.wage.annual.us %}
+              US median annual wage
+              {% if page.wage.hourly.us %}
+                (${{ page.wage.hourly.us | money }} hourly)
+              {% endif %}
+            {% else %}
+              US median hourly wage
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="well">
+      What they do: {{ page.soc.definition }}
+    </div>
+
     {{ content }}
-  </div>
- 
-  {% assign news = site.news | where:'soc', page.soc.code %}
-  <h2>Related news</h2>
-  {% if news.size > 0 %}
-    <ul>
-  {% else %}
-    <p>I haven't added any related news yet. If you know some, please post it in the comments.</p>
-  {% endif %}
-  {% for article in news %}
-    <li>
-      <a href="{{ article.link }}">{{ article.title }}</a>: {{ article.description }}
-    </li>
-  {% endfor %}
-  {% if news.size > 0 %}
-    </ul>
+
+    {% assign sources = site.sources | where:'soc-codes', page.soc.code %}
+    <h3>Related articles</h3>
+    {% if sources.size > 0 %}
+      <ul>
+    {% else %}
+      <p>I haven't added any related articles yet. If you know some, please post them in the comments.</p>
+    {% endif %}
+    {% for source in sources %}
+      <li>
+        <a href="{{ source.url }}">{{ source.title }}</a>: {{ source.description }}
+      </li>
+    {% endfor %}
+    {% if sources.size > 0 %}
+      </ul>
+    {% endif %}
+
+    {% assign companies = site.companies | where:'soc-codes', page.soc.code %}
+    <h3>Related companies</h3>
+    {% if companies.size > 0 %}
+      <ul>
+    {% else %}
+      <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
+    {% endif %}
+    {% for company in companies %}
+      <li>
+        <a href="http://{{ company.domain }}">{{ company.name }}</a>: {{ company.description }}
+      </li>
+    {% endfor %}
+    {% if companies.size > 0 %}
+      </ul>
+    {% endif %}
+
+    <p class="text-muted">SOC code: {{ page.soc.code }}</p>
+
+  </article>
+
+  {% if page.social-share %}
+    {% include social-share.html %}
   {% endif %}
 
-  {% assign companies = site.companies | where:'soc', page.soc.code %}
-  <h2>Related companies</h2>
-  {% if companies.size > 0 %}
-    <ul>
-  {% else %}
-    <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
-  {% endif %}
-  {% for company in companies %}
-    <li>
-      <a href="http://{{ company.domain }}">{{ company.name }}</a>: {{ company.description }}
-    </li>
-  {% endfor %}
-  {% if companies.size > 0 %}
-    </ul>
+  {% if page.comments %}
+    <div class="disqus-comments">
+      {% include disqus.html %}
+    </div>
   {% endif %}
 
-  <h2>Comments</h2>
-
-  {% include disqus.html %}
-
-</article>
+</div>
