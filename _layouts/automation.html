@@ -35,20 +35,18 @@ layout: base
           <div class="panel-heading">
             <h3 class="panel-title">
               {% if page.wage.annual.us  %}
-                ${{ page.wage.annual.us | money }}
+                ${{ page.wage.annual.us | money }} annual wage
               {% else %}
-                ${{ page.wage.hourly.us | money }}
+                ${{ page.wage.hourly.us | money }} hourly wage
               {% endif %}
             </h3>
           </div>
           <div class="panel-body">
+            US, median
             {% if page.wage.annual.us %}
-              US median annual wage
               {% if page.wage.hourly.us %}
                 (${{ page.wage.hourly.us | money }} hourly)
               {% endif %}
-            {% else %}
-              US median hourly wage
             {% endif %}
           </div>
         </div>
