@@ -77,19 +77,20 @@ layout: base
 
     {% assign companies = site.companies | where:'soc-codes', page.soc.code %}
     <h3>Related companies</h3>
-    {% if companies.size > 0 %}
-      <ul>
-    {% else %}
+    {% if companies.size == 0 %}
       <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
     {% endif %}
     {% for company in companies %}
-      <li>
-        <a href="http://{{ company.domain }}">{{ company.name }}</a>: {{ company.description }}
-      </li>
+      <div class="media">
+        <a class="pull-left" href="http://{{ company.domain }}">
+          <img class="media-object" src="//logo.clearbit.com/spotify.com?size=64" alt="{{ company.name }} logo">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading"><a href="http://{{ company.domain }}">{{ company.name }}</a></h4>
+          {{ company.description }}
+        </div>
+      </div>
     {% endfor %}
-    {% if companies.size > 0 %}
-      </ul>
-    {% endif %}
 
     <p class="text-muted">SOC code: {{ page.soc.code }}</p>
 
