@@ -83,7 +83,7 @@ layout: base
     {% for company in companies %}
       <div class="media">
         <a class="pull-left" href="http://{{ company.domain }}">
-          <img class="media-object" src="//logo.clearbit.com/spotify.com?size=64" alt="{{ company.name }} logo">
+          <img class="media-object" src="//logo.clearbit.com/{{ company.domain }}?size=64" alt="{{ company.name }} logo">
         </a>
         <div class="media-body">
           <h4 class="media-heading"><a href="http://{{ company.domain }}">{{ company.name }}</a></h4>
