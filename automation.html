@@ -3,12 +3,14 @@ layout: default
 title: Automation
 ---
 
-<h1>
-  {{ page. title }}
-</h1>
+{% include header.html type="automation-list" %}
 
-{% for automation in site.automation %}
-  <a href="{{ automation.url | prepend: site.baseurl }}">
-    <h2>{{ automation.title }}</h2>
-  </a>
-{% endfor %}
+<div class="automation-list">
+  <article class="automation-preview">
+    {% for automation in site.automation %}
+      <a href="{{ automation.url | prepend: site.baseurl }}">
+        <h2>{{ automation.title }}</h2>
+      </a>
+    {% endfor %}
+  </article>
+</div>

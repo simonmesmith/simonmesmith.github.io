@@ -1,0 +1,38 @@
+---
+layout: default
+title: Forecast
+---
+
+{% include header.html type="forecast" %}
+
+{% assign years = "2018|2019|2020|2021|2022|2023|2024|2025|2026|2027|2028|2029|2030|2031|2032|2034|2035|2036|2037|2038|2039|2040" | split: "|" %}
+
+{% assign forecasts = site.notes | where:'categories', 'forecast' %}
+
+<div class="forecast">
+  <article class="forecast-years">
+    {% for year in years %}
+      <h2>{{ year }}</h2>
+      {% assign year_forecasts = forecasts | where:'tags', year %}
+      {% for year_forecast in year_forecasts %}
+        <blockquote>
+          <p>{{ year_forecast.quote }}</p>
+          {% if year_forecast.comment %}
+            <small>{{ year_forecast.comment }}</small>
+          {% endif %}
+          <small>
+            {% assign source = site.sources | where:'link', year_forecast.link %}
+            <a target="_blank" href="{{ source[0].link }}">{{ source[0].title }}</a>
+          </small>
+        </blockquote>
+      {% endfor %}
+    {% endfor %}
+  </article>
+</div>
+
+
+<!-- {% for automation in site.automation %}
+  <a href="{{ automation.url | prepend: site.baseurl }}">
+    <h2>{{ automation.title }}</h2>
+  </a>
+{% endfor %} -->
