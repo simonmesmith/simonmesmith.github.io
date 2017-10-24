@@ -4,8 +4,8 @@ title: 'India’s grasp on IT jobs is loosening up. Is artificial intelligence t
 description: 'Two days after K.S. Sunil Kumar received a promotion, Human Resources phoned him up and asked him to resign. This happened in April, just as Kumar was beginning…'
 link: https://www.technologyreview.com/s/609118/india-warily-eyes-ai/
 date: 2017-10-24 07:13:00
-soc-codes:
-  - 15-1142
-  - 15-1151
-  - 15-1152
+tags:
+  - soc-15-1142
+  - soc-15-1151
+  - soc-15-1152
 ---

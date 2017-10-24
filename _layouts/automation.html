@@ -59,7 +59,9 @@ layout: base
 
     {{ content }}
 
-    {% assign sources = site.sources | where:'soc-codes', page.soc.code %}
+    {% assign soc_tag = 'soc-' | append: page.soc.code %}
+
+    {% assign sources = site.sources | where:'tags', soc_tag %}
     <h3>Related articles</h3>
     {% if sources.size > 0 %}
       <ul>
@@ -75,7 +77,7 @@ layout: base
       </ul>
     {% endif %}
 
-    {% assign companies = site.companies | where:'soc-codes', page.soc.code %}
+    {% assign companies = site.companies | where:'tags', soc_tag %}
     <h3>Related companies</h3>
     {% if companies.size == 0 %}
       <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>

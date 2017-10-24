@@ -4,7 +4,7 @@ title: Built Robotics
 name: Built Robotics
 description: Creating autonomous construction vehicles.
 domain: builtrobotics.com
-soc-codes:
-  - 47-2061
-  - 53-7051
+tags:
+  - soc-47-2061
+  - soc-53-7051
 ---
