@@ -5,12 +5,25 @@ title: Automation
 
 {% include header.html type="automation-list" %}
 
+{% assign automation = site.automation | where_exp:'item', 'item.probability.oxford > 0' | sort:'probability.oxford' | reverse %}
 <div class="automation-list">
   <article class="automation-preview">
-    {% for automation in site.automation %}
-      <a href="{{ automation.url | prepend: site.baseurl }}">
-        <h2>{{ automation.title }}</h2>
-      </a>
-    {% endfor %}
+    <ul class="list-group">
+      <li class="list-group-item">
+        <span class="badge">Automation probability</span>
+        <strong>Occupation</strong>
+      </li>
+      {% for item in automation %}
+        {% assign probability = item.probability.oxford | times: 100 %}
+        <li class="list-group-item">
+          <span class="badge badge-{% if probability < 11 %}success{% elsif probability < 76 %}warning{% else %}danger{% endif %}">
+            {{ probability }}%
+          </span>
+          <a href="{{ item.url | prepend: site.baseurl }}">
+            {{ item.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
   </article>
 </div>
