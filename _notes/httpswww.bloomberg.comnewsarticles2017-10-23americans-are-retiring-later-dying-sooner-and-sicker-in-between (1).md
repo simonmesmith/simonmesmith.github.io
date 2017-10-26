@@ -5,6 +5,7 @@ link: https://www.bloomberg.com/news/articles/2017-10-23/americans-are-retiring-
 quote: 'The age at which people can claim their full Social Security benefits is gradually moving up, from 65 for those retiring in 2002 to 67 in 2027.'
 categories:
   - forecast
+  - trends
 tags:
   - 2027
 ---

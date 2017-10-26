@@ -5,14 +5,44 @@ title: Automation
 
 {% include header.html type="automation-list" %}
 
+<script>
+function searchOccupations() {
+
+  // Declare variables
+  var input, filter, ul, li, a, i;
+  input = document.getElementById('search-input');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("occupations-list");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items after the header list item, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+
 {% assign automation = site.automation | where_exp:'item', 'item.probability.oxford > 0' | sort:'probability.oxford' | reverse %}
 <div class="automation-list">
   <article class="automation-preview">
-    <ul class="list-group">
-      <li class="list-group-item">
-        <span class="badge">Automation probability</span>
-        <strong>Occupation</strong>
-      </li>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <input type="text" class="form-control" id="search-input" onkeyup="searchOccupations()" placeholder="Search occupations">
+    </div>
+    <div class="panel-body">
+      <strong>
+        <span class="pull-right">
+          Probability of automation
+        </span>
+        Occupation
+      </strong>
+    </div>
+    <ul id="occupations-list" class="list-group">
       {% for item in automation %}
         {% assign probability = item.probability.oxford | times: 100 %}
         <li class="list-group-item">
@@ -25,5 +55,6 @@ title: Automation
         </li>
       {% endfor %}
     </ul>
+  </div>
   </article>
 </div>

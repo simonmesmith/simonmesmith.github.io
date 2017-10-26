@@ -5,7 +5,7 @@ title: Forecast
 
 {% include header.html type="forecast" %}
 
-{% assign years = "2018|2019|2020|2021|2022|2023|2024|2025|2026|2027|2028|2029|2030|2031|2032|2034|2035|2036|2037|2038|2039|2040" | split: "|" %}
+{% assign years = "2018|2019|2020|2021|2022|2023|2024|2025|2026|2027|2028|2029|2030|2031|2032|2034|2035|2036|2037|2038|2039|2040|2041|2042|2043|2044|2045|2046|2047|2048|2049|2050" | split: "|" %}
 
 {% assign forecasts = site.notes | where:'categories', 'forecast' %}
 
@@ -29,10 +29,3 @@ title: Forecast
     {% endfor %}
   </article>
 </div>
-
-
-<!-- {% for automation in site.automation %}
-  <a href="{{ automation.url | prepend: site.baseurl }}">
-    <h2>{{ automation.title }}</h2>
-  </a>
-{% endfor %} -->
