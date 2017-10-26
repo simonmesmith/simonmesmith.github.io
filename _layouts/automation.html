@@ -77,7 +77,7 @@ layout: base
       </ul>
     {% endif %}
 
-    {% assign companies = site.entities | where_exp:'item', 'item.categories == "companies" and item.tags == soc-' | append: page.soc.code %}
+    {% assign companies = site.entities | where:'tags', soc_tag %}
     <h3>Related companies</h3>
     {% if companies.size == 0 %}
       <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
