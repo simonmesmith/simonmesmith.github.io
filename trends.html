@@ -6,7 +6,7 @@ title: Trends
 {% include header.html type="trends" %}
 <div class="trends">
   <article class="trends-list">
-    {% assign trends = site.notes | where:'categories', 'trends' %}
+    {% assign trends = (site.notes | where:'categories', 'trends' | sort: 'date') | reverse %}
     {% for trend in trends %}
       <blockquote>
         <p>{{ trend.quote }}</p>
