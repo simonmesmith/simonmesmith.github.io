@@ -6,7 +6,12 @@ soc:
   title: Nurse Midwives
   definition: 'Diagnose and coordinate all aspects of the birthing process, either independently or as part of a healthcare team. May provide well-woman gynecological care. Must have specialized, graduate nursing education.'
 employment:
-  us: 6270
+  current:
+    us: 6500
+  projected:
+    us: 7800
+  change:
+    us: 0.206
 wage:
   hourly:
     us: 49.23

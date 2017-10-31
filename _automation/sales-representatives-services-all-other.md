@@ -6,7 +6,12 @@ soc:
   title: Sales Representatives, Services, All Other
   definition: 'All services sales representatives not listed separately.'
 employment:
-  us: 953870
+  current:
+    us: 983000
+  projected:
+    us: 1077200
+  change:
+    us: 0.096
 wage:
   hourly:
     us: 30.32

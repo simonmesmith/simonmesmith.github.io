@@ -6,7 +6,12 @@ soc:
   title: Forest Fire Inspectors and Prevention Specialists
   definition: 'Enforce fire regulations, inspect forest for fire hazards and recommend forest fire prevention or control measures. May report forest fires and weather conditions.'
 employment:
-  us: 1650
+  current:
+    us: 1700
+  projected:
+    us: 2200
+  change:
+    us: 0.266
 wage:
   hourly:
     us: 21.3

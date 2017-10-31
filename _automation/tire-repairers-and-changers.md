@@ -6,7 +6,12 @@ soc:
   title: Tire Repairers and Changers
   definition: 'Repair and replace tires.'
 employment:
-  us: 109350
+  current:
+    us: 111700
+  projected:
+    us: 112600
+  change:
+    us: 0.008
 wage:
   hourly:
     us: 13.05

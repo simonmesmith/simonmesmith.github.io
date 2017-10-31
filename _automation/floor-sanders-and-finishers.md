@@ -6,7 +6,12 @@ soc:
   title: Floor Sanders and Finishers
   definition: 'Scrape and sand wooden floors to smooth surfaces using floor scraper and floor sanding machine, and apply coats of finish.'
 employment:
-  us: 4590
+  current:
+    us: 7300
+  projected:
+    us: 8000
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 18.7

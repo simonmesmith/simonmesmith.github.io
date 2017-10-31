@@ -6,7 +6,12 @@ soc:
   title: Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.'
 employment:
-  us: 145560
+  current:
+    us: 145400
+  projected:
+    us: 123600
+  change:
+    us: -0.15
 wage:
   hourly:
     us: 15.7

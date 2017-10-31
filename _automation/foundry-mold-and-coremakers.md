@@ -6,7 +6,12 @@ soc:
   title: Foundry Mold and Coremakers
   definition: 'Make or form wax or sand cores or molds used in the production of metal castings in foundries.'
 employment:
-  us: 12810
+  current:
+    us: 12500
+  projected:
+    us: 9500
+  change:
+    us: -0.24
 wage:
   hourly:
     us: 17.32

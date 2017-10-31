@@ -6,7 +6,12 @@ soc:
   title: Electric Motor, Power Tool, and Related Repairers
   definition: 'Repair, maintain, or install electric motors, wiring, or switches.'
 employment:
-  us: 17050
+  current:
+    us: 17300
+  projected:
+    us: 18600
+  change:
+    us: 0.07
 wage:
   hourly:
     us: 21.5

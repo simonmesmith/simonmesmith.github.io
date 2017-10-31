@@ -6,7 +6,12 @@ soc:
   title: Physical Therapist Assistants
   definition: 'Assist physical therapists in providing physical therapy treatments and procedures. May, in accordance with State laws, assist in the development of treatment plans, carry out routine functions, document the progress of treatment, and modify specific treatments in accordance with patient status and within the scope of treatment plans established by a physical therapist. Generally requires formal training.'
 employment:
-  us: 85580
+  current:
+    us: 88300
+  projected:
+    us: 115500
+  change:
+    us: 0.308
 wage:
   hourly:
     us: 27.33

@@ -6,7 +6,12 @@ soc:
   title: Material Moving Workers, All Other
   definition: 'All material moving workers not listed separately.'
 employment:
-  us: 23880
+  current:
+    us: 24400
+  projected:
+    us: 26700
+  change:
+    us: 0.093
 wage:
   hourly:
     us: 16.61

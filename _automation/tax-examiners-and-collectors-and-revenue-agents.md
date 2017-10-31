@@ -6,7 +6,12 @@ soc:
   title: Tax Examiners and Collectors, and Revenue Agents
   definition: 'Determine tax liability or collect taxes from individuals or business firms according to prescribed laws and regulations.'
 employment:
-  us: 58450
+  current:
+    us: 62100
+  projected:
+    us: 61700
+  change:
+    us: -0.006
 wage:
   hourly:
     us: 27.86

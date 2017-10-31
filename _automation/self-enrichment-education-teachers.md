@@ -6,7 +6,12 @@ soc:
   title: Self-Enrichment Education Teachers
   definition: 'Teach or instruct courses other than those that normally lead to an occupational objective or degree. Courses may include self-improvement, nonvocational, and nonacademic subjects. Teaching may or may not take place in a traditional educational institution. Excludes “Fitness Trainers and Aerobics Instructors” (39-9031). Flight instructors are included with “Aircraft Pilots and Flight Engineers” (53-2010).'
 employment:
-  us: 229840
+  current:
+    us: 354200
+  projected:
+    us: 406900
+  change:
+    us: 0.149
 wage:
   hourly:
     us: 20.75

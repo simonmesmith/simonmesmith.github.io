@@ -6,7 +6,12 @@ soc:
   title: Education Administrators, Postsecondary
   definition: 'Plan, direct, or coordinate research, instructional, student administration and services, and other educational activities at postsecondary institutions, including universities, colleges, and junior and community colleges.'
 employment:
-  us: 138430
+  current:
+    us: 180100
+  projected:
+    us: 198100
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 50.85

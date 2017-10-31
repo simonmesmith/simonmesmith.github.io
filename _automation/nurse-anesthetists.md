@@ -6,7 +6,12 @@ soc:
   title: Nurse Anesthetists
   definition: 'Administer anesthesia, monitor patient’s vital signs, and oversee patient recovery from anesthesia. May assist anesthesiologists, surgeons, other physicians, or dentists. Must be registered nurses who have specialized graduate education.'
 employment:
-  us: 39860
+  current:
+    us: 41800
+  projected:
+    us: 48500
+  change:
+    us: 0.16
 wage:
   hourly:
     us: 78.86

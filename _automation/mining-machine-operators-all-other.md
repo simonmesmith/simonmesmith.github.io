@@ -6,7 +6,12 @@ soc:
   title: Mining Machine Operators, All Other
   definition: 'All mining machine operators not listed separately.'
 employment:
-  us: 2160
+  current:
+    us: 2200
+  projected:
+    us: 2200
+  change:
+    us: 0.001
 wage:
   hourly:
     us: 24.14

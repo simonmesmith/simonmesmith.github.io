@@ -6,7 +6,12 @@ soc:
   title: Pharmacy Technicians
   definition: 'Prepare medications under the direction of a pharmacist. May measure, mix, count out, label, and record amounts and dosages of medications according to prescription orders.'
 employment:
-  us: 398390
+  current:
+    us: 402500
+  projected:
+    us: 450100
+  change:
+    us: 0.118
 wage:
   hourly:
     us: 15.47

@@ -6,7 +6,12 @@ soc:
   title: Career/Technical Education Teachers, Secondary School
   definition: 'Teach occupational, career and technical, or vocational subjects at the secondary school level in public or private schools. Substitute teachers are included in "Teachers and Instructors, All Other" (25-3099). Excludes “Special Education Teachers, Secondary School” (25-2054).'
 employment:
-  us: 80100
+  current:
+    us: 78700
+  projected:
+    us: 83700
+  change:
+    us: 0.064
 wage:
   hourly:
     us: 

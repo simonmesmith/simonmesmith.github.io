@@ -6,7 +6,12 @@ soc:
   title: Transit and Railroad Police
   definition: 'Protect and police railroad and transit property, employees, or passengers.'
 employment:
-  us: 4810
+  current:
+    us: 4900
+  projected:
+    us: 5300
+  change:
+    us: 0.063
 wage:
   hourly:
     us: 32.62

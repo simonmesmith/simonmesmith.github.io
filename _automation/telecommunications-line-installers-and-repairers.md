@@ -6,7 +6,12 @@ soc:
   title: Telecommunications Line Installers and Repairers
   definition: 'Install and repair telecommunications cable, including fiber optics.'
 employment:
-  us: 100080
+  current:
+    us: 106100
+  projected:
+    us: 107800
+  change:
+    us: 0.016
 wage:
   hourly:
     us: 26.3

@@ -6,7 +6,12 @@ soc:
   title: Social Sciences Teachers, Postsecondary, All Other
   definition: 'All postsecondary social sciences teachers not listed separately.'
 employment:
-  us: 13320
+  current:
+    us: 15300
+  projected:
+    us: 16800
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 

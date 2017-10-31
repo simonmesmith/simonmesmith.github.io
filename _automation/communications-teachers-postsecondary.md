@@ -6,7 +6,12 @@ soc:
   title: Communications Teachers, Postsecondary
   definition: 'Teach courses in communications, such as organizational communications, public relations, radio/television broadcasting, and journalism. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 28180
+  current:
+    us: 34100
+  projected:
+    us: 37500
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 

@@ -6,7 +6,12 @@ soc:
   title: Ophthalmic Medical Technicians
   definition: 'Assist ophthalmologists by performing ophthalmic clinical functions. May administer eye exams, administer eye medications, and instruct the patient in care and use of corrective lenses.'
 employment:
-  us: 43990
+  current:
+    us: 44500
+  projected:
+    us: 53200
+  change:
+    us: 0.194
 wage:
   hourly:
     us: 17.81

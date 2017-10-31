@@ -6,7 +6,12 @@ soc:
   title: Dentists, All Other Specialists
   definition: 'All dentists not listed separately.'
 employment:
-  us: 5380
+  current:
+    us: 6400
+  projected:
+    us: 7200
+  change:
+    us: 0.12
 wage:
   hourly:
     us: 82.64

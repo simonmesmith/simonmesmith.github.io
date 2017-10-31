@@ -6,7 +6,12 @@ soc:
   title: Gaming Managers
   definition: 'Plan, direct, or coordinate gaming operations in a casino. May formulate house rules.'
 employment:
-  us: 4280
+  current:
+    us: 4500
+  projected:
+    us: 4600
+  change:
+    us: 0.025
 wage:
   hourly:
     us: 38.31

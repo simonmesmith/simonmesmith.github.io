@@ -6,7 +6,12 @@ soc:
   title: Water and Wastewater Treatment Plant and System Operators
   definition: 'Operate or control an entire process or system of machines, often through the use of control boards, to transfer or treat water or wastewater.'
 employment:
-  us: 115840
+  current:
+    us: 119200
+  projected:
+    us: 115400
+  change:
+    us: -0.032
 wage:
   hourly:
     us: 23.04

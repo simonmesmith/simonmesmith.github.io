@@ -6,7 +6,12 @@ soc:
   title: Healthcare Support Workers, All Other
   definition: 'All healthcare support workers not listed separately'
 employment:
-  us: 93830
+  current:
+    us: 97300
+  projected:
+    us: 108600
+  change:
+    us: 0.116
 wage:
   hourly:
     us: 18.13

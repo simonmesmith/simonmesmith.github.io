@@ -6,7 +6,12 @@ soc:
   title: Service Unit Operators, Oil, Gas, and Mining
   definition: 'Operate equipment to increase oil flow from producing wells or to remove stuck pipe, casing, tools, or other obstructions from drilling wells. May also perform similar services in mining exploration operations. Includes fishing-tool technicians.'
 employment:
-  us: 42890
+  current:
+    us: 41400
+  projected:
+    us: 51100
+  change:
+    us: 0.234
 wage:
   hourly:
     us: 25.73

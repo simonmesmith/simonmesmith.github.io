@@ -6,7 +6,12 @@ soc:
   title: Petroleum Engineers
   definition: 'Devise methods to improve oil and gas extraction and production and determine the need for new or modified tool designs. Oversee drilling and offer technical advice.'
 employment:
-  us: 32780
+  current:
+    us: 33700
+  projected:
+    us: 38600
+  change:
+    us: 0.145
 wage:
   hourly:
     us: 70.69

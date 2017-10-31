@@ -6,7 +6,12 @@ soc:
   title: Psychiatrists
   definition: 'Physicians who diagnose, treat, and help prevent disorders of the mind.'
 employment:
-  us: 24820
+  current:
+    us: 27500
+  projected:
+    us: 31200
+  change:
+    us: 0.131
 wage:
   hourly:
     us: 96.26

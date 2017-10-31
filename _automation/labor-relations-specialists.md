@@ -6,7 +6,12 @@ soc:
   title: Labor Relations Specialists
   definition: 'Resolve disputes between workers and managers, negotiate collective bargaining agreements, or coordinate grievance procedures to handle employee complaints. Excludes equal employment opportunity (EEO) officers who are included in “Compliance Officers” (13-1041).'
 employment:
-  us: 79430
+  current:
+    us: 81100
+  projected:
+    us: 74800
+  change:
+    us: -0.078
 wage:
   hourly:
     us: 30.89

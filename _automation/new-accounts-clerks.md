@@ -6,7 +6,12 @@ soc:
   title: New Accounts Clerks
   definition: 'Interview persons desiring to open accounts in financial institutions. Explain account services available to prospective customers and assist them in preparing applications.'
 employment:
-  us: 41630
+  current:
+    us: 42000
+  projected:
+    us: 39400
+  change:
+    us: -0.062
 wage:
   hourly:
     us: 17.54

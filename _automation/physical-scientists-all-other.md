@@ -6,7 +6,12 @@ soc:
   title: Physical Scientists, All Other
   definition: 'All physical scientists not listed separately.'
 employment:
-  us: 18960
+  current:
+    us: 23500
+  projected:
+    us: 25000
+  change:
+    us: 0.064
 wage:
   hourly:
     us: 47.34

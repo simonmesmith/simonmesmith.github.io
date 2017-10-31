@@ -6,7 +6,12 @@ soc:
   title: Mechanical Engineering Technicians
   definition: 'Apply theory and principles of mechanical engineering to modify, develop, test, or calibrate machinery and equipment under direction of engineering staff or physical scientists.'
 employment:
-  us: 45510
+  current:
+    us: 46100
+  projected:
+    us: 48400
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 27.49

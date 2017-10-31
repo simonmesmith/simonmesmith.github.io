@@ -6,7 +6,12 @@ soc:
   title: Refractory Materials Repairers, Except Brickmasons
   definition: 'Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits and ovens, using refractory materials.'
 employment:
-  us: 1540
+  current:
+    us: 1600
+  projected:
+    us: 1500
+  change:
+    us: -0.035
 wage:
   hourly:
     us: 22.6

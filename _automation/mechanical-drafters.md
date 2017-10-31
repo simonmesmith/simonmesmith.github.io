@@ -6,7 +6,12 @@ soc:
   title: Mechanical Drafters
   definition: 'Prepare detailed working diagrams of machinery and mechanical devices, including dimensions, fastening methods, and other engineering information.'
 employment:
-  us: 63630
+  current:
+    us: 64800
+  projected:
+    us: 68100
+  change:
+    us: 0.051
 wage:
   hourly:
     us: 27.63

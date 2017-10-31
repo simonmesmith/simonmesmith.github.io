@@ -6,7 +6,12 @@ soc:
   title: Electrical and Electronics Repairers, Commercial and Industrial Equipment
   definition: 'Repair, test, adjust, or install electronic equipment, such as industrial controls, transmitters, and antennas. Excludes “Avionics Technicians" (49-2091), "Electronic Equipment Installers and Repairers, Motor Vehicles" (49-2096), and "Electrical and Electronics Installers and Repairers, Transportation Equipment" (49-2093).'
 employment:
-  us: 67390
+  current:
+    us: 68300
+  projected:
+    us: 69900
+  change:
+    us: 0.024
 wage:
   hourly:
     us: 27.4

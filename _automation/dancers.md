@@ -6,7 +6,12 @@ soc:
   title: Dancers
   definition: 'Perform dances. May perform on stage, for on-air broadcasting, or for video recording'
 employment:
-  us: 10060
+  current:
+    us: 13500
+  projected:
+    us: 14100
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 18.29

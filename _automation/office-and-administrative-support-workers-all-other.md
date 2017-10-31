@@ -6,7 +6,12 @@ soc:
   title: Office and Administrative Support Workers, All Other
   definition: 'All office and administrative support workers not listed separately.'
 employment:
-  us: 216650
+  current:
+    us: 243200
+  projected:
+    us: 265500
+  change:
+    us: 0.092
 wage:
   hourly:
     us: 17.33

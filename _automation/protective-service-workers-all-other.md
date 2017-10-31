@@ -6,7 +6,12 @@ soc:
   title: Protective Service Workers, All Other
   definition: 'All protective service workers not listed separately.'
 employment:
-  us: 135120
+  current:
+    us: 133800
+  projected:
+    us: 145100
+  change:
+    us: 0.084
 wage:
   hourly:
     us: 15.81

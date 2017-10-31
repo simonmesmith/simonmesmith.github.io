@@ -6,7 +6,12 @@ soc:
   title: Software Developers, Applications
   definition: 'Develop, create, and modify general computer applications software or specialized utility programs. Analyze user needs and develop software solutions. Design software or customize software for client use with the aim of optimizing operational efficiency. May analyze and design databases within an application area, working individually or coordinating database development as part of a team. May supervise computer programmers.'
 employment:
-  us: 794000
+  current:
+    us: 831300
+  projected:
+    us: 1084600
+  change:
+    us: 0.305
 wage:
   hourly:
     us: 50.14

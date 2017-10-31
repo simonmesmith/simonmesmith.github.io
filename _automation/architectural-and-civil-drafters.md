@@ -6,7 +6,12 @@ soc:
   title: Architectural and Civil Drafters
   definition: 'Prepare detailed drawings of architectural and structural features of buildings or drawings and topographical relief maps used in civil engineering projects, such as highways, bridges, and public works. Use knowledge of building materials, engineering practices, and mathematics to complete drawings.'
 employment:
-  us: 96810
+  current:
+    us: 99600
+  projected:
+    us: 107700
+  change:
+    us: 0.081
 wage:
   hourly:
     us: 26.1

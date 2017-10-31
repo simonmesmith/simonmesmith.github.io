@@ -6,7 +6,12 @@ soc:
   title: Stonemasons
   definition: 'Build stone structures, such as piers, walls, and abutments. Lay walks, curbstones, or special types of masonry for vats, tanks, and floors.'
 employment:
-  us: 13190
+  current:
+    us: 18900
+  projected:
+    us: 20700
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 20.98

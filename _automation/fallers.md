@@ -6,7 +6,12 @@ soc:
   title: Fallers
   definition: 'Use axes or chainsaws to fell trees using knowledge of tree characteristics and cutting techniques to control direction of fall and minimize tree damage.'
 employment:
-  us: 5370
+  current:
+    us: 7500
+  projected:
+    us: 6700
+  change:
+    us: -0.105
 wage:
   hourly:
     us: 20.62

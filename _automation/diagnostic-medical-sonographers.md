@@ -6,7 +6,12 @@ soc:
   title: Diagnostic Medical Sonographers
   definition: 'Produce ultrasonic recordings of internal organs for use by physicians.'
 employment:
-  us: 65790
+  current:
+    us: 67300
+  projected:
+    us: 82900
+  change:
+    us: 0.232
 wage:
   hourly:
     us: 34.49

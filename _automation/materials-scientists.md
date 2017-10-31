@@ -6,7 +6,12 @@ soc:
   title: Materials Scientists
   definition: 'Research and study the structures and chemical properties of various natural and synthetic or composite materials, including metals, alloys, rubber, ceramics, semiconductors, polymers, and glass. Determine ways to strengthen or combine materials or develop new materials with new or specific properties for use in a variety of products and applications. Includes glass scientists, ceramic scientists, metallurgical scientists, and polymer scientists.'
 employment:
-  us: 7750
+  current:
+    us: 7900
+  projected:
+    us: 8500
+  change:
+    us: 0.071
 wage:
   hourly:
     us: 48.83

@@ -6,7 +6,12 @@ soc:
   title: Building Cleaning Workers, All Other
   definition: 'All building cleaning workers not listed separately.'
 employment:
-  us: 15020
+  current:
+    us: 16200
+  projected:
+    us: 18300
+  change:
+    us: 0.126
 wage:
   hourly:
     us: 14.88

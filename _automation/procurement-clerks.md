@@ -6,7 +6,12 @@ soc:
   title: Procurement Clerks
   definition: 'Compile information and records to draw up purchase orders for procurement of materials and services.'
 employment:
-  us: 72120
+  current:
+    us: 74900
+  projected:
+    us: 71800
+  change:
+    us: -0.042
 wage:
   hourly:
     us: 20.18

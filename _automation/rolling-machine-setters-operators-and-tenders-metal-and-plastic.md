@@ -6,7 +6,12 @@ soc:
   title: Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend machines to roll steel or plastic forming bends, beads, knurls, rolls, or plate or to flatten, temper, or reduce gauge of material.'
 employment:
-  us: 29060
+  current:
+    us: 29000
+  projected:
+    us: 25300
+  change:
+    us: -0.129
 wage:
   hourly:
     us: 20.14

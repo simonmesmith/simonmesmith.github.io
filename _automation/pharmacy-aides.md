@@ -6,7 +6,12 @@ soc:
   title: Pharmacy Aides
   definition: 'Record drugs delivered to the pharmacy, store incoming merchandise, and inform the supervisor of stock needs. May operate cash register and accept prescriptions for filling.'
 employment:
-  us: 36660
+  current:
+    us: 36900
+  projected:
+    us: 35200
+  change:
+    us: -0.048
 wage:
   hourly:
     us: 13.66

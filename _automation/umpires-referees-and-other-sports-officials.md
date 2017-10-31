@@ -6,7 +6,12 @@ soc:
   title: Umpires, Referees, and Other Sports Officials
   definition: 'Officiate at competitive athletic or sporting events. Detect infractions of rules and decide penalties according to established regulations. Includes all sporting officials, referees, and competition judges.'
 employment:
-  us: 18660
+  current:
+    us: 21100
+  projected:
+    us: 22700
+  change:
+    us: 0.074
 wage:
   hourly:
     us: 

@@ -6,7 +6,12 @@ soc:
   title: Elevator Installers and Repairers
   definition: 'Assemble, install, repair, or maintain electric or hydraulic freight or passenger elevators, escalators, or dumbwaiters.'
 employment:
-  us: 22240
+  current:
+    us: 22100
+  projected:
+    us: 24800
+  change:
+    us: 0.121
 wage:
   hourly:
     us: 36.95

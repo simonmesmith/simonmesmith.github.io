@@ -6,7 +6,12 @@ soc:
   title: Anesthesiologists
   definition: 'Physicians who administer anesthetics prior to, during, or after surgery, or other medical procedures.'
 employment:
-  us: 30190
+  current:
+    us: 33000
+  projected:
+    us: 38900
+  change:
+    us: 0.178
 wage:
   hourly:
     us: 129.62

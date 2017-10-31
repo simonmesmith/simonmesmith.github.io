@@ -6,7 +6,12 @@ soc:
   title: Camera and Photographic Equipment Repairers
   definition: 'Repair and adjust cameras and photographic equipment, including commercial video and motion picture camera equipment.'
 employment:
-  us: 3760
+  current:
+    us: 4000
+  projected:
+    us: 4200
+  change:
+    us: 0.033
 wage:
   hourly:
     us: 21.12

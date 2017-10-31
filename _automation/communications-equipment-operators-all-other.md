@@ -6,7 +6,12 @@ soc:
   title: Communications Equipment Operators, All Other
   definition: 'All communications equipment operators not listed separately.'
 employment:
-  us: 2150
+  current:
+    us: 2400
+  projected:
+    us: 2600
+  change:
+    us: 0.104
 wage:
   hourly:
     us: 20.15

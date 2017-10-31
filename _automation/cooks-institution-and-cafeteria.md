@@ -6,7 +6,12 @@ soc:
   title: Cooks, Institution and Cafeteria
   definition: 'Prepare and cook large quantities of food for institutions, such as schools, hospitals, or cafeterias.'
 employment:
-  us: 409850
+  current:
+    us: 424800
+  projected:
+    us: 457400
+  change:
+    us: 0.077
 wage:
   hourly:
     us: 12.68

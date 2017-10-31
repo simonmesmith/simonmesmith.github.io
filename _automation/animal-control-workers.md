@@ -6,7 +6,12 @@ soc:
   title: Animal Control Workers
   definition: 'Handle animals for the purpose of investigations of mistreatment, or control of abandoned, dangerous, or unattended animals.'
 employment:
-  us: 12970
+  current:
+    us: 13400
+  projected:
+    us: 14600
+  change:
+    us: 0.084
 wage:
   hourly:
     us: 17.6

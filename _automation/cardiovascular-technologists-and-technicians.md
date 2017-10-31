@@ -6,7 +6,12 @@ soc:
   title: Cardiovascular Technologists and Technicians
   definition: 'Conduct tests on pulmonary or cardiovascular systems of patients for diagnostic purposes. May conduct or assist in electrocardiograms, cardiac catheterizations, pulmonary functions, lung capacity, and similar tests. Includes vascular technologists.'
 employment:
-  us: 53760
+  current:
+    us: 55000
+  projected:
+    us: 60500
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 27.45

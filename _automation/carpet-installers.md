@@ -6,7 +6,12 @@ soc:
   title: Carpet Installers
   definition: 'Lay and install carpet from rolls or blocks on floors. Install padding and trim flooring materials. Excludes “Floor Layers, Except Carpet, Wood, and Hard Tiles" (47-2042).'
 employment:
-  us: 25660
+  current:
+    us: 40400
+  projected:
+    us: 44400
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 21.3

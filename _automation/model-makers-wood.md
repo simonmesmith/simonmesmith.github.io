@@ -6,7 +6,12 @@ soc:
   title: Model Makers, Wood
   definition: 'Construct full-size and scale wooden precision models of products. Includes wood jig builders and loft workers.'
 employment:
-  us: 1040
+  current:
+    us: 1900
+  projected:
+    us: 2000
+  change:
+    us: 0.036
 wage:
   hourly:
     us: 22.83

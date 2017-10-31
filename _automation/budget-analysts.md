@@ -6,7 +6,12 @@ soc:
   title: Budget Analysts
   definition: 'Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations. Analyze budgeting and accounting reports.'
 employment:
-  us: 54700
+  current:
+    us: 58400
+  projected:
+    us: 62200
+  change:
+    us: 0.065
 wage:
   hourly:
     us: 37.1

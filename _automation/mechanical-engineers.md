@@ -6,7 +6,12 @@ soc:
   title: Mechanical Engineers
   definition: 'Perform engineering duties in planning and designing tools, engines, machines, and other mechanically functioning equipment. Oversee installation, operation, maintenance, and repair of equipment such as centralized heat, gas, water, and steam systems.'
 employment:
-  us: 285790
+  current:
+    us: 288800
+  projected:
+    us: 314100
+  change:
+    us: 0.088
 wage:
   hourly:
     us: 43.17

@@ -6,7 +6,12 @@ soc:
   title: Securities, Commodities, and Financial Services Sales Agents
   definition: 'Buy and sell securities or commodities in investment and trading firms, or provide financial services to businesses and individuals. May advise customers about stocks, bonds, mutual funds, commodities, and market conditions.'
 employment:
-  us: 353780
+  current:
+    us: 375700
+  projected:
+    us: 398700
+  change:
+    us: 0.061
 wage:
   hourly:
     us: 49.17

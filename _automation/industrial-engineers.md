@@ -6,7 +6,12 @@ soc:
   title: Industrial Engineers
   definition: 'Design, develop, test, and evaluate integrated systems for managing industrial production processes, including human work factors, quality control, inventory control, logistics and material flow, cost analysis, and production coordination. Excludes “Health and Safety Engineers, Except Mining Safety Engineers and Inspectors" (17-2111).'
 employment:
-  us: 256550
+  current:
+    us: 257900
+  projected:
+    us: 283000
+  change:
+    us: 0.097
 wage:
   hourly:
     us: 42.56

@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Police and Detectives
   definition: 'Directly supervise and coordinate activities of members of police force.'
 employment:
-  us: 100200
+  current:
+    us: 104700
+  projected:
+    us: 111600
+  change:
+    us: 0.066
 wage:
   hourly:
     us: 42.5

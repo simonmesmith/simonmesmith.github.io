@@ -6,7 +6,12 @@ soc:
   title: Sociologists
   definition: 'Study human society and social behavior by examining the groups and social institutions that people form, as well as various social, religious, political, and business organizations. May study the behavior and interaction of groups, trace their origin and growth, and analyze the influence of group activities on individual members.'
 employment:
-  us: 2870
+  current:
+    us: 3500
+  projected:
+    us: 3500
+  change:
+    us: 0.001
 wage:
   hourly:
     us: 41.75

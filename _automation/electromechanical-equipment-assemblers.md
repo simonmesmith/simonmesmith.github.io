@@ -6,7 +6,12 @@ soc:
   title: Electromechanical Equipment Assemblers
   definition: 'Assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances.'
 employment:
-  us: 45540
+  current:
+    us: 45700
+  projected:
+    us: 36000
+  change:
+    us: -0.213
 wage:
   hourly:
     us: 17.02

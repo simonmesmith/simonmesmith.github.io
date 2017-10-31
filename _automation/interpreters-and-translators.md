@@ -6,7 +6,12 @@ soc:
   title: Interpreters and Translators
   definition: 'Interpret oral or sign language, or translate written text from one language into another.'
 employment:
-  us: 51350
+  current:
+    us: 68200
+  projected:
+    us: 79600
+  change:
+    us: 0.167
 wage:
   hourly:
     us: 24.64

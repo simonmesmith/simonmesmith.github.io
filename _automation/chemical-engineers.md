@@ -6,7 +6,12 @@ soc:
   title: Chemical Engineers
   definition: 'Design chemical plant equipment and devise processes for manufacturing chemicals and products, such as gasoline, synthetic rubber, plastics, detergents, cement, paper, and pulp, by applying principles and technology of chemistry, physics, and engineering.'
 employment:
-  us: 31990
+  current:
+    us: 32700
+  projected:
+    us: 35200
+  change:
+    us: 0.076
 wage:
   hourly:
     us: 50.68

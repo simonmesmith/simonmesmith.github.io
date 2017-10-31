@@ -6,7 +6,12 @@ soc:
   title: Layout Workers, Metal and Plastic
   definition: 'Lay out reference points and dimensions on metal or plastic stock or workpieces, such as sheets, plates, tubes, structural shapes, castings, or machine parts, for further processing. Includes shipfitters.'
 employment:
-  us: 9070
+  current:
+    us: 9200
+  projected:
+    us: 8500
+  change:
+    us: -0.068
 wage:
   hourly:
     us: 22.94

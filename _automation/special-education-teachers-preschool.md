@@ -6,7 +6,12 @@ soc:
   title: Special Education Teachers, Preschool
   definition: 'Teach preschool school subjects to educationally and physically handicapped students. Includes teachers who specialize and work with audibly and visually handicapped students and those who teach basic academic and life processes skills to the mentally impaired. Substitute teachers are included in "Teachers and Instructors, All Other" (25-3099).'
 employment:
-  us: 28140
+  current:
+    us: 29200
+  projected:
+    us: 32500
+  change:
+    us: 0.112
 wage:
   hourly:
     us: 

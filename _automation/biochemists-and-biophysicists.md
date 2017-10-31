@@ -6,7 +6,12 @@ soc:
   title: Biochemists and Biophysicists
   definition: 'Study the chemical composition or physical principles of living cells and organisms, their electrical and mechanical energy, and related phenomena. May conduct research to further understanding of the complex chemical combinations and reactions involved in metabolism, reproduction, growth, and heredity. May determine the effects of foods, drugs, serums, hormones, and other substances on tissues and vital processes of living organisms.'
 employment:
-  us: 29200
+  current:
+    us: 31500
+  projected:
+    us: 35000
+  change:
+    us: 0.113
 wage:
   hourly:
     us: 45.36

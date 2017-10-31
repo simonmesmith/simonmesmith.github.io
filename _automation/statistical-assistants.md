@@ -6,7 +6,12 @@ soc:
   title: Statistical Assistants
   definition: 'Compile and compute data according to statistical formulas for use in statistical studies. May perform actuarial computations and compile charts and graphs for use by actuaries. Includes actuarial clerks.'
 employment:
-  us: 10900
+  current:
+    us: 11800
+  projected:
+    us: 12900
+  change:
+    us: 0.092
 wage:
   hourly:
     us: 23.22

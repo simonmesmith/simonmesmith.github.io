@@ -6,7 +6,12 @@ soc:
   title: Choreographers
   definition: 'Create new dance routines. Rehearse performance of routines. May direct and stage presentations.'
 employment:
-  us: 5160
+  current:
+    us: 6900
+  projected:
+    us: 7100
+  change:
+    us: 0.032
 wage:
   hourly:
     us: 25.77

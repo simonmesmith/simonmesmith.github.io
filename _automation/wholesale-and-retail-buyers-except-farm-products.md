@@ -6,7 +6,12 @@ soc:
   title: Wholesale and Retail Buyers, Except Farm Products
   definition: 'Buy merchandise or commodities, other than farm products, for resale to consumers at the wholesale or retail level, including both durable and nondurable goods. Analyze past buying trends, sales records, price, and quality of merchandise to determine value and yield. Select, order, and authorize payment for merchandise according to contractual agreements. May conduct meetings with sales personnel and introduce new products. Includes assistant wholesale and retail buyers of nonfarm products.'
 employment:
-  us: 109440
+  current:
+    us: 123300
+  projected:
+    us: 121000
+  change:
+    us: -0.019
 wage:
   hourly:
     us: 28.87

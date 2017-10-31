@@ -6,7 +6,12 @@ soc:
   title: Skincare Specialists
   definition: 'Provide skincare treatments to face and body to enhance an individual’s appearance. Includes electrologists and laser hair removal specialists.'
 employment:
-  us: 43980
+  current:
+    us: 61300
+  projected:
+    us: 69000
+  change:
+    us: 0.126
 wage:
   hourly:
     us: 16.91

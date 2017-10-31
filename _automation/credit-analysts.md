@@ -6,7 +6,12 @@ soc:
   title: Credit Analysts
   definition: 'Analyze credit data and financial statements of individuals or firms to determine the degree of risk involved in extending credit or lending money. Prepare reports with credit information for use in decision making.'
 employment:
-  us: 72930
+  current:
+    us: 73800
+  projected:
+    us: 79900
+  change:
+    us: 0.084
 wage:
   hourly:
     us: 39.02

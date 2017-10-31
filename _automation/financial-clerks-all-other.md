@@ -6,7 +6,12 @@ soc:
   title: Financial Clerks, All Other
   definition: 'All financial clerks not listed separately.'
 employment:
-  us: 34540
+  current:
+    us: 36600
+  projected:
+    us: 40200
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 20.13

@@ -6,7 +6,12 @@ soc:
   title: Industrial Production Managers
   definition: 'Plan, direct, or coordinate the work activities and resources necessary for manufacturing products in accordance with cost, quality, and quantity specifications.'
 employment:
-  us: 168400
+  current:
+    us: 170600
+  projected:
+    us: 170300
+  change:
+    us: -0.002
 wage:
   hourly:
     us: 51.47

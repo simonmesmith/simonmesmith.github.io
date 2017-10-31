@@ -6,7 +6,12 @@ soc:
   title: Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend machines to extrude or draw thermoplastic or metal materials into tubes, rods, hoses, wire, bars, or structural shapes.'
 employment:
-  us: 71960
+  current:
+    us: 72300
+  projected:
+    us: 61300
+  change:
+    us: -0.152
 wage:
   hourly:
     us: 16.99

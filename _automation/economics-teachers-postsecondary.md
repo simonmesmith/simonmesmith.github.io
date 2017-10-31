@@ -6,7 +6,12 @@ soc:
   title: Economics Teachers, Postsecondary
   definition: 'Teach courses in economics. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 13060
+  current:
+    us: 16500
+  projected:
+    us: 18200
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 

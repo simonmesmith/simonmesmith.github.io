@@ -6,7 +6,12 @@ soc:
   title: Food Batchmakers
   definition: 'Set up and operate equipment that mixes or blends ingredients used in the manufacturing of food products. Includes candy makers and cheese makers.'
 employment:
-  us: 148540
+  current:
+    us: 153700
+  projected:
+    us: 155800
+  change:
+    us: 0.013
 wage:
   hourly:
     us: 14.48

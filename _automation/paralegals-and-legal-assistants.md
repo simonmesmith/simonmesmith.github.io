@@ -6,7 +6,12 @@ soc:
   title: Paralegals and Legal Assistants
   definition: 'Assist lawyers by investigating facts, preparing legal documents, or researching legal precedent. Conduct research to support a legal proceeding, to formulate a defense, or to initiate legal action. Excludes “Legal Secretaries” (43-6012).'
 employment:
-  us: 277310
+  current:
+    us: 285600
+  projected:
+    us: 327400
+  change:
+    us: 0.146
 wage:
   hourly:
     us: 25.57

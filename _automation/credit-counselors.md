@@ -6,7 +6,12 @@ soc:
   title: Credit Counselors
   definition: 'Advise and educate individuals or organizations on acquiring and managing debt. May provide guidance in determining the best type of loan and explaining loan requirements or restrictions. May help develop debt management plans, advise on credit issues, or provide budget, mortgage, and bankruptcy counseling.'
 employment:
-  us: 34110
+  current:
+    us: 38300
+  projected:
+    us: 43700
+  change:
+    us: 0.139
 wage:
   hourly:
     us: 23.79

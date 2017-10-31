@@ -6,7 +6,12 @@ soc:
   title: Photographic Process Workers and Processing Machine Operators
   definition: 'Perform work involved in developing and processing photographic images from film or digital media. May perform precision tasks such as editing photographic negatives and prints.'
 employment:
-  us: 26430
+  current:
+    us: 26900
+  projected:
+    us: 21900
+  change:
+    us: -0.184
 wage:
   hourly:
     us: 15.26

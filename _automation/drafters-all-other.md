@@ -6,7 +6,12 @@ soc:
   title: Drafters, All Other
   definition: 'All drafters not listed separately.'
 employment:
-  us: 15530
+  current:
+    us: 15900
+  projected:
+    us: 17200
+  change:
+    us: 0.079
 wage:
   hourly:
     us: 26.16

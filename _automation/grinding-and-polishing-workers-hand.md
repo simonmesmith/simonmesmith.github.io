@@ -6,7 +6,12 @@ soc:
   title: Grinding and Polishing Workers, Hand
   definition: 'Grind, sand, or polish, using hand tools or hand-held power tools, a variety of metal, wood, stone, clay, plastic, or glass objects. Includes chippers, buffers, and finishers.'
 employment:
-  us: 26670
+  current:
+    us: 26600
+  projected:
+    us: 21100
+  change:
+    us: -0.205
 wage:
   hourly:
     us: 14.84

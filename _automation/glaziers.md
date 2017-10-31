@@ -6,7 +6,12 @@ soc:
   title: Glaziers
   definition: 'Install glass in windows, skylights, store fronts, and display cases, or on surfaces, such as building fronts, interior walls, ceilings, and tabletops.'
 employment:
-  us: 47140
+  current:
+    us: 50100
+  projected:
+    us: 55400
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 22.72

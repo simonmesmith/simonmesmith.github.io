@@ -6,7 +6,12 @@ soc:
   title: Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
   definition: 'All military enlisted tactical operations and air/weapons specialists and crewmembers not listed separately.'
 employment:
-  us: #N/A
+  current:
+    us: #N/A
+  projected:
+    us: #N/A
+  change:
+    us: #N/A
 wage:
   hourly:
     us: #N/A

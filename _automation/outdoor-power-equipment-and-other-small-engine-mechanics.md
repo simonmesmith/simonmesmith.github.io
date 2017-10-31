@@ -6,7 +6,12 @@ soc:
   title: Outdoor Power Equipment and Other Small Engine Mechanics
   definition: 'Diagnose, adjust, repair, or overhaul small engines used to power lawn mowers, chain saws, recreational sporting equipment and related equipment.'
 employment:
-  us: 33020
+  current:
+    us: 37600
+  projected:
+    us: 41900
+  change:
+    us: 0.114
 wage:
   hourly:
     us: 16.98

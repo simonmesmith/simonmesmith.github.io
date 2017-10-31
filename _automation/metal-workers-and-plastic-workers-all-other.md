@@ -6,7 +6,12 @@ soc:
   title: Metal Workers and Plastic Workers, All Other
   definition: 'All metal workers and plastic workers not listed separately.'
 employment:
-  us: 22930
+  current:
+    us: 23000
+  projected:
+    us: 21400
+  change:
+    us: -0.066
 wage:
   hourly:
     us: 17.2

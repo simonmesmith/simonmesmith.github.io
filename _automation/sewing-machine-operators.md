@@ -6,7 +6,12 @@ soc:
   title: Sewing Machine Operators
   definition: 'Operate or tend sewing machines to join, reinforce, decorate, or perform related sewing operations in the manufacture of garment or nongarment products.'
 employment:
-  us: 139500
+  current:
+    us: 153900
+  projected:
+    us: 132000
+  change:
+    us: -0.142
 wage:
   hourly:
     us: 12.42

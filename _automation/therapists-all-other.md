@@ -6,7 +6,12 @@ soc:
   title: Therapists, All Other
   definition: 'All therapists not listed separately.'
 employment:
-  us: 11320
+  current:
+    us: 24100
+  projected:
+    us: 28900
+  change:
+    us: 0.197
 wage:
   hourly:
     us: 29.13

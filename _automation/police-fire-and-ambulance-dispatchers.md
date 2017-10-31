@@ -6,7 +6,12 @@ soc:
   title: Police, Fire, and Ambulance Dispatchers
   definition: 'Operate radio, telephone, or computer equipment at emergency response centers. Receive reports from the public of crimes, disturbances, fires, and medical or police emergencies. Relay information to law enforcement and emergency response personnel. May maintain contact with caller until responders arrive.'
 employment:
-  us: 95170
+  current:
+    us: 98600
+  projected:
+    us: 106700
+  change:
+    us: 0.083
 wage:
   hourly:
     us: 19.74

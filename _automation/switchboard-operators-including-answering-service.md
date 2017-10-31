@@ -6,7 +6,12 @@ soc:
   title: Switchboard Operators, Including Answering Service
   definition: 'Operate telephone business systems equipment or switchboards to relay incoming, outgoing, and interoffice calls. May supply information to callers and record messages.'
 employment:
-  us: 90910
+  current:
+    us: 93200
+  projected:
+    us: 74700
+  change:
+    us: -0.199
 wage:
   hourly:
     us: 14.29

@@ -6,7 +6,12 @@ soc:
   title: Media and Communication Equipment Workers, All Other
   definition: 'All media and communication equipment workers not listed separately.'
 employment:
-  us: 18620
+  current:
+    us: 20600
+  projected:
+    us: 22200
+  change:
+    us: 0.079
 wage:
   hourly:
     us: 36.78

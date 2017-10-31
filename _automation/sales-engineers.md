@@ -6,7 +6,12 @@ soc:
   title: Sales Engineers
   definition: 'Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering. Excludes "Engineers" (17-2011 through 17-2199) whose primary function is not marketing or sales.'
 employment:
-  us: 74330
+  current:
+    us: 74900
+  projected:
+    us: 80100
+  change:
+    us: 0.069
 wage:
   hourly:
     us: 52.35

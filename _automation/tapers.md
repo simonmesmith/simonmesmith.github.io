@@ -6,7 +6,12 @@ soc:
   title: Tapers
   definition: 'Seal joints between plasterboard or other wallboard to prepare wall surface for painting or papering.'
 employment:
-  us: 18480
+  current:
+    us: 23700
+  projected:
+    us: 23800
+  change:
+    us: 0.006
 wage:
   hourly:
     us: 25.86

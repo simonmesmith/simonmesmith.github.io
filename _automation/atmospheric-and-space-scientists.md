@@ -6,7 +6,12 @@ soc:
   title: Atmospheric and Space Scientists
   definition: 'Investigate atmospheric phenomena and interpret meteorological data, gathered by surface and air stations, satellites, and radar to prepare reports and forecasts for public and other uses. Includes weather analysts and forecasters whose functions require the detailed knowledge of meteorology.'
 employment:
-  us: 9800
+  current:
+    us: 10400
+  projected:
+    us: 11700
+  change:
+    us: 0.12
 wage:
   hourly:
     us: 45.6

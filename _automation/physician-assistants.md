@@ -6,7 +6,12 @@ soc:
   title: Physician Assistants
   definition: 'Provide healthcare services typically performed by a physician, under the supervision of a physician. Conduct complete physicals, provide treatment, and counsel patients. May, in some cases, prescribe medication. Must graduate from an accredited educational program for physician assistants. Excludes "Emergency Medical Technicians and Paramedics" (29-2041), "Medical Assistants" (31-9092), "Registered Nurses" (29-1141), “Nurse Anesthetists” (29-1151), “Nurse Midwives” (29-1161), and “Nurse Practitioners” (29-1171).'
 employment:
-  us: 104050
+  current:
+    us: 106200
+  projected:
+    us: 145900
+  change:
+    us: 0.374
 wage:
   hourly:
     us: 49.08

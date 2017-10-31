@@ -6,7 +6,12 @@ soc:
   title: Roustabouts, Oil and Gas
   definition: 'Assemble or repair oil field equipment using hand and power tools. Perform other tasks as needed.'
 employment:
-  us: 51290
+  current:
+    us: 50000
+  projected:
+    us: 62300
+  change:
+    us: 0.245
 wage:
   hourly:
     us: 19.46

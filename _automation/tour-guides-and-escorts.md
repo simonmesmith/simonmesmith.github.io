@@ -6,7 +6,12 @@ soc:
   title: Tour Guides and Escorts
   definition: 'Escort individuals or groups on sightseeing tours or through places of interest, such as industrial establishments, public buildings, and art galleries.'
 employment:
-  us: 38660
+  current:
+    us: 45800
+  projected:
+    us: 50800
+  change:
+    us: 0.109
 wage:
   hourly:
     us: 13.51

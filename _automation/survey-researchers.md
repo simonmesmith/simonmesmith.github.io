@@ -6,7 +6,12 @@ soc:
   title: Survey Researchers
   definition: 'Plan, develop, or conduct surveys. May analyze and interpret the meaning of survey data, determine survey objectives, or suggest or test question wording. Includes social scientists who primarily design questionnaires or supervise survey teams. Excludes "Market Research Analysts and Marketing Specialists" (13-1161) and "Statisticians" (15-2041).'
 employment:
-  us: 11930
+  current:
+    us: 14600
+  projected:
+    us: 14700
+  change:
+    us: 0.009
 wage:
   hourly:
     us: 28.82

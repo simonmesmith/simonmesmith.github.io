@@ -6,7 +6,12 @@ soc:
   title: Cooks, Private Household
   definition: 'Prepare meals in private homes. Includes personal chefs.'
 employment:
-  us: 370
+  current:
+    us: 25000
+  projected:
+    us: 26400
+  change:
+    us: 0.057
 wage:
   hourly:
     us: 20.3

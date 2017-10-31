@@ -6,7 +6,12 @@ soc:
   title: Sound Engineering Technicians
   definition: 'Operate machines and equipment to record, synchronize, mix, or reproduce music, voices, or sound effects in sporting arenas, theater productions, recording studios, or movie and video productions.'
 employment:
-  us: 15210
+  current:
+    us: 17000
+  projected:
+    us: 18100
+  change:
+    us: 0.063
 wage:
   hourly:
     us: 31.37

@@ -6,7 +6,12 @@ soc:
   title: Home Appliance Repairers
   definition: 'Repair, adjust, or install all types of electric or gas household appliances, such as refrigerators, washers, dryers, and ovens.'
 employment:
-  us: 33480
+  current:
+    us: 46600
+  projected:
+    us: 46200
+  change:
+    us: -0.009
 wage:
   hourly:
     us: 19.42

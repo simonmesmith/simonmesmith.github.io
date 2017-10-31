@@ -6,7 +6,12 @@ soc:
   title: Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
   definition: 'Serve food to diners at counter or from a steam table. Counter attendants who also wait tables are included in "Waiters and Waitresses" (35-3031).'
 employment:
-  us: 499550
+  current:
+    us: 505200
+  projected:
+    us: 528400
+  change:
+    us: 0.046
 wage:
   hourly:
     us: 10.28

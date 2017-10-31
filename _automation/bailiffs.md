@@ -6,7 +6,12 @@ soc:
   title: Bailiffs
   definition: 'Maintain order in courts of law.'
 employment:
-  us: 17880
+  current:
+    us: 18600
+  projected:
+    us: 18200
+  change:
+    us: -0.021
 wage:
   hourly:
     us: 21.99

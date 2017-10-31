@@ -6,7 +6,12 @@ soc:
   title: Bicycle Repairers
   definition: 'Repair and service bicycles.'
 employment:
-  us: 12560
+  current:
+    us: 12400
+  projected:
+    us: 16100
+  change:
+    us: 0.294
 wage:
   hourly:
     us: 13.71

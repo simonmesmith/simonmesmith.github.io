@@ -6,7 +6,12 @@ soc:
   title: Historians
   definition: 'Research, analyze, record, and interpret the past as recorded in sources, such as government and institutional records, newspapers and other periodicals, photographs, interviews, films, electronic media, and unpublished manuscripts, such as personal diaries and letters.'
 employment:
-  us: 2950
+  current:
+    us: 3300
+  projected:
+    us: 3500
+  change:
+    us: 0.054
 wage:
   hourly:
     us: 29.32

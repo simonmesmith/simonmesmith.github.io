@@ -6,7 +6,12 @@ soc:
   title: Probation Officers and Correctional Treatment Specialists
   definition: 'Provide social services to assist in rehabilitation of law offenders in custody or on probation or parole. Make recommendations for actions involving formulation of rehabilitation plan and treatment of offender, including conditional release and education and employment stipulations.'
 employment:
-  us: 87500
+  current:
+    us: 91300
+  projected:
+    us: 96500
+  change:
+    us: 0.057
 wage:
   hourly:
     us: 26.63

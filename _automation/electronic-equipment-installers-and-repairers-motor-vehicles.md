@@ -6,7 +6,12 @@ soc:
   title: Electronic Equipment Installers and Repairers, Motor Vehicles
   definition: 'Install, diagnose, or repair communications, sound, security, or navigation equipment in motor vehicles.'
 employment:
-  us: 11750
+  current:
+    us: 12100
+  projected:
+    us: 9000
+  change:
+    us: -0.252
 wage:
   hourly:
     us: 16.44

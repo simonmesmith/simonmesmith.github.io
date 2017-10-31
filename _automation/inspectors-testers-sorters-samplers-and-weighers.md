@@ -6,7 +6,12 @@ soc:
   title: Inspectors, Testers, Sorters, Samplers, and Weighers
   definition: 'Inspect, test, sort, sample, or weigh nonagricultural raw materials or processed, machined, fabricated, or assembled parts or products for defects, wear, and deviations from specifications. May use precision measuring instruments and complex test equipment.'
 employment:
-  us: 518950
+  current:
+    us: 520700
+  projected:
+    us: 465200
+  change:
+    us: -0.107
 wage:
   hourly:
     us: 19.4

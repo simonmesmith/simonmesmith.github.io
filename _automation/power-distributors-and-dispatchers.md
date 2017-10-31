@@ -6,7 +6,12 @@ soc:
   title: Power Distributors and Dispatchers
   definition: 'Coordinate, regulate, or distribute electricity or steam.'
 employment:
-  us: 11380
+  current:
+    us: 11600
+  projected:
+    us: 11300
+  change:
+    us: -0.025
 wage:
   hourly:
     us: 39.18

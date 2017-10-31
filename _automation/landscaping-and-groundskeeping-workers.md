@@ -6,7 +6,12 @@ soc:
   title: Landscaping and Groundskeeping Workers
   definition: 'Landscape or maintain grounds of property using hand or power tools or equipment. Workers typically perform a variety of tasks, which may include any combination of the following: sod laying, mowing, trimming, planting, watering, fertilizing, digging, raking, sprinkler installation, and installation of mortarless segmental concrete masonry wall units. Excludes "Farmworkers and Laborers, Crop, Nursery, and Greenhouse" (45-2092).'
 employment:
-  us: 906570
+  current:
+    us: 1197900
+  projected:
+    us: 1321200
+  change:
+    us: 0.103
 wage:
   hourly:
     us: 13.73

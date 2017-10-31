@@ -6,7 +6,12 @@ soc:
   title: Timing Device Assemblers and Adjusters
   definition: 'Perform precision assembling, adjusting, or calibrating, within narrow tolerances, of timing devices such as digital clocks or timing devices with electrical or electronic components. Excludes watchmakers, which are included in “Watch Repairers" (49-9064).'
 employment:
-  us: 790
+  current:
+    us: 800
+  projected:
+    us: 600
+  change:
+    us: -0.199
 wage:
   hourly:
     us: 20.42

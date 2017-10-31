@@ -6,7 +6,12 @@ soc:
   title: Legislators
   definition: 'Develop, introduce or enact laws and statutes at the local, tribal, State, or Federal level. Includes only workers in elected positions.'
 employment:
-  us: 53670
+  current:
+    us: 55500
+  projected:
+    us: 59400
+  change:
+    us: 0.071
 wage:
   hourly:
     us: 

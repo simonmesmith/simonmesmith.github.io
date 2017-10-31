@@ -6,7 +6,12 @@ soc:
   title: Manufactured Building and Mobile Home Installers
   definition: 'Move or install mobile homes or prefabricated buildings.'
 employment:
-  us: 3200
+  current:
+    us: 4300
+  projected:
+    us: 4000
+  change:
+    us: -0.088
 wage:
   hourly:
     us: 14.92

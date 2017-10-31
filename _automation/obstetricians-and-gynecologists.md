@@ -6,7 +6,12 @@ soc:
   title: Obstetricians and Gynecologists
   definition: 'Physicians who provide medical care related to pregnancy or childbirth and those who diagnose, treat, and help prevent diseases of women, particularly those affecting the reproductive system. May also provide general medical care to women.'
 employment:
-  us: 19800
+  current:
+    us: 21700
+  projected:
+    us: 25500
+  change:
+    us: 0.179
 wage:
   hourly:
     us: 112.65

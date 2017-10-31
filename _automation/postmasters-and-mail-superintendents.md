@@ -6,7 +6,12 @@ soc:
   title: Postmasters and Mail Superintendents
   definition: 'Plan, direct, or coordinate operational, administrative, management, and supportive services of a U.S. post office; or coordinate activities of workers engaged in postal and related work in assigned post office.'
 employment:
-  us: 14720
+  current:
+    us: 14200
+  projected:
+    us: 11200
+  change:
+    us: -0.209
 wage:
   hourly:
     us: 34.61

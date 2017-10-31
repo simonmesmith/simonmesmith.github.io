@@ -6,7 +6,12 @@ soc:
   title: Craft Artists
   definition: 'Create or reproduce hand-made objects for sale and exhibition using a variety of techniques, such as welding, weaving, pottery, and needlecraft.'
 employment:
-  us: 5070
+  current:
+    us: 12500
+  projected:
+    us: 13300
+  change:
+    us: 0.063
 wage:
   hourly:
     us: 18.7

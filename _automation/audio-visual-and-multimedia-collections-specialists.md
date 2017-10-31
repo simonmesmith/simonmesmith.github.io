@@ -6,7 +6,12 @@ soc:
   title: Audio-Visual and Multimedia Collections Specialists
   definition: 'Prepare, plan, and operate multimedia teaching aids for use in education. May record, catalogue, and file materials.'
 employment:
-  us: 10300
+  current:
+    us: 11300
+  projected:
+    us: 12300
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 24.1

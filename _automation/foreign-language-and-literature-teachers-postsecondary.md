@@ -6,7 +6,12 @@ soc:
   title: Foreign Language and Literature Teachers, Postsecondary
   definition: 'Teach languages and literature courses in languages other than English. Includes teachers of American Sign Language (ASL). Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 28720
+  current:
+    us: 35000
+  projected:
+    us: 39100
+  change:
+    us: 0.118
 wage:
   hourly:
     us: 

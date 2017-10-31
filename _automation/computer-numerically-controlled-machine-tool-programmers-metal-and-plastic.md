@@ -6,7 +6,12 @@ soc:
   title: Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
   definition: 'Develop programs to control machining or processing of metal or plastic parts by automatic machine tools, equipment, or systems.'
 employment:
-  us: 25180
+  current:
+    us: 25100
+  projected:
+    us: 29200
+  change:
+    us: 0.163
 wage:
   hourly:
     us: 25.75

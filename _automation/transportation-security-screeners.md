@@ -6,7 +6,12 @@ soc:
   title: Transportation Security Screeners
   definition: 'Conduct screening of passengers, baggage, or cargo to ensure compliance with Transportation Security Administration (TSA) regulations. May operate basic security equipment such as x-ray machines and hand wands at screening checkpoints.'
 employment:
-  us: 42750
+  current:
+    us: 46100
+  projected:
+    us: 47300
+  change:
+    us: 0.026
 wage:
   hourly:
     us: 19.31

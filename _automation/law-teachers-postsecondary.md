@@ -6,7 +6,12 @@ soc:
   title: Law Teachers, Postsecondary
   definition: 'Teach courses in law. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 16010
+  current:
+    us: 21200
+  projected:
+    us: 23800
+  change:
+    us: 0.122
 wage:
   hourly:
     us: 

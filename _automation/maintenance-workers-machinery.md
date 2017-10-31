@@ -6,7 +6,12 @@ soc:
   title: Maintenance Workers, Machinery
   definition: 'Lubricate machinery, change parts, or perform other routine machinery maintenance. Excludes “Maintenance and Repair Workers, General" (49-9071).'
 employment:
-  us: 89630
+  current:
+    us: 89700
+  projected:
+    us: 94700
+  change:
+    us: 0.056
 wage:
   hourly:
     us: 22.11

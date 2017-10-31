@@ -6,7 +6,12 @@ soc:
   title: Real Estate Sales Agents
   definition: 'Rent, buy, or sell property for clients. Perform duties, such as study property listings, interview prospective clients, accompany clients to property site, discuss conditions of sale, and draw up real estate contracts. Includes agents who represent buyer.'
 employment:
-  us: 151840
+  current:
+    us: 348800
+  projected:
+    us: 370500
+  change:
+    us: 0.062
 wage:
   hourly:
     us: 28.54

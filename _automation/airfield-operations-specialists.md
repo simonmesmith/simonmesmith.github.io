@@ -6,7 +6,12 @@ soc:
   title: Airfield Operations Specialists
   definition: 'Ensure the safe takeoff and landing of commercial and military aircraft. Duties include coordination between air-traffic control and maintenance personnel; dispatching; using airfield landing and navigational aids; implementing airfield safety procedures; monitoring and maintaining flight records; and applying knowledge of weather information.'
 employment:
-  us: 8760
+  current:
+    us: 8900
+  projected:
+    us: 9700
+  change:
+    us: 0.088
 wage:
   hourly:
     us: 25.19

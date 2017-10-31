@@ -6,7 +6,12 @@ soc:
   title: Bus and Truck Mechanics and Diesel Engine Specialists
   definition: 'Diagnose, adjust, repair, or overhaul buses and trucks, or maintain and repair any type of diesel engines. Includes mechanics working primarily with automobile or marine diesel engines.'
 employment:
-  us: 254280
+  current:
+    us: 278800
+  projected:
+    us: 305300
+  change:
+    us: 0.095
 wage:
   hourly:
     us: 22.45

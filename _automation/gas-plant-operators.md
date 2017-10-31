@@ -6,7 +6,12 @@ soc:
   title: Gas Plant Operators
   definition: 'Distribute or process gas for utility companies and others by controlling compressors to maintain specified pressures on main pipelines.'
 employment:
-  us: 17350
+  current:
+    us: 17300
+  projected:
+    us: 17300
+  change:
+    us: 0
 wage:
   hourly:
     us: 32.68

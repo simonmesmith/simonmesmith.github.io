@@ -6,7 +6,12 @@ soc:
   title: Radio, Cellular, and Tower Equipment Installers and Repairers
   definition: 'Repair, install or maintain mobile or stationary radio transmitting, broadcasting, and receiving equipment, and two-way radio communications systems used in cellular telecommunications, mobile broadband, ship-to-shore, aircraft-to-ground communications, and radio equipment in service and emergency vehicles. May test and analyze network coverage.'
 employment:
-  us: 14120
+  current:
+    us: 14500
+  projected:
+    us: 15300
+  change:
+    us: 0.055
 wage:
   hourly:
     us: 25.78

@@ -6,7 +6,12 @@ soc:
   title: Patternmakers, Metal and Plastic
   definition: 'Lay out, machine, fit, and assemble castings and parts to metal or plastic foundry patterns, core boxes, or match plates.'
 employment:
-  us: 3420
+  current:
+    us: 3400
+  projected:
+    us: 2900
+  change:
+    us: -0.155
 wage:
   hourly:
     us: 21.39

@@ -6,7 +6,12 @@ soc:
   title: Financial Examiners
   definition: 'Enforce or ensure compliance with laws and regulations governing financial and securities institutions and financial and real estate transactions. May examine, verify, or authenticate records.'
 employment:
-  us: 49750
+  current:
+    us: 52500
+  projected:
+    us: 57600
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 42.76

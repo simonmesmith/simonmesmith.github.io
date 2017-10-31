@@ -6,7 +6,12 @@ soc:
   title: Telecommunications Equipment Installers and Repairers, Except Line Installers
   definition: 'Install, set-up, rearrange, or remove switching, distribution, routing, and dialing equipment used in central offices or headends. Service or repair telephone, cable television, Internet, and other communications equipment on customers'' property. May install communications equipment or communications wiring in buildings. Excludes “Telecommunications Line Installers and Repairers” (49-9052).'
 employment:
-  us: 228430
+  current:
+    us: 237600
+  projected:
+    us: 219600
+  change:
+    us: -0.076
 wage:
   hourly:
     us: 26.21

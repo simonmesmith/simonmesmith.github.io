@@ -6,7 +6,12 @@ soc:
   title: Psychologists, All Other
   definition: 'All psychologists not listed separately.'
 employment:
-  us: 13310
+  current:
+    us: 17400
+  projected:
+    us: 19000
+  change:
+    us: 0.091
 wage:
   hourly:
     us: 45.51

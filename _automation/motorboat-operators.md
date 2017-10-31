@@ -6,7 +6,12 @@ soc:
   title: Motorboat Operators
   definition: 'Operate small motor-driven boats. May assist in navigational activities.'
 employment:
-  us: 3290
+  current:
+    us: 3600
+  projected:
+    us: 3900
+  change:
+    us: 0.076
 wage:
   hourly:
     us: 20.84

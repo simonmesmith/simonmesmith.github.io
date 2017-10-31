@@ -6,7 +6,12 @@ soc:
   title: Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces. Includes electrolytic processes.'
 employment:
-  us: 35570
+  current:
+    us: 35300
+  projected:
+    us: 30400
+  change:
+    us: -0.138
 wage:
   hourly:
     us: 16.2

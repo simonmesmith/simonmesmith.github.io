@@ -6,7 +6,12 @@ soc:
   title: Reinforcing Iron and Rebar Workers
   definition: 'Position and secure steel bars or mesh in concrete forms in order to reinforce concrete. Use a variety of fasteners, rod-bending machines, blowtorches, and hand tools. Includes rod busters.'
 employment:
-  us: 20020
+  current:
+    us: 20100
+  projected:
+    us: 22500
+  change:
+    us: 0.121
 wage:
   hourly:
     us: 25.77

@@ -6,7 +6,12 @@ soc:
   title: Lodging Managers
   definition: 'Plan, direct, or coordinate activities of an organization or department that provides lodging and other accommodations. Excludes “Food Service Managers" (11-9051) in lodging establishments.'
 employment:
-  us: 35410
+  current:
+    us: 47800
+  projected:
+    us: 50600
+  change:
+    us: 0.059
 wage:
   hourly:
     us: 28.56

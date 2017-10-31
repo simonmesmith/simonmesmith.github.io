@@ -6,7 +6,12 @@ soc:
   title: Butchers and Meat Cutters
   definition: 'Cut, trim, or prepare consumer-sized portions of meat for use or sale in retail establishments.'
 employment:
-  us: 133880
+  current:
+    us: 135700
+  projected:
+    us: 143400
+  change:
+    us: 0.057
 wage:
   hourly:
     us: 15.26

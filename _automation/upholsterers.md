@@ -6,7 +6,12 @@ soc:
   title: Upholsterers
   definition: 'Make, repair, or replace upholstery for household furniture or transportation vehicles.'
 employment:
-  us: 32520
+  current:
+    us: 41600
+  projected:
+    us: 42700
+  change:
+    us: 0.025
 wage:
   hourly:
     us: 16.65

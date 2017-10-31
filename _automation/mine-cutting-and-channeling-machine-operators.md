@@ -6,7 +6,12 @@ soc:
   title: Mine Cutting and Channeling Machine Operators
   definition: 'Operate machinery such as longwall shears, plows, and cutting machines to cut or channel along the face or seams of coal mines, stone quarries, or other mining surfaces to facilitate blasting, separating, or removing minerals or materials from mines or from the Earth''s surface. Includes shale planers.'
 employment:
-  us: 5930
+  current:
+    us: 6100
+  projected:
+    us: 5800
+  change:
+    us: -0.047
 wage:
   hourly:
     us: 24.36
@@ -17,3 +22,9 @@ probability:
 rank:
   oxford: 327
 ---
+
+* Fully automated mines are coming. Mining companies are using massive amounts of data to increase productivity and cut costs.[^1]
+
+[^1]:	[Robots under Swedish forest breathe life into ancient mines][1]
+
+[1]:	http://ift.tt/2xjuzFI

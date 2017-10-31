@@ -6,7 +6,12 @@ soc:
   title: Pile-Driver Operators
   definition: 'Operate pile drivers mounted on skids, barges, crawler treads, or locomotive cranes to drive pilings for retaining walls, bulkheads, and foundations of structures, such as buildings, bridges, and piers.'
 employment:
-  us: 3570
+  current:
+    us: 3700
+  projected:
+    us: 4200
+  change:
+    us: 0.147
 wage:
   hourly:
     us: 29.68

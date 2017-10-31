@@ -6,7 +6,12 @@ soc:
   title: Area, Ethnic, and Cultural Studies Teachers, Postsecondary
   definition: 'Teach courses pertaining to the culture and development of an area, an ethnic group, or any other group, such as Latin American studies, women’s studies, or urban affairs. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 9060
+  current:
+    us: 11500
+  projected:
+    us: 12700
+  change:
+    us: 0.105
 wage:
   hourly:
     us: 

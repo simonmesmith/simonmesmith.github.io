@@ -6,7 +6,12 @@ soc:
   title: Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
   definition: 'Sell goods or services door-to-door or on the street.'
 employment:
-  us: 8040
+  current:
+    us: 82400
+  projected:
+    us: 87500
+  change:
+    us: 0.063
 wage:
   hourly:
     us: 13.76

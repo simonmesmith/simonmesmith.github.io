@@ -6,7 +6,12 @@ soc:
   title: Judicial Law Clerks
   definition: 'Assist judges in court or by conducting research or preparing legal documents. Excludes "Lawyers" (23-1011) and "Paralegals and Legal Assistants" (23-2011).'
 employment:
-  us: 13410
+  current:
+    us: 14000
+  projected:
+    us: 14800
+  change:
+    us: 0.055
 wage:
   hourly:
     us: 28.77

@@ -6,7 +6,12 @@ soc:
   title: Office Machine Operators, Except Computer
   definition: 'Operate one or more of a variety of office machines, such as photocopying, photographic, and duplicating machines, or other office machines. Excludes “Computer Operators" (43-9011), "Mail Clerks and Mail Machine Operators, Except Postal Service" (43-9051) and "Billing and Posting Clerks" (43-3021).'
 employment:
-  us: 58160
+  current:
+    us: 59900
+  projected:
+    us: 50500
+  change:
+    us: -0.156
 wage:
   hourly:
     us: 15.57

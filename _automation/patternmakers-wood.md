@@ -6,7 +6,12 @@ soc:
   title: Patternmakers, Wood
   definition: 'Plan, lay out, and construct wooden unit or sectional patterns used in forming sand molds for castings.'
 employment:
-  us: 970
+  current:
+    us: 1800
+  projected:
+    us: 1800
+  change:
+    us: 0.039
 wage:
   hourly:
     us: 23.01

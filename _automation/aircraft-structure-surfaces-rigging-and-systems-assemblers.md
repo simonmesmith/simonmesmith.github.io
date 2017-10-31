@@ -6,7 +6,12 @@ soc:
   title: Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
   definition: 'Assemble, fit, fasten, and install parts of airplanes, space vehicles, or missiles, such as tails, wings, fuselage, bulkheads, stabilizers, landing gear, rigging and control equipment, or heating and ventilating systems.'
 employment:
-  us: 42010
+  current:
+    us: 41800
+  projected:
+    us: 34500
+  change:
+    us: -0.174
 wage:
   hourly:
     us: 25.26

@@ -6,7 +6,12 @@ soc:
   title: Billing and Posting Clerks
   definition: 'Compile, compute, and record billing, accounting, statistical, and other numerical data for billing purposes. Prepare billing invoices for services rendered or for delivery or shipment of goods.'
 employment:
-  us: 485220
+  current:
+    us: 501000
+  projected:
+    us: 571900
+  change:
+    us: 0.142
 wage:
   hourly:
     us: 18.06

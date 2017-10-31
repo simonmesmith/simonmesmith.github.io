@@ -6,7 +6,12 @@ soc:
   title: Painters, Transportation Equipment
   definition: 'Operate or tend painting machines to paint surfaces of transportation equipment, such as automobiles, buses, trucks, trains, boats, and airplanes. Includes painters in auto body repair facilities.'
 employment:
-  us: 54860
+  current:
+    us: 58100
+  projected:
+    us: 62000
+  change:
+    us: 0.069
 wage:
   hourly:
     us: 22.25

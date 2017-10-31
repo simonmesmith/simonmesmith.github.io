@@ -6,7 +6,12 @@ soc:
   title: Athletic Trainers
   definition: 'Evaluate and advise individuals to assist recovery from or avoid athletic-related injuries or illnesses, or maintain peak physical fitness. May provide first aid or emergency care.'
 employment:
-  us: 24130
+  current:
+    us: 27800
+  projected:
+    us: 34000
+  change:
+    us: 0.222
 wage:
   hourly:
     us: 

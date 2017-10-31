@@ -6,7 +6,12 @@ soc:
   title: Landscape Architects
   definition: 'Plan and design land areas for projects such as parks and other recreational facilities, airports, highways, hospitals, schools, land subdivisions, and commercial, industrial, and residential sites.'
 employment:
-  us: 19420
+  current:
+    us: 24700
+  projected:
+    us: 26200
+  change:
+    us: 0.062
 wage:
   hourly:
     us: 33.08

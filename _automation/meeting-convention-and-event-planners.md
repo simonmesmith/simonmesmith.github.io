@@ -6,7 +6,12 @@ soc:
   title: Meeting, Convention, and Event Planners
   definition: 'Coordinate activities of staff, convention personnel, or clients to make arrangements for group meetings, events, or conventions.'
 employment:
-  us: 95850
+  current:
+    us: 116700
+  projected:
+    us: 128500
+  change:
+    us: 0.102
 wage:
   hourly:
     us: 25.01

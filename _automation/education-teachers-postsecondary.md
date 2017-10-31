@@ -6,7 +6,12 @@ soc:
   title: Education Teachers, Postsecondary
   definition: 'Teach courses pertaining to education, such as counseling, curriculum, guidance, instruction, teacher education, and teaching English as a second language. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 58850
+  current:
+    us: 74500
+  projected:
+    us: 82200
+  change:
+    us: 0.103
 wage:
   hourly:
     us: 

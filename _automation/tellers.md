@@ -6,7 +6,12 @@ soc:
   title: Tellers
   definition: 'Receive and pay out money. Keep records of money and negotiable instruments involved in a financial institution''s various transactions.'
 employment:
-  us: 496760
+  current:
+    us: 502700
+  projected:
+    us: 460900
+  change:
+    us: -0.083
 wage:
   hourly:
     us: 13.49

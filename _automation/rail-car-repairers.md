@@ -6,7 +6,12 @@ soc:
   title: Rail Car Repairers
   definition: 'Diagnose, adjust, repair, or overhaul railroad rolling stock, mine cars, or mass transit rail cars. Excludes “Bus and Truck Mechanics and Diesel Engine Specialists" (49-3031).'
 employment:
-  us: 22090
+  current:
+    us: 22300
+  projected:
+    us: 23400
+  change:
+    us: 0.051
 wage:
   hourly:
     us: 25.77

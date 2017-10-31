@@ -6,7 +6,12 @@ soc:
   title: History Teachers, Postsecondary
   definition: 'Teach courses in human history and historiography. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 21800
+  current:
+    us: 26900
+  projected:
+    us: 29700
+  change:
+    us: 0.103
 wage:
   hourly:
     us: 

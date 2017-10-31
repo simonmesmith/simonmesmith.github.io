@@ -6,7 +6,12 @@ soc:
   title: Occupational Therapy Aides
   definition: 'Under close supervision of an occupational therapist or occupational therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing patient and treatment room.'
 employment:
-  us: 7210
+  current:
+    us: 7500
+  projected:
+    us: 9300
+  change:
+    us: 0.247
 wage:
   hourly:
     us: 15.31

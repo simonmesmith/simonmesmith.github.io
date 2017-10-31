@@ -6,7 +6,12 @@ soc:
   title: Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
   definition: 'Promote worksite or product safety by applying knowledge of industrial processes, mechanics, chemistry, psychology, and industrial health and safety laws. Includes industrial product safety engineers.'
 employment:
-  us: 25410
+  current:
+    us: 25900
+  projected:
+    us: 28100
+  change:
+    us: 0.086
 wage:
   hourly:
     us: 43.36

@@ -6,7 +6,12 @@ soc:
   title: Continuous Mining Machine Operators
   definition: 'Operate self-propelled mining machines that rip coal, metal and nonmetal ores, rock, stone, or sand from the mine face and load it onto conveyors or into shuttle cars in a continuous operation.'
 employment:
-  us: 12030
+  current:
+    us: 12300
+  projected:
+    us: 11800
+  change:
+    us: -0.039
 wage:
   hourly:
     us: 25.31

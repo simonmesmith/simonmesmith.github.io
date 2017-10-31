@@ -6,7 +6,12 @@ soc:
   title: Archivists
   definition: 'Appraise, edit, and direct safekeeping of permanent records and historically valuable documents. Participate in research activities based on archival materials.'
 employment:
-  us: 5760
+  current:
+    us: 6800
+  projected:
+    us: 7800
+  change:
+    us: 0.143
 wage:
   hourly:
     us: 26.24

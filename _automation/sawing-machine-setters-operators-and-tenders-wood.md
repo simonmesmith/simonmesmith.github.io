@@ -6,7 +6,12 @@ soc:
   title: Sawing Machine Setters, Operators, and Tenders, Wood
   definition: 'Set up, operate, or tend wood sawing machines. May operate CNC equipment. Includes lead sawyers.'
 employment:
-  us: 50640
+  current:
+    us: 54800
+  projected:
+    us: 55200
+  change:
+    us: 0.008
 wage:
   hourly:
     us: 14.41

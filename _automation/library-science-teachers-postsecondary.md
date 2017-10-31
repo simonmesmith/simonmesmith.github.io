@@ -6,7 +6,12 @@ soc:
   title: Library Science Teachers, Postsecondary
   definition: 'Teach courses in library science. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 4870
+  current:
+    us: 6000
+  projected:
+    us: 6500
+  change:
+    us: 0.09
 wage:
   hourly:
     us: 

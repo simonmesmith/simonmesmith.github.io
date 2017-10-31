@@ -6,7 +6,12 @@ soc:
   title: Sales and Related Workers, All Other
   definition: 'All sales and related workers not listed separately.'
 employment:
-  us: 81080
+  current:
+    us: 95900
+  projected:
+    us: 105300
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 20.83

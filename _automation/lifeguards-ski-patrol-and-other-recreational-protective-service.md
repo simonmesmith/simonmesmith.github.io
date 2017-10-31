@@ -6,7 +6,12 @@ soc:
   title: Lifeguards, Ski Patrol, and Other Recreational Protective Service
   definition: 'Monitor recreational areas, such as pools, beaches, or ski slopes to provide assistance and protection to participants.'
 employment:
-  us: 145100
+  current:
+    us: 152100
+  projected:
+    us: 163700
+  change:
+    us: 0.077
 wage:
   hourly:
     us: 10.89

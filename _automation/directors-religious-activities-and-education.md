@@ -6,7 +6,12 @@ soc:
   title: Directors, Religious Activities and Education
   definition: 'Plan, direct, or coordinate programs designed to promote the religious education or activities of a denominational group. May provide counseling and guidance relative to marital, health, financial, and religious problems.'
 employment:
-  us: 20590
+  current:
+    us: 147100
+  projected:
+    us: 157800
+  change:
+    us: 0.073
 wage:
   hourly:
     us: 21.56

@@ -6,7 +6,12 @@ soc:
   title: Assemblers and Fabricators, All Other
   definition: 'All assemblers and fabricators not listed separately.'
 employment:
-  us: 230310
+  current:
+    us: 232400
+  projected:
+    us: 200300
+  change:
+    us: -0.138
 wage:
   hourly:
     us: 14.93

@@ -6,7 +6,12 @@ soc:
   title: Personal Financial Advisors
   definition: 'Advise clients on financial plans using knowledge of tax and investment strategies, securities, insurance, pension plans, and real estate. Duties include assessing clients'' assets, liabilities, cash flow, insurance coverage, tax status, and financial objectives.'
 employment:
-  us: 201850
+  current:
+    us: 271900
+  projected:
+    us: 311200
+  change:
+    us: 0.144
 wage:
   hourly:
     us: 59.18

@@ -6,7 +6,12 @@ soc:
   title: Mental Health Counselors
   definition: 'Counsel with emphasis on prevention. Work with individuals and groups to promote optimum mental and emotional health. May help individuals deal with issues associated with addictions and substance abuse; family, parenting, and marital problems; stress management; self-esteem; and aging. Excludes “Social Workers" (21-1021 through 21-1029), "Psychiatrists" (29-1066), and "Psychologists" (19-3031 through 19-3039).'
 employment:
-  us: 139820
+  current:
+    us: 157700
+  projected:
+    us: 188900
+  change:
+    us: 0.198
 wage:
   hourly:
     us: 22.14
@@ -17,3 +22,18 @@ probability:
 rank:
   oxford: 25
 ---
+
+* Ellie is a virtual therapist funded by the Defense Advanced Research Projects Agency (DARPA) that can detect signs of depression and PTSD in veterans by tracking and responding to visual and verbal cues.[^1]
+* [Woebot][2] is an app that delivers mental health therapy for between $6 to $12 a week.[^2]
+* Technologies to analyze emotional responses from faces and voice already exceed the skills of an average human, and in some cases even the most skilled humans.[^3]
+
+[^1]:	[From cancer screening to better beer, bots are building a brighter future][1]
+
+[^2]:	[Artificial intelligence is developing drugs, detecting diseases, and acting as your personal therapist][3]
+
+[^3]:	[Voice and facial recognition could help AI surpass humans in emotional intelligence][4]
+
+[1]:	http://ift.tt/2wjeCQb
+[2]:	https://woebot.io/
+[3]:	http://ift.tt/2gpAKlH
+[4]:	http://ift.tt/2yqbXHz

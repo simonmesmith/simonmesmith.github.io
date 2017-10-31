@@ -6,7 +6,12 @@ soc:
   title: Floral Designers
   definition: 'Design, cut, and arrange live, dried, or artificial flowers and foliage.'
 employment:
-  us: 43990
+  current:
+    us: 55000
+  projected:
+    us: 51700
+  change:
+    us: -0.059
 wage:
   hourly:
     us: 13.27

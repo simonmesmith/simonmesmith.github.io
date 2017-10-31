@@ -6,7 +6,12 @@ soc:
   title: Production Workers, All Other
   definition: 'All production workers not listed separately.'
 employment:
-  us: 251670
+  current:
+    us: 263500
+  projected:
+    us: 276300
+  change:
+    us: 0.049
 wage:
   hourly:
     us: 15.57

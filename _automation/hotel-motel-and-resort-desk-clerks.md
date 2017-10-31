@@ -6,7 +6,12 @@ soc:
   title: Hotel, Motel, and Resort Desk Clerks
   definition: 'Accommodate hotel, motel, and resort patrons by registering and assigning rooms to guests, issuing room keys or cards, transmitting and receiving messages, keeping records of occupied rooms and guests'' accounts, making and confirming reservations, and presenting statements to and collecting payments from departing guests.'
 employment:
-  us: 248440
+  current:
+    us: 252600
+  projected:
+    us: 263900
+  change:
+    us: 0.045
 wage:
   hourly:
     us: 11.32

@@ -6,7 +6,12 @@ soc:
   title: Nonfarm Animal Caretakers
   definition: 'Feed, water, groom, bathe, exercise, or otherwise care for pets and other nonfarm animals, such as dogs, cats, ornamental fish or birds, zoo animals, and mice. Work in settings such as kennels, animal shelters, zoos, circuses, and aquariums. May keep records of feedings, treatments, and animals received or discharged. May clean, disinfect, and repair cages, pens, or fish tanks. Excludes "Veterinary Assistants and Laboratory Animal Caretakers" (31-9096).'
 employment:
-  us: 187360
+  current:
+    us: 241500
+  projected:
+    us: 294400
+  change:
+    us: 0.219
 wage:
   hourly:
     us: 11.74

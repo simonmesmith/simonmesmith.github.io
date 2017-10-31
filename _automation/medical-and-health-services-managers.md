@@ -6,7 +6,12 @@ soc:
   title: Medical and Health Services Managers
   definition: 'Plan, direct, or coordinate medical and health services in hospitals, clinics, managed care organizations, public health agencies, or similar organizations.'
 employment:
-  us: 332150
+  current:
+    us: 352200
+  projected:
+    us: 422000
+  change:
+    us: 0.198
 wage:
   hourly:
     us: 52.58

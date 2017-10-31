@@ -6,7 +6,12 @@ soc:
   title: Physicians and Surgeons, All Other
   definition: 'All physicians and surgeons not listed separately.'
 employment:
-  us: 338620
+  current:
+    us: 372400
+  projected:
+    us: 422000
+  change:
+    us: 0.133
 wage:
   hourly:
     us: 98.83

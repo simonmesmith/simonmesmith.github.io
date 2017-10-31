@@ -6,7 +6,12 @@ soc:
   title: Cutters and Trimmers, Hand
   definition: 'Use hand tools or hand-held power tools to cut and trim a variety of manufactured items, such as carpet, fabric, stone, glass, or rubber.'
 employment:
-  us: 14250
+  current:
+    us: 14700
+  projected:
+    us: 13200
+  change:
+    us: -0.1
 wage:
   hourly:
     us: 14.22

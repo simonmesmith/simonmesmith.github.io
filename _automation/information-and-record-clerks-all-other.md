@@ -6,7 +6,12 @@ soc:
   title: Information and Record Clerks, All Other
   definition: 'All information and record clerks not listed separately.'
 employment:
-  us: 166850
+  current:
+    us: 178100
+  projected:
+    us: 191700
+  change:
+    us: 0.076
 wage:
   hourly:
     us: 19.28

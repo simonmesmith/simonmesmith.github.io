@@ -6,7 +6,12 @@ soc:
   title: Reporters and Correspondents
   definition: 'Collect and analyze facts about newsworthy events by interview, investigation, or observation. Report and write stories for newspaper, news magazine, radio, or television. Excludes "Broadcast News Analysts" (27-3021).'
 employment:
-  us: 40090
+  current:
+    us: 44700
+  projected:
+    us: 40000
+  change:
+    us: -0.107
 wage:
   hourly:
     us: 23.93

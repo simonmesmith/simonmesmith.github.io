@@ -6,7 +6,12 @@ soc:
   title: Education Administrators, All Other
   definition: 'All education administrators not listed separately.'
 employment:
-  us: 34140
+  current:
+    us: 38400
+  projected:
+    us: 42400
+  change:
+    us: 0.104
 wage:
   hourly:
     us: 40.58

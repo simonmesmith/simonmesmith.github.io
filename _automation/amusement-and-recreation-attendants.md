@@ -6,7 +6,12 @@ soc:
   title: Amusement and Recreation Attendants
   definition: 'Perform a variety of attending duties at amusement or recreation facility. May schedule use of recreation facilities, maintain and provide equipment to participants of sporting events or recreational pursuits, or operate amusement concessions and rides.'
 employment:
-  us: 286740
+  current:
+    us: 300000
+  projected:
+    us: 327800
+  change:
+    us: 0.093
 wage:
   hourly:
     us: 10.58

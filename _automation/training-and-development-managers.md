@@ -6,7 +6,12 @@ soc:
   title: Training and Development Managers
   definition: 'Plan, direct, or coordinate the training and development activities and staff of an organization.'
 employment:
-  us: 32880
+  current:
+    us: 34500
+  projected:
+    us: 38100
+  change:
+    us: 0.103
 wage:
   hourly:
     us: 55.37

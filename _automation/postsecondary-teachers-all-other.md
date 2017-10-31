@@ -6,7 +6,12 @@ soc:
   title: Postsecondary Teachers, All Other
   definition: 'All postsecondary teachers not listed separately.'
 employment:
-  us: 194870
+  current:
+    us: 236500
+  projected:
+    us: 258700
+  change:
+    us: 0.094
 wage:
   hourly:
     us: 

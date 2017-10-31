@@ -6,7 +6,12 @@ soc:
   title: Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend drilling machines to drill, bore, ream, mill, or countersink metal or plastic work pieces.'
 employment:
-  us: 12290
+  current:
+    us: 12300
+  projected:
+    us: 9900
+  change:
+    us: -0.194
 wage:
   hourly:
     us: 18.69

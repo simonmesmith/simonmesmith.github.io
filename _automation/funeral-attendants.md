@@ -6,7 +6,12 @@ soc:
   title: Funeral Attendants
   definition: 'Perform a variety of tasks during funeral, such as placing casket in parlor or chapel prior to service; arranging floral offerings or lights around casket; directing or escorting mourners; closing casket; and issuing and storing funeral equipment.'
 employment:
-  us: 35770
+  current:
+    us: 36100
+  projected:
+    us: 37000
+  change:
+    us: 0.027
 wage:
   hourly:
     us: 13.03

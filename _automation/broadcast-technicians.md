@@ -6,7 +6,12 @@ soc:
   title: Broadcast Technicians
   definition: 'Set up, operate, and maintain the electronic equipment used to transmit radio and television programs. Control audio equipment to regulate volume level and quality of sound during radio and television broadcasts. Operate transmitter to broadcast radio or television programs.'
 employment:
-  us: 30330
+  current:
+    us: 34000
+  projected:
+    us: 32900
+  change:
+    us: -0.032
 wage:
   hourly:
     us: 21.84

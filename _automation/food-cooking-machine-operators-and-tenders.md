@@ -6,7 +6,12 @@ soc:
   title: Food Cooking Machine Operators and Tenders
   definition: 'Operate or tend cooking equipment, such as steam cooking vats, deep fry cookers, pressure cookers, kettles, and boilers, to prepare food products. Excludes “Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders" (51-3091).'
 employment:
-  us: 36520
+  current:
+    us: 37200
+  projected:
+    us: 38100
+  change:
+    us: 0.026
 wage:
   hourly:
     us: 14.58

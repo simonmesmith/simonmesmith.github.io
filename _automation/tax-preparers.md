@@ -6,7 +6,12 @@ soc:
   title: Tax Preparers
   definition: 'Prepare tax returns for individuals or small businesses. Excludes “Accountants and Auditors” (13-2011).'
 employment:
-  us: 70030
+  current:
+    us: 95900
+  projected:
+    us: 106300
+  change:
+    us: 0.108
 wage:
   hourly:
     us: 21.8

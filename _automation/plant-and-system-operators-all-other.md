@@ -6,7 +6,12 @@ soc:
   title: Plant and System Operators, All Other
   definition: 'All plant and system operators not listed separately.'
 employment:
-  us: 11970
+  current:
+    us: 12100
+  projected:
+    us: 12400
+  change:
+    us: 0.019
 wage:
   hourly:
     us: 26.61

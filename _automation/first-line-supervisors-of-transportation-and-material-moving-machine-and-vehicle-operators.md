@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
   definition: 'Directly supervise and coordinate activities of transportation and material-moving machine and vehicle operators and helpers.'
 employment:
-  us: 202760
+  current:
+    us: 204200
+  projected:
+    us: 217700
+  change:
+    us: 0.066
 wage:
   hourly:
     us: 28.75

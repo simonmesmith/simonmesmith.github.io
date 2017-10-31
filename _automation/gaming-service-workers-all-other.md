@@ -6,7 +6,12 @@ soc:
   title: Gaming Service Workers, All Other
   definition: 'All gaming service workers not listed separately.'
 employment:
-  us: 12140
+  current:
+    us: 12500
+  projected:
+    us: 12600
+  change:
+    us: 0.007
 wage:
   hourly:
     us: 13.61

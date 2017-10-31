@@ -6,7 +6,12 @@ soc:
   title: Detectives and Criminal Investigators
   definition: 'Conduct investigations related to suspected violations of Federal, State, or local laws to prevent or solve crimes. Excludes "Private Detectives and Investigators" (33-9021).'
 employment:
-  us: 104980
+  current:
+    us: 110900
+  projected:
+    us: 115900
+  change:
+    us: 0.045
 wage:
   hourly:
     us: 39.18

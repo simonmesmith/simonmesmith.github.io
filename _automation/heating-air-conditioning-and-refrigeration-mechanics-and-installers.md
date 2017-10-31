@@ -6,7 +6,12 @@ soc:
   title: Heating, Air Conditioning, and Refrigeration Mechanics and Installers
   definition: 'Install or repair heating, central air conditioning, or refrigeration systems, including oil burners, hot-air furnaces, and heating stoves.'
 employment:
-  us: 294730
+  current:
+    us: 332900
+  projected:
+    us: 382000
+  change:
+    us: 0.147
 wage:
   hourly:
     us: 23.23

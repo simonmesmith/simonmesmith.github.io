@@ -6,7 +6,12 @@ soc:
   title: Medical and Clinical Laboratory Technicians
   definition: 'Perform routine medical laboratory tests for the diagnosis, treatment, and prevention of disease. May work under the supervision of a medical technologist.'
 employment:
-  us: 160190
+  current:
+    us: 164200
+  projected:
+    us: 187200
+  change:
+    us: 0.14
 wage:
   hourly:
     us: 20.05

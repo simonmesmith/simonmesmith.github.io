@@ -6,7 +6,12 @@ soc:
   title: Health Diagnosing and Treating Practitioners, All Other
   definition: 'All health diagnosing and treating practitioners not listed separately.'
 employment:
-  us: 36280
+  current:
+    us: 56400
+  projected:
+    us: 62900
+  change:
+    us: 0.114
 wage:
   hourly:
     us: 40.77

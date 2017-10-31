@@ -9,7 +9,7 @@ layout: base
   <article role="main" class="automation">
 
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-3">
         {% assign probability = page.probability.oxford | times: 100 %}
         <div class="panel panel-{% if probability < 11 %}success{% elsif probability < 76 %}warning{% else %}danger{% endif %}">
           <div class="panel-heading">
@@ -20,17 +20,28 @@ layout: base
           </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="panel panel-default">
+      <div class="col-md-3">
+        {% assign change = page.employment.change.us | times: 100 %}
+        <div class="panel panel-{% if change > 8.35 %}success{% elsif change < 0 %}danger{% else %}warning{% endif %}">
           <div class="panel-heading">
-            <h3 class="panel-title">{{ page.employment.us }} employed</h3>
+            <h3 class="panel-title">{{ change }}% growth</h3>
           </div>
           <div class="panel-body">
-            in the US
+            projected to 2026
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">{{ page.employment.current.us }} employed</h3>
+          </div>
+          <div class="panel-body">
+            currently in the US
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">
@@ -74,7 +85,7 @@ layout: base
       </li>
     {% endfor %}
     {% if sources.size > 0 %}
-      </ul> 
+      </ul>
     {% endif %}
 
     {% assign entities = site.entities | where:'categories', 'companies' %}

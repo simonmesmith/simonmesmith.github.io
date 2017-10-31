@@ -6,7 +6,12 @@ soc:
   title: Designers, All Other
   definition: 'All designers not listed separately.'
 employment:
-  us: 7230
+  current:
+    us: 9000
+  projected:
+    us: 9500
+  change:
+    us: 0.064
 wage:
   hourly:
     us: 30.42

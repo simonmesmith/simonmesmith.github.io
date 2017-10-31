@@ -6,7 +6,12 @@ soc:
   title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
   definition: 'Sell goods for wholesalers or manufacturers to businesses or groups of individuals. Work requires substantial knowledge of items sold.'
 employment:
-  us: 1404050
+  current:
+    us: 1469900
+  projected:
+    us: 1551000
+  change:
+    us: 0.055
 wage:
   hourly:
     us: 32.89

@@ -6,7 +6,12 @@ soc:
   title: Pressers, Textile, Garment, and Related Materials
   definition: 'Press or shape articles by hand or machine.'
 employment:
-  us: 45150
+  current:
+    us: 45000
+  projected:
+    us: 42000
+  change:
+    us: -0.067
 wage:
   hourly:
     us: 10.71

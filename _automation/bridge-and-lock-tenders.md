@@ -6,7 +6,12 @@ soc:
   title: Bridge and Lock Tenders
   definition: 'Operate and tend bridges, canal locks, and lighthouses to permit marine passage on inland waterways, near shores, and at danger points in waterway passages. May supervise such operations. Includes drawbridge operators, lock operators, and slip bridge operators.'
 employment:
-  us: 3510
+  current:
+    us: 3700
+  projected:
+    us: 3800
+  change:
+    us: 0.049
 wage:
   hourly:
     us: 22.44

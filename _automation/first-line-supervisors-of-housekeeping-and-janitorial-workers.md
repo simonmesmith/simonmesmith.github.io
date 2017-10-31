@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Housekeeping and Janitorial Workers
   definition: 'Directly supervise and coordinate work activities of cleaning personnel in hotels, hospitals, offices, and other establishments.'
 employment:
-  us: 161140
+  current:
+    us: 243500
+  projected:
+    us: 264400
+  change:
+    us: 0.086
 wage:
   hourly:
     us: 19.83

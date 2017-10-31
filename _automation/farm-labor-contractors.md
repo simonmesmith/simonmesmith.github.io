@@ -6,7 +6,12 @@ soc:
   title: Farm Labor Contractors
   definition: 'Recruit and hire seasonal or temporary agricultural laborers. May transport, house, and provide meals for workers.'
 employment:
-  us: 810
+  current:
+    us: 3000
+  projected:
+    us: 3200
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 22.74

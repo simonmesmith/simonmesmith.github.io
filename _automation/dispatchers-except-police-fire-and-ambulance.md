@@ -6,7 +6,12 @@ soc:
   title: Dispatchers, Except Police, Fire, and Ambulance
   definition: 'Schedule and dispatch workers, work crews, equipment, or service vehicles for conveyance of materials, freight, or passengers, or for normal installation, service, or emergency repairs rendered outside the place of business. Duties may include using radio, telephone, or computer to transmit assignments and compiling statistics and reports on work progress.'
 employment:
-  us: 197910
+  current:
+    us: 201700
+  projected:
+    us: 201700
+  change:
+    us: 0
 wage:
   hourly:
     us: 19.8

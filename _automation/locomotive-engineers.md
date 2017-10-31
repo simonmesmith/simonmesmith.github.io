@@ -6,7 +6,12 @@ soc:
   title: Locomotive Engineers
   definition: 'Drive electric, diesel-electric, steam, or gas-turbine-electric locomotives to transport passengers or freight. Interpret train orders, electronic or manual signals, and railroad rules and regulations.'
 employment:
-  us: 39900
+  current:
+    us: 38800
+  projected:
+    us: 37700
+  change:
+    us: -0.028
 wage:
   hourly:
     us: 29.34

@@ -6,7 +6,12 @@ soc:
   title: Electrical and Electronic Equipment Assemblers
   definition: 'Assemble or modify electrical or electronic equipment, such as computers, test equipment telemetering systems, electric motors, and batteries.'
 employment:
-  us: 218530
+  current:
+    us: 218900
+  projected:
+    us: 173600
+  change:
+    us: -0.207
 wage:
   hourly:
     us: 16.2

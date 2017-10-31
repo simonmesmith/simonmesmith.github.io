@@ -6,7 +6,12 @@ soc:
   title: Food Service Managers
   definition: 'Plan, direct, or coordinate activities of an organization or department that serves food and beverages. Excludes “Chefs and Head Cooks” (35-1011).'
 employment:
-  us: 201470
+  current:
+    us: 308700
+  projected:
+    us: 336000
+  change:
+    us: 0.088
 wage:
   hourly:
     us: 26.93

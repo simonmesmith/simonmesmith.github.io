@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of All Other Tactical Operations Specialists
   definition: 'Supervise and coordinate the activities of all other tactical operations specialists not classified separately above. Supervisors may also perform the same activities as the workers they supervise.'
 employment:
-  us: #N/A
+  current:
+    us: #N/A
+  projected:
+    us: #N/A
+  change:
+    us: #N/A
 wage:
   hourly:
     us: #N/A

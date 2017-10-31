@@ -6,7 +6,12 @@ soc:
   title: Respiratory Therapists
   definition: 'Assess, treat, and care for patients with breathing disorders. Assume primary responsibility for all respiratory care modalities, including the supervision of respiratory therapy technicians. Initiate and conduct therapeutic procedures; maintain patient records; and select, assemble, check, and operate equipment.'
 employment:
-  us: 126770
+  current:
+    us: 130200
+  projected:
+    us: 160600
+  change:
+    us: 0.234
 wage:
   hourly:
     us: 29.15

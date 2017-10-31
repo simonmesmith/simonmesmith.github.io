@@ -6,7 +6,12 @@ soc:
   title: Entertainers and Performers, Sports and Related Workers, All Other
   definition: 'All entertainers and performers, sports and related workers not listed separately.'
 employment:
-  us: 13150
+  current:
+    us: 26700
+  projected:
+    us: 28900
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 23.2

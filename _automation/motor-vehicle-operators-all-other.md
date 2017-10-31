@@ -6,7 +6,12 @@ soc:
   title: Motor Vehicle Operators, All Other
   definition: 'All motor vehicle operators not listed separately.'
 employment:
-  us: 53680
+  current:
+    us: 56200
+  projected:
+    us: 62000
+  change:
+    us: 0.103
 wage:
   hourly:
     us: 15.83

@@ -6,7 +6,12 @@ soc:
   title: Social Work Teachers, Postsecondary
   definition: 'Teach courses in social work. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 11860
+  current:
+    us: 14900
+  projected:
+    us: 16300
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 

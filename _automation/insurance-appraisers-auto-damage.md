@@ -6,7 +6,12 @@ soc:
   title: Insurance Appraisers, Auto Damage
   definition: 'Appraise automobile or other vehicle damage to determine repair costs for insurance claim settlement. Prepare insurance forms to indicate repair cost or cost estimates and recommendations. May seek agreement with automotive repair shop on repair costs.'
 employment:
-  us: 15130
+  current:
+    us: 17600
+  projected:
+    us: 18500
+  change:
+    us: 0.049
 wage:
   hourly:
     us: 31.7

@@ -6,7 +6,12 @@ soc:
   title: Signal and Track Switch Repairers
   definition: 'Install, inspect, test, maintain, or repair electric gate crossings, signals, signal equipment, track switches, section lines, or intercommunications systems within a railroad system.'
 employment:
-  us: 8680
+  current:
+    us: 10000
+  projected:
+    us: 10100
+  change:
+    us: 0.011
 wage:
   hourly:
     us: 30.15

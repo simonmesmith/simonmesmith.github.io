@@ -6,7 +6,12 @@ soc:
   title: Adult Basic and Secondary Education and Literacy Teachers and Instructors
   definition: 'Teach or instruct out-of-school youths and adults in remedial education classes, preparatory classes for the General Educational Development test, literacy, or English as a Second Language. Teaching may or may not take place in a traditional educational institution.'
 employment:
-  us: 58810
+  current:
+    us: 68200
+  projected:
+    us: 64300
+  change:
+    us: -0.056
 wage:
   hourly:
     us: 26.51

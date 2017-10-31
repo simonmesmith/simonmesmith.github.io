@@ -6,7 +6,12 @@ soc:
   title: Microbiologists
   definition: 'Investigate the growth, structure, development, and other characteristics of microscopic organisms, such as bacteria, algae, or fungi. Includes medical microbiologists who study the relationship between organisms and disease or the effects of antibiotics on microorganisms.'
 employment:
-  us: 21670
+  current:
+    us: 23200
+  projected:
+    us: 25100
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 36.95

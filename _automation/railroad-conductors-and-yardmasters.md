@@ -6,7 +6,12 @@ soc:
   title: Railroad Conductors and Yardmasters
   definition: 'Coordinate activities of switch-engine crew within railroad yard, industrial plant, or similar location. Conductors coordinate activities of train crew on passenger or freight trains. Yardmasters review train schedules and switching orders and coordinate activities of workers engaged in railroad traffic operations, such as the makeup or breakup of trains and yard switching.'
 employment:
-  us: 42880
+  current:
+    us: 41800
+  projected:
+    us: 41000
+  change:
+    us: -0.021
 wage:
   hourly:
     us: 27.99

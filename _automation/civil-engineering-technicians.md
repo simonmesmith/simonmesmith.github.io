@@ -6,7 +6,12 @@ soc:
   title: Civil Engineering Technicians
   definition: 'Apply theory and principles of civil engineering in planning, designing, and overseeing construction and maintenance of structures and facilities under the direction of engineering staff or physical scientists.'
 employment:
-  us: 72150
+  current:
+    us: 74500
+  projected:
+    us: 81100
+  change:
+    us: 0.088
 wage:
   hourly:
     us: 25.06

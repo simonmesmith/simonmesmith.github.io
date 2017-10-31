@@ -6,7 +6,12 @@ soc:
   title: Legal Support Workers, All Other
   definition: 'All legal support workers not listed separately.'
 employment:
-  us: 44960
+  current:
+    us: 50900
+  projected:
+    us: 52700
+  change:
+    us: 0.036
 wage:
   hourly:
     us: 31.81

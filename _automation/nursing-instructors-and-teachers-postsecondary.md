@@ -6,7 +6,12 @@ soc:
   title: Nursing Instructors and Teachers, Postsecondary
   definition: 'Demonstrate and teach patient care in classroom and clinical units to nursing students. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 56210
+  current:
+    us: 67900
+  projected:
+    us: 84200
+  change:
+    us: 0.24
 wage:
   hourly:
     us: 

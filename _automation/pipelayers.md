@@ -6,7 +6,12 @@ soc:
   title: Pipelayers
   definition: 'Lay pipe for storm or sanitation sewers, drains, and water mains. Perform any combination of the following tasks: grade trenches or culverts, position pipe, or seal joints. Excludes “Welders, Cutters, Solderers, and Brazers" (51-4121).'
 employment:
-  us: 39620
+  current:
+    us: 44100
+  projected:
+    us: 51700
+  change:
+    us: 0.173
 wage:
   hourly:
     us: 20.61

@@ -6,7 +6,12 @@ soc:
   title: Fabric and Apparel Patternmakers
   definition: 'Draw and construct sets of precision master fabric patterns or layouts. May also mark and cut fabrics and apparel.'
 employment:
-  us: 5310
+  current:
+    us: 5500
+  projected:
+    us: 4700
+  change:
+    us: -0.15
 wage:
   hourly:
     us: 23.3

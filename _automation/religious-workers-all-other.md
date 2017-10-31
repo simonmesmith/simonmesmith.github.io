@@ -6,7 +6,12 @@ soc:
   title: Religious Workers, All Other
   definition: 'All religious workers not listed separately.'
 employment:
-  us: 8250
+  current:
+    us: 53200
+  projected:
+    us: 57300
+  change:
+    us: 0.077
 wage:
   hourly:
     us: 16.49

@@ -6,7 +6,12 @@ soc:
   title: Subway and Streetcar Operators
   definition: 'Operate subway or elevated suburban trains with no separate locomotive, or electric-powered streetcar, to transport passengers. May handle fares.'
 employment:
-  us: 12350
+  current:
+    us: 12800
+  projected:
+    us: 13400
+  change:
+    us: 0.041
 wage:
   hourly:
     us: 29.99

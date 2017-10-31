@@ -6,7 +6,12 @@ soc:
   title: Agricultural Inspectors
   definition: 'Inspect agricultural commodities, processing equipment, and facilities, and fish and logging operations, to ensure compliance with regulations and laws governing health, quality, and safety.'
 employment:
-  us: 14710
+  current:
+    us: 15600
+  projected:
+    us: 16300
+  change:
+    us: 0.046
 wage:
   hourly:
     us: 21.28

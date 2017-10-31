@@ -6,7 +6,12 @@ soc:
   title: Dishwashers
   definition: 'Clean dishes, kitchen, food preparation equipment, or utensils.'
 employment:
-  us: 506450
+  current:
+    us: 514300
+  projected:
+    us: 536600
+  change:
+    us: 0.043
 wage:
   hourly:
     us: 10.22

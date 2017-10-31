@@ -6,7 +6,12 @@ soc:
   title: Pourers and Casters, Metal
   definition: 'Operate hand-controlled mechanisms to pour and regulate the flow of molten metal into molds to produce castings or ingots.'
 employment:
-  us: 8560
+  current:
+    us: 8400
+  projected:
+    us: 6500
+  change:
+    us: -0.234
 wage:
   hourly:
     us: 17.93

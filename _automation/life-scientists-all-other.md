@@ -6,7 +6,12 @@ soc:
   title: Life Scientists, All Other
   definition: 'All life scientists not listed separately.'
 employment:
-  us: 7890
+  current:
+    us: 8900
+  projected:
+    us: 9700
+  change:
+    us: 0.09
 wage:
   hourly:
     us: 39.98

@@ -6,7 +6,12 @@ soc:
   title: Woodworkers, All Other
   definition: 'All woodworkers not listed separately.'
 employment:
-  us: 6750
+  current:
+    us: 12100
+  projected:
+    us: 12600
+  change:
+    us: 0.041
 wage:
   hourly:
     us: 15.28

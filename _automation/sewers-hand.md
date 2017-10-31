@@ -6,7 +6,12 @@ soc:
   title: Sewers, Hand
   definition: 'Sew, join, reinforce, or finish, usually with needle and thread, a variety of manufactured items. Includes weavers and stitchers. Excludes “Fabric Menders, Except Garment" (49-9093).'
 employment:
-  us: 6540
+  current:
+    us: 13500
+  projected:
+    us: 12900
+  change:
+    us: -0.04
 wage:
   hourly:
     us: 12.32

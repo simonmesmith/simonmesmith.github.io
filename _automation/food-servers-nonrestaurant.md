@@ -6,7 +6,12 @@ soc:
   title: Food Servers, Nonrestaurant
   definition: 'Serve food to individuals outside of a restaurant environment, such as in hotel rooms, hospital rooms, residential care facilities, or cars. Excludes "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers" (41-9091) and "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop" (35-3022).'
 employment:
-  us: 261520
+  current:
+    us: 263800
+  projected:
+    us: 290700
+  change:
+    us: 0.102
 wage:
   hourly:
     us: 11.29

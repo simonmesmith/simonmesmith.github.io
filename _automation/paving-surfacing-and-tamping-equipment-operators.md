@@ -6,7 +6,12 @@ soc:
   title: Paving, Surfacing, and Tamping Equipment Operators
   definition: 'Operate equipment used for applying concrete, asphalt, or other materials to road beds, parking lots, or airport runways and taxiways, or equipment used for tamping gravel, dirt, or other materials. Includes concrete and asphalt paving machine operators, form tampers, tamping machine operators, and stone spreader operators.'
 employment:
-  us: 51880
+  current:
+    us: 51900
+  projected:
+    us: 58200
+  change:
+    us: 0.121
 wage:
   hourly:
     us: 21.06

@@ -6,7 +6,12 @@ soc:
   title: Computer Operators
   definition: 'Monitor and control electronic computer and peripheral electronic data processing equipment to process business, scientific, engineering, and other data according to operating instructions. Monitor and respond to operating and error messages. May enter commands at a computer terminal and set controls on computer and peripheral devices. Excludes “Computer Occupations” (15-1100) and "Data Entry Keyers" (43-9021).'
 employment:
-  us: 46810
+  current:
+    us: 51500
+  projected:
+    us: 39700
+  change:
+    us: -0.229
 wage:
   hourly:
     us: 21.1

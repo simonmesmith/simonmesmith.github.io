@@ -6,7 +6,12 @@ soc:
   title: Graders and Sorters, Agricultural Products
   definition: 'Grade, sort, or classify unprocessed food and other agricultural products by size, weight, color, or condition. Excludes “Agricultural Inspectors" (45-2011).'
 employment:
-  us: 38780
+  current:
+    us: 42900
+  projected:
+    us: 42500
+  change:
+    us: -0.009
 wage:
   hourly:
     us: 11.68

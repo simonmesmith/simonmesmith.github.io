@@ -6,7 +6,12 @@ soc:
   title: Agricultural Workers, All Other
   definition: 'All agricultural workers not listed separately.'
 employment:
-  us: 5040
+  current:
+    us: 11600
+  projected:
+    us: 12100
+  change:
+    us: 0.045
 wage:
   hourly:
     us: 16.88

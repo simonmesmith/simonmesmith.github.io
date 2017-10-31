@@ -6,7 +6,12 @@ soc:
   title: Railroad Brake, Signal, and Switch Operators
   definition: 'Operate railroad track switches. Couple or uncouple rolling stock to make up or break up trains. Signal engineers by hand or flagging. May inspect couplings, air hoses, journal boxes, and hand brakes.'
 employment:
-  us: 19860
+  current:
+    us: 19300
+  projected:
+    us: 19000
+  change:
+    us: -0.016
 wage:
   hourly:
     us: 26.6

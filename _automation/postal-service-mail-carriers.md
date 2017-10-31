@@ -6,7 +6,12 @@ soc:
   title: Postal Service Mail Carriers
   definition: 'Sort mail for delivery. Deliver mail on established route by vehicle or on foot.'
 employment:
-  us: 328950
+  current:
+    us: 316700
+  projected:
+    us: 278500
+  change:
+    us: -0.121
 wage:
   hourly:
     us: 24.33

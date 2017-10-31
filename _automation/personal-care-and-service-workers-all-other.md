@@ -6,7 +6,12 @@ soc:
   title: Personal Care and Service Workers, All Other
   definition: 'All personal care and service workers not listed separately.'
 employment:
-  us: 54520
+  current:
+    us: 88900
+  projected:
+    us: 94900
+  change:
+    us: 0.068
 wage:
   hourly:
     us: 13.2

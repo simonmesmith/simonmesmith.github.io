@@ -6,7 +6,12 @@ soc:
   title: Eligibility Interviewers, Government Programs
   definition: 'Determine eligibility of persons applying to receive assistance from government programs and agency resources, such as welfare, unemployment benefits, social security, and public housing.'
 employment:
-  us: 135940
+  current:
+    us: 143100
+  projected:
+    us: 151600
+  change:
+    us: 0.06
 wage:
   hourly:
     us: 20.94

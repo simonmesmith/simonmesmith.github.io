@@ -6,7 +6,12 @@ soc:
   title: Transportation Attendants, Except Flight Attendants
   definition: 'Provide services to ensure the safety and comfort of passengers aboard ships, buses, trains, or within the station or terminal. Perform duties such as greeting passengers, explaining the use of safety equipment, serving meals or beverages, or answering questions related to travel. Excludes “Baggage Porters and Bellhops” (39-6011).'
 employment:
-  us: 18410
+  current:
+    us: 18500
+  projected:
+    us: 20000
+  change:
+    us: 0.084
 wage:
   hourly:
     us: 14.94

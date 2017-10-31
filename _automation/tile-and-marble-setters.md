@@ -6,7 +6,12 @@ soc:
   title: Tile and Marble Setters
   definition: 'Apply hard tile, marble, and wood tile to walls, floors, ceilings, and roof decks.'
 employment:
-  us: 36830
+  current:
+    us: 58300
+  projected:
+    us: 64200
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 21.52

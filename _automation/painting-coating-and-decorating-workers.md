@@ -6,7 +6,12 @@ soc:
   title: Painting, Coating, and Decorating Workers
   definition: 'Paint, coat, or decorate articles, such as furniture, glass, plateware, pottery, jewelry, toys, books, or leather. Excludes “Artists and Related Workers" (27-1010), "Designers" (27-1020), "Photographic Process Workers and Processing Machine Operators" (51-9151), and "Etchers and Engravers" (51-9194).'
 employment:
-  us: 15450
+  current:
+    us: 16300
+  projected:
+    us: 16500
+  change:
+    us: 0.011
 wage:
   hourly:
     us: 15.4

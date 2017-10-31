@@ -6,7 +6,12 @@ soc:
   title: Electrical and Electronic Engineering Technicians
   definition: 'Apply electrical and electronic theory and related knowledge, usually under the direction of engineering staff, to design, build, repair, calibrate, and modify electrical components, circuitry, controls, and machinery for subsequent evaluation and use by engineering staff in making engineering design decisions. Excludes “Broadcast Technicians" (27-4012).'
 employment:
-  us: 134870
+  current:
+    us: 137000
+  projected:
+    us: 139800
+  change:
+    us: 0.02
 wage:
   hourly:
     us: 30.27

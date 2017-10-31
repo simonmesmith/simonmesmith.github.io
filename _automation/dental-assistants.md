@@ -6,7 +6,12 @@ soc:
   title: Dental Assistants
   definition: 'Assist dentist, set up equipment, prepare patient for treatment, and keep records.'
 employment:
-  us: 327290
+  current:
+    us: 332000
+  projected:
+    us: 396600
+  change:
+    us: 0.195
 wage:
   hourly:
     us: 18.22

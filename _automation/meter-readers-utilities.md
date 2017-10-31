@@ -6,7 +6,12 @@ soc:
   title: Meter Readers, Utilities
   definition: 'Read meter and record consumption of electricity, gas, water, or steam.'
 employment:
-  us: 34070
+  current:
+    us: 34800
+  projected:
+    us: 33200
+  change:
+    us: -0.044
 wage:
   hourly:
     us: 20.14

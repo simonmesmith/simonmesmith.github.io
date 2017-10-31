@@ -6,7 +6,12 @@ soc:
   title: Medical Equipment Repairers
   definition: 'Test, adjust, or repair biomedical or electromedical equipment.'
 employment:
-  us: 43370
+  current:
+    us: 47100
+  projected:
+    us: 49600
+  change:
+    us: 0.053
 wage:
   hourly:
     us: 24.48

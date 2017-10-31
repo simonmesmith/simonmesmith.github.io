@@ -6,7 +6,12 @@ soc:
   title: Counselors, All Other
   definition: 'All counselors not listed separately.'
 employment:
-  us: 28380
+  current:
+    us: 31800
+  projected:
+    us: 36300
+  change:
+    us: 0.143
 wage:
   hourly:
     us: 22.9

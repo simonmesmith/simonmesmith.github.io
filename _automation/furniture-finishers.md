@@ -6,7 +6,12 @@ soc:
   title: Furniture Finishers
   definition: 'Shape, finish, and refinish damaged, worn, or used furniture or new high-grade furniture to specified color or finish.'
 employment:
-  us: 17370
+  current:
+    us: 22400
+  projected:
+    us: 22900
+  change:
+    us: 0.025
 wage:
   hourly:
     us: 15.54

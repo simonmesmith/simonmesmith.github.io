@@ -6,7 +6,12 @@ soc:
   title: Printing Press Operators
   definition: 'Set up and operate digital, letterpress, lithographic, flexographic, gravure, or other printing machines. Includes short-run offset printing presses.'
 employment:
-  us: 169910
+  current:
+    us: 178700
+  projected:
+    us: 162000
+  change:
+    us: -0.094
 wage:
   hourly:
     us: 18.01

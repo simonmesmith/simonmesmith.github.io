@@ -6,7 +6,12 @@ soc:
   title: Parts Salespersons
   definition: 'Sell spare and replacement parts and equipment in repair shop or parts store.'
 employment:
-  us: 248740
+  current:
+    us: 251900
+  projected:
+    us: 264600
+  change:
+    us: 0.051
 wage:
   hourly:
     us: 15.97

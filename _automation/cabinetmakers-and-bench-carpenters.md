@@ -6,7 +6,12 @@ soc:
   title: Cabinetmakers and Bench Carpenters
   definition: 'Cut, shape, and assemble wooden articles or set up and operate a variety of woodworking machines, such as power saws, jointers, and mortisers to surface, cut, or shape lumber or to fabricate parts for wood products. Excludes “Woodworking Machine Setters, Operators, and Tenders" (51-7040).'
 employment:
-  us: 97980
+  current:
+    us: 109300
+  projected:
+    us: 113000
+  change:
+    us: 0.034
 wage:
   hourly:
     us: 16.73

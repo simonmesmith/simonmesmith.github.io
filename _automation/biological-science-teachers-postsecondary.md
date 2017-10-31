@@ -6,7 +6,12 @@ soc:
   title: Biological Science Teachers, Postsecondary
   definition: 'Teach courses in biological sciences. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 50820
+  current:
+    us: 62300
+  projected:
+    us: 71700
+  change:
+    us: 0.151
 wage:
   hourly:
     us: 

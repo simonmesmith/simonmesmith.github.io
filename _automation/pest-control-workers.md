@@ -6,7 +6,12 @@ soc:
   title: Pest Control Workers
   definition: 'Apply or release chemical solutions or toxic gases and set traps to kill or remove pests and vermin that infest buildings and surrounding areas.'
 employment:
-  us: 72830
+  current:
+    us: 78900
+  projected:
+    us: 85200
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 16.84

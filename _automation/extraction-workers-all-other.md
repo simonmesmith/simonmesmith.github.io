@@ -6,7 +6,12 @@ soc:
   title: Extraction Workers, All Other
   definition: 'All extraction workers not listed separately.'
 employment:
-  us: 4320
+  current:
+    us: 4200
+  projected:
+    us: 4800
+  change:
+    us: 0.159
 wage:
   hourly:
     us: 24.6

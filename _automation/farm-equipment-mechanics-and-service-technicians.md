@@ -6,7 +6,12 @@ soc:
   title: Farm Equipment Mechanics and Service Technicians
   definition: 'Diagnose, adjust, repair, or overhaul farm machinery and vehicles, such as tractors, harvesters, dairy equipment, and irrigation systems. Excludes “Bus and Truck Mechanics and Diesel Engine Specialists" (49-3031).'
 employment:
-  us: 35110
+  current:
+    us: 42500
+  projected:
+    us: 45600
+  change:
+    us: 0.074
 wage:
   hourly:
     us: 18.9

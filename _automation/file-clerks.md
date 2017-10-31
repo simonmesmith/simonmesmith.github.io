@@ -6,7 +6,12 @@ soc:
   title: File Clerks
   definition: 'File correspondence, cards, invoices, receipts, and other records in alphabetical or numerical order or according to the filing system used. Locate and remove material from file when requested.'
 employment:
-  us: 130950
+  current:
+    us: 135000
+  projected:
+    us: 121100
+  change:
+    us: -0.103
 wage:
   hourly:
     us: 15.03

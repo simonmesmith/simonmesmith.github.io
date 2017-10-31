@@ -6,7 +6,12 @@ soc:
   title: Commercial Divers
   definition: 'Work below surface of water, using scuba gear to inspect, repair, remove, or install equipment and structures. May use a variety of power and hand tools, such as drills, sledgehammers, torches, and welding equipment. May conduct tests or experiments, rig explosives, or photograph structures or marine life. Excludes “Fishers and Related Fishing Workers" (45-3011), "Athletes and Sports Competitors" (27-2021), and "Police and Sheriff''s Patrol Officers" (33-3051).'
 employment:
-  us: 3370
+  current:
+    us: 4100
+  projected:
+    us: 4500
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 25.96

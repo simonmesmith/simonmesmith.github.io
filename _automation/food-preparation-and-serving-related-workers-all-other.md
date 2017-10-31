@@ -6,7 +6,12 @@ soc:
   title: Food Preparation and Serving Related Workers, All Other
   definition: 'All food preparation and serving related workers not listed separately.'
 employment:
-  us: 59060
+  current:
+    us: 60900
+  projected:
+    us: 66500
+  change:
+    us: 0.093
 wage:
   hourly:
     us: 11.16

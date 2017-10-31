@@ -6,7 +6,12 @@ soc:
   title: Electronic Home Entertainment Equipment Installers and Repairers
   definition: 'Repair, adjust, or install audio or television receivers, stereo systems, camcorders, video systems, or other electronic home entertainment equipment.'
 employment:
-  us: 25550
+  current:
+    us: 31700
+  projected:
+    us: 32100
+  change:
+    us: 0.012
 wage:
   hourly:
     us: 18.91

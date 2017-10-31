@@ -6,7 +6,12 @@ soc:
   title: Clinical, Counseling, and School Psychologists
   definition: 'Diagnose and treat mental disorders; learning disabilities; and cognitive, behavioral, and emotional problems, using individual, child, family, and group therapies. May design and implement behavior modification programs.'
 employment:
-  us: 107980
+  current:
+    us: 147500
+  projected:
+    us: 168400
+  change:
+    us: 0.142
 wage:
   hourly:
     us: 37.83

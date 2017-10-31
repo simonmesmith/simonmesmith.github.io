@@ -6,7 +6,12 @@ soc:
   title: Rail Transportation Workers, All Other
   definition: 'All rail transportation workers not listed separately.'
 employment:
-  us: 4470
+  current:
+    us: 4600
+  projected:
+    us: 4800
+  change:
+    us: 0.032
 wage:
   hourly:
     us: 28.6

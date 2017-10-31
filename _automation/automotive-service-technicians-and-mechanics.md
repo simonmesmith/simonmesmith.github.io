@@ -6,7 +6,12 @@ soc:
   title: Automotive Service Technicians and Mechanics
   definition: 'Diagnose, adjust, repair, or overhaul automotive vehicles. Excludes “Automotive Body and Related Repairers" (49-3021), "Bus and Truck Mechanics and Diesel Engine Specialists" (49-3031), and "Electronic Equipment Installers and Repairers, Motor Vehicles" (49-2096).'
 employment:
-  us: 647380
+  current:
+    us: 749900
+  projected:
+    us: 797500
+  change:
+    us: 0.063
 wage:
   hourly:
     us: 19.9

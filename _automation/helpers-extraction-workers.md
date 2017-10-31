@@ -6,7 +6,12 @@ soc:
   title: Helpers--Extraction Workers
   definition: 'Help extraction craft workers, such as earth drillers, blasters and explosives workers, derrick operators, and mining machine operators, by performing duties requiring less skill. Duties include supplying equipment or cleaning work area. Apprentice workers are classified with the appropriate skilled construction trade occupation (47-2011 through 47-2231).'
 employment:
-  us: 17660
+  current:
+    us: 17000
+  projected:
+    us: 20300
+  change:
+    us: 0.197
 wage:
   hourly:
     us: 17.87

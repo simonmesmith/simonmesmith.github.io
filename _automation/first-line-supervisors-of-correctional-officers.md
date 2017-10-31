@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Correctional Officers
   definition: 'Directly supervise and coordinate activities of correctional officers and jailers.'
 employment:
-  us: 43230
+  current:
+    us: 45200
+  projected:
+    us: 41700
+  change:
+    us: -0.078
 wage:
   hourly:
     us: 31.3

@@ -6,7 +6,12 @@ soc:
   title: Hydrologists
   definition: 'Research the distribution, circulation, and physical properties of underground and surface waters; and study the form and intensity of precipitation, its rate of infiltration into the soil, movement through the earth, and its return to the ocean and atmosphere.'
 employment:
-  us: 6300
+  current:
+    us: 6700
+  projected:
+    us: 7400
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 40.26

@@ -6,7 +6,12 @@ soc:
   title: Meat, Poultry, and Fish Cutters and Trimmers
   definition: 'Use hand or hand tools to perform routine cutting and trimming of meat, poultry, and seafood.'
 employment:
-  us: 149800
+  current:
+    us: 156400
+  projected:
+    us: 157700
+  change:
+    us: 0.008
 wage:
   hourly:
     us: 12.27

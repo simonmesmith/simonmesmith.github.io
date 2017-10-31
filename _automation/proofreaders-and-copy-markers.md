@@ -6,7 +6,12 @@ soc:
   title: Proofreaders and Copy Markers
   definition: 'Read transcript or proof type setup to detect and mark for correction any grammatical, typographical, or compositional errors. Excludes workers whose primary duty is editing copy. Includes proofreaders of Braille.'
 employment:
-  us: 11430
+  current:
+    us: 14200
+  projected:
+    us: 14500
+  change:
+    us: 0.022
 wage:
   hourly:
     us: 19.06

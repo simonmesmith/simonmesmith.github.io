@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Mechanics, Installers, and Repairers
   definition: 'Directly supervise and coordinate the activities of mechanics, installers, and repairers. Excludes team or work leaders.'
 employment:
-  us: 453330
+  current:
+    us: 462200
+  projected:
+    us: 495000
+  change:
+    us: 0.071
 wage:
   hourly:
     us: 32.08

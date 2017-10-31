@@ -6,7 +6,12 @@ soc:
   title: Fabric Menders, Except Garment
   definition: 'Repair tears, holes, and other defects in fabrics, such as draperies, linens, parachutes, and tents.'
 employment:
-  us: 550
+  current:
+    us: 700
+  projected:
+    us: 600
+  change:
+    us: -0.076
 wage:
   hourly:
     us: 13.3

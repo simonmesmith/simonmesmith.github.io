@@ -6,7 +6,12 @@ soc:
   title: Pharmacists
   definition: 'Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use. May advise physicians and other health practitioners on the selection, dosage, interactions, and side effects of medications.'
 employment:
-  us: 305510
+  current:
+    us: 312500
+  projected:
+    us: 330100
+  change:
+    us: 0.056
 wage:
   hourly:
     us: 57.82

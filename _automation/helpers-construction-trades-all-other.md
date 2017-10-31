@@ -6,7 +6,12 @@ soc:
   title: Helpers, Construction Trades, All Other
   definition: 'All construction trades helpers not listed separately.'
 employment:
-  us: 21820
+  current:
+    us: 22100
+  projected:
+    us: 24800
+  change:
+    us: 0.121
 wage:
   hourly:
     us: 15.12

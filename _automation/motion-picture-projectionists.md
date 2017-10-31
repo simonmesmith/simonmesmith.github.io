@@ -6,7 +6,12 @@ soc:
   title: Motion Picture Projectionists
   definition: 'Set up and operate motion picture projection and related sound reproduction equipment.'
 employment:
-  us: 5480
+  current:
+    us: 5800
+  projected:
+    us: 5200
+  change:
+    us: -0.099
 wage:
   hourly:
     us: 11.9

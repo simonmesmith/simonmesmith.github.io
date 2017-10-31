@@ -6,7 +6,12 @@ soc:
   title: Philosophy and Religion Teachers, Postsecondary
   definition: 'Teach courses in philosophy, religion, and theology. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 23180
+  current:
+    us: 31800
+  projected:
+    us: 35700
+  change:
+    us: 0.123
 wage:
   hourly:
     us: 

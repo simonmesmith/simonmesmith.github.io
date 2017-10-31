@@ -6,7 +6,12 @@ soc:
   title: Architects, Except Landscape and Naval
   definition: 'Plan and design structures, such as private residences, office buildings, theaters, factories, and other structural property. Excludes “Landscape Architects” (17-1012) and “Marine Engineers and Naval Architects” (17-2121).'
 employment:
-  us: 99860
+  current:
+    us: 128800
+  projected:
+    us: 133900
+  change:
+    us: 0.04
 wage:
   hourly:
     us: 40.61

@@ -6,7 +6,12 @@ soc:
   title: Chefs and Head Cooks
   definition: 'Direct and may participate in the preparation, seasoning, and cooking of salads, soups, fish, meats, vegetables, desserts, or other foods. May plan and price menu items, order supplies, and keep records and accounts.'
 employment:
-  us: 134190
+  current:
+    us: 146500
+  projected:
+    us: 160500
+  change:
+    us: 0.096
 wage:
   hourly:
     us: 22.79

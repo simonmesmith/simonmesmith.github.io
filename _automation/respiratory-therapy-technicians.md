@@ -6,7 +6,12 @@ soc:
   title: Respiratory Therapy Technicians
   definition: 'Provide respiratory care under the direction of respiratory therapists and physicians.'
 employment:
-  us: 10600
+  current:
+    us: 10800
+  projected:
+    us: 4700
+  change:
+    us: -0.563
 wage:
   hourly:
     us: 24.29

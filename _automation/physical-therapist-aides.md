@@ -6,7 +6,12 @@ soc:
   title: Physical Therapist Aides
   definition: 'Under close supervision of a physical therapist or physical therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing the patient and the treatment area.'
 employment:
-  us: 50030
+  current:
+    us: 52000
+  projected:
+    us: 67100
+  change:
+    us: 0.291
 wage:
   hourly:
     us: 13.41

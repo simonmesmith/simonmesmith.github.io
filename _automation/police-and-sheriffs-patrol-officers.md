@@ -6,7 +6,12 @@ soc:
   title: Police and Sheriff's Patrol Officers
   definition: 'Maintain order and protect life and property by enforcing local, tribal, State, or Federal laws and ordinances. Perform a combination of the following duties: patrol a specific area; direct traffic; issue traffic summonses; investigate accidents; apprehend and arrest suspects, or serve legal processes of courts.'
 employment:
-  us: 657690
+  current:
+    us: 684200
+  projected:
+    us: 731900
+  change:
+    us: 0.07
 wage:
   hourly:
     us: 30.17

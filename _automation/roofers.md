@@ -6,7 +6,12 @@ soc:
   title: Roofers
   definition: 'Cover roofs of structures with shingles, slate, asphalt, aluminum, wood, or related materials. May spray roofs, sidings, and walls with material to bind, seal, insulate, or soundproof sections of structures.'
 employment:
-  us: 116410
+  current:
+    us: 146200
+  projected:
+    us: 162700
+  change:
+    us: 0.113
 wage:
   hourly:
     us: 20.23

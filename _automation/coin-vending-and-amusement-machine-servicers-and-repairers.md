@@ -6,7 +6,12 @@ soc:
   title: Coin, Vending, and Amusement Machine Servicers and Repairers
   definition: 'Install, service, adjust, or repair coin, vending, or amusement machines including video games, juke boxes, pinball machines, or slot machines.'
 employment:
-  us: 33600
+  current:
+    us: 36600
+  projected:
+    us: 32100
+  change:
+    us: -0.124
 wage:
   hourly:
     us: 16.76

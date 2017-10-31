@@ -6,7 +6,12 @@ soc:
   title: Baggage Porters and Bellhops
   definition: 'Handle baggage for travelers at transportation terminals or for guests at hotels or similar establishments.'
 employment:
-  us: 44750
+  current:
+    us: 45100
+  projected:
+    us: 48800
+  change:
+    us: 0.082
 wage:
   hourly:
     us: 11.97

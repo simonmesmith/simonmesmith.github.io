@@ -6,7 +6,12 @@ soc:
   title: Engineering Technicians, Except Drafters, All Other
   definition: 'All engineering technicians, except drafters, not listed separately.'
 employment:
-  us: 74290
+  current:
+    us: 76800
+  projected:
+    us: 80800
+  change:
+    us: 0.052
 wage:
   hourly:
     us: 30.8

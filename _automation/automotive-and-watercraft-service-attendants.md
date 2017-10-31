@@ -6,7 +6,12 @@ soc:
   title: Automotive and Watercraft Service Attendants
   definition: 'Service automobiles, buses, trucks, boats, and other automotive or marine vehicles with fuel, lubricants, and accessories. Collect payment for services and supplies. May lubricate vehicle, change motor oil, install antifreeze, or replace lights or other accessories, such as windshield wiper blades or fan belts. May repair or replace tires.'
 employment:
-  us: 109790
+  current:
+    us: 110000
+  projected:
+    us: 121700
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 11.67

@@ -6,7 +6,12 @@ soc:
   title: Athletes and Sports Competitors
   definition: 'Compete in athletic events.'
 employment:
-  us: 10260
+  current:
+    us: 11800
+  projected:
+    us: 12700
+  change:
+    us: 0.072
 wage:
   hourly:
     us: 

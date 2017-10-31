@@ -6,7 +6,12 @@ soc:
   title: Industrial Truck and Tractor Operators
   definition: 'Operate industrial trucks or tractors equipped to move materials around a warehouse, storage yard, factory, construction site, or similar location. Excludes “Logging Equipment Operators" (45-4022).'
 employment:
-  us: 542750
+  current:
+    us: 549900
+  projected:
+    us: 586100
+  change:
+    us: 0.066
 wage:
   hourly:
     us: 16.47

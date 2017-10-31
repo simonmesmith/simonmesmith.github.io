@@ -6,7 +6,12 @@ soc:
   title: Computer-Controlled Machine Tool Operators, Metal and Plastic
   definition: 'Operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic work pieces.'
 employment:
-  us: 146190
+  current:
+    us: 145700
+  projected:
+    us: 147300
+  change:
+    us: 0.011
 wage:
   hourly:
     us: 19.03

@@ -6,7 +6,12 @@ soc:
   title: Agents and Business Managers of Artists, Performers, and Athletes
   definition: 'Represent and promote artists, performers, and athletes in dealings with current or prospective employers. May handle contract negotiation and other business matters for clients.'
 employment:
-  us: 13470
+  current:
+    us: 19100
+  projected:
+    us: 20000
+  change:
+    us: 0.049
 wage:
   hourly:
     us: 41.62

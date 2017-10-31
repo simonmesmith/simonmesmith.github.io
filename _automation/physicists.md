@@ -6,7 +6,12 @@ soc:
   title: Physicists
   definition: 'Conduct research into physical phenomena, develop theories on the basis of observation and experiments, and devise methods to apply physical laws and theories. Excludes “Biochemists and Biophysicists” (19-1021).'
 employment:
-  us: 16680
+  current:
+    us: 17900
+  projected:
+    us: 20500
+  change:
+    us: 0.145
 wage:
   hourly:
     us: 58.54

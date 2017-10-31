@@ -6,7 +6,12 @@ soc:
   title: Precision Instrument and Equipment Repairers, All Other
   definition: 'All precision instrument and equipment repairers not listed separately.'
 employment:
-  us: 11640
+  current:
+    us: 12600
+  projected:
+    us: 12900
+  change:
+    us: 0.029
 wage:
   hourly:
     us: 27.2

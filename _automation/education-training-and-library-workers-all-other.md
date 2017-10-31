@@ -6,7 +6,12 @@ soc:
   title: Education, Training, and Library Workers, All Other
   definition: 'All education, training, and library workers not listed separately.'
 employment:
-  us: 100640
+  current:
+    us: 112700
+  projected:
+    us: 124500
+  change:
+    us: 0.105
 wage:
   hourly:
     us: 22.58

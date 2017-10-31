@@ -6,7 +6,12 @@ soc:
   title: Mathematical Science Occupations, All Other
   definition: 'All mathematical scientists not listed separately.'
 employment:
-  us: 2000
+  current:
+    us: 2200
+  projected:
+    us: 2400
+  change:
+    us: 0.107
 wage:
   hourly:
     us: 37.28

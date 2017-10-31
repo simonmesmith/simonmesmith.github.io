@@ -6,7 +6,12 @@ soc:
   title: Dredge Operators
   definition: 'Operate dredge to remove sand, gravel, or other materials in order to excavate and maintain navigable channels in waterways.'
 employment:
-  us: 1760
+  current:
+    us: 1800
+  projected:
+    us: 1900
+  change:
+    us: 0.053
 wage:
   hourly:
     us: 22.37

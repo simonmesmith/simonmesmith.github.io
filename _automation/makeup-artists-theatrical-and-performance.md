@@ -6,7 +6,12 @@ soc:
   title: Makeup Artists, Theatrical and Performance
   definition: 'Apply makeup to performers to reflect period, setting, and situation of their role.'
 employment:
-  us: 3600
+  current:
+    us: 4800
+  projected:
+    us: 5400
+  change:
+    us: 0.112
 wage:
   hourly:
     us: 34.42

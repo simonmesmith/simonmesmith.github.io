@@ -6,7 +6,12 @@ soc:
   title: Mining and Geological Engineers, Including Mining Safety Engineers
   definition: 'Conduct sub-surface surveys to identify the characteristics of potential land or mining development sites. May specify the ground support systems, processes and equipment for safe, economical, and environmentally sound extraction or underground construction activities. May inspect areas for unsafe geological conditions, equipment, and working conditions. May design, implement, and coordinate mine safety programs. Excludes "Petroleum Engineers" (17-2171).'
 employment:
-  us: 6940
+  current:
+    us: 7300
+  projected:
+    us: 7900
+  change:
+    us: 0.072
 wage:
   hourly:
     us: 49.52

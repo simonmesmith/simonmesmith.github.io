@@ -6,7 +6,12 @@ soc:
   title: Aerospace Engineering and Operations Technicians
   definition: 'Operate, install, calibrate, and maintain integrated computer/communications systems, consoles, simulators, and other data acquisition, test, and measurement instruments and equipment, which are used to launch, track, position, and evaluate air and space vehicles. May record and interpret test data.'
 employment:
-  us: 11970
+  current:
+    us: 12100
+  projected:
+    us: 12900
+  change:
+    us: 0.066
 wage:
   hourly:
     us: 34.17

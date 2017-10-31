@@ -6,7 +6,12 @@ soc:
   title: Health Specialties Teachers, Postsecondary
   definition: 'Teach courses in health specialties, in fields such as dentistry, laboratory technology, medicine, pharmacy, public health, therapy, and veterinary medicine. Excludes "Nursing Instructors and Teachers, Postsecondary" (25-1072) and "Biological Science Teachers, Postsecondary" (25-1042) who teach medical science.'
 employment:
-  us: 186740
+  current:
+    us: 233500
+  projected:
+    us: 294000
+  change:
+    us: 0.259
 wage:
   hourly:
     us: 

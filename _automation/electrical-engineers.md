@@ -6,7 +6,12 @@ soc:
   title: Electrical Engineers
   definition: 'Research, design, develop, test, or supervise the manufacturing and installation of electrical equipment, components, or systems for commercial, industrial, military, or scientific use. Excludes “Computer Hardware Engineers" (17-2061).'
 employment:
-  us: 183770
+  current:
+    us: 188300
+  projected:
+    us: 204500
+  change:
+    us: 0.086
 wage:
   hourly:
     us: 47.41

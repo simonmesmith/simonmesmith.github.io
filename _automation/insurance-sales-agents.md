@@ -6,7 +6,12 @@ soc:
   title: Insurance Sales Agents
   definition: 'Sell life, property, casualty, health, automotive, or other types of insurance. May refer clients to independent brokers, work as an independent broker, or be employed by an insurance company.'
 employment:
-  us: 385700
+  current:
+    us: 501400
+  projected:
+    us: 550000
+  change:
+    us: 0.097
 wage:
   hourly:
     us: 32.58

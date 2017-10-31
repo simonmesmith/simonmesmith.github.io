@@ -6,7 +6,12 @@ soc:
   title: Correspondence Clerks
   definition: 'Compose letters or electronic correspondence in reply to requests for merchandise, damage claims, credit and other information, delinquent accounts, incorrect billings, or unsatisfactory services. Duties may include gathering data to formulate reply and preparing correspondence.'
 employment:
-  us: 6780
+  current:
+    us: 7200
+  projected:
+    us: 7400
+  change:
+    us: 0.021
 wage:
   hourly:
     us: 18.11

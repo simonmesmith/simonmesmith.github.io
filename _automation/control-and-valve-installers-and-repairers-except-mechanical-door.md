@@ -6,7 +6,12 @@ soc:
   title: Control and Valve Installers and Repairers, Except Mechanical Door
   definition: 'Install, repair, and maintain mechanical regulating and controlling devices, such as electric meters, gas regulators, thermostats, safety and flow valves, and other mechanical governors.'
 employment:
-  us: 45740
+  current:
+    us: 46900
+  projected:
+    us: 49200
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 27.01

@@ -6,7 +6,12 @@ soc:
   title: Social Scientists and Related Workers, All Other
   definition: 'All social scientists and related workers not listed separately.'
 employment:
-  us: 36380
+  current:
+    us: 42100
+  projected:
+    us: 44600
+  change:
+    us: 0.059
 wage:
   hourly:
     us: 38.87

@@ -6,7 +6,12 @@ soc:
   title: Special Education Teachers, All Other
   definition: 'All special education teachers not listed separately.'
 employment:
-  us: 40190
+  current:
+    us: 41300
+  projected:
+    us: 45400
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 

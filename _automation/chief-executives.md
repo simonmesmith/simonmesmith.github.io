@@ -6,7 +6,12 @@ soc:
   title: Chief Executives
   definition: 'Determine and formulate policies and provide overall direction of companies or private and public sector organizations within guidelines set up by a board of directors or similar governing body. Plan, direct, or coordinate operational activities at the highest level of management with the help of subordinate executives and staff managers.'
 employment:
-  us: 223260
+  current:
+    us: 308900
+  projected:
+    us: 298200
+  change:
+    us: -0.035
 wage:
   hourly:
     us: 93.44

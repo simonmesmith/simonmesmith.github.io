@@ -6,7 +6,12 @@ soc:
   title: Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
   definition: 'Inspect, test, repair, or maintain electrical equipment in generating stations, substations, and in-service relays.'
 employment:
-  us: 23060
+  current:
+    us: 23400
+  projected:
+    us: 24300
+  change:
+    us: 0.037
 wage:
   hourly:
     us: 35.84

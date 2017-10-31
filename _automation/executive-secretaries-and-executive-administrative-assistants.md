@@ -6,7 +6,12 @@ soc:
   title: Executive Secretaries and Executive Administrative Assistants
   definition: 'Provide high-level administrative support by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, receiving visitors, arranging conference calls, and scheduling meetings. May also train and supervise lower-level clerical staff. Excludes "Secretaries" (43-6012 through 43-6014).'
 employment:
-  us: 631610
+  current:
+    us: 685300
+  projected:
+    us: 566200
+  change:
+    us: -0.174
 wage:
   hourly:
     us: 27.84

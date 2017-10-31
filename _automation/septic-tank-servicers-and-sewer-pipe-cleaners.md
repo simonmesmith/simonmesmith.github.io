@@ -6,7 +6,12 @@ soc:
   title: Septic Tank Servicers and Sewer Pipe Cleaners
   definition: 'Clean and repair septic tanks, sewer lines, or drains. May patch walls and partitions of tank, replace damaged drain tile, or repair breaks in underground piping.'
 employment:
-  us: 26320
+  current:
+    us: 28500
+  projected:
+    us: 33300
+  change:
+    us: 0.169
 wage:
   hourly:
     us: 18.69

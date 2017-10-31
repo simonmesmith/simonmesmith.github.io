@@ -6,7 +6,12 @@ soc:
   title: Helpers--Carpenters
   definition: 'Help carpenters by performing duties requiring less skill. Duties include using, supplying or holding materials or tools, and cleaning work area and equipment. Construction laborers who do not primarily assist carpenters are classified under "Construction Laborers" (47-2061). Apprentice workers are classified with the appropriate skilled construction trade occupation (47-2011 through 47-2231).'
 employment:
-  us: 35890
+  current:
+    us: 36700
+  projected:
+    us: 41400
+  change:
+    us: 0.128
 wage:
   hourly:
     us: 14.52

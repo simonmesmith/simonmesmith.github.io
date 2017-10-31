@@ -6,7 +6,12 @@ soc:
   title: Waiters and Waitresses
   definition: 'Take orders and serve food and beverages to patrons at tables in dining establishment. Excludes "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop" (35-3022).'
 employment:
-  us: 2564610
+  current:
+    us: 2600500
+  projected:
+    us: 2783000
+  change:
+    us: 0.07
 wage:
   hourly:
     us: 11.73

@@ -6,7 +6,12 @@ soc:
   title: Mathematical Technicians
   definition: 'Apply standardized mathematical formulas, principles, and methodology to technological problems in engineering and physical sciences in relation to specific industrial and research objectives, processes, equipment, and products.'
 employment:
-  us: 510
+  current:
+    us: 600
+  projected:
+    us: 600
+  change:
+    us: 0.075
 wage:
   hourly:
     us: 28.12

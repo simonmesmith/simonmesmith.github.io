@@ -6,7 +6,12 @@ soc:
   title: Aerospace Engineers
   definition: 'Perform engineering duties in designing, constructing, and testing aircraft, missiles, and spacecraft. May conduct basic and applied research to evaluate adaptability of materials and equipment to aircraft design and manufacture. May recommend improvements in testing equipment and techniques.'
 employment:
-  us: 68510
+  current:
+    us: 69600
+  projected:
+    us: 73800
+  change:
+    us: 0.061
 wage:
   hourly:
     us: 53.85

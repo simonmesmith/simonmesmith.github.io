@@ -6,7 +6,12 @@ soc:
   title: Gas Compressor and Gas Pumping Station Operators
   definition: 'Operate steam, gas, electric motor, or internal combustion engine driven compressors. Transmit, compress, or recover gases, such as butane, nitrogen, hydrogen, and natural gas.'
 employment:
-  us: 3890
+  current:
+    us: 3900
+  projected:
+    us: 4000
+  change:
+    us: 0.033
 wage:
   hourly:
     us: 28.66

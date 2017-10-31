@@ -6,7 +6,12 @@ soc:
   title: Postal Service Clerks
   definition: 'Perform any combination of tasks in a post office, such as receive letters and parcels; sell postage and revenue stamps, postal cards, and stamped envelopes; fill out and sell money orders; place mail in pigeon holes of mail rack or in bags; and examine mail for correct postage.'
 employment:
-  us: 82030
+  current:
+    us: 79000
+  projected:
+    us: 69500
+  change:
+    us: -0.121
 wage:
   hourly:
     us: 23.25

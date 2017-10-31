@@ -6,7 +6,12 @@ soc:
   title: Packers and Packagers, Hand
   definition: 'Pack or package by hand a wide variety of products and materials.'
 employment:
-  us: 705660
+  current:
+    us: 710800
+  projected:
+    us: 723800
+  change:
+    us: 0.018
 wage:
   hourly:
     us: 11.74

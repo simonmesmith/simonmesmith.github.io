@@ -6,7 +6,12 @@ soc:
   title: Nuclear Medicine Technologists
   definition: 'Prepare, administer, and measure radioactive isotopes in therapeutic, diagnostic, and tracer studies using a variety of radioisotope equipment. Prepare stock solutions of radioactive materials and calculate doses to be administered by radiologists. Subject patients to radiation. Execute blood volume, red cell survival, and fat absorption studies following standard laboratory techniques.'
 employment:
-  us: 19650
+  current:
+    us: 20100
+  projected:
+    us: 22000
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 36.52

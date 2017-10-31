@@ -6,7 +6,12 @@ soc:
   title: Astronomers
   definition: 'Observe, research, and interpret astronomical phenomena to increase basic knowledge or apply such information to practical problems.'
 employment:
-  us: 1830
+  current:
+    us: 2000
+  projected:
+    us: 2200
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 53.07
@@ -17,3 +22,7 @@ probability:
 rank:
   oxford: 128
 ---
+
+* While this will probably augment what astrophysicists do rather than replace them, a neural network has proven to “accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.”[^1]
+
+[^1]:	[Neural networks meet space](http://ift.tt/2vKOpc6)

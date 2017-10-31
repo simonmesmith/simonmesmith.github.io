@@ -6,7 +6,12 @@ soc:
   title: Electrical Power-Line Installers and Repairers
   definition: 'Install or repair cables or wires used in electrical power or distribution systems. May erect poles and light or heavy duty transmission towers. Excludes “Electrical and Electronics Repairers, Powerhouse, Substation, and Relay" (49-2095).'
 employment:
-  us: 117670
+  current:
+    us: 120900
+  projected:
+    us: 137700
+  change:
+    us: 0.139
 wage:
   hourly:
     us: 32.29

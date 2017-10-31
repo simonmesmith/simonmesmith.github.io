@@ -6,7 +6,12 @@ soc:
   title: Nuclear Engineers
   definition: 'Conduct research on nuclear engineering projects or apply principles and theory of nuclear science to problems concerned with release, control, and use of nuclear energy and nuclear waste disposal.'
 employment:
-  us: 17680
+  current:
+    us: 17700
+  projected:
+    us: 18400
+  change:
+    us: 0.038
 wage:
   hourly:
     us: 50.94

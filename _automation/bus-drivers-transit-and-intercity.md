@@ -6,7 +6,12 @@ soc:
   title: Bus Drivers, Transit and Intercity
   definition: 'Drive bus or motor coach, including regular route operations, charters, and private carriage. May assist passengers with baggage. May collect fares or tickets.'
 employment:
-  us: 169680
+  current:
+    us: 179300
+  projected:
+    us: 195100
+  change:
+    us: 0.088
 wage:
   hourly:
     us: 20.09

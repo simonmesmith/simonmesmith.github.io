@@ -6,7 +6,12 @@ soc:
   title: Managers, All Other
   definition: 'All managers not listed separately.'
 employment:
-  us: 403670
+  current:
+    us: 992100
+  projected:
+    us: 1068000
+  change:
+    us: 0.076
 wage:
   hourly:
     us: 53.92

@@ -6,7 +6,12 @@ soc:
   title: Podiatrists
   definition: 'Diagnose and treat diseases and deformities of the human foot.'
 employment:
-  us: 9800
+  current:
+    us: 11000
+  projected:
+    us: 12100
+  change:
+    us: 0.097
 wage:
   hourly:
     us: 69.28

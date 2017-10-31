@@ -6,7 +6,12 @@ soc:
   title: Tool Grinders, Filers, and Sharpeners
   definition: 'Perform precision smoothing, sharpening, polishing, or grinding of metal objects.'
 employment:
-  us: 9550
+  current:
+    us: 9500
+  projected:
+    us: 9200
+  change:
+    us: -0.035
 wage:
   hourly:
     us: 18.68

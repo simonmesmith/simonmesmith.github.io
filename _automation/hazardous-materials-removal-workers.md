@@ -6,7 +6,12 @@ soc:
   title: Hazardous Materials Removal Workers
   definition: 'Identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil. Specialized training and certification in hazardous materials handling or a confined entry permit are generally required. May operate earth-moving equipment or trucks.'
 employment:
-  us: 44280
+  current:
+    us: 46200
+  projected:
+    us: 54100
+  change:
+    us: 0.171
 wage:
   hourly:
     us: 21.88

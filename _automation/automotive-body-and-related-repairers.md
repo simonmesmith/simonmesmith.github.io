@@ -6,7 +6,12 @@ soc:
   title: Automotive Body and Related Repairers
   definition: 'Repair and refinish automotive vehicle bodies and straighten vehicle frames. Excludes “Painters, Transportation Equipment" (51-9122) and "Automotive Glass Installers and Repairers" (49-3022).'
 employment:
-  us: 143940
+  current:
+    us: 160400
+  projected:
+    us: 174300
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 21.72

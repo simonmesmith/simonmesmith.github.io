@@ -6,7 +6,12 @@ soc:
   title: Epidemiologists
   definition: 'Investigate and describe the determinants and distribution of disease, disability, or health outcomes. May develop the means for prevention and control.'
 employment:
-  us: 5690
+  current:
+    us: 6100
+  projected:
+    us: 6600
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 37.37

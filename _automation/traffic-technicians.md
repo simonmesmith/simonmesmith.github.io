@@ -6,7 +6,12 @@ soc:
   title: Traffic Technicians
   definition: 'Conduct field studies to determine traffic volume, speed, effectiveness of signals, adequacy of lighting, and other factors influencing traffic conditions, under direction of traffic engineer.'
 employment:
-  us: 6410
+  current:
+    us: 6600
+  projected:
+    us: 7200
+  change:
+    us: 0.091
 wage:
   hourly:
     us: 23.39

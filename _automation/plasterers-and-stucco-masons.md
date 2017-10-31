@@ -6,7 +6,12 @@ soc:
   title: Plasterers and Stucco Masons
   definition: 'Apply interior or exterior plaster, cement, stucco, or similar materials. May also set ornamental plaster.'
 employment:
-  us: 22810
+  current:
+    us: 27700
+  projected:
+    us: 28800
+  change:
+    us: 0.04
 wage:
   hourly:
     us: 21.19

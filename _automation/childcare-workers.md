@@ -6,7 +6,12 @@ soc:
   title: Childcare Workers
   definition: 'Attend to children at schools, businesses, private households, and childcare institutions. Perform a variety of tasks, such as dressing, feeding, bathing, and overseeing play. Excludes "Preschool Teachers, Except Special Education" (25-2011) and "Teacher Assistants" (25-9041).'
 employment:
-  us: 569370
+  current:
+    us: 1216600
+  projected:
+    us: 1298700
+  change:
+    us: 0.067
 wage:
   hourly:
     us: 11.02

@@ -6,7 +6,12 @@ soc:
   title: Hoist and Winch Operators
   definition: 'Operate or tend hoists or winches to lift and pull loads using power-operated cable equipment. Excludes “Crane and Tower Operators" (53-7021).'
 employment:
-  us: 2960
+  current:
+    us: 2900
+  projected:
+    us: 2900
+  change:
+    us: -0.007
 wage:
   hourly:
     us: 24.05

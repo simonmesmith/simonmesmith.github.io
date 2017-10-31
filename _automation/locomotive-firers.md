@@ -6,7 +6,12 @@ soc:
   title: Locomotive Firers
   definition: 'Monitor locomotive instruments and watch for dragging equipment, obstacles on rights-of-way, and train signals during run. Watch for and relay traffic signals from yard workers to yard engineer in railroad yard.'
 employment:
-  us: 1210
+  current:
+    us: 1200
+  projected:
+    us: 300
+  change:
+    us: -0.786
 wage:
   hourly:
     us: 30.65

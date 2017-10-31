@@ -6,7 +6,12 @@ soc:
   title: Physical Therapists
   definition: 'Assess, plan, organize, and participate in rehabilitative programs that improve mobility, relieve pain, increase strength, and improve or correct disabling conditions resulting from disease or injury.'
 employment:
-  us: 216920
+  current:
+    us: 239800
+  projected:
+    us: 299800
+  change:
+    us: 0.25
 wage:
   hourly:
     us: 41.93

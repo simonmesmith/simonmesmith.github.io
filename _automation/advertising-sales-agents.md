@@ -6,7 +6,12 @@ soc:
   title: Advertising Sales Agents
   definition: 'Sell or solicit advertising space, time, or media in publications, signage, TV, radio, or Internet establishments or public spaces.'
 employment:
-  us: 141100
+  current:
+    us: 149900
+  projected:
+    us: 145600
+  change:
+    us: -0.029
 wage:
   hourly:
     us: 30.61

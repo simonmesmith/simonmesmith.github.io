@@ -6,7 +6,12 @@ soc:
   title: Models
   definition: 'Model garments or other apparel and accessories for prospective buyers at fashion shows, private showings, or retail establishments. May pose for photos to be used in magazines or advertisements. May pose as subject for paintings, sculptures, and other types of artistic expression.'
 employment:
-  us: 4390
+  current:
+    us: 4800
+  projected:
+    us: 4800
+  change:
+    us: -0.009
 wage:
   hourly:
     us: 17.58

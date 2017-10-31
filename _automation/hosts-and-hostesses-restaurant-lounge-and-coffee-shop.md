@@ -6,7 +6,12 @@ soc:
   title: Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
   definition: 'Welcome patrons, seat them at tables or in lounge, and help ensure quality of facilities and service.'
 employment:
-  us: 404360
+  current:
+    us: 409200
+  projected:
+    us: 437500
+  change:
+    us: 0.069
 wage:
   hourly:
     us: 10.29

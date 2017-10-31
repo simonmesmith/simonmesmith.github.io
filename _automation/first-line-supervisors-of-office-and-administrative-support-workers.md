@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Office and Administrative Support Workers
   definition: 'Directly supervise and coordinate the activities of clerical and administrative support workers.'
 employment:
-  us: 1443150
+  current:
+    us: 1506300
+  projected:
+    us: 1557500
+  change:
+    us: 0.034
 wage:
   hourly:
     us: 27.83

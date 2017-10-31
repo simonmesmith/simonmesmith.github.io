@@ -6,7 +6,12 @@ soc:
   title: Flight Attendants
   definition: 'Provide personal services to ensure the safety, security, and comfort of airline passengers during flight. Greet passengers, verify tickets, explain use of safety equipment, and serve food or beverages.'
 employment:
-  us: 113390
+  current:
+    us: 116600
+  projected:
+    us: 128500
+  change:
+    us: 0.102
 wage:
   hourly:
     us: 

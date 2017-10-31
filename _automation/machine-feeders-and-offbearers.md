@@ -6,7 +6,12 @@ soc:
   title: Machine Feeders and Offbearers
   definition: 'Feed materials into or remove materials from machines or equipment that is automatic or tended by other workers.'
 employment:
-  us: 88070
+  current:
+    us: 87700
+  projected:
+    us: 89300
+  change:
+    us: 0.018
 wage:
   hourly:
     us: 14.66

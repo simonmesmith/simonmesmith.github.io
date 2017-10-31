@@ -6,7 +6,12 @@ soc:
   title: Wind Turbine Service Technicians
   definition: 'Inspect, diagnose, adjust, or repair wind turbines. Perform maintenance on wind turbine equipment including resolving electrical, mechanical, and hydraulic malfunctions.'
 employment:
-  us: 4580
+  current:
+    us: 5800
+  projected:
+    us: 11300
+  change:
+    us: 0.961
 wage:
   hourly:
     us: 26.13

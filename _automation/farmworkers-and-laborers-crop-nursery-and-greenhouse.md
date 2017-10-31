@@ -6,7 +6,12 @@ soc:
   title: Farmworkers and Laborers, Crop, Nursery, and Greenhouse
   definition: 'Manually plant, cultivate, and harvest vegetables, fruits, nuts, horticultural specialties, and field crops. Use hand tools, such as shovels, trowels, hoes, tampers, pruning hooks, shears, and knives. Duties may include tilling soil and applying fertilizers; transplanting, weeding, thinning, or pruning crops; applying pesticides; or cleaning, grading, sorting, packing, and loading harvested products. May construct trellises, repair fences and farm buildings, or participate in irrigation activities. Excludes “Graders and Sorters, Agricultural Products" (45-2041) and “Forest, Conservation, and Logging Workers" (45-4011 through 45-4029).'
 employment:
-  us: 273450
+  current:
+    us: 503700
+  projected:
+    us: 509500
+  change:
+    us: 0.011
 wage:
   hourly:
     us: 11.45

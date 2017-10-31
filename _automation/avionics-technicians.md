@@ -6,7 +6,12 @@ soc:
   title: Avionics Technicians
   definition: 'Install, inspect, test, adjust, or repair avionics equipment, such as radar, radio, navigation, and missile control systems in aircraft or space vehicles.'
 employment:
-  us: 17330
+  current:
+    us: 17500
+  projected:
+    us: 18600
+  change:
+    us: 0.06
 wage:
   hourly:
     us: 29.51

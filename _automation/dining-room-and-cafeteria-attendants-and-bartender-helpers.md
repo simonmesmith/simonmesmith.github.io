@@ -6,7 +6,12 @@ soc:
   title: Dining Room and Cafeteria Attendants and Bartender Helpers
   definition: 'Facilitate food service. Clean tables, remove dirty dishes, replace soiled table linens; set tables; replenish supply of clean linens, silverware, glassware, and dishes; supply service bar with food; and serve items such as water, condiments, and coffee to patrons.'
 employment:
-  us: 423080
+  current:
+    us: 431200
+  projected:
+    us: 461700
+  change:
+    us: 0.071
 wage:
   hourly:
     us: 10.74

@@ -6,7 +6,12 @@ soc:
   title: Purchasing Managers
   definition: 'Plan, direct, or coordinate the activities of buyers, purchasing officers, and related workers involved in purchasing materials, products, and services. Includes wholesale or retail trade merchandising managers and procurement managers.'
 employment:
-  us: 71750
+  current:
+    us: 73900
+  projected:
+    us: 78000
+  change:
+    us: 0.056
 wage:
   hourly:
     us: 56.6

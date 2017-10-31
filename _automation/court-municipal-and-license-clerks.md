@@ -6,7 +6,12 @@ soc:
   title: Court, Municipal, and License Clerks
   definition: 'Perform clerical duties for courts of law, municipalities, or governmental licensing agencies and bureaus. May prepare docket of cases to be called; secure information for judges and court; prepare draft agendas or bylaws for town or city council; answer official correspondence; keep fiscal records and accounts; issue licenses or permits; and record data, administer tests, or collect fees. Clerks of Court are classified in “Managers, All Other” (11-9199).'
 employment:
-  us: 128620
+  current:
+    us: 135500
+  projected:
+    us: 144400
+  change:
+    us: 0.066
 wage:
   hourly:
     us: 18.83

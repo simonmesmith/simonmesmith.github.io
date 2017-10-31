@@ -6,7 +6,12 @@ soc:
   title: Producers and Directors
   definition: 'Produce or direct stage, television, radio, video, or motion picture productions for entertainment, information, or instruction. Responsible for creative decisions, such as interpretation of script, choice of actors or guests, set design, sound, special effects, and choreography.'
 employment:
-  us: 114510
+  current:
+    us: 134700
+  projected:
+    us: 150800
+  change:
+    us: 0.12
 wage:
   hourly:
     us: 45.12

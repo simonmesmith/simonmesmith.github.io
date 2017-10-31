@@ -6,7 +6,12 @@ soc:
   title: Roof Bolters, Mining
   definition: 'Operate machinery to install roof support bolts in underground mine.'
 employment:
-  us: 3930
+  current:
+    us: 3700
+  projected:
+    us: 3500
+  change:
+    us: -0.052
 wage:
   hourly:
     us: 27.94

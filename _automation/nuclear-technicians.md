@@ -6,7 +6,12 @@ soc:
   title: Nuclear Technicians
   definition: 'Assist nuclear physicists, nuclear engineers, or other scientists in laboratory or production activities. May operate, maintain, or provide quality control for nuclear testing and research equipment. May monitor radiation.'
 employment:
-  us: 6840
+  current:
+    us: 6900
+  projected:
+    us: 6900
+  change:
+    us: 0.006
 wage:
   hourly:
     us: 37.41

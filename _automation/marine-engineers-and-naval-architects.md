@@ -6,7 +6,12 @@ soc:
   title: Marine Engineers and Naval Architects
   definition: 'Design, develop, and evaluate the operation of marine vessels, ship machinery, and related equipment, such as power supply and propulsion systems.'
 employment:
-  us: 8120
+  current:
+    us: 8200
+  projected:
+    us: 9200
+  change:
+    us: 0.115
 wage:
   hourly:
     us: 48.01

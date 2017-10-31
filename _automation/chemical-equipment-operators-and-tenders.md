@@ -6,7 +6,12 @@ soc:
   title: Chemical Equipment Operators and Tenders
   definition: 'Operate or tend equipment to control chemical changes or reactions in the processing of industrial or consumer products. Equipment used includes devulcanizers, steam-jacketed kettles, and reactor vessels. Excludes “Chemical Plant and System Operators" (51-8091).'
 employment:
-  us: 73840
+  current:
+    us: 74100
+  projected:
+    us: 70400
+  change:
+    us: -0.049
 wage:
   hourly:
     us: 24.18

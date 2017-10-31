@@ -6,7 +6,12 @@ soc:
   title: Industrial Machinery Mechanics
   definition: 'Repair, install, adjust, or maintain industrial production and processing machinery or refinery and pipeline distribution systems. Excludes “Millwrights" (49-9044), "Mobile Heavy Equipment Mechanics, Except Engines" (49-3042), and "Maintenance Workers, Machinery" (49-9043).'
 employment:
-  us: 334490
+  current:
+    us: 346900
+  projected:
+    us: 370400
+  change:
+    us: 0.068
 wage:
   hourly:
     us: 24.95

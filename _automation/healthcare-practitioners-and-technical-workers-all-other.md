@@ -6,7 +6,12 @@ soc:
   title: Healthcare Practitioners and Technical Workers, All Other
   definition: 'All healthcare practitioners and technical workers not listed separately.'
 employment:
-  us: 36000
+  current:
+    us: 40000
+  projected:
+    us: 44800
+  change:
+    us: 0.121
 wage:
   hourly:
     us: 27.87

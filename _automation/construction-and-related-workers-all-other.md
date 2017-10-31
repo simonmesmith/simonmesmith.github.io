@@ -6,7 +6,12 @@ soc:
   title: Construction and Related Workers, All Other
   definition: 'All construction and related workers not listed separately.'
 employment:
-  us: 35340
+  current:
+    us: 42700
+  projected:
+    us: 46900
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 19.46

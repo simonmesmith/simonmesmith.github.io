@@ -6,7 +6,12 @@ soc:
   title: Environmental Engineers
   definition: 'Research, design, plan, or perform engineering duties in the prevention, control, and remediation of environmental hazards using various engineering disciplines. Work may include waste treatment, site remediation, or pollution control technology.'
 employment:
-  us: 52280
+  current:
+    us: 53800
+  projected:
+    us: 58300
+  change:
+    us: 0.083
 wage:
   hourly:
     us: 42.56

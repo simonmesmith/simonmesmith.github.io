@@ -6,7 +6,12 @@ soc:
   title: Animal Breeders
   definition: 'Select and breed animals according to their genealogy, characteristics, and offspring. May require knowledge of artificial insemination techniques and equipment use. May involve keeping records on heats, birth intervals, or pedigree. Excludes “Nonfarm Animal Caretakers" (39-2021) who may occasionally breed animals as part of their other caretaking duties. Excludes “Animal Scientists" (19-1011) whose primary function is research.'
 employment:
-  us: 1270
+  current:
+    us: 9000
+  projected:
+    us: 9200
+  change:
+    us: 0.02
 wage:
   hourly:
     us: 20.35

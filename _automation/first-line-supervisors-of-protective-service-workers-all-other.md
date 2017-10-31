@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Protective Service Workers, All Other
   definition: 'All protective service supervisors not listed separately above.'
 employment:
-  us: 72880
+  current:
+    us: 75200
+  projected:
+    us: 78600
+  change:
+    us: 0.046
 wage:
   hourly:
     us: 24.37

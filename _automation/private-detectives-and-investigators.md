@@ -6,7 +6,12 @@ soc:
   title: Private Detectives and Investigators
   definition: 'Gather, analyze, compile and report information regarding individuals or organizations to clients, or detect occurrences of unlawful acts or infractions of rules in private establishment.'
 employment:
-  us: 28490
+  current:
+    us: 41400
+  projected:
+    us: 45700
+  change:
+    us: 0.105
 wage:
   hourly:
     us: 25.74

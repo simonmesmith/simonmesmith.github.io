@@ -6,7 +6,12 @@ soc:
   title: Art, Drama, and Music Teachers, Postsecondary
   definition: 'Teach courses in drama, music, and the arts including fine and applied art, such as painting and sculpture, or design and crafts. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 99020
+  current:
+    us: 122500
+  projected:
+    us: 137200
+  change:
+    us: 0.12
 wage:
   hourly:
     us: 

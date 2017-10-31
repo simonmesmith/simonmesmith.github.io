@@ -6,7 +6,12 @@ soc:
   title: Urban and Regional Planners
   definition: 'Develop comprehensive plans and programs for use of land and physical facilities of jurisdictions, such as towns, cities, counties, and metropolitan areas.'
 employment:
-  us: 34810
+  current:
+    us: 36000
+  projected:
+    us: 40600
+  change:
+    us: 0.128
 wage:
   hourly:
     us: 35.12

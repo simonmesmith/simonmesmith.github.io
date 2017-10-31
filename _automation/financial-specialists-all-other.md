@@ -6,7 +6,12 @@ soc:
   title: Financial Specialists, All Other
   definition: 'All financial specialists not listed separately.'
 employment:
-  us: 123270
+  current:
+    us: 135900
+  projected:
+    us: 147800
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 36.65

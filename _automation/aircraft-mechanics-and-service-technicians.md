@@ -6,7 +6,12 @@ soc:
   title: Aircraft Mechanics and Service Technicians
   definition: 'Diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as hydraulic and pneumatic systems. Includes helicopter and aircraft engine specialists. Excludes “Avionics Technician" (49-2091).'
 employment:
-  us: 128570
+  current:
+    us: 132000
+  projected:
+    us: 138400
+  change:
+    us: 0.049
 wage:
   hourly:
     us: 29.42

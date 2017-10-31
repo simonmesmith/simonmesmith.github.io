@@ -6,7 +6,12 @@ soc:
   title: Software Developers, Systems Software
   definition: 'Research, design, develop, and test operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific, and general computing applications. Set operational specifications and formulate and analyze software requirements. May design embedded systems software. Apply principles and techniques of computer science, engineering, and mathematical analysis.'
 employment:
-  us: 409820
+  current:
+    us: 425000
+  projected:
+    us: 471000
+  change:
+    us: 0.108
 wage:
   hourly:
     us: 53.17

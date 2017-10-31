@@ -6,7 +6,12 @@ soc:
   title: Print Binding and Finishing Workers
   definition: 'Bind books and other publications or finish printed products by hand or machine. May set up binding and finishing machines.'
 employment:
-  us: 52730
+  current:
+    us: 54000
+  projected:
+    us: 47900
+  change:
+    us: -0.113
 wage:
   hourly:
     us: 16

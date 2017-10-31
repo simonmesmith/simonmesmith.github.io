@@ -6,7 +6,12 @@ soc:
   title: Construction and Building Inspectors
   definition: 'Inspect structures using engineering skills to determine structural soundness and compliance with specifications, building codes, and other regulations. Inspections may be general in nature or may be limited to a specific area, such as electrical systems or plumbing.'
 employment:
-  us: 94960
+  current:
+    us: 105100
+  projected:
+    us: 115600
+  change:
+    us: 0.099
 wage:
   hourly:
     us: 29.45

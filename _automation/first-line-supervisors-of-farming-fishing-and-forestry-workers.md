@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Farming, Fishing, and Forestry Workers
   definition: 'Directly supervise and coordinate the activities of agricultural, forestry, aquacultural, and related workers. Excludes “First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers" (37-1012).'
 employment:
-  us: 19550
+  current:
+    us: 48700
+  projected:
+    us: 51000
+  change:
+    us: 0.046
 wage:
   hourly:
     us: 23.47

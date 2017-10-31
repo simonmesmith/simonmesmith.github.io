@@ -6,7 +6,12 @@ soc:
   title: Riggers
   definition: 'Set up or repair rigging for construction projects, manufacturing plants, logging yards, ships and shipyards, or for the entertainment industry.'
 employment:
-  us: 21020
+  current:
+    us: 20900
+  projected:
+    us: 22900
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 23.57

@@ -6,7 +6,12 @@ soc:
   title: Mine Shuttle Car Operators
   definition: 'Operate diesel or electric-powered shuttle car in underground mine to transport materials from working face to mine cars or conveyor.'
 employment:
-  us: 1590
+  current:
+    us: 1500
+  projected:
+    us: 1200
+  change:
+    us: -0.219
 wage:
   hourly:
     us: 27.1

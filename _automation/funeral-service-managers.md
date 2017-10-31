@@ -6,7 +6,12 @@ soc:
   title: Funeral Service Managers
   definition: 'Plan, direct, or coordinate the services or resources of funeral homes. Includes activities such as determining prices for services or merchandise and managing the facilities of funeral homes. Excludes “Morticians, Undertakers, and Funeral Directors” (39-4031).'
 employment:
-  us: 8370
+  current:
+    us: 25700
+  projected:
+    us: 27400
+  change:
+    us: 0.064
 wage:
   hourly:
     us: 42.78

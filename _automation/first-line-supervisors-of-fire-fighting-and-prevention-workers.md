@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Fire Fighting and Prevention Workers
   definition: 'Directly supervise and coordinate activities of workers engaged in fire fighting and fire prevention and control.'
 employment:
-  us: 57170
+  current:
+    us: 59100
+  projected:
+    us: 63300
+  change:
+    us: 0.072
 wage:
   hourly:
     us: 37.04

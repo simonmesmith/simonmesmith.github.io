@@ -6,7 +6,12 @@ soc:
   title: Medical Records and Health Information Technicians
   definition: 'Compile, process, and maintain medical records of hospital and clinic patients in a manner consistent with medical, administrative, ethical, legal, and regulatory requirements of the health care system. Process, maintain, compile, and report patient information for health requirements and standards in a manner consistent with the healthcare industry’s numerical coding system. Excludes “File Clerks” (43-4071).'
 employment:
-  us: 200140
+  current:
+    us: 206300
+  projected:
+    us: 234100
+  change:
+    us: 0.135
 wage:
   hourly:
     us: 19.93

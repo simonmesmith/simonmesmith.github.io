@@ -6,7 +6,12 @@ soc:
   title: Dental Laboratory Technicians
   definition: 'Construct and repair full or partial dentures or dental appliances. Excludes “Dental Assistants" (31-9091).'
 employment:
-  us: 37110
+  current:
+    us: 38100
+  projected:
+    us: 43700
+  change:
+    us: 0.145
 wage:
   hourly:
     us: 19.59

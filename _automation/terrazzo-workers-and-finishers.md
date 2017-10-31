@@ -6,7 +6,12 @@ soc:
   title: Terrazzo Workers and Finishers
   definition: 'Apply a mixture of cement, sand, pigment, or marble chips to floors, stairways, and cabinet fixtures to fashion durable and decorative surfaces.'
 employment:
-  us: 3420
+  current:
+    us: 3600
+  projected:
+    us: 4000
+  change:
+    us: 0.123
 wage:
   hourly:
     us: 22.11

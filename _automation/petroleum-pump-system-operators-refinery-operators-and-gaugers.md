@@ -6,7 +6,12 @@ soc:
   title: Petroleum Pump System Operators, Refinery Operators, and Gaugers
   definition: 'Operate or control petroleum refining or processing units. May specialize in controlling manifold and pumping systems, gauging or testing oil in storage tanks, or regulating the flow of oil into pipelines.'
 employment:
-  us: 41630
+  current:
+    us: 41800
+  projected:
+    us: 43000
+  change:
+    us: 0.028
 wage:
   hourly:
     us: 32.63

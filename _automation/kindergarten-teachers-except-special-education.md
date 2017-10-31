@@ -6,7 +6,12 @@ soc:
   title: Kindergarten Teachers, Except Special Education
   definition: 'Teach elemental natural and social science, personal hygiene, music, art, and literature to kindergarten students. Promote physical, mental, and social development. May be required to hold State certification. Substitute teachers are included in "Teachers and Instructors, All Other" (25-3099). Excludes "Special Education Teachers" (25-2050).'
 employment:
-  us: 151290
+  current:
+    us: 154400
+  projected:
+    us: 166700
+  change:
+    us: 0.079
 wage:
   hourly:
     us: 

@@ -6,7 +6,12 @@ soc:
   title: Watch Repairers
   definition: 'Repair, clean, and adjust mechanisms of timing instruments, such as watches and clocks. Includes watchmakers, watch technicians, and mechanical timepiece repairers.'
 employment:
-  us: 1620
+  current:
+    us: 1800
+  projected:
+    us: 1300
+  change:
+    us: -0.287
 wage:
   hourly:
     us: 19.1

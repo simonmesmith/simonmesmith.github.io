@@ -6,7 +6,12 @@ soc:
   title: Shoe Machine Operators and Tenders
   definition: 'Operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts.'
 employment:
-  us: 3500
+  current:
+    us: 3600
+  projected:
+    us: 3300
+  change:
+    us: -0.085
 wage:
   hourly:
     us: 12.75

@@ -6,7 +6,12 @@ soc:
   title: Plumbers, Pipefitters, and Steamfitters
   definition: 'Assemble, install, alter, and repair pipelines or pipe systems that carry water, steam, air, or other liquids or gases. May install heating and cooling equipment and mechanical control systems. Includes sprinklerfitters.'
 employment:
-  us: 411870
+  current:
+    us: 480600
+  projected:
+    us: 556400
+  change:
+    us: 0.158
 wage:
   hourly:
     us: 26.94

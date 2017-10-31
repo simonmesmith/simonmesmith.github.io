@@ -6,7 +6,12 @@ soc:
   title: Title Examiners, Abstractors, and Searchers
   definition: 'Search real estate records, examine titles, or summarize pertinent legal or insurance documents or details for a variety of purposes. May compile lists of mortgages, contracts, and other instruments pertaining to titles by searching public and private records for law firms, real estate agencies, or title insurance companies.'
 employment:
-  us: 54560
+  current:
+    us: 69000
+  projected:
+    us: 71700
+  change:
+    us: 0.04
 wage:
   hourly:
     us: 24.75

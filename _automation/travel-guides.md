@@ -6,7 +6,12 @@ soc:
   title: Travel Guides
   definition: 'Plan, organize, and conduct long distance travel , tours, and expeditions for individuals and groups.'
 employment:
-  us: 3030
+  current:
+    us: 3600
+  projected:
+    us: 3800
+  change:
+    us: 0.055
 wage:
   hourly:
     us: 17.28

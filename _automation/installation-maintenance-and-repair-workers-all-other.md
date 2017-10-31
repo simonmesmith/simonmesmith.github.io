@@ -6,7 +6,12 @@ soc:
   title: Installation, Maintenance, and Repair Workers, All Other
   definition: 'All, installation, maintenance, and repair workers not listed separately.'
 employment:
-  us: 146460
+  current:
+    us: 175800
+  projected:
+    us: 189900
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 20.1

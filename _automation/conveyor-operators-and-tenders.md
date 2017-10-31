@@ -6,7 +6,12 @@ soc:
   title: Conveyor Operators and Tenders
   definition: 'Control or tend conveyors or conveyor systems that move materials or products to and from stockpiles, processing stations, departments, or vehicles. May control speed and routing of materials or products.'
 employment:
-  us: 28590
+  current:
+    us: 28100
+  projected:
+    us: 27700
+  change:
+    us: -0.012
 wage:
   hourly:
     us: 16.28

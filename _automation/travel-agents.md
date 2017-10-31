@@ -6,7 +6,12 @@ soc:
   title: Travel Agents
   definition: 'Plan and sell transportation and accommodations for travel agency customers. Determine destination, modes of transportation, travel dates, costs, and accommodations required. May also describe, plan, and arrange itineraries and sell tour packages. May assist in resolving clients’ travel problems.'
 employment:
-  us: 68680
+  current:
+    us: 81700
+  projected:
+    us: 74300
+  change:
+    us: -0.091
 wage:
   hourly:
     us: 19.18

@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Food Preparation and Serving Workers
   definition: 'Directly supervise and coordinate activities of workers engaged in preparing and serving food.'
 employment:
-  us: 908550
+  current:
+    us: 936900
+  projected:
+    us: 1024400
+  change:
+    us: 0.093
 wage:
   hourly:
     us: 16.68

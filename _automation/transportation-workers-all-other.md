@@ -6,7 +6,12 @@ soc:
   title: Transportation Workers, All Other
   definition: 'All transportation workers not listed separately.'
 employment:
-  us: 37660
+  current:
+    us: 38000
+  projected:
+    us: 41200
+  change:
+    us: 0.083
 wage:
   hourly:
     us: 18.63

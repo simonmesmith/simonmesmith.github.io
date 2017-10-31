@@ -6,7 +6,12 @@ soc:
   title: English Language and Literature Teachers, Postsecondary
   definition: 'Teach courses in English language and literature, including linguistics and comparative literature. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 71270
+  current:
+    us: 84600
+  projected:
+    us: 92900
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 

@@ -6,7 +6,12 @@ soc:
   title: Audiologists
   definition: 'Assess and treat persons with hearing and related disorders. May fit hearing aids and provide auditory training. May perform research related to hearing problems.'
 employment:
-  us: 12310
+  current:
+    us: 14800
+  projected:
+    us: 17800
+  change:
+    us: 0.204
 wage:
   hourly:
     us: 38.12

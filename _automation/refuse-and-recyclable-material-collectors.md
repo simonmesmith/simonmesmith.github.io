@@ -6,7 +6,12 @@ soc:
   title: Refuse and Recyclable Material Collectors
   definition: 'Collect and dump refuse or recyclable materials from containers into truck. May drive truck.'
 employment:
-  us: 114680
+  current:
+    us: 136000
+  projected:
+    us: 153600
+  change:
+    us: 0.13
 wage:
   hourly:
     us: 18.12

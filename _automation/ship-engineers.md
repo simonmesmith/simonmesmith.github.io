@@ -6,7 +6,12 @@ soc:
   title: Ship Engineers
   definition: 'Supervise and coordinate activities of crew engaged in operating and maintaining engines, boilers, deck machinery, and electrical, sanitary, and refrigeration equipment aboard ship.'
 employment:
-  us: 9750
+  current:
+    us: 10100
+  projected:
+    us: 10800
+  change:
+    us: 0.065
 wage:
   hourly:
     us: 35.64

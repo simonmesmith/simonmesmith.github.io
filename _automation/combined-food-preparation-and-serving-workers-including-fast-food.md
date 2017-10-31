@@ -6,7 +6,12 @@ soc:
   title: Combined Food Preparation and Serving Workers, Including Fast Food
   definition: 'Perform duties which combine preparing and serving food and nonalcoholic beverages.'
 employment:
-  us: 3426090
+  current:
+    us: 3452200
+  projected:
+    us: 4032100
+  change:
+    us: 0.168
 wage:
   hourly:
     us: 9.84

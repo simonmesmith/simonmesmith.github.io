@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
   definition: 'Directly supervise and coordinate the activities of helpers, laborers, or material movers.'
 employment:
-  us: 183620
+  current:
+    us: 184400
+  projected:
+    us: 200100
+  change:
+    us: 0.085
 wage:
   hourly:
     us: 24.12

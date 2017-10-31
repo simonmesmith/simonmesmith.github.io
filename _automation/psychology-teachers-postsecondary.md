@@ -6,7 +6,12 @@ soc:
   title: Psychology Teachers, Postsecondary
   definition: 'Teach courses in psychology, such as child, clinical, and developmental psychology, and psychological counseling. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 37640
+  current:
+    us: 46900
+  projected:
+    us: 54000
+  change:
+    us: 0.151
 wage:
   hourly:
     us: 

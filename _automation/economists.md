@@ -6,7 +6,12 @@ soc:
   title: Economists
   definition: 'Conduct research, prepare reports, or formulate plans to address economic problems related to the production and distribution of goods and services or monetary and fiscal policy. May collect and process economic and statistical data using sampling techniques and econometric methods. Excludes “Market Research Analysts and Marketing Specialists" (13-1161).'
 employment:
-  us: 19380
+  current:
+    us: 21300
+  projected:
+    us: 22500
+  change:
+    us: 0.06
 wage:
   hourly:
     us: 54.26

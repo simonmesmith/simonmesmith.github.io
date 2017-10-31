@@ -6,7 +6,12 @@ soc:
   title: Curators
   definition: 'Administer collections, such as artwork, collectibles, historic items, or scientific specimens of museums or other institutions. May conduct instructional, research, or public service activities of institution.'
 employment:
-  us: 11170
+  current:
+    us: 12400
+  projected:
+    us: 14100
+  change:
+    us: 0.14
 wage:
   hourly:
     us: 28.32

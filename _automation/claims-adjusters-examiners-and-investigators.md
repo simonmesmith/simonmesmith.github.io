@@ -6,7 +6,12 @@ soc:
   title: Claims Adjusters, Examiners, and Investigators
   definition: 'Review settled claims to determine that payments and settlements are made in accordance with company practices and procedures. Confer with legal counsel on claims requiring litigation. May also settle insurance claims. Excludes "Fire Inspectors and Investigators" (33-2021).'
 employment:
-  us: 274420
+  current:
+    us: 311100
+  projected:
+    us: 306600
+  change:
+    us: -0.015
 wage:
   hourly:
     us: 31.24

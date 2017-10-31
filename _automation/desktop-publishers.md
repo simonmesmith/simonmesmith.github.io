@@ -6,7 +6,12 @@ soc:
   title: Desktop Publishers
   definition: 'Format typescript and graphic elements using computer software to produce publication-ready material.'
 employment:
-  us: 13090
+  current:
+    us: 14600
+  projected:
+    us: 12600
+  change:
+    us: -0.139
 wage:
   hourly:
     us: 21.34

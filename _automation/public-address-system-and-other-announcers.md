@@ -6,7 +6,12 @@ soc:
   title: Public Address System and Other Announcers
   definition: 'Make announcements over public address system at sporting or other public events. May act as master of ceremonies or disc jockey at weddings, parties, clubs, or other gathering places.'
 employment:
-  us: 8020
+  current:
+    us: 11400
+  projected:
+    us: 11800
+  change:
+    us: 0.032
 wage:
   hourly:
     us: 20.55

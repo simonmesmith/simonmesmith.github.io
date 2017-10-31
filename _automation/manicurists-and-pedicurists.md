@@ -6,7 +6,12 @@ soc:
   title: Manicurists and Pedicurists
   definition: 'Clean and shape customers'' fingernails and toenails. May polish or decorate nails.'
 employment:
-  us: 90630
+  current:
+    us: 126300
+  projected:
+    us: 141400
+  change:
+    us: 0.12
 wage:
   hourly:
     us: 11.7

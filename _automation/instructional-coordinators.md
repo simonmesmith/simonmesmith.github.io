@@ -6,7 +6,12 @@ soc:
   title: Instructional Coordinators
   definition: 'Develop instructional material, coordinate educational content, and incorporate current technology in specialized fields that provide guidelines to educators and instructors for developing curricula and conducting courses. Includes educational consultants and specialists, and instructional material directors.'
 employment:
-  us: 147330
+  current:
+    us: 163200
+  projected:
+    us: 179700
+  change:
+    us: 0.101
 wage:
   hourly:
     us: 31.49

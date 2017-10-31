@@ -6,7 +6,12 @@ soc:
   title: Tire Builders
   definition: 'Operate machines to build tires.'
 employment:
-  us: 22280
+  current:
+    us: 22300
+  projected:
+    us: 19600
+  change:
+    us: -0.121
 wage:
   hourly:
     us: 20.3

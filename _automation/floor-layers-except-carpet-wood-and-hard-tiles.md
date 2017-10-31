@@ -6,7 +6,12 @@ soc:
   title: Floor Layers, Except Carpet, Wood, and Hard Tiles
   definition: 'Apply blocks, strips, or sheets of shock-absorbing, sound-deadening, or decorative coverings to floors.'
 employment:
-  us: 10340
+  current:
+    us: 16300
+  projected:
+    us: 18000
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 20.37

@@ -6,7 +6,12 @@ soc:
   title: Media and Communication Workers, All Other
   definition: 'All media and communication workers not listed separately.'
 employment:
-  us: 23310
+  current:
+    us: 32900
+  projected:
+    us: 35800
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 24.45

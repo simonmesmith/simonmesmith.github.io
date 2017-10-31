@@ -6,7 +6,12 @@ soc:
   title: Occupational Therapy Assistants
   definition: 'Assist occupational therapists in providing occupational therapy treatments and procedures. May, in accordance with State laws, assist in development of treatment plans, carry out routine functions, direct activity programs, and document the progress of treatments. Generally requires formal training.'
 employment:
-  us: 38170
+  current:
+    us: 39300
+  projected:
+    us: 50700
+  change:
+    us: 0.289
 wage:
   hourly:
     us: 28.62

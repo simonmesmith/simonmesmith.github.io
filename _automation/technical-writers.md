@@ -6,7 +6,12 @@ soc:
   title: Technical Writers
   definition: 'Write technical materials, such as equipment manuals, appendices, or operating and maintenance instructions. May assist in layout work.'
 employment:
-  us: 49780
+  current:
+    us: 52400
+  projected:
+    us: 58100
+  change:
+    us: 0.109
 wage:
   hourly:
     us: 35.18

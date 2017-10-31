@@ -6,7 +6,12 @@ soc:
   title: Power Plant Operators
   definition: 'Control, operate, or maintain machinery to generate electric power. Includes auxiliary equipment operators. Excludes “Nuclear Power Reactor Operators" (51-8011).'
 employment:
-  us: 35010
+  current:
+    us: 36100
+  projected:
+    us: 36500
+  change:
+    us: 0.013
 wage:
   hourly:
     us: 35.48

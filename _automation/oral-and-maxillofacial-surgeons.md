@@ -6,7 +6,12 @@ soc:
   title: Oral and Maxillofacial Surgeons
   definition: 'Perform surgery and related procedures on the hard and soft tissues of the oral and maxillofacial regions to treat diseases, injuries, or defects. May diagnose problems of the oral and maxillofacial regions. May perform surgery to improve function or appearance.'
 employment:
-  us: 5380
+  current:
+    us: 6800
+  projected:
+    us: 7900
+  change:
+    us: 0.172
 wage:
   hourly:
     us: 111.96

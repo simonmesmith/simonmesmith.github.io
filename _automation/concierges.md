@@ -6,7 +6,12 @@ soc:
   title: Concierges
   definition: 'Assist patrons at hotel, apartment, or office building with personal services. May take messages, arrange or give advice on transportation, business services or entertainment, or monitor guest requests for housekeeping and maintenance.'
 employment:
-  us: 32020
+  current:
+    us: 32500
+  projected:
+    us: 36200
+  change:
+    us: 0.113
 wage:
   hourly:
     us: 15.11

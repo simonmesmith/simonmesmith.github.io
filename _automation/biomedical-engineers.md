@@ -6,7 +6,12 @@ soc:
   title: Biomedical Engineers
   definition: 'Apply knowledge of engineering, biology, and biomechanical principles to the design, development, and evaluation of biological and health systems and products, such as artificial organs, prostheses, instrumentation, medical information systems, and heath management and care delivery systems.'
 employment:
-  us: 20590
+  current:
+    us: 21300
+  projected:
+    us: 22800
+  change:
+    us: 0.072
 wage:
   hourly:
     us: 43.25

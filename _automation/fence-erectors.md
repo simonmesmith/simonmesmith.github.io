@@ -6,7 +6,12 @@ soc:
   title: Fence Erectors
   definition: 'Erect and repair fences and fence gates, using hand and power tools.'
 employment:
-  us: 21500
+  current:
+    us: 25100
+  projected:
+    us: 28000
+  change:
+    us: 0.112
 wage:
   hourly:
     us: 17.49

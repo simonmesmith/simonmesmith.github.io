@@ -6,7 +6,12 @@ soc:
   title: Veterinarians
   definition: 'Diagnose, treat, or research diseases and injuries of animals. Includes veterinarians who conduct research and development, inspect livestock, or care for pets and companion animals.'
 employment:
-  us: 67650
+  current:
+    us: 79600
+  projected:
+    us: 94000
+  change:
+    us: 0.181
 wage:
   hourly:
     us: 48.34

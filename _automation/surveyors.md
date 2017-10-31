@@ -6,7 +6,12 @@ soc:
   title: Surveyors
   definition: 'Make exact measurements and determine property boundaries. Provide data relevant to the shape, contour, gravitation, location, elevation, or dimension of land or land features on or near the earth''s surface for engineering, mapmaking, mining, land evaluation, construction, and other purposes.'
 employment:
-  us: 43340
+  current:
+    us: 44800
+  projected:
+    us: 49800
+  change:
+    us: 0.112
 wage:
   hourly:
     us: 30.52

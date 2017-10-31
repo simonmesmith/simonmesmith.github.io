@@ -6,7 +6,12 @@ soc:
   title: Home Health Aides
   definition: 'Provide routine individualized healthcare such as changing bandages and dressing wounds, and applying topical medications to the elderly, convalescents, or persons with disabilities at the patient’s home or in a care facility. Monitor or report changes in health status. May also provide personal care such as bathing, dressing, and grooming of patient.'
 employment:
-  us: 814300
+  current:
+    us: 911500
+  projected:
+    us: 1337000
+  change:
+    us: 0.467
 wage:
   hourly:
     us: 11.35

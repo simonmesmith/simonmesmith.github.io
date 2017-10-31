@@ -6,7 +6,12 @@ soc:
   title: Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
   definition: 'Set up, operate, or tend welding, soldering, or brazing machines or robots that weld, braze, solder, or heat treat metal products, components, or assemblies. Includes workers who operate laser cutters or laser-beam machines.'
 employment:
-  us: 46920
+  current:
+    us: 49200
+  projected:
+    us: 44200
+  change:
+    us: -0.103
 wage:
   hourly:
     us: 18.45

@@ -6,7 +6,12 @@ soc:
   title: Ushers, Lobby Attendants, and Ticket Takers
   definition: 'Assist patrons at entertainment events by performing duties, such as collecting admission tickets and passes from patrons, assisting in finding seats, searching for lost articles, and locating such facilities as rest rooms and telephones.'
 employment:
-  us: 117920
+  current:
+    us: 117700
+  projected:
+    us: 126400
+  change:
+    us: 0.075
 wage:
   hourly:
     us: 10.45

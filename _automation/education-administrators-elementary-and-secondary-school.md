@@ -6,7 +6,12 @@ soc:
   title: Education Administrators, Elementary and Secondary School
   definition: 'Plan, direct, or coordinate the academic, administrative, or auxiliary activities of public or private elementary or secondary level schools.'
 employment:
-  us: 242970
+  current:
+    us: 251300
+  projected:
+    us: 271000
+  change:
+    us: 0.078
 wage:
   hourly:
     us: 

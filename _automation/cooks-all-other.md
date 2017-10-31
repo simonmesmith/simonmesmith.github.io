@@ -6,7 +6,12 @@ soc:
   title: Cooks, All Other
   definition: 'All cooks not listed separately.'
 employment:
-  us: 15490
+  current:
+    us: 17800
+  projected:
+    us: 19400
+  change:
+    us: 0.09
 wage:
   hourly:
     us: 14.04

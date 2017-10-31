@@ -6,7 +6,12 @@ soc:
   title: Computer and Information Research Scientists
   definition: 'Conduct research into fundamental computer and information science as theorists, designers, or inventors. Develop solutions to problems in the field of computer hardware and software.'
 employment:
-  us: 26580
+  current:
+    us: 27900
+  projected:
+    us: 33200
+  change:
+    us: 0.192
 wage:
   hourly:
     us: 55.92

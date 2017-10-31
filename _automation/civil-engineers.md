@@ -6,7 +6,12 @@ soc:
   title: Civil Engineers
   definition: 'Perform engineering duties in planning, designing, and overseeing construction and maintenance of building structures, and facilities, such as roads, railroads, airports, bridges, harbors, channels, dams, irrigation projects, pipelines, power plants, and water and sewage systems. Includes architectural, structural, traffic, ocean, and geo-technical engineers. Excludes “Hydrologists" (19-2043).'
 employment:
-  us: 287800
+  current:
+    us: 303500
+  projected:
+    us: 335700
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 43.14

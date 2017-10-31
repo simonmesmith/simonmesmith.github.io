@@ -6,7 +6,12 @@ soc:
   title: Computer Science Teachers, Postsecondary
   definition: 'Teach courses in computer science. May specialize in a field of computer science, such as the design and function of computers or operations and research analysis. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 32540
+  current:
+    us: 39700
+  projected:
+    us: 42800
+  change:
+    us: 0.08
 wage:
   hourly:
     us: 

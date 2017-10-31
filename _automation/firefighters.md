@@ -6,7 +6,12 @@ soc:
   title: Firefighters
   definition: 'Control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk. Duties may include fire prevention, emergency medical service, hazardous material response, search and rescue, and disaster assistance.'
 employment:
-  us: 315910
+  current:
+    us: 327300
+  projected:
+    us: 351000
+  change:
+    us: 0.072
 wage:
   hourly:
     us: 24.29

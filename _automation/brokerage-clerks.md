@@ -6,7 +6,12 @@ soc:
   title: Brokerage Clerks
   definition: 'Perform duties related to the purchase, sale or holding of securities. Duties include writing orders for stock purchases or sales, computing transfer taxes, verifying stock transactions, accepting and delivering securities, tracking stock price fluctuations, computing equity, distributing dividends, and keeping records of daily transactions and holdings.'
 employment:
-  us: 59820
+  current:
+    us: 60400
+  projected:
+    us: 63400
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 25.18

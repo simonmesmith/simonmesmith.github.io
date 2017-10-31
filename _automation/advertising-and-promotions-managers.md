@@ -6,7 +6,12 @@ soc:
   title: Advertising and Promotions Managers
   definition: 'Plan, direct, or coordinate advertising policies and programs or produce collateral materials, such as posters, contests, coupons, or give-aways, to create extra interest in the purchase of a product or service for a department, an entire organization, or on an account basis.'
 employment:
-  us: 28860
+  current:
+    us: 31300
+  projected:
+    us: 33100
+  change:
+    us: 0.058
 wage:
   hourly:
     us: 56.64

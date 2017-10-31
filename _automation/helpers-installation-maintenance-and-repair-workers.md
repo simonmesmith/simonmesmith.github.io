@@ -6,7 +6,12 @@ soc:
   title: Helpers--Installation, Maintenance, and Repair Workers
   definition: 'Help installation, maintenance, and repair workers in maintenance, parts replacement, and repair of vehicles, industrial machinery, and electrical and electronic equipment. Perform duties such as furnishing tools, materials, and supplies to other workers; cleaning work area, machines, and tools; and holding materials or tools for other workers.'
 employment:
-  us: 118720
+  current:
+    us: 120200
+  projected:
+    us: 133500
+  change:
+    us: 0.111
 wage:
   hourly:
     us: 14.12

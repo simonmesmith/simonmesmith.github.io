@@ -6,7 +6,12 @@ soc:
   title: Criminal Justice and Law Enforcement Teachers, Postsecondary
   definition: 'Teach courses in criminal justice, corrections, and law enforcement administration. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 14620
+  current:
+    us: 17300
+  projected:
+    us: 19400
+  change:
+    us: 0.125
 wage:
   hourly:
     us: 

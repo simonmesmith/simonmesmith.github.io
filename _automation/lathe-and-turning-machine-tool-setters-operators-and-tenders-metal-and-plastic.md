@@ -6,7 +6,12 @@ soc:
   title: Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend lathe and turning machines to turn, bore, thread, form, or face metal or plastic materials, such as wire, rod, or bar stock.'
 employment:
-  us: 33850
+  current:
+    us: 33700
+  projected:
+    us: 30800
+  change:
+    us: -0.084
 wage:
   hourly:
     us: 19.05

@@ -6,7 +6,12 @@ soc:
   title: Biological Scientists, All Other
   definition: 'All biological scientists not listed separately.'
 employment:
-  us: 35110
+  current:
+    us: 38700
+  projected:
+    us: 41800
+  change:
+    us: 0.079
 wage:
   hourly:
     us: 37.42

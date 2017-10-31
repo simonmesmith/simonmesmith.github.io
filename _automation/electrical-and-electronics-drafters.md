@@ -6,7 +6,12 @@ soc:
   title: Electrical and Electronics Drafters
   definition: 'Prepare wiring diagrams, circuit board assembly diagrams, and layout drawings used for the manufacture, installation, or repair of electrical equipment.'
 employment:
-  us: 26750
+  current:
+    us: 27400
+  projected:
+    us: 29200
+  change:
+    us: 0.067
 wage:
   hourly:
     us: 30.48

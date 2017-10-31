@@ -6,7 +6,12 @@ soc:
   title: Insulation Workers, Floor, Ceiling, and Wall
   definition: 'Line and cover structures with insulating materials. May work with batt, roll, or blown insulation materials.'
 employment:
-  us: 29500
+  current:
+    us: 30900
+  projected:
+    us: 31400
+  change:
+    us: 0.013
 wage:
   hourly:
     us: 18.99

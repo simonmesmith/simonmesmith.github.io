@@ -6,7 +6,12 @@ soc:
   title: Rail Yard Engineers, Dinkey Operators, and Hostlers
   definition: 'Drive switching or other locomotive or dinkey engines within railroad yard, industrial plant, quarry, construction project, or similar location.'
 employment:
-  us: 4530
+  current:
+    us: 4400
+  projected:
+    us: 4600
+  change:
+    us: 0.037
 wage:
   hourly:
     us: 25.15

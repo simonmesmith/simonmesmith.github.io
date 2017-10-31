@@ -6,7 +6,12 @@ soc:
   title: Phlebotomists
   definition: 'Draw blood for tests, transfusions, donations, or research. May explain the procedure to patients and assist in the recovery of patients with adverse reactions.'
 employment:
-  us: 120970
+  current:
+    us: 122700
+  projected:
+    us: 152600
+  change:
+    us: 0.244
 wage:
   hourly:
     us: 16.22

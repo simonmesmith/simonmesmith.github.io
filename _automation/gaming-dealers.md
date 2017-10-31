@@ -6,7 +6,12 @@ soc:
   title: Gaming Dealers
   definition: 'Operate table games. Stand or sit behind table and operate games of chance by dispensing the appropriate number of cards or blocks to players, or operating other gaming equipment. Distribute winnings or collect players'' money or chips. May compare the house''s hand against players'' hands.'
 employment:
-  us: 94570
+  current:
+    us: 96900
+  projected:
+    us: 98000
+  change:
+    us: 0.011
 wage:
   hourly:
     us: 10.57

@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Production and Operating Workers
   definition: 'Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators. Excludes team or work leaders.'
 employment:
-  us: 610480
+  current:
+    us: 621400
+  projected:
+    us: 620900
+  change:
+    us: -0.001
 wage:
   hourly:
     us: 29.54

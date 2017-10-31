@@ -6,7 +6,12 @@ soc:
   title: Payroll and Timekeeping Clerks
   definition: 'Compile and record employee time and payroll data. May compute employees'' time worked, production, and commission. May compute and post wages and deductions, or prepare paychecks. Excludes “Bookkeeping, Accounting, and Auditing Clerks” (43-3031).'
 employment:
-  us: 159650
+  current:
+    us: 166300
+  projected:
+    us: 164700
+  change:
+    us: -0.009
 wage:
   hourly:
     us: 20.95

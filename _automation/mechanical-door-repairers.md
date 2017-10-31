@@ -6,7 +6,12 @@ soc:
   title: Mechanical Door Repairers
   definition: 'Install, service, or repair automatic door mechanisms and hydraulic doors. Includes garage door mechanics.'
 employment:
-  us: 19840
+  current:
+    us: 20400
+  projected:
+    us: 22500
+  change:
+    us: 0.104
 wage:
   hourly:
     us: 19.43

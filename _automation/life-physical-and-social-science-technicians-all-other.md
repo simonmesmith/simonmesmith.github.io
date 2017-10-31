@@ -6,7 +6,12 @@ soc:
   title: Life, Physical, and Social Science Technicians, All Other
   definition: 'All life, physical, and social science technicians not listed separately.'
 employment:
-  us: 68540
+  current:
+    us: 76100
+  projected:
+    us: 83400
+  change:
+    us: 0.096
 wage:
   hourly:
     us: 23.69

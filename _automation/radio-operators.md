@@ -6,7 +6,12 @@ soc:
   title: Radio Operators
   definition: 'Receive and transmit communications using radiotelephone equipment in accordance with government regulations. May repair equipment. Excludes “Radio, Cellular, and Tower Equipment Installers and Repairs” (49-2021).'
 employment:
-  us: 870
+  current:
+    us: 900
+  projected:
+    us: 900
+  change:
+    us: -0.01
 wage:
   hourly:
     us: 22.49

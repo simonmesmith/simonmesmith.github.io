@@ -6,7 +6,12 @@ soc:
   title: Costume Attendants
   definition: 'Select, fit, and take care of costumes for cast members, and aid entertainers. May assist with multiple costume changes during performances.'
 employment:
-  us: 6640
+  current:
+    us: 6600
+  projected:
+    us: 7300
+  change:
+    us: 0.097
 wage:
   hourly:
     us: 24.27

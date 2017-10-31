@@ -6,7 +6,12 @@ soc:
   title: Sociology Teachers, Postsecondary
   definition: 'Teach courses in sociology. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 14580
+  current:
+    us: 17900
+  projected:
+    us: 19600
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 

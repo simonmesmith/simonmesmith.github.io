@@ -6,7 +6,12 @@ soc:
   title: Social Workers, All Other
   definition: 'All social workers not listed separately.'
 employment:
-  us: 59540
+  current:
+    us: 64000
+  projected:
+    us: 69000
+  change:
+    us: 0.079
 wage:
   hourly:
     us: 28.56

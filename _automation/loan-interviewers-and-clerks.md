@@ -6,7 +6,12 @@ soc:
   title: Loan Interviewers and Clerks
   definition: 'Interview loan applicants to elicit information; investigate applicants'' backgrounds and verify references; prepare loan request papers; and forward findings, reports, and documents to appraisal department. Review loan papers to ensure completeness, and complete transactions between loan establishment, borrowers, and sellers upon approval of loan.'
 employment:
-  us: 224340
+  current:
+    us: 229800
+  projected:
+    us: 258200
+  change:
+    us: 0.124
 wage:
   hourly:
     us: 19.37

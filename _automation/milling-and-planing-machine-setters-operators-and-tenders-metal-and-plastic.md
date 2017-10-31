@@ -6,7 +6,12 @@ soc:
   title: Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
   definition: 'Set up, operate, or tend milling or planing machines to mill, plane, shape, groove, or profile metal or plastic work pieces.'
 employment:
-  us: 17560
+  current:
+    us: 17600
+  projected:
+    us: 14200
+  change:
+    us: -0.193
 wage:
   hourly:
     us: 19.8

@@ -6,7 +6,12 @@ soc:
   title: Supervisors of Construction and Extraction Workers
   definition: 'Directly supervise and coordinate activities of construction or extraction workers.'
 employment:
-  us: 538220
+  current:
+    us: 602500
+  projected:
+    us: 678800
+  change:
+    us: 0.127
 wage:
   hourly:
     us: 32.71

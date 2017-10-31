@@ -6,7 +6,12 @@ soc:
   title: Orthodontists
   definition: 'Examine, diagnose, and treat dental malocclusions and oral cavity anomalies. Design and fabricate appliances to realign teeth and jaws to produce and maintain normal function and to improve appearance.'
 employment:
-  us: 5200
+  current:
+    us: 6600
+  projected:
+    us: 7700
+  change:
+    us: 0.173
 wage:
   hourly:
     us: 109.99

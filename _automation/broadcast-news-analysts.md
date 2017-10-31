@@ -6,7 +6,12 @@ soc:
   title: Broadcast News Analysts
   definition: 'Analyze, interpret, and broadcast news received from various sources.'
 employment:
-  us: 5070
+  current:
+    us: 5700
+  projected:
+    us: 5600
+  change:
+    us: -0.01
 wage:
   hourly:
     us: 37.6

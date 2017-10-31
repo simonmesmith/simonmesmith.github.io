@@ -6,7 +6,12 @@ soc:
   title: Rock Splitters, Quarry
   definition: 'Separate blocks of rough dimension stone from quarry mass using jackhammer and wedges.'
 employment:
-  us: 3770
+  current:
+    us: 3700
+  projected:
+    us: 3500
+  change:
+    us: -0.063
 wage:
   hourly:
     us: 16.76

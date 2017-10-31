@@ -6,7 +6,12 @@ soc:
   title: Photographers
   definition: 'Photograph people, landscapes, merchandise, or other subjects, using digital or film cameras and equipment. May develop negatives or use computer software to produce finished images and prints. Includes scientific photographers, aerial photographers, and photojournalists.'
 employment:
-  us: 48660
+  current:
+    us: 147300
+  projected:
+    us: 134900
+  change:
+    us: -0.084
 wage:
   hourly:
     us: 20.5

@@ -6,7 +6,12 @@ soc:
   title: Anthropology and Archeology Teachers, Postsecondary
   definition: 'Teach courses in anthropology or archeology. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 5700
+  current:
+    us: 7100
+  projected:
+    us: 7800
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 

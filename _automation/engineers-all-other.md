@@ -6,7 +6,12 @@ soc:
   title: Engineers, All Other
   definition: 'All engineers not listed separately.'
 employment:
-  us: 123390
+  current:
+    us: 132500
+  projected:
+    us: 140800
+  change:
+    us: 0.062
 wage:
   hourly:
     us: 47.71

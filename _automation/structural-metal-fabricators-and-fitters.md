@@ -6,7 +6,12 @@ soc:
   title: Structural Metal Fabricators and Fitters
   definition: 'Fabricate, position, align, and fit parts of structural metal products. Shipfitters are included in “Layout Workers, Metal and Plastic” (51-4192).'
 employment:
-  us: 77270
+  current:
+    us: 77000
+  projected:
+    us: 65200
+  change:
+    us: -0.153
 wage:
   hourly:
     us: 19.23

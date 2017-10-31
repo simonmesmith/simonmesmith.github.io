@@ -6,7 +6,12 @@ soc:
   title: Computer, Automated Teller, and Office Machine Repairers
   definition: 'Repair, maintain, or install computers, word processing systems, automated teller machines, and electronic office machines, such as duplicating and fax machines.'
 employment:
-  us: 102170
+  current:
+    us: 119500
+  projected:
+    us: 118600
+  change:
+    us: -0.007
 wage:
   hourly:
     us: 18.95

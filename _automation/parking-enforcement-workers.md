@@ -6,7 +6,12 @@ soc:
   title: Parking Enforcement Workers
   definition: 'Patrol assigned area, such as public parking lot or city streets to issue tickets to overtime parking violators and illegally parked vehicles.'
 employment:
-  us: 8920
+  current:
+    us: 9400
+  projected:
+    us: 6100
+  change:
+    us: -0.353
 wage:
   hourly:
     us: 19.06

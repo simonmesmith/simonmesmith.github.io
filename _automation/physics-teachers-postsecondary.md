@@ -6,7 +6,12 @@ soc:
   title: Physics Teachers, Postsecondary
   definition: 'Teach courses pertaining to the laws of matter and energy. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 14160
+  current:
+    us: 17600
+  projected:
+    us: 19400
+  change:
+    us: 0.1
 wage:
   hourly:
     us: 

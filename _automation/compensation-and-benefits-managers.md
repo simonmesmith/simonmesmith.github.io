@@ -6,7 +6,12 @@ soc:
   title: Compensation and Benefits Managers
   definition: 'Plan, direct, or coordinate compensation and benefits activities of an organization. Job analysis and position description managers are included in “Human Resource Managers” (11-3121).'
 employment:
-  us: 15230
+  current:
+    us: 15800
+  projected:
+    us: 16600
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 61.01

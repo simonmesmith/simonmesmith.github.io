@@ -6,7 +6,12 @@ soc:
   title: Gaming and Sports Book Writers and Runners
   definition: 'Post information enabling patrons to wager on various races and sporting events. Assist in the operation of games such as keno and bingo. May operate random number generating equipment and announce the numbers for patrons. Receive, verify, and record patrons'' wagers. Scan and process winning tickets presented by patrons and payout winnings for those wagers.'
 employment:
-  us: 11460
+  current:
+    us: 11700
+  projected:
+    us: 12100
+  change:
+    us: 0.038
 wage:
   hourly:
     us: 12.36

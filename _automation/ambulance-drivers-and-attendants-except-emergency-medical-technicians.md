@@ -6,7 +6,12 @@ soc:
   title: Ambulance Drivers and Attendants, Except Emergency Medical Technicians
   definition: 'Drive ambulance or assist ambulance driver in transporting sick, injured, or convalescent persons. Assist in lifting patients.'
 employment:
-  us: 17300
+  current:
+    us: 17300
+  projected:
+    us: 21100
+  change:
+    us: 0.219
 wage:
   hourly:
     us: 12.31

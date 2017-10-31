@@ -6,7 +6,12 @@ soc:
   title: Training and Development Specialists
   definition: 'Design and conduct training and development programs to improve individual and organizational performance. May analyze training needs.'
 employment:
-  us: 269710
+  current:
+    us: 282800
+  projected:
+    us: 315300
+  change:
+    us: 0.115
 wage:
   hourly:
     us: 30.46

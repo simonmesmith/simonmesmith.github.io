@@ -6,7 +6,12 @@ soc:
   title: Tool and Die Makers
   definition: 'Analyze specifications, lay out metal stock, set up and operate machine tools, and fit and assemble parts to make and repair dies, cutting tools, jigs, fixtures, gauges, and machinists'' hand tools.'
 employment:
-  us: 72210
+  current:
+    us: 72500
+  projected:
+    us: 67200
+  change:
+    us: -0.073
 wage:
   hourly:
     us: 24.81

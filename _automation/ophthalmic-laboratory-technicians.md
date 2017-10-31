@@ -6,7 +6,12 @@ soc:
   title: Ophthalmic Laboratory Technicians
   definition: 'Cut, grind, and polish eyeglasses, contact lenses, or other precision optical elements. Assemble and mount lenses into frames or process other optical elements. Includes precision lens polishers or grinders, centerer-edgers, and lens mounters. Excludes “Opticians, Dispensing" (29-2081).'
 employment:
-  us: 28570
+  current:
+    us: 29100
+  projected:
+    us: 32500
+  change:
+    us: 0.119
 wage:
   hourly:
     us: 16.45

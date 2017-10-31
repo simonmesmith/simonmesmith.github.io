@@ -6,7 +6,12 @@ soc:
   title: Logisticians
   definition: 'Analyze and coordinate the logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources. Excludes “Transportation, Storage, and Distribution Managers” (11-3071).'
 employment:
-  us: 146060
+  current:
+    us: 148700
+  projected:
+    us: 159000
+  change:
+    us: 0.069
 wage:
   hourly:
     us: 37.41

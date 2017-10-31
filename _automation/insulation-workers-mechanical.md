@@ -6,7 +6,12 @@ soc:
   title: Insulation Workers, Mechanical
   definition: 'Apply insulating materials to pipes or ductwork, or other mechanical systems in order to help control and maintain temperature.'
 employment:
-  us: 27270
+  current:
+    us: 28600
+  projected:
+    us: 31400
+  change:
+    us: 0.097
 wage:
   hourly:
     us: 24.57

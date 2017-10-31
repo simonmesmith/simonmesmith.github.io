@@ -6,7 +6,12 @@ soc:
   title: First-Line Supervisors of Non-Retail Sales Workers
   definition: 'Directly supervise and coordinate activities of sales workers other than retail sales workers. May perform duties, such as budgeting, accounting, and personnel work, in addition to supervisory duties.'
 employment:
-  us: 252670
+  current:
+    us: 405200
+  projected:
+    us: 431200
+  change:
+    us: 0.064
 wage:
   hourly:
     us: 41.27

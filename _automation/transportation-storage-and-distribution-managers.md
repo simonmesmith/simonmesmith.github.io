@@ -6,7 +6,12 @@ soc:
   title: Transportation, Storage, and Distribution Managers
   definition: 'Plan, direct, or coordinate transportation, storage, or distribution activities in accordance with organizational policies and applicable government laws or regulations. Includes logistics managers.'
 employment:
-  us: 113270
+  current:
+    us: 115500
+  projected:
+    us: 123300
+  change:
+    us: 0.067
 wage:
   hourly:
     us: 46.94

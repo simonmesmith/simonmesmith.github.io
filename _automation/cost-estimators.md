@@ -6,7 +6,12 @@ soc:
   title: Cost Estimators
   definition: 'Prepare cost estimates for product manufacturing, construction projects, or services to aid management in bidding on or determining price of product or service. May specialize according to particular service performed or type of product manufactured.'
 employment:
-  us: 214610
+  current:
+    us: 217900
+  projected:
+    us: 240900
+  change:
+    us: 0.106
 wage:
   hourly:
     us: 32.03

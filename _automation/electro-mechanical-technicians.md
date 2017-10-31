@@ -6,7 +6,12 @@ soc:
   title: Electro-Mechanical Technicians
   definition: 'Operate, test, maintain, or calibrate unmanned, automated, servo-mechanical, or electromechanical equipment. May operate unmanned submarines, aircraft, or other equipment at worksites, such as oil rigs, deep ocean exploration, or hazardous waste removal. May assist engineers in testing and designing robotics equipment.'
 employment:
-  us: 13710
+  current:
+    us: 13800
+  projected:
+    us: 14300
+  change:
+    us: 0.035
 wage:
   hourly:
     us: 27.82

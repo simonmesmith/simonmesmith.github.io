@@ -6,7 +6,12 @@ soc:
   title: Millwrights
   definition: 'Install, dismantle, or move machinery and heavy equipment according to layout plans, blueprints, or other drawings.'
 employment:
-  us: 39670
+  current:
+    us: 39500
+  projected:
+    us: 43400
+  change:
+    us: 0.098
 wage:
   hourly:
     us: 25.94

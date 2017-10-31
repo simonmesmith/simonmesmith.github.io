@@ -6,7 +6,12 @@ soc:
   title: Wellhead Pumpers
   definition: 'Operate power pumps and auxiliary equipment to produce flow of oil or gas from wells in oil field.'
 employment:
-  us: 11610
+  current:
+    us: 11500
+  projected:
+    us: 14000
+  change:
+    us: 0.217
 wage:
   hourly:
     us: 24.39

@@ -6,7 +6,12 @@ soc:
   title: Shampooers
   definition: 'Shampoo and rinse customers'' hair.'
 employment:
-  us: 15240
+  current:
+    us: 21200
+  projected:
+    us: 23800
+  change:
+    us: 0.122
 wage:
   hourly:
     us: 10.08

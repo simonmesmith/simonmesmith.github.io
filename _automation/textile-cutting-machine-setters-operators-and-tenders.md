@@ -6,7 +6,12 @@ soc:
   title: Textile Cutting Machine Setters, Operators, and Tenders
   definition: 'Set up, operate, or tend machines that cut textiles.'
 employment:
-  us: 15040
+  current:
+    us: 15000
+  projected:
+    us: 12600
+  change:
+    us: -0.158
 wage:
   hourly:
     us: 13.4

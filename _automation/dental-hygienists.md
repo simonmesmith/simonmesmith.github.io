@@ -6,7 +6,12 @@ soc:
   title: Dental Hygienists
   definition: 'Clean teeth and examine oral areas, head, and neck for signs of oral disease. May educate patients on oral hygiene, take and develop x rays, or apply fluoride or sealants.'
 employment:
-  us: 204990
+  current:
+    us: 207900
+  projected:
+    us: 248800
+  change:
+    us: 0.196
 wage:
   hourly:
     us: 35.31

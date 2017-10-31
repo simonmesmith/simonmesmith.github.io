@@ -6,7 +6,12 @@ soc:
   title: Interviewers, Except Eligibility and Loan
   definition: 'Interview persons by telephone, mail, in person, or by other means for the purpose of completing forms, applications, or questionnaires. Ask specific questions, record answers, and assist persons with completing form. May sort, classify, and file forms.'
 employment:
-  us: 186030
+  current:
+    us: 194700
+  projected:
+    us: 205700
+  change:
+    us: 0.057
 wage:
   hourly:
     us: 16.17

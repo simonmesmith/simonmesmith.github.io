@@ -6,7 +6,12 @@ soc:
   title: Locker Room, Coatroom, and Dressing Room Attendants
   definition: 'Provide personal items to patrons or customers in locker rooms, dressing rooms, or coatrooms.'
 employment:
-  us: 18040
+  current:
+    us: 18600
+  projected:
+    us: 20200
+  change:
+    us: 0.087
 wage:
   hourly:
     us: 11.73

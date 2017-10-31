@@ -6,7 +6,12 @@ soc:
   title: Etchers and Engravers
   definition: 'Engrave or etch metal, wood, rubber, or other materials. Includes such workers as etcher-circuit processors, pantograph engravers, and silk screen etchers. Photoengravers are included in "Prepress Technicians and Workers" (51-5111).'
 employment:
-  us: 9520
+  current:
+    us: 10600
+  projected:
+    us: 10700
+  change:
+    us: 0.01
 wage:
   hourly:
     us: 16.54

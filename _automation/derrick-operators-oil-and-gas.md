@@ -6,7 +6,12 @@ soc:
   title: Derrick Operators, Oil and Gas
   definition: 'Rig derrick equipment and operate pumps to circulate mud through drill hole.'
 employment:
-  us: 11580
+  current:
+    us: 11100
+  projected:
+    us: 13900
+  change:
+    us: 0.257
 wage:
   hourly:
     us: 24.59

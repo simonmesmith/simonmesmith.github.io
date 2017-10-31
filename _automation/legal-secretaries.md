@@ -6,7 +6,12 @@ soc:
   title: Legal Secretaries
   definition: 'Perform secretarial duties using legal terminology, procedures, and documents. Prepare legal papers and correspondence, such as summonses, complaints, motions, and subpoenas. May also assist with legal research.'
 employment:
-  us: 191200
+  current:
+    us: 194700
+  projected:
+    us: 157500
+  change:
+    us: -0.191
 wage:
   hourly:
     us: 23.03

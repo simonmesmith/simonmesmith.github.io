@@ -6,7 +6,12 @@ soc:
   title: Computer Hardware Engineers
   definition: 'Research, design, develop, or test computer or computer-related equipment for commercial, industrial, military, or scientific use. May supervise the manufacturing and installation of computer or computer-related equipment and components. Excludes “Software Developers, Applications" (15-1132) and “Software Developers, Systems Software (15-1133).'
 employment:
-  us: 72950
+  current:
+    us: 73600
+  projected:
+    us: 77600
+  change:
+    us: 0.055
 wage:
   hourly:
     us: 57.07

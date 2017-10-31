@@ -6,7 +6,12 @@ soc:
   title: Geography Teachers, Postsecondary
   definition: 'Teach courses in geography. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.'
 employment:
-  us: 4140
+  current:
+    us: 5000
+  projected:
+    us: 5400
+  change:
+    us: 0.084
 wage:
   hourly:
     us: 

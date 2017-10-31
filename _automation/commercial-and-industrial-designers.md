@@ -6,7 +6,12 @@ soc:
   title: Commercial and Industrial Designers
   definition: 'Develop and design manufactured products, such as cars, home appliances, and children''s toys. Combine artistic talent with research on product use, marketing, and materials to create the most functional and appealing product design.'
 employment:
-  us: 31860
+  current:
+    us: 39700
+  projected:
+    us: 41600
+  change:
+    us: 0.05
 wage:
   hourly:
     us: 34.08

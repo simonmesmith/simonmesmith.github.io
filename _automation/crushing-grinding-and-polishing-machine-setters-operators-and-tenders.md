@@ -6,7 +6,12 @@ soc:
   title: Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
   definition: 'Set up, operate, or tend machines to crush, grind, or polish materials, such as coal, glass, grain, stone, food, or rubber.'
 employment:
-  us: 29830
+  current:
+    us: 30200
+  projected:
+    us: 28200
+  change:
+    us: -0.067
 wage:
   hourly:
     us: 17.33
