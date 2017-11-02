@@ -72,7 +72,7 @@ layout: base
 
     {% assign soc_tag = 'soc-' | append: page.soc.code %}
 
-    {% assign sources = site.sources | where:'tags', soc_tag %}
+    {% assign sources = site.sources | where:'tags', soc_tag | sort:'date' | reverse %}
     <h3>Related articles</h3>
     {% if sources.size > 0 %}
       <ul>

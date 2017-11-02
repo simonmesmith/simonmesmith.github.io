@@ -5,5 +5,5 @@ description: 'IBM Virtual Voice Creator. Credit&#58; IBM The animation world is 
 link: https://phys.org/news/2017-11-text-to-speech-tool-diy-voiceoversfrom-soft.html
 date: 2017-11-02 07:17:00
 tags:
-  - soc-27-3043
+  - soc-27-2011
 ---
