@@ -4,13 +4,20 @@ layout: base
 
 {% include header.html type="automation" %}
 
+{% comment %} Variables {% endcomment %}
+{% assign probability = page.probability.oxford | times: 100 %}
+{% assign change = page.employment.change.us | times: 100 %}
+{% assign soc_tag = 'soc-' | append: page.soc.code %}
+{% assign sources = site.sources | where:'tags', soc_tag | sort:'date' | reverse %}
+{% assign entities = site.entities | where:'categories', 'companies' %}
+{% assign companies = entities | where:'tags', soc_tag %}
+
 <div class="container">
 
   <article role="main" class="automation">
 
     <div class="row">
       <div class="col-md-3">
-        {% assign probability = page.probability.oxford | times: 100 %}
         <div class="panel panel-{% if probability < 11 %}success{% elsif probability < 76 %}warning{% else %}danger{% endif %}">
           <div class="panel-heading">
             <h3 class="panel-title">{{ probability }}% probability</h3>
@@ -21,7 +28,6 @@ layout: base
         </div>
       </div>
       <div class="col-md-3">
-        {% assign change = page.employment.change.us | times: 100 %}
         <div class="panel panel-{% if change > 8.35 %}success{% elsif change < 0 %}danger{% else %}warning{% endif %}">
           <div class="panel-heading">
             <h3 class="panel-title">{{ change }}% growth</h3>
@@ -64,15 +70,54 @@ layout: base
       </div>
     </div>
 
-    <div class="well">
-      What they do: {{ page.soc.definition }}
+    <div>
+      <p class="lead">
+        Jobs classified as "{{ page.soc.title }}" have
+        {% if probability < 5 %} an extremely low
+        {% elsif probability < 10 %} a very low
+        {% elsif probability < 20 %} a low
+        {% elsif probability < 70 %} a moderate
+        {% elsif probability < 80 %} a high
+        {% elsif probability < 90 %} a very high
+        {% elsif probability < 98 %} an extremely high
+        {% elsif probability < 100 %} a near certain
+        {% endif %}
+        probability of automation.
+      </p>
+      <p>
+        People in this occupation are defined as follows:
+      </p>
+      <blockquote>
+        {{ page.soc.definition }}
+      </blockquote>
+      <p>
+        Researchers forecast that this occupation is {{ probability }}% likely to be automated. It ranks {{ page.rank.oxford }} out of 699 occupations analyzed for susceptibility to automation (with a higher rank indicating a higher likelihood of automation).
+      </p>
+      <p>
+        In the US, {{ page.employment.current.us }} people have this occupation.
+        {% if page.wage.annual.us %}
+          They earn a mean annual wage of ${{ page.wage.annual.us | money }}. This means the occupation represents a total annual economic value of ${{ page.employment.current.us | times: page.wage.annual.us }}.
+        {% endif %}
+        {% if page.wage.hourly.us %}
+          The mean hourly wage for this occupation is ${{ page.wage.hourly.us | money }}.
+        {% endif %}
+      </p>
+      <p>
+        This occupation is projected to
+        {% if change > 0 %}
+          grow
+        {% else %}
+          shrink
+        {% endif %}
+        by {{ change }}% between 2016 and 2026. By 2026, there are projected to be {{ page.employment.projected.us }} people in this occupation.
+      </p>
+      <p>
+        Of course, forecasts regarding the automation and growth of this occupation aren't foolproof, and must be constantly updated. Bookmark this page to see changes over time, including relevant articles and companies that relate to automation of "{{ page.soc.title }}."
+      </p>
     </div>
 
     {{ content }}
 
-    {% assign soc_tag = 'soc-' | append: page.soc.code %}
-
-    {% assign sources = site.sources | where:'tags', soc_tag | sort:'date' | reverse %}
     <h3>Related articles</h3>
     {% if sources.size > 0 %}
       <ul>
@@ -88,8 +133,6 @@ layout: base
       </ul>
     {% endif %}
 
-    {% assign entities = site.entities | where:'categories', 'companies' %}
-    {% assign companies = entities | where:'tags', soc_tag %}
     <h3>Related companies</h3>
     {% if companies.size == 0 %}
       <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
