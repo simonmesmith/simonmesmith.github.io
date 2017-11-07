@@ -1,0 +1,24 @@
+---
+layout: default
+title: Statistics
+subtitle: Automatically generated statistics based on notes I've made on things I've read
+---
+
+{% include header.html type="statistics" %}
+<div class="statistics">
+  <article class="statistics-list">
+    {% assign statistics = site.notes | where:'categories', 'statistics' | sort: 'date' | reverse %}
+    {% for statistic in statistics %}
+      <blockquote>
+        <p>{{ statistic.quote }}</p>
+        {% if statistic.comment %}
+          <small>{{ statistic.comment }}</small>
+        {% endif %}
+        <small>
+          {% assign source = site.sources | where:'link', statistic.link %}
+          <a target="_blank" href="{{ source[0].link }}">{{ source[0].title }}</a>
+        </small>
+      </blockquote>
+    {% endfor %}
+  </article>
+</div>
