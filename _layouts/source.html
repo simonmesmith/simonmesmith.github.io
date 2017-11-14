@@ -8,13 +8,20 @@ layout: base
 
   <article role="main" class="source">
 
-    <div class="well">
-      {{ page.description }}
-      <a href="{{ page.link }}">Read more...</a>
+    <div class="media">
+      <div class="pull-left">
+        <img class="media-object" style="width: 64px" src="//logo.clearbit.com/{{ page.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }}?size=64">
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading">Saved from {{ page.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }} on {{ page.date | date: "%b %d, %Y" }}</h4>
+        <strong>Summary</strong>: {{ page.description }}
+        <a href="{{ page.link }}">Read more...</a>
+      </div>
     </div>
 
     {{ content }}
 
+    <h3>My notes</h3>
     {% assign notes = site.notes | where:'link', page.link %}
     {% if notes.size == 0 %}
       <p>I haven't taken any notes on this source yet. Feel free to post your thoughts in the comments.</p>
