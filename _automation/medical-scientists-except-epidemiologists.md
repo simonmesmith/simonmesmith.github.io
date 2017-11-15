@@ -21,4 +21,6 @@ probability:
   oxford: 0.0045
 rank:
   oxford: 21
+tags:
+  - Medical laboratory scientist
 ---

@@ -21,4 +21,6 @@ probability:
   oxford: 0.31
 rank:
   oxford: 243
+tags:
+  - Private investigator
 ---

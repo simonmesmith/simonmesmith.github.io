@@ -7,5 +7,5 @@ domain: isee.ai
 categories:
   - companies
 tags:
-  - soc-53-3041
+  - Autonomous car
 ---

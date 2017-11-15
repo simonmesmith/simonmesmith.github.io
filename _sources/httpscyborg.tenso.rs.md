@@ -5,5 +5,5 @@ description: 'This is an experimental text editor with a neural text synthesizer
 link: https://cyborg.tenso.rs/
 date: 2017-10-26 07:13:00
 tags:
-  - soc-27-3043
+  - Author
 ---

@@ -7,5 +7,5 @@ domain: klaritylaw.com
 categories:
   - companies
 tags:
-  - soc-23-1011
+  - Lawyer
 ---

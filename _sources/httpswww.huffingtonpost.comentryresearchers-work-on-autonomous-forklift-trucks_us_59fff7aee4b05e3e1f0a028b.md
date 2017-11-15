@@ -5,5 +5,5 @@ description: 'Whilst the most visible autonomous transportation projects have un
 link: https://www.huffingtonpost.com/entry/researchers-work-on-autonomous-forklift-trucks_us_59fff7aee4b05e3e1f0a028b
 date: 2017-11-06 07:24:00
 tags:
-  - soc-53-7051
+  - Heavy equipment
 ---

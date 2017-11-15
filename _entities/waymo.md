@@ -7,5 +7,5 @@ domain: waymo.com
 categories:
   - companies
 tags:
-  - soc-53-3041
+  - Autonomous car
 ---

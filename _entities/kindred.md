@@ -7,6 +7,6 @@ domain: kindred.ai
 categories:
   - companies
 tags:
-  - soc-41-2031
-  - soc-43-5081
+  - Retail clerk
+  - Warehouse
 ---

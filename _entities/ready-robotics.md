@@ -7,8 +7,7 @@ domain: ready-robotics.com
 categories:
   - companies
 tags:
-  - soc-51-2092
-  - soc-51-2099
-  - soc-51-3011
+  - Assembly line
+  - Baker
   - soc-51-4041
 ---

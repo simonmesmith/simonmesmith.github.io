@@ -5,5 +5,5 @@ description: 'Brown University researchers have announced a partnership with Has
 link: http://www.mobihealthnews.com/content/researchers-adding-ai-medication-reminders-companion-robots-seniors
 date: 2017-11-09 07:25:00
 tags:
-  - soc-31-1011
+  - Home care
 ---

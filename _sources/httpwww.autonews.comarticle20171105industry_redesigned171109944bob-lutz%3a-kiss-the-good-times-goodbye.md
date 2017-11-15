@@ -5,5 +5,5 @@ description: 'Send us a Letter Have an opinion about this story? Click here to s
 link: http://www.autonews.com/article/20171105/industry_redesigned/171109944/bob-lutz%3a-kiss-the-good-times-goodbye
 date: 2017-11-07 07:04:00
 tags:
-  - soc-53-3041
+  - Autonomous car
 ---

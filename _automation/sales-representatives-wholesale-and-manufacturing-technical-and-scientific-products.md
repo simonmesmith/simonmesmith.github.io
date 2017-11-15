@@ -21,4 +21,6 @@ probability:
   oxford: 0.25
 rank:
   oxford: 228
+tags:
+  - Sales
 ---

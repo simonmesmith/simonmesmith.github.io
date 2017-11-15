@@ -7,5 +7,5 @@ domain: starsky.io
 categories:
   - companies
 tags:
-  - soc-53-3032
+  - Truck driver
 ---

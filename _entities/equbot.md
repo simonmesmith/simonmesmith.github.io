@@ -7,5 +7,5 @@ domain: equbot.com
 categories:
   - companies
 tags:
-  - soc-13-2051
+  - Financial analyst
 ---

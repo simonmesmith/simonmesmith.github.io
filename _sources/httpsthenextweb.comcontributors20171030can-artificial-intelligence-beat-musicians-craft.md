@@ -5,6 +5,6 @@ description: 'Should musicians, whose job relies on the unpredictable and myster
 link: https://thenextweb.com/contributors/2017/10/30/can-artificial-intelligence-beat-musicians-craft/
 date: 2017-10-30 07:11:00
 tags:
-  - soc-27-2041
-  - soc-27-2042
+  - Composer
+  - Musician
 ---

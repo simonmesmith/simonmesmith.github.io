@@ -5,5 +5,5 @@ description: 'Why it matters to you This five-axis robotic arm can be easily tra
 link: https://www.digitaltrends.com/cool-tech/dorna-robotic-arm/
 date: 2017-11-04 08:25:00
 tags:
-  - soc-51-2092
+  - Assembly line
 ---

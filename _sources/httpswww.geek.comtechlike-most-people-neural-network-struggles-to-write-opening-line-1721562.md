@@ -5,5 +5,5 @@ description: 'It’s National Novel Writing Month (NaNoWriMo, to those in the bi
 link: https://www.geek.com/tech/like-most-people-neural-network-struggles-to-write-opening-line-1721562/
 date: 2017-11-04 08:31:00
 tags:
-  - soc-27-3043
+  - Author
 ---

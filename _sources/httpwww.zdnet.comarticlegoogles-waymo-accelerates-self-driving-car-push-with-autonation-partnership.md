@@ -5,5 +5,5 @@ description: 'Image&#58; Waymo AutoNation, the largest auto dealership chain in 
 link: http://www.zdnet.com/article/googles-waymo-accelerates-self-driving-car-push-with-autonation-partnership/
 date: 2017-11-03 07:21:00
 tags:
-  - soc-53-3041
+  - Autonomous car
 ---

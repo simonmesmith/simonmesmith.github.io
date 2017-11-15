@@ -5,5 +5,5 @@ description: 'Baltimore-based Ready Robotics , which makes deployable robots to 
 link: http://www.zdnet.com/article/legacy-maker-of-tools-for-humans-is-automating-its-factories/
 date: 2017-11-06 07:25:00
 tags:
-  - soc-51-2092
+  - Assembly line
 ---

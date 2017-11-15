@@ -5,7 +5,7 @@ description: 'Two days after K.S. Sunil Kumar received a promotion, Human Resour
 link: https://www.technologyreview.com/s/609118/india-warily-eyes-ai/
 date: 2017-10-24 07:13:00
 tags:
-  - soc-15-1142
-  - soc-15-1151
-  - soc-15-1152
+  - System administrator
+  - Technical support
+  - Network administrator
 ---

@@ -5,5 +5,5 @@ description: TOKYO (Reuters) - For decades, economists have tried to guess centr
 link: https://www.reuters.com/article/us-japan-boj-face/in-kurodas-face-researchers-find-ways-to-predict-central-bank-changes-idUSKBN1CP0GS
 date: 2017-10-20 07:10:00 -0000
 tags:
-    - soc-41-3031
+    - Commodity broker
 ---

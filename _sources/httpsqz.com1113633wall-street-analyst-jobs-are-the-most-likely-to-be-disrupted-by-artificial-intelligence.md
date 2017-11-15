@@ -5,5 +5,5 @@ description: 'Research analysts are the most likely employees on Wall Street to 
 link: https://qz.com/1113633/wall-street-analyst-jobs-are-the-most-likely-to-be-disrupted-by-artificial-intelligence/
 date: 2017-10-28 08:10:00
 tags:
-  - soc-13-2051
+  - Financial analyst
 ---

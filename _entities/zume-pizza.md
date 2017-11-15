@@ -7,7 +7,7 @@ domain: zumepizza.com
 categories:
   - companies
 tags:
-  - soc-35-2011
-  - soc-35-2015
-  - soc-35-2014
+  - Cook (profession)
+  - Cook (profession)
+  - Cook (profession)
 ---

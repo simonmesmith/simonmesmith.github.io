@@ -5,5 +5,5 @@ description: 'Hiring managers already are using artificial intelligence with soc
 link: https://www.inc.com/wanda-thibodeaux/this-artificial-intelligence-can-use-social-media-to-tell-hiring-managers-about-your-personality.html
 date: 2017-11-03 07:23:00
 tags:
-  - soc-13-1071
+  - Human resource management
 ---

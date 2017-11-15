@@ -8,5 +8,5 @@ categories:
   - companies
 tags:
   - soc-47-2061
-  - soc-53-7051
+  - Heavy equipment
 ---

@@ -5,7 +5,7 @@ description: 'Summary The AI Powered Equity ETF is a new AI-based ETF that uses 
 link: https://seekingalpha.com/article/4124004-new-ai-based-etf-uses-ibms-watson-technology
 date: 2017-11-13 06:18:00
 tags:
-  - soc-13-2051
+  - Financial analyst
   - Artificial intelligence
   - Exchange-traded fund
   - Investment

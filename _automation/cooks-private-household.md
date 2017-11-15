@@ -21,4 +21,6 @@ probability:
   oxford: 0.3
 rank:
   oxford: 241
+tags:
+  - Cook (profession)
 ---

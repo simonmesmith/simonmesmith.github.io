@@ -8,7 +8,7 @@ categories:
   - companies
   - software
 tags:
-  - soc-19-1021 # Biochemists and Biophysicists
+  - Biochemist # Biochemists and Biophysicists
   - Drug discovery
   - Artificial intelligence
   - Artificial intelligence in healthcare

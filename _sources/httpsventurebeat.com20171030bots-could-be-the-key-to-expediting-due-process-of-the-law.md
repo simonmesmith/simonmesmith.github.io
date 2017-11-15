@@ -5,5 +5,5 @@ description: 'In the technology adoption lifecycle, law firms can be laggards. F
 link: https://venturebeat.com/2017/10/30/bots-could-be-the-key-to-expediting-due-process-of-the-law/
 date: 2017-10-31 07:22:00
 tags:
-  - soc-23-1011
+  - Lawyer
 ---

@@ -21,4 +21,6 @@ probability:
   oxford: 0.37
 rank:
   oxford: 259
+tags:
+  - Actor
 ---

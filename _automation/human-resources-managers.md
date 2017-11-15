@@ -21,4 +21,6 @@ probability:
   oxford: 0.0055
 rank:
   oxford: 28
+tags:
+  - Human resource management
 ---

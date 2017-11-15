@@ -5,5 +5,5 @@ description: 'Over the course of nearly two years, we called, video-chatted, and
 link: http://blog.robinhood.com/news/2017/10/31/robinhood-now-on-web
 date: 2017-11-02 07:14:00
 tags:
-  - soc-41-3031
+  - Commodity broker
 ---

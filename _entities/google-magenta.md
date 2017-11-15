@@ -9,6 +9,6 @@ categories:
   - projects
   - software
 tags:
-  - soc-27-2041 # Music Directors and Composers
-  - soc-27-2042
+  - Composer # Music Directors and Composers
+  - Musician
 ---

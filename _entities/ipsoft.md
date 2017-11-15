@@ -7,6 +7,6 @@ domain: ipsoft.com
 categories:
   - companies
 tags:
-  - soc-15-1151
-  - soc-43-4051
+  - Technical support
+  - Customer service representatives
 ---

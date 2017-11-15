@@ -5,5 +5,5 @@ description: 'London and Berlin-based, AI-powered health app maker Ada Health ha
 link: http://www.mobihealthnews.com/content/ada-health-gets-47m-ai-powered-chatbot-telemedicine-app
 date: 2017-11-01 07:19:00
 tags:
-  - soc-29-1062
+  - General practitioner
 ---

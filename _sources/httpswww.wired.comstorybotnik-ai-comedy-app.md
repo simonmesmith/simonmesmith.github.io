@@ -5,5 +5,5 @@ description: '“Innovation,” Jeff Bezos once said, “happens by gently lifti
 link: https://www.wired.com/story/botnik-ai-comedy-app/
 date: 2017-10-26 07:10:00
 tags:
-  - soc-27-3043
+  - Author
 ---

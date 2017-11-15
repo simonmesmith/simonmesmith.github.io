@@ -5,5 +5,5 @@ description: 'Enlarge Waymo Driverless cars are here. Waymo, the Alphabet self-d
 link: https://arstechnica.com/cars/2017/11/fully-driverless-cars-are-here/
 date: 2017-11-08 07:03:00
 tags:
-  - soc-53-3041
+  - Autonomous car
 ---

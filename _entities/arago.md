@@ -7,7 +7,7 @@ domain: arago.co
 categories:
   - companies
 tags:
-  - soc-15-1142
-  - soc-15-1151
-  - soc-15-1152
+  - System administrator
+  - Technical support
+  - Network administrator
 ---

@@ -8,5 +8,5 @@ categories:
   - companies
   - apps
 tags:
-  - soc-23-1011 # Lawyers
+  - Lawyer # Lawyers
 ---

@@ -7,7 +7,7 @@ domain: savioke.com
 categories:
   - companies
 tags:
-  - soc-37-2012
-  - soc-35-3041
-  - soc-39-6011
+  - Maid
+  - Waiting staff
+  - Bellhop
 ---

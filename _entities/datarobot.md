@@ -7,8 +7,8 @@ domain: datarobot.com
 categories:
   - companies
 tags:
-  - soc-13-2051
+  - Financial analyst
   - soc-13-1161
   - soc-19-3022
-  - soc-13-2041
+  - Credit analyst
 ---

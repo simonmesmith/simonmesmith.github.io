@@ -5,5 +5,5 @@ description: 'Software from Klarity seeks to cut down on contract review using a
 link: https://phys.org/news/2017-11-ai-enabled-klarity-companies.html
 date: 2017-11-06 07:27:00
 tags:
-  - soc-23-1011
+  - Lawyer
 ---

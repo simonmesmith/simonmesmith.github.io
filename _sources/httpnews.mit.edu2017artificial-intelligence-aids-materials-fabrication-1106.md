@@ -5,5 +5,5 @@ description: 'Larry Hardesty | MIT News Office Press Contact Abby Abazorius Emai
 link: http://news.mit.edu/2017/artificial-intelligence-aids-materials-fabrication-1106
 date: 2017-11-06 07:21:00
 tags:
-  - soc-19-2032
+  - Materials science
 ---

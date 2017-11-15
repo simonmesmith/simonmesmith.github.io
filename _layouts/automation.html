@@ -7,10 +7,10 @@ layout: base
 {% comment %} Variables {% endcomment %}
 {% assign probability = page.probability.oxford | times: 100 %}
 {% assign change = page.employment.change.us | times: 100 %}
-{% assign soc_tag = 'soc-' | append: page.soc.code %}
-{% assign sources = site.sources | where:'tags', soc_tag | sort:'date' | reverse %}
+{% assign first_tag = page.tags | first %}
+{% assign sources = site.sources | where:'tags', first_tag | sort:'date' | reverse %}
 {% assign entities = site.entities | where:'categories', 'companies' %}
-{% assign companies = entities | where:'tags', soc_tag %}
+{% assign companies = entities | where:'tags', first_tag %}
 
 <div class="container">
 

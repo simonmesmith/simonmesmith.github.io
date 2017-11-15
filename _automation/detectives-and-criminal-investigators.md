@@ -21,4 +21,6 @@ probability:
   oxford: 0.34
 rank:
   oxford: 246
+tags:
+  - Detective
 ---

@@ -5,5 +5,5 @@ description: 'As the world moves ever closer to a self-driving future, one compa
 link: https://www.fool.com/investing/2017/10/22/googles-strategy-to-educate-the-public-about-self.aspx
 date: 2017-10-22 07:59:00
 tags:
-    - soc-53-3041
+    - Autonomous car
 ---

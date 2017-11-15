@@ -5,5 +5,5 @@ description: 'The robots autonomously roam up and down the aisles of the store, 
 link: http://www.businessinsider.com/walmart-store-robot-program-expands-2017-10
 date: 2017-10-27 07:03:00
 tags:
-  - soc-43-5081
+  - Warehouse
 ---

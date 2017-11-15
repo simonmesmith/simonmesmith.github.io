@@ -5,5 +5,5 @@ description: Back in the 1990s, Paul Tudor Jones assigned a team of coders to a 
 link: https://www.bloomberg.com/news/articles/2017-10-20/automation-starts-to-sweep-wall-street-with-tons-of-glitches
 date: 2017-10-20 07:16:00 -0000
 tags:
-  - soc-41-3031
+  - Commodity broker
 ---

@@ -5,5 +5,5 @@ description: 'Studies found machines don''t reduce side effects and take longer 
 link: http://www.dailymail.co.uk/~/article-5014679/index.html
 date: 2017-10-25 07:10:00
 tags:
-  - soc-29-1067
+  - Surgeon
 ---

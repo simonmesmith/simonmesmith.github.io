@@ -5,7 +5,7 @@ description: 'Trucks will someday drive themselves out of warehouses and cruise 
 link: http://www.sfgate.com/business/article/Self-driving-trucks-may-be-closer-than-they-appear-12354429.php
 date: 2017-11-14 06:15:00
 tags:
-  - soc-53-3032
+  - Truck driver
   - Autonomous car
   - Truck driver
   - Truck

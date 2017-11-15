@@ -5,6 +5,6 @@ description: 'The Download What''s up in emerging technology Today Next time you
 link: https://www.technologyreview.com/the-download/609209/kindred-robots-are-learning-to-grab-and-sort-clothing-in-a-warehouse-for-the-gap/
 date: 2017-10-25 07:13:00
 tags:
-  - soc-41-2031
-  - soc-43-5081
+  - Retail clerk
+  - Warehouse
 ---

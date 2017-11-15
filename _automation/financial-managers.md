@@ -21,4 +21,6 @@ probability:
   oxford: 0.069
 rank:
   oxford: 152
+tags:
+  - Financial adviser
 ---

@@ -7,5 +7,5 @@ domain: embarktrucks.com
 categories:
   - companies
 tags:
-  - soc-53-3032
+  - Truck driver
 ---

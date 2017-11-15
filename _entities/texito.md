@@ -7,6 +7,6 @@ domain: textio.com
 categories:
   - companies
 tags:
-  - soc-27-3043
-  - soc-11-3121
+  - Author
+  - Human resource management
 ---

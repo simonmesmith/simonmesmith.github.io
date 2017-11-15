@@ -21,4 +21,6 @@ probability:
   oxford: 0.92
 rank:
   oxford: 570
+tags:
+  - Retail clerk
 ---

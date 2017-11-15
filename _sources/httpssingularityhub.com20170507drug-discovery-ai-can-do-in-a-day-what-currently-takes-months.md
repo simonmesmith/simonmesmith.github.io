@@ -5,7 +5,7 @@ description: 'To create a new drug, researchers have to test tens of thousands o
 link: https://singularityhub.com/2017/05/07/drug-discovery-ai-can-do-in-a-day-what-currently-takes-months/
 date: 2017-10-26 13:36:00
 tags:
-  - soc-19-1021 # Biochemists and Biophysicists
+  - Biochemist # Biochemists and Biophysicists
   - Drug discovery
   - Artificial intelligence
   - Artificial intelligence in healthcare

@@ -21,4 +21,6 @@ probability:
   oxford: 0.074
 rank:
   oxford: 155
+tags:
+  - Musician
 ---

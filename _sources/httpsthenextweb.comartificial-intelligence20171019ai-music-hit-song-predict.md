@@ -5,6 +5,6 @@ description: Being on the lookout for the next big hit is what keeps music publi
 link: https://thenextweb.com/artificial-intelligence/2017/10/19/ai-music-hit-song-predict/
 date: 2017-10-20 07:15:00 -0000
 tags:
-    - soc-27-2041
-    - soc-27-2042
+    - Composer
+    - Musician
 ---

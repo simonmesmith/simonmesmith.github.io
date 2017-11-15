@@ -5,5 +5,5 @@ description: In May, Sundar Pichai, CEO of Google, discussed AI applications for
 link: https://venturebeat.com/2017/10/19/ai-powered-pathology-is-transforming-cancer-care/
 date: 2017-10-20 07:14:00 -0000
 tags:
-    - soc-19-1042
+    - Medical laboratory scientist
 ---

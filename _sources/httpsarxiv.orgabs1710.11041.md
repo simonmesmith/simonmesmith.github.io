@@ -5,5 +5,5 @@ description: 'Cornell University Library We gratefully acknowledge support from 
 link: https://arxiv.org/abs/1710.11041
 date: 2017-10-31 07:03:00
 tags:
-  - soc-27-3091
+  - Translation
 ---

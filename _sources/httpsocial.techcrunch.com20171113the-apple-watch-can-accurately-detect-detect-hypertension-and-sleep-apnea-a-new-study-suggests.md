@@ -5,7 +5,7 @@ description: 'A new study out from health startup Cardiogram and the University 
 link: http://social.techcrunch.com/2017/11/13/the-apple-watch-can-accurately-detect-detect-hypertension-and-sleep-apnea-a-new-study-suggests/
 date: 2017-11-14 06:09:00
 tags:
-  - soc-29-1069
+  - Physician
   - Sleep apnea
   - Hypertension
   - Sleep

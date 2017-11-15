@@ -5,7 +5,7 @@ description: 'Frank is a divorcé who suffers from early symptoms of dementia. G
 link: https://venturebeat.com/2017/11/14/meet-the-robots-caring-for-japans-aging-population/
 date: 2017-11-15 06:19:00
 tags:
-  - soc-31-1011
+  - Home care
   - Paro (robot)
   - Robot
   - Caregiver

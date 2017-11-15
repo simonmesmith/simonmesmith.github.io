@@ -5,5 +5,5 @@ description: 'Which is scarier&#58; vampires, demon-possessed children, or the i
 link: https://www.fastcodesign.com/90148966/this-ai-writes-horror-stories-and-theyre-surprisingly-scary
 date: 2017-10-31 07:21:00
 tags:
-  - soc-27-3043
+  - Author
 ---

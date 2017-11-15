@@ -21,4 +21,6 @@ probability:
   oxford: 0.035
 rank:
   oxford: 115
+tags:
+  - Lawyer
 ---
