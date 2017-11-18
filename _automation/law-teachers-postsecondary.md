@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Law Teachers, Postsecondary
+title: Automation of Law Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Law Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1112
   title: Law Teachers, Postsecondary

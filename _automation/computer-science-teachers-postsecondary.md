@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Science Teachers, Postsecondary
+title: Automation of Computer Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Computer Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1021
   title: Computer Science Teachers, Postsecondary

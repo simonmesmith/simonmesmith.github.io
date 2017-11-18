@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Laborers and Freight, Stock, and Material Movers, Hand
+title: Automation of Laborers and Freight, Stock, and Material Movers, Hand
+subtitle: Will robots and artificial intelligence take the job of Laborers and Freight, Stock, and Material Movers, Hand? Get the facts.
 soc:
   code: 53-7062
   title: Laborers and Freight, Stock, and Material Movers, Hand

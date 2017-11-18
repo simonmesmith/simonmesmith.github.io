@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Occupational Health and Safety Technicians
+title: Automation of Occupational Health and Safety Technicians
+subtitle: Will robots and artificial intelligence take the job of Occupational Health and Safety Technicians? Get the facts.
 soc:
   code: 29-9012
   title: Occupational Health and Safety Technicians

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Craft Artists
+title: Automation of Craft Artists
+subtitle: Will robots and artificial intelligence take the job of Craft Artists? Get the facts.
 soc:
   code: 27-1012
   title: Craft Artists

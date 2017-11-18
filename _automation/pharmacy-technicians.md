@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pharmacy Technicians
+title: Automation of Pharmacy Technicians
+subtitle: Will robots and artificial intelligence take the job of Pharmacy Technicians? Get the facts.
 soc:
   code: 29-2052
   title: Pharmacy Technicians

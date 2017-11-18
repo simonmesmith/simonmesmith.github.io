@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+title: Automation of Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1051
   title: Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary

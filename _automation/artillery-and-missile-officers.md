@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Artillery and Missile Officers
+title: Automation of Artillery and Missile Officers
+subtitle: Will robots and artificial intelligence take the job of Artillery and Missile Officers? Get the facts.
 soc:
   code: 55-1014
   title: Artillery and Missile Officers

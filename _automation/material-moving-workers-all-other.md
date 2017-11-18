@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Material Moving Workers, All Other
+title: Automation of Material Moving Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Material Moving Workers, All Other? Get the facts.
 soc:
   code: 53-7199
   title: Material Moving Workers, All Other

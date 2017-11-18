@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Heavy and Tractor-Trailer Truck Drivers
+title: Automation of Heavy and Tractor-Trailer Truck Drivers
+subtitle: Will robots and artificial intelligence take the job of Heavy and Tractor-Trailer Truck Drivers? Get the facts.
 soc:
   code: 53-3032
   title: Heavy and Tractor-Trailer Truck Drivers

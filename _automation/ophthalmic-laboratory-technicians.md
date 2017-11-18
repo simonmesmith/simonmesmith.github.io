@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Ophthalmic Laboratory Technicians
+title: Automation of Ophthalmic Laboratory Technicians
+subtitle: Will robots and artificial intelligence take the job of Ophthalmic Laboratory Technicians? Get the facts.
 soc:
   code: 51-9083
   title: Ophthalmic Laboratory Technicians

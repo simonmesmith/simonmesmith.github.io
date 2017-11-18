@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+title: Automation of First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators? Get the facts.
 soc:
   code: 53-1031
   title: First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dispatchers, Except Police, Fire, and Ambulance
+title: Automation of Dispatchers, Except Police, Fire, and Ambulance
+subtitle: Will robots and artificial intelligence take the job of Dispatchers, Except Police, Fire, and Ambulance? Get the facts.
 soc:
   code: 43-5032
   title: Dispatchers, Except Police, Fire, and Ambulance

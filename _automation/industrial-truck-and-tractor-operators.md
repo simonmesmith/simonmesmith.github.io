@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial Truck and Tractor Operators
+title: Automation of Industrial Truck and Tractor Operators
+subtitle: Will robots and artificial intelligence take the job of Industrial Truck and Tractor Operators? Get the facts.
 soc:
   code: 53-7051
   title: Industrial Truck and Tractor Operators

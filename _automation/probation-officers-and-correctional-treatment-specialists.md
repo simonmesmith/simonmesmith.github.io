@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Probation Officers and Correctional Treatment Specialists
+title: Automation of Probation Officers and Correctional Treatment Specialists
+subtitle: Will robots and artificial intelligence take the job of Probation Officers and Correctional Treatment Specialists? Get the facts.
 soc:
   code: 21-1092
   title: Probation Officers and Correctional Treatment Specialists

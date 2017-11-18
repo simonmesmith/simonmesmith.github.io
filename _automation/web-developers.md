@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Web Developers
+title: Automation of Web Developers
+subtitle: Will robots and artificial intelligence take the job of Web Developers? Get the facts.
 soc:
   code: 15-1134
   title: Web Developers

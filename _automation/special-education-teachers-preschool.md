@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Education Teachers, Preschool
+title: Automation of Special Education Teachers, Preschool
+subtitle: Will robots and artificial intelligence take the job of Special Education Teachers, Preschool? Get the facts.
 soc:
   code: 25-2051
   title: Special Education Teachers, Preschool

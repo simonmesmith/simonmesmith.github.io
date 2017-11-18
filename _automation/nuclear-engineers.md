@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nuclear Engineers
+title: Automation of Nuclear Engineers
+subtitle: Will robots and artificial intelligence take the job of Nuclear Engineers? Get the facts.
 soc:
   code: 17-2161
   title: Nuclear Engineers

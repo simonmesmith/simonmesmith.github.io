@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+title: Automation of Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders? Get the facts.
 soc:
   code: 51-9051
   title: Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders

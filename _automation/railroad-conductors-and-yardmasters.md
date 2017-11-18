@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Railroad Conductors and Yardmasters
+title: Automation of Railroad Conductors and Yardmasters
+subtitle: Will robots and artificial intelligence take the job of Railroad Conductors and Yardmasters? Get the facts.
 soc:
   code: 53-4031
   title: Railroad Conductors and Yardmasters

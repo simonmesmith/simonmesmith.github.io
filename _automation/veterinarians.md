@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Veterinarians
+title: Automation of Veterinarians
+subtitle: Will robots and artificial intelligence take the job of Veterinarians? Get the facts.
 soc:
   code: 29-1131
   title: Veterinarians

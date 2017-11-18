@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Carpenters
+title: Automation of Helpers--Carpenters
+subtitle: Will robots and artificial intelligence take the job of Helpers--Carpenters? Get the facts.
 soc:
   code: 47-3012
   title: Helpers--Carpenters

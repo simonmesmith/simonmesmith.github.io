@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Textile Bleaching and Dyeing Machine Operators and Tenders
+title: Automation of Textile Bleaching and Dyeing Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Textile Bleaching and Dyeing Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-6061
   title: Textile Bleaching and Dyeing Machine Operators and Tenders

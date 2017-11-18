@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooling and Freezing Equipment Operators and Tenders
+title: Automation of Cooling and Freezing Equipment Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Cooling and Freezing Equipment Operators and Tenders? Get the facts.
 soc:
   code: 51-9193
   title: Cooling and Freezing Equipment Operators and Tenders

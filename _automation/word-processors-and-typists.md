@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Word Processors and Typists
+title: Automation of Word Processors and Typists
+subtitle: Will robots and artificial intelligence take the job of Word Processors and Typists? Get the facts.
 soc:
   code: 43-9022
   title: Word Processors and Typists

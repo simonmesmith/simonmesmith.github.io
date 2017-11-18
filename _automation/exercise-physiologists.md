@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Exercise Physiologists
+title: Automation of Exercise Physiologists
+subtitle: Will robots and artificial intelligence take the job of Exercise Physiologists? Get the facts.
 soc:
   code: 29-1128
   title: Exercise Physiologists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Model Makers, Wood
+title: Automation of Model Makers, Wood
+subtitle: Will robots and artificial intelligence take the job of Model Makers, Wood? Get the facts.
 soc:
   code: 51-7031
   title: Model Makers, Wood

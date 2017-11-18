@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Appraisers and Assessors of Real Estate
+title: Automation of Appraisers and Assessors of Real Estate
+subtitle: Will robots and artificial intelligence take the job of Appraisers and Assessors of Real Estate? Get the facts.
 soc:
   code: 13-2021
   title: Appraisers and Assessors of Real Estate

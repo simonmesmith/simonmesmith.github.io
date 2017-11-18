@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemical Engineers
+title: Automation of Chemical Engineers
+subtitle: Will robots and artificial intelligence take the job of Chemical Engineers? Get the facts.
 soc:
   code: 17-2041
   title: Chemical Engineers

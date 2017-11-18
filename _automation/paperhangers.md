@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Paperhangers
+title: Automation of Paperhangers
+subtitle: Will robots and artificial intelligence take the job of Paperhangers? Get the facts.
 soc:
   code: 47-2142
   title: Paperhangers

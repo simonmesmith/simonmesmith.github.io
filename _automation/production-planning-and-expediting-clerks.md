@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Production, Planning, and Expediting Clerks
+title: Automation of Production, Planning, and Expediting Clerks
+subtitle: Will robots and artificial intelligence take the job of Production, Planning, and Expediting Clerks? Get the facts.
 soc:
   code: 43-5061
   title: Production, Planning, and Expediting Clerks

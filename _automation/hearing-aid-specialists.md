@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hearing Aid Specialists
+title: Automation of Hearing Aid Specialists
+subtitle: Will robots and artificial intelligence take the job of Hearing Aid Specialists? Get the facts.
 soc:
   code: 29-2092
   title: Hearing Aid Specialists

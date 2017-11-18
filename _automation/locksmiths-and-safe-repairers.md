@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Locksmiths and Safe Repairers
+title: Automation of Locksmiths and Safe Repairers
+subtitle: Will robots and artificial intelligence take the job of Locksmiths and Safe Repairers? Get the facts.
 soc:
   code: 49-9094
   title: Locksmiths and Safe Repairers

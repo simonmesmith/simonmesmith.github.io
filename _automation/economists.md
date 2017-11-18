@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Economists
+title: Automation of Economists
+subtitle: Will robots and artificial intelligence take the job of Economists? Get the facts.
 soc:
   code: 19-3011
   title: Economists

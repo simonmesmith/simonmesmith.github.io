@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Property, Real Estate, and Community Association Managers
+title: Automation of Property, Real Estate, and Community Association Managers
+subtitle: Will robots and artificial intelligence take the job of Property, Real Estate, and Community Association Managers? Get the facts.
 soc:
   code: 11-9141
   title: Property, Real Estate, and Community Association Managers

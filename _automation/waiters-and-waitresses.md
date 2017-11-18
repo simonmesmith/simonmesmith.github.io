@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Waiters and Waitresses
+title: Automation of Waiters and Waitresses
+subtitle: Will robots and artificial intelligence take the job of Waiters and Waitresses? Get the facts.
 soc:
   code: 35-3031
   title: Waiters and Waitresses

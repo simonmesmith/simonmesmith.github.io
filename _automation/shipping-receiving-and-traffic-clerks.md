@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Shipping, Receiving, and Traffic Clerks
+title: Automation of Shipping, Receiving, and Traffic Clerks
+subtitle: Will robots and artificial intelligence take the job of Shipping, Receiving, and Traffic Clerks? Get the facts.
 soc:
   code: 43-5071
   title: Shipping, Receiving, and Traffic Clerks

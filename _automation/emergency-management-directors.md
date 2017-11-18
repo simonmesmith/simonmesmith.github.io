@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Emergency Management Directors
+title: Automation of Emergency Management Directors
+subtitle: Will robots and artificial intelligence take the job of Emergency Management Directors? Get the facts.
 soc:
   code: 11-9161
   title: Emergency Management Directors

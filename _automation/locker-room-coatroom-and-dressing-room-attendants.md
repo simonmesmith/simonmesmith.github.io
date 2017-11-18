@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Locker Room, Coatroom, and Dressing Room Attendants
+title: Automation of Locker Room, Coatroom, and Dressing Room Attendants
+subtitle: Will robots and artificial intelligence take the job of Locker Room, Coatroom, and Dressing Room Attendants? Get the facts.
 soc:
   code: 39-3093
   title: Locker Room, Coatroom, and Dressing Room Attendants

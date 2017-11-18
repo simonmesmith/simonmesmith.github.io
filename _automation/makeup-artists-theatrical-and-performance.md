@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Makeup Artists, Theatrical and Performance
+title: Automation of Makeup Artists, Theatrical and Performance
+subtitle: Will robots and artificial intelligence take the job of Makeup Artists, Theatrical and Performance? Get the facts.
 soc:
   code: 39-5091
   title: Makeup Artists, Theatrical and Performance

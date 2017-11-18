@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Claims Adjusters, Examiners, and Investigators
+title: Automation of Claims Adjusters, Examiners, and Investigators
+subtitle: Will robots and artificial intelligence take the job of Claims Adjusters, Examiners, and Investigators? Get the facts.
 soc:
   code: 13-1031
   title: Claims Adjusters, Examiners, and Investigators

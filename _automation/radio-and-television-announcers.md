@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Radio and Television Announcers
+title: Automation of Radio and Television Announcers
+subtitle: Will robots and artificial intelligence take the job of Radio and Television Announcers? Get the facts.
 soc:
   code: 27-3011
   title: Radio and Television Announcers

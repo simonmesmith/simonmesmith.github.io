@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Security Guards
+title: Automation of Security Guards
+subtitle: Will robots and artificial intelligence take the job of Security Guards? Get the facts.
 soc:
   code: 33-9032
   title: Security Guards

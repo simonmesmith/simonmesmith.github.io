@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Diagnostic Medical Sonographers
+title: Automation of Diagnostic Medical Sonographers
+subtitle: Will robots and artificial intelligence take the job of Diagnostic Medical Sonographers? Get the facts.
 soc:
   code: 29-2032
   title: Diagnostic Medical Sonographers

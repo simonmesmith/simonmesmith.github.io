@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Maids and Housekeeping Cleaners
+title: Automation of Maids and Housekeeping Cleaners
+subtitle: Will robots and artificial intelligence take the job of Maids and Housekeeping Cleaners? Get the facts.
 soc:
   code: 37-2012
   title: Maids and Housekeeping Cleaners

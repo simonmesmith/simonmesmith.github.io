@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Extraction Workers
+title: Automation of Helpers--Extraction Workers
+subtitle: Will robots and artificial intelligence take the job of Helpers--Extraction Workers? Get the facts.
 soc:
   code: 47-5081
   title: Helpers--Extraction Workers

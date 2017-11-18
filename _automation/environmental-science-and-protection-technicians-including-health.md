@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Environmental Science and Protection Technicians, Including Health
+title: Automation of Environmental Science and Protection Technicians, Including Health
+subtitle: Will robots and artificial intelligence take the job of Environmental Science and Protection Technicians, Including Health? Get the facts.
 soc:
   code: 19-4091
   title: Environmental Science and Protection Technicians, Including Health

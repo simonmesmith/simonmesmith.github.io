@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Anthropologists and Archeologists
+title: Automation of Anthropologists and Archeologists
+subtitle: Will robots and artificial intelligence take the job of Anthropologists and Archeologists? Get the facts.
 soc:
   code: 19-3091
   title: Anthropologists and Archeologists

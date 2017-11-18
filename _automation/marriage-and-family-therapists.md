@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Marriage and Family Therapists
+title: Automation of Marriage and Family Therapists
+subtitle: Will robots and artificial intelligence take the job of Marriage and Family Therapists? Get the facts.
 soc:
   code: 21-1013
   title: Marriage and Family Therapists

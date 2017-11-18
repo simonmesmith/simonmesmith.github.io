@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Systems Analysts
+title: Automation of Computer Systems Analysts
+subtitle: Will robots and artificial intelligence take the job of Computer Systems Analysts? Get the facts.
 soc:
   code: 15-1121
   title: Computer Systems Analysts

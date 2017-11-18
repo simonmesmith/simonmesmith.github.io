@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+title: Automation of Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders? Get the facts.
 soc:
   code: 51-9192
   title: Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders

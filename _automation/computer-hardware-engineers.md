@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Hardware Engineers
+title: Automation of Computer Hardware Engineers
+subtitle: Will robots and artificial intelligence take the job of Computer Hardware Engineers? Get the facts.
 soc:
   code: 17-2061
   title: Computer Hardware Engineers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Human Resources Assistants, Except Payroll and Timekeeping
+title: Automation of Human Resources Assistants, Except Payroll and Timekeeping
+subtitle: Will robots and artificial intelligence take the job of Human Resources Assistants, Except Payroll and Timekeeping? Get the facts.
 soc:
   code: 43-4161
   title: Human Resources Assistants, Except Payroll and Timekeeping

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nonfarm Animal Caretakers
+title: Automation of Nonfarm Animal Caretakers
+subtitle: Will robots and artificial intelligence take the job of Nonfarm Animal Caretakers? Get the facts.
 soc:
   code: 39-2021
   title: Nonfarm Animal Caretakers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Anesthesiologists
+title: Automation of Anesthesiologists
+subtitle: Will robots and artificial intelligence take the job of Anesthesiologists? Get the facts.
 soc:
   code: 29-1061
   title: Anesthesiologists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Foreign Language and Literature Teachers, Postsecondary
+title: Automation of Foreign Language and Literature Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Foreign Language and Literature Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1124
   title: Foreign Language and Literature Teachers, Postsecondary

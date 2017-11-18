@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Wellhead Pumpers
+title: Automation of Wellhead Pumpers
+subtitle: Will robots and artificial intelligence take the job of Wellhead Pumpers? Get the facts.
 soc:
   code: 53-7073
   title: Wellhead Pumpers

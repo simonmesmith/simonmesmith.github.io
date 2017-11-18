@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Appliance Technicians
+title: Automation of Medical Appliance Technicians
+subtitle: Will robots and artificial intelligence take the job of Medical Appliance Technicians? Get the facts.
 soc:
   code: 51-9082
   title: Medical Appliance Technicians

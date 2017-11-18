@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Transit and Railroad Police
+title: Automation of Transit and Railroad Police
+subtitle: Will robots and artificial intelligence take the job of Transit and Railroad Police? Get the facts.
 soc:
   code: 33-3052
   title: Transit and Railroad Police

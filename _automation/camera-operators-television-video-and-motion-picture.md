@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Camera Operators, Television, Video, and Motion Picture
+title: Automation of Camera Operators, Television, Video, and Motion Picture
+subtitle: Will robots and artificial intelligence take the job of Camera Operators, Television, Video, and Motion Picture? Get the facts.
 soc:
   code: 27-4031
   title: Camera Operators, Television, Video, and Motion Picture

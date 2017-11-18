@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Plumbers, Pipefitters, and Steamfitters
+title: Automation of Plumbers, Pipefitters, and Steamfitters
+subtitle: Will robots and artificial intelligence take the job of Plumbers, Pipefitters, and Steamfitters? Get the facts.
 soc:
   code: 47-2152
   title: Plumbers, Pipefitters, and Steamfitters

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Stonemasons
+title: Automation of Stonemasons
+subtitle: Will robots and artificial intelligence take the job of Stonemasons? Get the facts.
 soc:
   code: 47-2022
   title: Stonemasons

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Emergency Medical Technicians and Paramedics
+title: Automation of Emergency Medical Technicians and Paramedics
+subtitle: Will robots and artificial intelligence take the job of Emergency Medical Technicians and Paramedics? Get the facts.
 soc:
   code: 29-2041
   title: Emergency Medical Technicians and Paramedics

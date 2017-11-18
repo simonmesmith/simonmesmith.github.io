@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Athletic Trainers
+title: Automation of Athletic Trainers
+subtitle: Will robots and artificial intelligence take the job of Athletic Trainers? Get the facts.
 soc:
   code: 29-9091
   title: Athletic Trainers

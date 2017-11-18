@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physicians and Surgeons, All Other
+title: Automation of Physicians and Surgeons, All Other
+subtitle: Will robots and artificial intelligence take the job of Physicians and Surgeons, All Other? Get the facts.
 soc:
   code: 29-1069
   title: Physicians and Surgeons, All Other

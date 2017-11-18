@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4021
   title: Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic

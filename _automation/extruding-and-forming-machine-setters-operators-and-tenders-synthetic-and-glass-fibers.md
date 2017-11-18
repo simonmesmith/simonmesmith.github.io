@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+title: Automation of Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+subtitle: Will robots and artificial intelligence take the job of Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers? Get the facts.
 soc:
   code: 51-6091
   title: Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers

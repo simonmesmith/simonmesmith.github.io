@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Fire Fighting and Prevention Workers
+title: Automation of First-Line Supervisors of Fire Fighting and Prevention Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Fire Fighting and Prevention Workers? Get the facts.
 soc:
   code: 33-1021
   title: First-Line Supervisors of Fire Fighting and Prevention Workers

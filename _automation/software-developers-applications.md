@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Software Developers, Applications
+title: Automation of Software Developers, Applications
+subtitle: Will robots and artificial intelligence take the job of Software Developers, Applications? Get the facts.
 soc:
   code: 15-1132
   title: Software Developers, Applications

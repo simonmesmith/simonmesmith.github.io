@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Parts Salespersons
+title: Automation of Parts Salespersons
+subtitle: Will robots and artificial intelligence take the job of Parts Salespersons? Get the facts.
 soc:
   code: 41-2022
   title: Parts Salespersons

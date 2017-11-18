@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Police and Detectives
+title: Automation of First-Line Supervisors of Police and Detectives
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Police and Detectives? Get the facts.
 soc:
   code: 33-1012
   title: First-Line Supervisors of Police and Detectives

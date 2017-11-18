@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mathematical Science Occupations, All Other
+title: Automation of Mathematical Science Occupations, All Other
+subtitle: Will robots and artificial intelligence take the job of Mathematical Science Occupations, All Other? Get the facts.
 soc:
   code: 15-2099
   title: Mathematical Science Occupations, All Other

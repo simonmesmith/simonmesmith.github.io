@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gas Plant Operators
+title: Automation of Gas Plant Operators
+subtitle: Will robots and artificial intelligence take the job of Gas Plant Operators? Get the facts.
 soc:
   code: 51-8092
   title: Gas Plant Operators

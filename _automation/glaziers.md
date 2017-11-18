@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Glaziers
+title: Automation of Glaziers
+subtitle: Will robots and artificial intelligence take the job of Glaziers? Get the facts.
 soc:
   code: 47-2121
   title: Glaziers

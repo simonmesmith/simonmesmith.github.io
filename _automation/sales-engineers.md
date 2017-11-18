@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sales Engineers
+title: Automation of Sales Engineers
+subtitle: Will robots and artificial intelligence take the job of Sales Engineers? Get the facts.
 soc:
   code: 41-9031
   title: Sales Engineers

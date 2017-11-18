@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+title: Automation of Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronics Repairers, Powerhouse, Substation, and Relay? Get the facts.
 soc:
   code: 49-2095
   title: Electrical and Electronics Repairers, Powerhouse, Substation, and Relay

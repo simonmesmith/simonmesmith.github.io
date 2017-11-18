@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nursing Instructors and Teachers, Postsecondary
+title: Automation of Nursing Instructors and Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Nursing Instructors and Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1072
   title: Nursing Instructors and Teachers, Postsecondary

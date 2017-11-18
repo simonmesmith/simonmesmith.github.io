@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Management Analysts
+title: Automation of Management Analysts
+subtitle: Will robots and artificial intelligence take the job of Management Analysts? Get the facts.
 soc:
   code: 13-1111
   title: Management Analysts

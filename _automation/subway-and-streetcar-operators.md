@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Subway and Streetcar Operators
+title: Automation of Subway and Streetcar Operators
+subtitle: Will robots and artificial intelligence take the job of Subway and Streetcar Operators? Get the facts.
 soc:
   code: 53-4041
   title: Subway and Streetcar Operators

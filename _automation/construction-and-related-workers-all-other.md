@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Construction and Related Workers, All Other
+title: Automation of Construction and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Construction and Related Workers, All Other? Get the facts.
 soc:
   code: 47-4099
   title: Construction and Related Workers, All Other

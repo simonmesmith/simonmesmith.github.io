@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social Science Research Assistants
+title: Automation of Social Science Research Assistants
+subtitle: Will robots and artificial intelligence take the job of Social Science Research Assistants? Get the facts.
 soc:
   code: 19-4061
   title: Social Science Research Assistants

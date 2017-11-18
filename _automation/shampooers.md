@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Shampooers
+title: Automation of Shampooers
+subtitle: Will robots and artificial intelligence take the job of Shampooers? Get the facts.
 soc:
   code: 39-5093
   title: Shampooers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cardiovascular Technologists and Technicians
+title: Automation of Cardiovascular Technologists and Technicians
+subtitle: Will robots and artificial intelligence take the job of Cardiovascular Technologists and Technicians? Get the facts.
 soc:
   code: 29-2031
   title: Cardiovascular Technologists and Technicians

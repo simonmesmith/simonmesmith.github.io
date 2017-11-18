@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nuclear Technicians
+title: Automation of Nuclear Technicians
+subtitle: Will robots and artificial intelligence take the job of Nuclear Technicians? Get the facts.
 soc:
   code: 19-4051
   title: Nuclear Technicians

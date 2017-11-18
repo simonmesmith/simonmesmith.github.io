@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Orderlies
+title: Automation of Orderlies
+subtitle: Will robots and artificial intelligence take the job of Orderlies? Get the facts.
 soc:
   code: 31-1015
   title: Orderlies

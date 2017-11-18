@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Registered Nurses
+title: Automation of Registered Nurses
+subtitle: Will robots and artificial intelligence take the job of Registered Nurses? Get the facts.
 soc:
   code: 29-1141
   title: Registered Nurses

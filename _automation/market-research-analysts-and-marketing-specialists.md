@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Market Research Analysts and Marketing Specialists
+title: Automation of Market Research Analysts and Marketing Specialists
+subtitle: Will robots and artificial intelligence take the job of Market Research Analysts and Marketing Specialists? Get the facts.
 soc:
   code: 13-1161
   title: Market Research Analysts and Marketing Specialists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4193
   title: Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic

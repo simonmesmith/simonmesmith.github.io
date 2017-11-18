@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Training and Development Specialists
+title: Automation of Training and Development Specialists
+subtitle: Will robots and artificial intelligence take the job of Training and Development Specialists? Get the facts.
 soc:
   code: 13-1151
   title: Training and Development Specialists

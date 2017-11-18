@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+title: Automation of Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+subtitle: Will robots and artificial intelligence take the job of Heating, Air Conditioning, and Refrigeration Mechanics and Installers? Get the facts.
 soc:
   code: 49-9021
   title: Heating, Air Conditioning, and Refrigeration Mechanics and Installers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tree Trimmers and Pruners
+title: Automation of Tree Trimmers and Pruners
+subtitle: Will robots and artificial intelligence take the job of Tree Trimmers and Pruners? Get the facts.
 soc:
   code: 37-3013
   title: Tree Trimmers and Pruners

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pest Control Workers
+title: Automation of Pest Control Workers
+subtitle: Will robots and artificial intelligence take the job of Pest Control Workers? Get the facts.
 soc:
   code: 37-2021
   title: Pest Control Workers

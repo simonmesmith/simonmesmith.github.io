@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Anthropology and Archeology Teachers, Postsecondary
+title: Automation of Anthropology and Archeology Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Anthropology and Archeology Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1061
   title: Anthropology and Archeology Teachers, Postsecondary

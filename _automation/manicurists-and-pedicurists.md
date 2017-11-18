@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Manicurists and Pedicurists
+title: Automation of Manicurists and Pedicurists
+subtitle: Will robots and artificial intelligence take the job of Manicurists and Pedicurists? Get the facts.
 soc:
   code: 39-5092
   title: Manicurists and Pedicurists

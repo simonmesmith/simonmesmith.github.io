@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electro-Mechanical Technicians
+title: Automation of Electro-Mechanical Technicians
+subtitle: Will robots and artificial intelligence take the job of Electro-Mechanical Technicians? Get the facts.
 soc:
   code: 17-3024
   title: Electro-Mechanical Technicians

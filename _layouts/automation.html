@@ -17,7 +17,7 @@ layout: base
   <article role="main" class="automation">
 
     <p class="lead">
-      Jobs classified as "{{ page.soc.title }}" have
+      This occupation has
       <strong>
         {% if probability < 5 %} an extremely low
         {% elsif probability < 10 %} a very low
@@ -131,19 +131,21 @@ layout: base
     {{ content }}
 
     <h3>Related articles</h3>
-    {% if sources.size > 0 %}
-      <ul>
-    {% else %}
+    {% if sources.size == 0 %}
       <p>I haven't added any related articles yet. If you know some, please post them in the comments.</p>
     {% endif %}
     {% for source in sources %}
-      <li>
-        <a href="{{ source.url }}">{{ source.title }}</a>: {{ source.description }}
-      </li>
+      <div class="media">
+        <div class="media-left">
+          <img class="media-object" style="width: 64px" src="//logo.clearbit.com/{{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }}?size=64">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading"><a href="{{ source.url }}">{{ source.title }}</a></h4>
+          {{ source.description }}<br/>
+          <span class="text-muted">Saved from {{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }} on {{ page.date | date: "%b %d, %Y" }}</span>
+        </div>
+      </div>
     {% endfor %}
-    {% if sources.size > 0 %}
-      </ul>
-    {% endif %}
 
     <h3>
       Related companies
@@ -153,9 +155,9 @@ layout: base
     {% endif %}
     {% for company in companies %}
       <div class="media">
-        <a class="pull-left" href="http://{{ company.domain }}">
-          <img class="media-object" src="//logo.clearbit.com/{{ company.domain }}?size=64">
-        </a>
+        <div class="media-left">
+          <img class="media-object" style="width: 64px" src="//logo.clearbit.com/{{ company.domain }}?size=64">
+        </div>
         <div class="media-body">
           <h4 class="media-heading"><a href="http://{{ company.domain }}">{{ company.name }}</a></h4>
           {{ company.description }}

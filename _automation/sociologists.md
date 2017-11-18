@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sociologists
+title: Automation of Sociologists
+subtitle: Will robots and artificial intelligence take the job of Sociologists? Get the facts.
 soc:
   code: 19-3041
   title: Sociologists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Network Support Specialists
+title: Automation of Computer Network Support Specialists
+subtitle: Will robots and artificial intelligence take the job of Computer Network Support Specialists? Get the facts.
 soc:
   code: 15-1152
   title: Computer Network Support Specialists

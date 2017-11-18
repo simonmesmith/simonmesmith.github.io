@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cartographers and Photogrammetrists
+title: Automation of Cartographers and Photogrammetrists
+subtitle: Will robots and artificial intelligence take the job of Cartographers and Photogrammetrists? Get the facts.
 soc:
   code: 17-1021
   title: Cartographers and Photogrammetrists

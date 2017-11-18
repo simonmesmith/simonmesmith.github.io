@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cashiers
+title: Automation of Cashiers
+subtitle: Will robots and artificial intelligence take the job of Cashiers? Get the facts.
 soc:
   code: 41-2011
   title: Cashiers

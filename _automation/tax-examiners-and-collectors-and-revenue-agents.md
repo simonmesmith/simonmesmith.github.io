@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tax Examiners and Collectors, and Revenue Agents
+title: Automation of Tax Examiners and Collectors, and Revenue Agents
+subtitle: Will robots and artificial intelligence take the job of Tax Examiners and Collectors, and Revenue Agents? Get the facts.
 soc:
   code: 13-2081
   title: Tax Examiners and Collectors, and Revenue Agents

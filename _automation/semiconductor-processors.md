@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Semiconductor Processors
+title: Automation of Semiconductor Processors
+subtitle: Will robots and artificial intelligence take the job of Semiconductor Processors? Get the facts.
 soc:
   code: 51-9141
   title: Semiconductor Processors

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Middle School Teachers, Except Special and Career/Technical Education
+title: Automation of Middle School Teachers, Except Special and Career/Technical Education
+subtitle: Will robots and artificial intelligence take the job of Middle School Teachers, Except Special and Career/Technical Education? Get the facts.
 soc:
   code: 25-2022
   title: Middle School Teachers, Except Special and Career/Technical Education

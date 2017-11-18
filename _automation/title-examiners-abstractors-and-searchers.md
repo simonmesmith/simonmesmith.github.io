@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Title Examiners, Abstractors, and Searchers
+title: Automation of Title Examiners, Abstractors, and Searchers
+subtitle: Will robots and artificial intelligence take the job of Title Examiners, Abstractors, and Searchers? Get the facts.
 soc:
   code: 23-2093
   title: Title Examiners, Abstractors, and Searchers

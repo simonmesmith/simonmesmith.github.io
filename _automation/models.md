@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Models
+title: Automation of Models
+subtitle: Will robots and artificial intelligence take the job of Models? Get the facts.
 soc:
   code: 41-9012
   title: Models

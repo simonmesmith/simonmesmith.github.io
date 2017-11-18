@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fashion Designers
+title: Automation of Fashion Designers
+subtitle: Will robots and artificial intelligence take the job of Fashion Designers? Get the facts.
 soc:
   code: 27-1022
   title: Fashion Designers

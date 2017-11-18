@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Customer Service Representatives
+title: Automation of Customer Service Representatives
+subtitle: Will robots and artificial intelligence take the job of Customer Service Representatives? Get the facts.
 soc:
   code: 43-4051
   title: Customer Service Representatives

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Plasterers and Stucco Masons
+title: Automation of Plasterers and Stucco Masons
+subtitle: Will robots and artificial intelligence take the job of Plasterers and Stucco Masons? Get the facts.
 soc:
   code: 47-2161
   title: Plasterers and Stucco Masons

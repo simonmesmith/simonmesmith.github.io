@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Operating Engineers and Other Construction Equipment Operators
+title: Automation of Operating Engineers and Other Construction Equipment Operators
+subtitle: Will robots and artificial intelligence take the job of Operating Engineers and Other Construction Equipment Operators? Get the facts.
 soc:
   code: 47-2073
   title: Operating Engineers and Other Construction Equipment Operators

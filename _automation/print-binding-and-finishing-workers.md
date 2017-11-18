@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Print Binding and Finishing Workers
+title: Automation of Print Binding and Finishing Workers
+subtitle: Will robots and artificial intelligence take the job of Print Binding and Finishing Workers? Get the facts.
 soc:
   code: 51-5113
   title: Print Binding and Finishing Workers

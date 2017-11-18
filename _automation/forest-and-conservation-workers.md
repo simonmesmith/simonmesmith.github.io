@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forest and Conservation Workers
+title: Automation of Forest and Conservation Workers
+subtitle: Will robots and artificial intelligence take the job of Forest and Conservation Workers? Get the facts.
 soc:
   code: 45-4011
   title: Forest and Conservation Workers

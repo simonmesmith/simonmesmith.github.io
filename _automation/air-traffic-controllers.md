@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Air Traffic Controllers
+title: Automation of Air Traffic Controllers
+subtitle: Will robots and artificial intelligence take the job of Air Traffic Controllers? Get the facts.
 soc:
   code: 53-2021
   title: Air Traffic Controllers

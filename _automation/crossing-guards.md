@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Crossing Guards
+title: Automation of Crossing Guards
+subtitle: Will robots and artificial intelligence take the job of Crossing Guards? Get the facts.
 soc:
   code: 33-9091
   title: Crossing Guards

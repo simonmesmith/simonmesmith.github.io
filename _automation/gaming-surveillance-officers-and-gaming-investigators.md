@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Surveillance Officers and Gaming Investigators
+title: Automation of Gaming Surveillance Officers and Gaming Investigators
+subtitle: Will robots and artificial intelligence take the job of Gaming Surveillance Officers and Gaming Investigators? Get the facts.
 soc:
   code: 33-9031
   title: Gaming Surveillance Officers and Gaming Investigators

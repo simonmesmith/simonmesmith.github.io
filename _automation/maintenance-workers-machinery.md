@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Maintenance Workers, Machinery
+title: Automation of Maintenance Workers, Machinery
+subtitle: Will robots and artificial intelligence take the job of Maintenance Workers, Machinery? Get the facts.
 soc:
   code: 49-9043
   title: Maintenance Workers, Machinery

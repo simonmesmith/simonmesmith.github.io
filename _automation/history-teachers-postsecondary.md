@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: History Teachers, Postsecondary
+title: Automation of History Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of History Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1125
   title: History Teachers, Postsecondary

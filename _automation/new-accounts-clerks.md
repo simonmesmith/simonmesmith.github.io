@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: New Accounts Clerks
+title: Automation of New Accounts Clerks
+subtitle: Will robots and artificial intelligence take the job of New Accounts Clerks? Get the facts.
 soc:
   code: 43-4141
   title: New Accounts Clerks

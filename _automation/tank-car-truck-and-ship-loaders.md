@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tank Car, Truck, and Ship Loaders
+title: Automation of Tank Car, Truck, and Ship Loaders
+subtitle: Will robots and artificial intelligence take the job of Tank Car, Truck, and Ship Loaders? Get the facts.
 soc:
   code: 53-7121
   title: Tank Car, Truck, and Ship Loaders

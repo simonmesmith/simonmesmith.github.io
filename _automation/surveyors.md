@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Surveyors
+title: Automation of Surveyors
+subtitle: Will robots and artificial intelligence take the job of Surveyors? Get the facts.
 soc:
   code: 17-1022
   title: Surveyors

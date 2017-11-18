@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Transportation, Storage, and Distribution Managers
+title: Automation of Transportation, Storage, and Distribution Managers
+subtitle: Will robots and artificial intelligence take the job of Transportation, Storage, and Distribution Managers? Get the facts.
 soc:
   code: 11-3071
   title: Transportation, Storage, and Distribution Managers

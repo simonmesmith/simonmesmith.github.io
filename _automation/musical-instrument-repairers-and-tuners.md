@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Musical Instrument Repairers and Tuners
+title: Automation of Musical Instrument Repairers and Tuners
+subtitle: Will robots and artificial intelligence take the job of Musical Instrument Repairers and Tuners? Get the facts.
 soc:
   code: 49-9063
   title: Musical Instrument Repairers and Tuners

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Animal Control Workers
+title: Automation of Animal Control Workers
+subtitle: Will robots and artificial intelligence take the job of Animal Control Workers? Get the facts.
 soc:
   code: 33-9011
   title: Animal Control Workers

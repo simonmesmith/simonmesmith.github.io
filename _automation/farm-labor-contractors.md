@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farm Labor Contractors
+title: Automation of Farm Labor Contractors
+subtitle: Will robots and artificial intelligence take the job of Farm Labor Contractors? Get the facts.
 soc:
   code: 13-1074
   title: Farm Labor Contractors

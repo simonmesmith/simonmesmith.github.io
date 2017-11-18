@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electronic Home Entertainment Equipment Installers and Repairers
+title: Automation of Electronic Home Entertainment Equipment Installers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Electronic Home Entertainment Equipment Installers and Repairers? Get the facts.
 soc:
   code: 49-2097
   title: Electronic Home Entertainment Equipment Installers and Repairers

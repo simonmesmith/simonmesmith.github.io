@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fabric and Apparel Patternmakers
+title: Automation of Fabric and Apparel Patternmakers
+subtitle: Will robots and artificial intelligence take the job of Fabric and Apparel Patternmakers? Get the facts.
 soc:
   code: 51-6092
   title: Fabric and Apparel Patternmakers

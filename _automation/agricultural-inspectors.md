@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural Inspectors
+title: Automation of Agricultural Inspectors
+subtitle: Will robots and artificial intelligence take the job of Agricultural Inspectors? Get the facts.
 soc:
   code: 45-2011
   title: Agricultural Inspectors

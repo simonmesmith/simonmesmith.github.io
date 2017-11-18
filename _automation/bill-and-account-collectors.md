@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bill and Account Collectors
+title: Automation of Bill and Account Collectors
+subtitle: Will robots and artificial intelligence take the job of Bill and Account Collectors? Get the facts.
 soc:
   code: 43-3011
   title: Bill and Account Collectors

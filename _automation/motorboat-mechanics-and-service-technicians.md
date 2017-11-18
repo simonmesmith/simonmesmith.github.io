@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Motorboat Mechanics and Service Technicians
+title: Automation of Motorboat Mechanics and Service Technicians
+subtitle: Will robots and artificial intelligence take the job of Motorboat Mechanics and Service Technicians? Get the facts.
 soc:
   code: 49-3051
   title: Motorboat Mechanics and Service Technicians

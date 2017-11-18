@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical and Clinical Laboratory Technologists
+title: Automation of Medical and Clinical Laboratory Technologists
+subtitle: Will robots and artificial intelligence take the job of Medical and Clinical Laboratory Technologists? Get the facts.
 soc:
   code: 29-2011
   title: Medical and Clinical Laboratory Technologists

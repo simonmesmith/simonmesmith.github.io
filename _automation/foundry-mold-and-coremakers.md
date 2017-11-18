@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Foundry Mold and Coremakers
+title: Automation of Foundry Mold and Coremakers
+subtitle: Will robots and artificial intelligence take the job of Foundry Mold and Coremakers? Get the facts.
 soc:
   code: 51-4071
   title: Foundry Mold and Coremakers

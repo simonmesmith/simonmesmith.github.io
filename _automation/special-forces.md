@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Forces
+title: Automation of Special Forces
+subtitle: Will robots and artificial intelligence take the job of Special Forces? Get the facts.
 soc:
   code: 55-3018
   title: Special Forces

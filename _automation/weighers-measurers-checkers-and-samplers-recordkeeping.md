@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+title: Automation of Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+subtitle: Will robots and artificial intelligence take the job of Weighers, Measurers, Checkers, and Samplers, Recordkeeping? Get the facts.
 soc:
   code: 43-5111
   title: Weighers, Measurers, Checkers, and Samplers, Recordkeeping

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Patternmakers, Wood
+title: Automation of Patternmakers, Wood
+subtitle: Will robots and artificial intelligence take the job of Patternmakers, Wood? Get the facts.
 soc:
   code: 51-7032
   title: Patternmakers, Wood

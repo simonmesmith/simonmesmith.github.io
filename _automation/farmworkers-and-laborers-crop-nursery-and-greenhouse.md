@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+title: Automation of Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+subtitle: Will robots and artificial intelligence take the job of Farmworkers and Laborers, Crop, Nursery, and Greenhouse? Get the facts.
 soc:
   code: 45-2092
   title: Farmworkers and Laborers, Crop, Nursery, and Greenhouse

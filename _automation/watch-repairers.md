@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Watch Repairers
+title: Automation of Watch Repairers
+subtitle: Will robots and artificial intelligence take the job of Watch Repairers? Get the facts.
 soc:
   code: 49-9064
   title: Watch Repairers

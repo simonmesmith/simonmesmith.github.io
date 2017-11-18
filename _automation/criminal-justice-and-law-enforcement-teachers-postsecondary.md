@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Criminal Justice and Law Enforcement Teachers, Postsecondary
+title: Automation of Criminal Justice and Law Enforcement Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Criminal Justice and Law Enforcement Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1111
   title: Criminal Justice and Law Enforcement Teachers, Postsecondary

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Business Operations Specialists, All Other
+title: Automation of Business Operations Specialists, All Other
+subtitle: Will robots and artificial intelligence take the job of Business Operations Specialists, All Other? Get the facts.
 soc:
   code: 13-1199
   title: Business Operations Specialists, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Foresters
+title: Automation of Foresters
+subtitle: Will robots and artificial intelligence take the job of Foresters? Get the facts.
 soc:
   code: 19-1032
   title: Foresters

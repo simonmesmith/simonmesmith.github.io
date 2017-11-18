@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Real Estate Brokers
+title: Automation of Real Estate Brokers
+subtitle: Will robots and artificial intelligence take the job of Real Estate Brokers? Get the facts.
 soc:
   code: 41-9021
   title: Real Estate Brokers

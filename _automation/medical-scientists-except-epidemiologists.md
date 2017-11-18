@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Scientists, Except Epidemiologists
+title: Automation of Medical Scientists, Except Epidemiologists
+subtitle: Will robots and artificial intelligence take the job of Medical Scientists, Except Epidemiologists? Get the facts.
 soc:
   code: 19-1042
   title: Medical Scientists, Except Epidemiologists

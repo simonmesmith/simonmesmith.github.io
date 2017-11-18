@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Excavating and Loading Machine and Dragline Operators
+title: Automation of Excavating and Loading Machine and Dragline Operators
+subtitle: Will robots and artificial intelligence take the job of Excavating and Loading Machine and Dragline Operators? Get the facts.
 soc:
   code: 53-7032
   title: Excavating and Loading Machine and Dragline Operators

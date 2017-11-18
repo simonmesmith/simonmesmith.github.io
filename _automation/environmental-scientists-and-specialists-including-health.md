@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Environmental Scientists and Specialists, Including Health
+title: Automation of Environmental Scientists and Specialists, Including Health
+subtitle: Will robots and artificial intelligence take the job of Environmental Scientists and Specialists, Including Health? Get the facts.
 soc:
   code: 19-2041
   title: Environmental Scientists and Specialists, Including Health

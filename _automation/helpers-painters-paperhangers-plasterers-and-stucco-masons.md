@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+title: Automation of Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+subtitle: Will robots and artificial intelligence take the job of Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons? Get the facts.
 soc:
   code: 47-3014
   title: Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons

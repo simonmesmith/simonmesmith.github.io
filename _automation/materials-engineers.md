@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Materials Engineers
+title: Automation of Materials Engineers
+subtitle: Will robots and artificial intelligence take the job of Materials Engineers? Get the facts.
 soc:
   code: 17-2131
   title: Materials Engineers

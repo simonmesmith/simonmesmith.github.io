@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Community Health Workers
+title: Automation of Community Health Workers
+subtitle: Will robots and artificial intelligence take the job of Community Health Workers? Get the facts.
 soc:
   code: 21-1094
   title: Community Health Workers

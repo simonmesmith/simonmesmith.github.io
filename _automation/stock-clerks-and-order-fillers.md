@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Stock Clerks and Order Fillers
+title: Automation of Stock Clerks and Order Fillers
+subtitle: Will robots and artificial intelligence take the job of Stock Clerks and Order Fillers? Get the facts.
 soc:
   code: 43-5081
   title: Stock Clerks and Order Fillers

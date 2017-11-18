@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Licensed Practical and Licensed Vocational Nurses
+title: Automation of Licensed Practical and Licensed Vocational Nurses
+subtitle: Will robots and artificial intelligence take the job of Licensed Practical and Licensed Vocational Nurses? Get the facts.
 soc:
   code: 29-2061
   title: Licensed Practical and Licensed Vocational Nurses

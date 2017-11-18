@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Coaches and Scouts
+title: Automation of Coaches and Scouts
+subtitle: Will robots and artificial intelligence take the job of Coaches and Scouts? Get the facts.
 soc:
   code: 27-2022
   title: Coaches and Scouts

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mail Clerks and Mail Machine Operators, Except Postal Service
+title: Automation of Mail Clerks and Mail Machine Operators, Except Postal Service
+subtitle: Will robots and artificial intelligence take the job of Mail Clerks and Mail Machine Operators, Except Postal Service? Get the facts.
 soc:
   code: 43-9051
   title: Mail Clerks and Mail Machine Operators, Except Postal Service

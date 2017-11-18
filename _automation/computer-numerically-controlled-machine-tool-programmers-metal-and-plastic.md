@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+title: Automation of Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic? Get the facts.
 soc:
   code: 51-4012
   title: Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic

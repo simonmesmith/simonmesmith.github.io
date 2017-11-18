@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Paving, Surfacing, and Tamping Equipment Operators
+title: Automation of Paving, Surfacing, and Tamping Equipment Operators
+subtitle: Will robots and artificial intelligence take the job of Paving, Surfacing, and Tamping Equipment Operators? Get the facts.
 soc:
   code: 47-2071
   title: Paving, Surfacing, and Tamping Equipment Operators

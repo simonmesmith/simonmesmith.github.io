@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronics Installers and Repairers, Transportation Equipment
+title: Automation of Electrical and Electronics Installers and Repairers, Transportation Equipment
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronics Installers and Repairers, Transportation Equipment? Get the facts.
 soc:
   code: 49-2093
   title: Electrical and Electronics Installers and Repairers, Transportation Equipment

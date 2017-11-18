@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Crane and Tower Operators
+title: Automation of Crane and Tower Operators
+subtitle: Will robots and artificial intelligence take the job of Crane and Tower Operators? Get the facts.
 soc:
   code: 53-7021
   title: Crane and Tower Operators

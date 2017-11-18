@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Respiratory Therapists
+title: Automation of Respiratory Therapists
+subtitle: Will robots and artificial intelligence take the job of Respiratory Therapists? Get the facts.
 soc:
   code: 29-1126
   title: Respiratory Therapists

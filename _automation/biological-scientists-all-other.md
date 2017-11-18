@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Biological Scientists, All Other
+title: Automation of Biological Scientists, All Other
+subtitle: Will robots and artificial intelligence take the job of Biological Scientists, All Other? Get the facts.
 soc:
   code: 19-1029
   title: Biological Scientists, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aircraft Launch and Recovery Specialists
+title: Automation of Aircraft Launch and Recovery Specialists
+subtitle: Will robots and artificial intelligence take the job of Aircraft Launch and Recovery Specialists? Get the facts.
 soc:
   code: 55-3012
   title: Aircraft Launch and Recovery Specialists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Political Science Teachers, Postsecondary
+title: Automation of Political Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Political Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1065
   title: Political Science Teachers, Postsecondary

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Lifeguards, Ski Patrol, and Other Recreational Protective Service
+title: Automation of Lifeguards, Ski Patrol, and Other Recreational Protective Service
+subtitle: Will robots and artificial intelligence take the job of Lifeguards, Ski Patrol, and Other Recreational Protective Service? Get the facts.
 soc:
   code: 33-9092
   title: Lifeguards, Ski Patrol, and Other Recreational Protective Service

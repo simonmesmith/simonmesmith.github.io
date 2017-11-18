@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Photographers
+title: Automation of Photographers
+subtitle: Will robots and artificial intelligence take the job of Photographers? Get the facts.
 soc:
   code: 27-4021
   title: Photographers

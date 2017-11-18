@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Motorcycle Mechanics
+title: Automation of Motorcycle Mechanics
+subtitle: Will robots and artificial intelligence take the job of Motorcycle Mechanics? Get the facts.
 soc:
   code: 49-3052
   title: Motorcycle Mechanics

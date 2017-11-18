@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+title: Automation of Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+subtitle: Will robots and artificial intelligence take the job of Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters? Get the facts.
 soc:
   code: 47-3011
   title: Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters

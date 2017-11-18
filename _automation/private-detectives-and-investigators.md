@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Private Detectives and Investigators
+title: Automation of Private Detectives and Investigators
+subtitle: Will robots and artificial intelligence take the job of Private Detectives and Investigators? Get the facts.
 soc:
   code: 33-9021
   title: Private Detectives and Investigators

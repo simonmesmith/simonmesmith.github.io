@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Compensation and Benefits Managers
+title: Automation of Compensation and Benefits Managers
+subtitle: Will robots and artificial intelligence take the job of Compensation and Benefits Managers? Get the facts.
 soc:
   code: 11-3111
   title: Compensation and Benefits Managers

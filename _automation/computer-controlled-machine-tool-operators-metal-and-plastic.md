@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer-Controlled Machine Tool Operators, Metal and Plastic
+title: Automation of Computer-Controlled Machine Tool Operators, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Computer-Controlled Machine Tool Operators, Metal and Plastic? Get the facts.
 soc:
   code: 51-4011
   title: Computer-Controlled Machine Tool Operators, Metal and Plastic

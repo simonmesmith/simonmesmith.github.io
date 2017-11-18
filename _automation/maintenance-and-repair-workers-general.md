@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Maintenance and Repair Workers, General
+title: Automation of Maintenance and Repair Workers, General
+subtitle: Will robots and artificial intelligence take the job of Maintenance and Repair Workers, General? Get the facts.
 soc:
   code: 49-9071
   title: Maintenance and Repair Workers, General

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dietitians and Nutritionists
+title: Automation of Dietitians and Nutritionists
+subtitle: Will robots and artificial intelligence take the job of Dietitians and Nutritionists? Get the facts.
 soc:
   code: 29-1031
   title: Dietitians and Nutritionists

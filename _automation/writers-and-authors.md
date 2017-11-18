@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Writers and Authors
+title: Automation of Writers and Authors
+subtitle: Will robots and artificial intelligence take the job of Writers and Authors? Get the facts.
 soc:
   code: 27-3043
   title: Writers and Authors

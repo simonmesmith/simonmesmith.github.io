@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Geological and Petroleum Technicians
+title: Automation of Geological and Petroleum Technicians
+subtitle: Will robots and artificial intelligence take the job of Geological and Petroleum Technicians? Get the facts.
 soc:
   code: 19-4041
   title: Geological and Petroleum Technicians

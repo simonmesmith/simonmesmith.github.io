@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dancers
+title: Automation of Dancers
+subtitle: Will robots and artificial intelligence take the job of Dancers? Get the facts.
 soc:
   code: 27-2031
   title: Dancers

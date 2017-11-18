@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mine Shuttle Car Operators
+title: Automation of Mine Shuttle Car Operators
+subtitle: Will robots and artificial intelligence take the job of Mine Shuttle Car Operators? Get the facts.
 soc:
   code: 53-7111
   title: Mine Shuttle Car Operators

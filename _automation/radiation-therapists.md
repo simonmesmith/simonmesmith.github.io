@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Radiation Therapists
+title: Automation of Radiation Therapists
+subtitle: Will robots and artificial intelligence take the job of Radiation Therapists? Get the facts.
 soc:
   code: 29-1124
   title: Radiation Therapists

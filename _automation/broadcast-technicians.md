@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Broadcast Technicians
+title: Automation of Broadcast Technicians
+subtitle: Will robots and artificial intelligence take the job of Broadcast Technicians? Get the facts.
 soc:
   code: 27-4012
   title: Broadcast Technicians

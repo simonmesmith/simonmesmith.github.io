@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+title: Automation of Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+subtitle: Will robots and artificial intelligence take the job of Janitors and Cleaners, Except Maids and Housekeeping Cleaners? Get the facts.
 soc:
   code: 37-2011
   title: Janitors and Cleaners, Except Maids and Housekeeping Cleaners

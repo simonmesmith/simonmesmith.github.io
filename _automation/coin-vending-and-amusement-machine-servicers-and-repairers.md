@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Coin, Vending, and Amusement Machine Servicers and Repairers
+title: Automation of Coin, Vending, and Amusement Machine Servicers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Coin, Vending, and Amusement Machine Servicers and Repairers? Get the facts.
 soc:
   code: 49-9091
   title: Coin, Vending, and Amusement Machine Servicers and Repairers

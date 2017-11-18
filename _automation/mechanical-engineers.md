@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mechanical Engineers
+title: Automation of Mechanical Engineers
+subtitle: Will robots and artificial intelligence take the job of Mechanical Engineers? Get the facts.
 soc:
   code: 17-2141
   title: Mechanical Engineers

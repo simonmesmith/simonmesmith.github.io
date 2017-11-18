@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aerospace Engineers
+title: Automation of Aerospace Engineers
+subtitle: Will robots and artificial intelligence take the job of Aerospace Engineers? Get the facts.
 soc:
   code: 17-2011
   title: Aerospace Engineers

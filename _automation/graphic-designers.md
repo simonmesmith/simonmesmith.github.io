@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Graphic Designers
+title: Automation of Graphic Designers
+subtitle: Will robots and artificial intelligence take the job of Graphic Designers? Get the facts.
 soc:
   code: 27-1024
   title: Graphic Designers

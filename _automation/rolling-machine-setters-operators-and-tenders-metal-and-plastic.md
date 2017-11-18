@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Rolling Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4023
   title: Rolling Machine Setters, Operators, and Tenders, Metal and Plastic

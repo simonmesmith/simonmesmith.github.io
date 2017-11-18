@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physical Therapist Assistants
+title: Automation of Physical Therapist Assistants
+subtitle: Will robots and artificial intelligence take the job of Physical Therapist Assistants? Get the facts.
 soc:
   code: 31-2021
   title: Physical Therapist Assistants

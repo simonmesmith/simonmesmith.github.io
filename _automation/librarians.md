@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Librarians
+title: Automation of Librarians
+subtitle: Will robots and artificial intelligence take the job of Librarians? Get the facts.
 soc:
   code: 25-4021
   title: Librarians

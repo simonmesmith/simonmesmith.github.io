@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sheet Metal Workers
+title: Automation of Sheet Metal Workers
+subtitle: Will robots and artificial intelligence take the job of Sheet Metal Workers? Get the facts.
 soc:
   code: 47-2211
   title: Sheet Metal Workers

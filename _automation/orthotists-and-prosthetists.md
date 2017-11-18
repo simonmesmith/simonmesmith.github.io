@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Orthotists and Prosthetists
+title: Automation of Orthotists and Prosthetists
+subtitle: Will robots and artificial intelligence take the job of Orthotists and Prosthetists? Get the facts.
 soc:
   code: 29-2091
   title: Orthotists and Prosthetists

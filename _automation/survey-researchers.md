@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Survey Researchers
+title: Automation of Survey Researchers
+subtitle: Will robots and artificial intelligence take the job of Survey Researchers? Get the facts.
 soc:
   code: 19-3022
   title: Survey Researchers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Choreographers
+title: Automation of Choreographers
+subtitle: Will robots and artificial intelligence take the job of Choreographers? Get the facts.
 soc:
   code: 27-2032
   title: Choreographers

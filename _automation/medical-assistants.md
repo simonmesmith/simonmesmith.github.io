@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Assistants
+title: Automation of Medical Assistants
+subtitle: Will robots and artificial intelligence take the job of Medical Assistants? Get the facts.
 soc:
   code: 31-9092
   title: Medical Assistants

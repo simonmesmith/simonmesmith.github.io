@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4031
   title: Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic

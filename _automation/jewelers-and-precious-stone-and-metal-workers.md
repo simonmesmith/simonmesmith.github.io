@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Jewelers and Precious Stone and Metal Workers
+title: Automation of Jewelers and Precious Stone and Metal Workers
+subtitle: Will robots and artificial intelligence take the job of Jewelers and Precious Stone and Metal Workers? Get the facts.
 soc:
   code: 51-9071
   title: Jewelers and Precious Stone and Metal Workers

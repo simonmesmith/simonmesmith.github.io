@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Floor Layers, Except Carpet, Wood, and Hard Tiles
+title: Automation of Floor Layers, Except Carpet, Wood, and Hard Tiles
+subtitle: Will robots and artificial intelligence take the job of Floor Layers, Except Carpet, Wood, and Hard Tiles? Get the facts.
 soc:
   code: 47-2042
   title: Floor Layers, Except Carpet, Wood, and Hard Tiles

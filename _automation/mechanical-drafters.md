@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mechanical Drafters
+title: Automation of Mechanical Drafters
+subtitle: Will robots and artificial intelligence take the job of Mechanical Drafters? Get the facts.
 soc:
   code: 17-3013
   title: Mechanical Drafters

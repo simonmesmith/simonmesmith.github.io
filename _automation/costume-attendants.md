@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Costume Attendants
+title: Automation of Costume Attendants
+subtitle: Will robots and artificial intelligence take the job of Costume Attendants? Get the facts.
 soc:
   code: 39-3092
   title: Costume Attendants

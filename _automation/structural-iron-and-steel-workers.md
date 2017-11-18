@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Structural Iron and Steel Workers
+title: Automation of Structural Iron and Steel Workers
+subtitle: Will robots and artificial intelligence take the job of Structural Iron and Steel Workers? Get the facts.
 soc:
   code: 47-2221
   title: Structural Iron and Steel Workers

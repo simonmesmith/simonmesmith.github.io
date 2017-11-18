@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Data Entry Keyers
+title: Automation of Data Entry Keyers
+subtitle: Will robots and artificial intelligence take the job of Data Entry Keyers? Get the facts.
 soc:
   code: 43-9021
   title: Data Entry Keyers

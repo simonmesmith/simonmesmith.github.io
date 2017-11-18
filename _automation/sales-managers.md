@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sales Managers
+title: Automation of Sales Managers
+subtitle: Will robots and artificial intelligence take the job of Sales Managers? Get the facts.
 soc:
   code: 11-2022
   title: Sales Managers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sales and Related Workers, All Other
+title: Automation of Sales and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Sales and Related Workers, All Other? Get the facts.
 soc:
   code: 41-9099
   title: Sales and Related Workers, All Other

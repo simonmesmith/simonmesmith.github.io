@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Labor Relations Specialists
+title: Automation of Labor Relations Specialists
+subtitle: Will robots and artificial intelligence take the job of Labor Relations Specialists? Get the facts.
 soc:
   code: 13-1075
   title: Labor Relations Specialists

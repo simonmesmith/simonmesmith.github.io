@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Veterinary Assistants and Laboratory Animal Caretakers
+title: Automation of Veterinary Assistants and Laboratory Animal Caretakers
+subtitle: Will robots and artificial intelligence take the job of Veterinary Assistants and Laboratory Animal Caretakers? Get the facts.
 soc:
   code: 31-9096
   title: Veterinary Assistants and Laboratory Animal Caretakers

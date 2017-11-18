@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hoist and Winch Operators
+title: Automation of Hoist and Winch Operators
+subtitle: Will robots and artificial intelligence take the job of Hoist and Winch Operators? Get the facts.
 soc:
   code: 53-7041
   title: Hoist and Winch Operators

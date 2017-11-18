@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+title: Automation of Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-4122
   title: Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders

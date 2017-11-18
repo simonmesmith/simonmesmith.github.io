@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Programmers
+title: Automation of Computer Programmers
+subtitle: Will robots and artificial intelligence take the job of Computer Programmers? Get the facts.
 soc:
   code: 15-1131
   title: Computer Programmers

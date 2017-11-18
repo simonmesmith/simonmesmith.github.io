@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Audio and Video Equipment Technicians
+title: Automation of Audio and Video Equipment Technicians
+subtitle: Will robots and artificial intelligence take the job of Audio and Video Equipment Technicians? Get the facts.
 soc:
   code: 27-4011
   title: Audio and Video Equipment Technicians

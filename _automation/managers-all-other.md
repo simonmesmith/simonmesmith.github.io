@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Managers, All Other
+title: Automation of Managers, All Other
+subtitle: Will robots and artificial intelligence take the job of Managers, All Other? Get the facts.
 soc:
   code: 11-9199
   title: Managers, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Architects, Except Landscape and Naval
+title: Automation of Architects, Except Landscape and Naval
+subtitle: Will robots and artificial intelligence take the job of Architects, Except Landscape and Naval? Get the facts.
 soc:
   code: 17-1011
   title: Architects, Except Landscape and Naval

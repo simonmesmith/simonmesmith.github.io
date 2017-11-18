@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Human Resources Specialists
+title: Automation of Human Resources Specialists
+subtitle: Will robots and artificial intelligence take the job of Human Resources Specialists? Get the facts.
 soc:
   code: 13-1071
   title: Human Resources Specialists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Advertising and Promotions Managers
+title: Automation of Advertising and Promotions Managers
+subtitle: Will robots and artificial intelligence take the job of Advertising and Promotions Managers? Get the facts.
 soc:
   code: 11-2011
   title: Advertising and Promotions Managers

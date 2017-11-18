@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Optometrists
+title: Automation of Optometrists
+subtitle: Will robots and artificial intelligence take the job of Optometrists? Get the facts.
 soc:
   code: 29-1041
   title: Optometrists

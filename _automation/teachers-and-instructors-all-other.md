@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Teachers and Instructors, All Other
+title: Automation of Teachers and Instructors, All Other
+subtitle: Will robots and artificial intelligence take the job of Teachers and Instructors, All Other? Get the facts.
 soc:
   code: 25-3099
   title: Teachers and Instructors, All Other

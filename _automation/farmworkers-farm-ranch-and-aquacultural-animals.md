@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farmworkers, Farm, Ranch, and Aquacultural Animals
+title: Automation of Farmworkers, Farm, Ranch, and Aquacultural Animals
+subtitle: Will robots and artificial intelligence take the job of Farmworkers, Farm, Ranch, and Aquacultural Animals? Get the facts.
 soc:
   code: 45-2093
   title: Farmworkers, Farm, Ranch, and Aquacultural Animals

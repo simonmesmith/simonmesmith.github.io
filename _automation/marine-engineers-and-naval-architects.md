@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Marine Engineers and Naval Architects
+title: Automation of Marine Engineers and Naval Architects
+subtitle: Will robots and artificial intelligence take the job of Marine Engineers and Naval Architects? Get the facts.
 soc:
   code: 17-2121
   title: Marine Engineers and Naval Architects

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Reinforcing Iron and Rebar Workers
+title: Automation of Reinforcing Iron and Rebar Workers
+subtitle: Will robots and artificial intelligence take the job of Reinforcing Iron and Rebar Workers? Get the facts.
 soc:
   code: 47-2171
   title: Reinforcing Iron and Rebar Workers

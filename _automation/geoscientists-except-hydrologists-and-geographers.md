@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Geoscientists, Except Hydrologists and Geographers
+title: Automation of Geoscientists, Except Hydrologists and Geographers
+subtitle: Will robots and artificial intelligence take the job of Geoscientists, Except Hydrologists and Geographers? Get the facts.
 soc:
   code: 19-2042
   title: Geoscientists, Except Hydrologists and Geographers

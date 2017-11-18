@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Infantry Officers
+title: Automation of Infantry Officers
+subtitle: Will robots and artificial intelligence take the job of Infantry Officers? Get the facts.
 soc:
   code: 55-1016
   title: Infantry Officers

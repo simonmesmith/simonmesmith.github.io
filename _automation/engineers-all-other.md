@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Engineers, All Other
+title: Automation of Engineers, All Other
+subtitle: Will robots and artificial intelligence take the job of Engineers, All Other? Get the facts.
 soc:
   code: 17-2199
   title: Engineers, All Other

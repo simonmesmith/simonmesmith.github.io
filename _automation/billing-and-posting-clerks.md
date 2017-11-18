@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Billing and Posting Clerks
+title: Automation of Billing and Posting Clerks
+subtitle: Will robots and artificial intelligence take the job of Billing and Posting Clerks? Get the facts.
 soc:
   code: 43-3021
   title: Billing and Posting Clerks

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Change Persons and Booth Cashiers
+title: Automation of Gaming Change Persons and Booth Cashiers
+subtitle: Will robots and artificial intelligence take the job of Gaming Change Persons and Booth Cashiers? Get the facts.
 soc:
   code: 41-2012
   title: Gaming Change Persons and Booth Cashiers

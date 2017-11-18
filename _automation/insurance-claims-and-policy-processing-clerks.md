@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insurance Claims and Policy Processing Clerks
+title: Automation of Insurance Claims and Policy Processing Clerks
+subtitle: Will robots and artificial intelligence take the job of Insurance Claims and Policy Processing Clerks? Get the facts.
 soc:
   code: 43-9041
   title: Insurance Claims and Policy Processing Clerks

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, Short Order
+title: Automation of Cooks, Short Order
+subtitle: Will robots and artificial intelligence take the job of Cooks, Short Order? Get the facts.
 soc:
   code: 35-2015
   title: Cooks, Short Order

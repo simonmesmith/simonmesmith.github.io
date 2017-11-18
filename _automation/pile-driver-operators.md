@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pile-Driver Operators
+title: Automation of Pile-Driver Operators
+subtitle: Will robots and artificial intelligence take the job of Pile-Driver Operators? Get the facts.
 soc:
   code: 47-2072
   title: Pile-Driver Operators

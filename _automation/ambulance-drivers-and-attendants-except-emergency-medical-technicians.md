@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+title: Automation of Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+subtitle: Will robots and artificial intelligence take the job of Ambulance Drivers and Attendants, Except Emergency Medical Technicians? Get the facts.
 soc:
   code: 53-3011
   title: Ambulance Drivers and Attendants, Except Emergency Medical Technicians

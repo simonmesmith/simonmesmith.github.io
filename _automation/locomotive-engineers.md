@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Locomotive Engineers
+title: Automation of Locomotive Engineers
+subtitle: Will robots and artificial intelligence take the job of Locomotive Engineers? Get the facts.
 soc:
   code: 53-4011
   title: Locomotive Engineers

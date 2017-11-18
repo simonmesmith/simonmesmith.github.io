@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Judicial Law Clerks
+title: Automation of Judicial Law Clerks
+subtitle: Will robots and artificial intelligence take the job of Judicial Law Clerks? Get the facts.
 soc:
   code: 23-1012
   title: Judicial Law Clerks

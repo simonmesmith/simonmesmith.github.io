@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cement Masons and Concrete Finishers
+title: Automation of Cement Masons and Concrete Finishers
+subtitle: Will robots and artificial intelligence take the job of Cement Masons and Concrete Finishers? Get the facts.
 soc:
   code: 47-2051
   title: Cement Masons and Concrete Finishers

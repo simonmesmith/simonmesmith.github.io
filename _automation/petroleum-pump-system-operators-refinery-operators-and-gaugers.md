@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Petroleum Pump System Operators, Refinery Operators, and Gaugers
+title: Automation of Petroleum Pump System Operators, Refinery Operators, and Gaugers
+subtitle: Will robots and artificial intelligence take the job of Petroleum Pump System Operators, Refinery Operators, and Gaugers? Get the facts.
 soc:
   code: 51-8093
   title: Petroleum Pump System Operators, Refinery Operators, and Gaugers

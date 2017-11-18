@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fish and Game Wardens
+title: Automation of Fish and Game Wardens
+subtitle: Will robots and artificial intelligence take the job of Fish and Game Wardens? Get the facts.
 soc:
   code: 33-3031
   title: Fish and Game Wardens

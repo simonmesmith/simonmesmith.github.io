@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+title: Automation of Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-3091
   title: Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders

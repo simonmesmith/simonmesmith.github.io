@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forensic Science Technicians
+title: Automation of Forensic Science Technicians
+subtitle: Will robots and artificial intelligence take the job of Forensic Science Technicians? Get the facts.
 soc:
   code: 19-4092
   title: Forensic Science Technicians

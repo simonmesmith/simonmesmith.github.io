@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Administrative Law Judges, Adjudicators, and Hearing Officers
+title: Automation of Administrative Law Judges, Adjudicators, and Hearing Officers
+subtitle: Will robots and artificial intelligence take the job of Administrative Law Judges, Adjudicators, and Hearing Officers? Get the facts.
 soc:
   code: 23-1021
   title: Administrative Law Judges, Adjudicators, and Hearing Officers

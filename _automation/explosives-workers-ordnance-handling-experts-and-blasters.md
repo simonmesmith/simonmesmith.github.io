@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Explosives Workers, Ordnance Handling Experts, and Blasters
+title: Automation of Explosives Workers, Ordnance Handling Experts, and Blasters
+subtitle: Will robots and artificial intelligence take the job of Explosives Workers, Ordnance Handling Experts, and Blasters? Get the facts.
 soc:
   code: 47-5031
   title: Explosives Workers, Ordnance Handling Experts, and Blasters

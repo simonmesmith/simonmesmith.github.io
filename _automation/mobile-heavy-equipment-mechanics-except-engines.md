@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mobile Heavy Equipment Mechanics, Except Engines
+title: Automation of Mobile Heavy Equipment Mechanics, Except Engines
+subtitle: Will robots and artificial intelligence take the job of Mobile Heavy Equipment Mechanics, Except Engines? Get the facts.
 soc:
   code: 49-3042
   title: Mobile Heavy Equipment Mechanics, Except Engines

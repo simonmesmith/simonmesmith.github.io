@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Log Graders and Scalers
+title: Automation of Log Graders and Scalers
+subtitle: Will robots and artificial intelligence take the job of Log Graders and Scalers? Get the facts.
 soc:
   code: 45-4023
   title: Log Graders and Scalers

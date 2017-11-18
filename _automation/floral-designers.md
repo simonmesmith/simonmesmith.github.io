@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Floral Designers
+title: Automation of Floral Designers
+subtitle: Will robots and artificial intelligence take the job of Floral Designers? Get the facts.
 soc:
   code: 27-1023
   title: Floral Designers

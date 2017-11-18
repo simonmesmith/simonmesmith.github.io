@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Automotive Body and Related Repairers
+title: Automation of Automotive Body and Related Repairers
+subtitle: Will robots and artificial intelligence take the job of Automotive Body and Related Repairers? Get the facts.
 soc:
   code: 49-3021
   title: Automotive Body and Related Repairers

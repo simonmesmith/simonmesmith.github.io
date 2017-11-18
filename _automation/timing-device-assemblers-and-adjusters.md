@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Timing Device Assemblers and Adjusters
+title: Automation of Timing Device Assemblers and Adjusters
+subtitle: Will robots and artificial intelligence take the job of Timing Device Assemblers and Adjusters? Get the facts.
 soc:
   code: 51-2093
   title: Timing Device Assemblers and Adjusters

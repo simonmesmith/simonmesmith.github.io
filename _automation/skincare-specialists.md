@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Skincare Specialists
+title: Automation of Skincare Specialists
+subtitle: Will robots and artificial intelligence take the job of Skincare Specialists? Get the facts.
 soc:
   code: 39-5094
   title: Skincare Specialists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Landscaping and Groundskeeping Workers
+title: Automation of Landscaping and Groundskeeping Workers
+subtitle: Will robots and artificial intelligence take the job of Landscaping and Groundskeeping Workers? Get the facts.
 soc:
   code: 37-3011
   title: Landscaping and Groundskeeping Workers

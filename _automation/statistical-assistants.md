@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Statistical Assistants
+title: Automation of Statistical Assistants
+subtitle: Will robots and artificial intelligence take the job of Statistical Assistants? Get the facts.
 soc:
   code: 43-9111
   title: Statistical Assistants

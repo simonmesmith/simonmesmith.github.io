@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Police, Fire, and Ambulance Dispatchers
+title: Automation of Police, Fire, and Ambulance Dispatchers
+subtitle: Will robots and artificial intelligence take the job of Police, Fire, and Ambulance Dispatchers? Get the facts.
 soc:
   code: 43-5031
   title: Police, Fire, and Ambulance Dispatchers

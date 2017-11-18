@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Environmental Engineering Technicians
+title: Automation of Environmental Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Environmental Engineering Technicians? Get the facts.
 soc:
   code: 17-3025
   title: Environmental Engineering Technicians

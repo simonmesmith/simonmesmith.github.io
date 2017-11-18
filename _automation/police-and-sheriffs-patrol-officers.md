@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Police and Sheriff's Patrol Officers
+title: Automation of Police and Sheriff's Patrol Officers
+subtitle: Will robots and artificial intelligence take the job of Police and Sheriff's Patrol Officers? Get the facts.
 soc:
   code: 33-3051
   title: Police and Sheriff's Patrol Officers

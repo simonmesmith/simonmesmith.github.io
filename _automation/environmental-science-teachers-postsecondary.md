@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Environmental Science Teachers, Postsecondary
+title: Automation of Environmental Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Environmental Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1053
   title: Environmental Science Teachers, Postsecondary

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Air Crew Officers
+title: Automation of Air Crew Officers
+subtitle: Will robots and artificial intelligence take the job of Air Crew Officers? Get the facts.
 soc:
   code: 55-1011
   title: Air Crew Officers

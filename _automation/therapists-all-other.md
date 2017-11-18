@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Therapists, All Other
+title: Automation of Therapists, All Other
+subtitle: Will robots and artificial intelligence take the job of Therapists, All Other? Get the facts.
 soc:
   code: 29-1129
   title: Therapists, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Engineering Teachers, Postsecondary
+title: Automation of Engineering Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Engineering Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1032
   title: Engineering Teachers, Postsecondary

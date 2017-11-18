@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dining Room and Cafeteria Attendants and Bartender Helpers
+title: Automation of Dining Room and Cafeteria Attendants and Bartender Helpers
+subtitle: Will robots and artificial intelligence take the job of Dining Room and Cafeteria Attendants and Bartender Helpers? Get the facts.
 soc:
   code: 35-9011
   title: Dining Room and Cafeteria Attendants and Bartender Helpers

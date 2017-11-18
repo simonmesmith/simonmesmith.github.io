@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+title: Automation of Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9012
   title: Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders

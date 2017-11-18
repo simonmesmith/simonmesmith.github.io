@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+title: Automation of Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Coating, Painting, and Spraying Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9121
   title: Coating, Painting, and Spraying Machine Setters, Operators, and Tenders

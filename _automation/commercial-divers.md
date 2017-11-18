@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Commercial Divers
+title: Automation of Commercial Divers
+subtitle: Will robots and artificial intelligence take the job of Commercial Divers? Get the facts.
 soc:
   code: 49-9092
   title: Commercial Divers

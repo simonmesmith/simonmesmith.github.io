@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education, Training, and Library Workers, All Other
+title: Automation of Education, Training, and Library Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Education, Training, and Library Workers, All Other? Get the facts.
 soc:
   code: 25-9099
   title: Education, Training, and Library Workers, All Other

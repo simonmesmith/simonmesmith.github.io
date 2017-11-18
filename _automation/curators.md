@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Curators
+title: Automation of Curators
+subtitle: Will robots and artificial intelligence take the job of Curators? Get the facts.
 soc:
   code: 25-4012
   title: Curators

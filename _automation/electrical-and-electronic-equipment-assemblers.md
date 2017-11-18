@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronic Equipment Assemblers
+title: Automation of Electrical and Electronic Equipment Assemblers
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronic Equipment Assemblers? Get the facts.
 soc:
   code: 51-2022
   title: Electrical and Electronic Equipment Assemblers

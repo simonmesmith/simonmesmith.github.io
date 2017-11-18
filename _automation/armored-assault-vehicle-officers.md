@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Armored Assault Vehicle Officers
+title: Automation of Armored Assault Vehicle Officers
+subtitle: Will robots and artificial intelligence take the job of Armored Assault Vehicle Officers? Get the facts.
 soc:
   code: 55-1013
   title: Armored Assault Vehicle Officers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Slaughterers and Meat Packers
+title: Automation of Slaughterers and Meat Packers
+subtitle: Will robots and artificial intelligence take the job of Slaughterers and Meat Packers? Get the facts.
 soc:
   code: 51-3023
   title: Slaughterers and Meat Packers

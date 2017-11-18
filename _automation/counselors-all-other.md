@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Counselors, All Other
+title: Automation of Counselors, All Other
+subtitle: Will robots and artificial intelligence take the job of Counselors, All Other? Get the facts.
 soc:
   code: 21-1019
   title: Counselors, All Other

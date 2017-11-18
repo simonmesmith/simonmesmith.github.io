@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Animal Trainers
+title: Automation of Animal Trainers
+subtitle: Will robots and artificial intelligence take the job of Animal Trainers? Get the facts.
 soc:
   code: 39-2011
   title: Animal Trainers

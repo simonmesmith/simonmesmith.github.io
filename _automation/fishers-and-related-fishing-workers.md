@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fishers and Related Fishing Workers
+title: Automation of Fishers and Related Fishing Workers
+subtitle: Will robots and artificial intelligence take the job of Fishers and Related Fishing Workers? Get the facts.
 soc:
   code: 45-3011
   title: Fishers and Related Fishing Workers

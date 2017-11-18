@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Audiologists
+title: Automation of Audiologists
+subtitle: Will robots and artificial intelligence take the job of Audiologists? Get the facts.
 soc:
   code: 29-1181
   title: Audiologists

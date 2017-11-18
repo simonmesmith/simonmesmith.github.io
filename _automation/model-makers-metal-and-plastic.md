@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Model Makers, Metal and Plastic
+title: Automation of Model Makers, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Model Makers, Metal and Plastic? Get the facts.
 soc:
   code: 51-4061
   title: Model Makers, Metal and Plastic

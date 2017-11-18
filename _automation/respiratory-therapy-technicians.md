@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Respiratory Therapy Technicians
+title: Automation of Respiratory Therapy Technicians
+subtitle: Will robots and artificial intelligence take the job of Respiratory Therapy Technicians? Get the facts.
 soc:
   code: 29-2054
   title: Respiratory Therapy Technicians

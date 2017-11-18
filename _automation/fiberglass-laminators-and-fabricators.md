@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fiberglass Laminators and Fabricators
+title: Automation of Fiberglass Laminators and Fabricators
+subtitle: Will robots and artificial intelligence take the job of Fiberglass Laminators and Fabricators? Get the facts.
 soc:
   code: 51-2091
   title: Fiberglass Laminators and Fabricators

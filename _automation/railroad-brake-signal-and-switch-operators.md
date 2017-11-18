@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Railroad Brake, Signal, and Switch Operators
+title: Automation of Railroad Brake, Signal, and Switch Operators
+subtitle: Will robots and artificial intelligence take the job of Railroad Brake, Signal, and Switch Operators? Get the facts.
 soc:
   code: 53-4021
   title: Railroad Brake, Signal, and Switch Operators

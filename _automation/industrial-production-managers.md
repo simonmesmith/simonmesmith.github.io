@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial Production Managers
+title: Automation of Industrial Production Managers
+subtitle: Will robots and artificial intelligence take the job of Industrial Production Managers? Get the facts.
 soc:
   code: 11-3051
   title: Industrial Production Managers

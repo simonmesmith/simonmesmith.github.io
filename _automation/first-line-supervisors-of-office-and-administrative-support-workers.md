@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Office and Administrative Support Workers
+title: Automation of First-Line Supervisors of Office and Administrative Support Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Office and Administrative Support Workers? Get the facts.
 soc:
   code: 43-1011
   title: First-Line Supervisors of Office and Administrative Support Workers

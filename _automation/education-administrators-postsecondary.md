@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education Administrators, Postsecondary
+title: Automation of Education Administrators, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Education Administrators, Postsecondary? Get the facts.
 soc:
   code: 11-9033
   title: Education Administrators, Postsecondary

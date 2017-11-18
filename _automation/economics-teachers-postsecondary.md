@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Economics Teachers, Postsecondary
+title: Automation of Economics Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Economics Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1063
   title: Economics Teachers, Postsecondary

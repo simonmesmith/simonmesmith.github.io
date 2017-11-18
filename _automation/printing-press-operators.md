@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Printing Press Operators
+title: Automation of Printing Press Operators
+subtitle: Will robots and artificial intelligence take the job of Printing Press Operators? Get the facts.
 soc:
   code: 51-5112
   title: Printing Press Operators

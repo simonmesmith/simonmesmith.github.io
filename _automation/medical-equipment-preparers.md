@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Equipment Preparers
+title: Automation of Medical Equipment Preparers
+subtitle: Will robots and artificial intelligence take the job of Medical Equipment Preparers? Get the facts.
 soc:
   code: 31-9093
   title: Medical Equipment Preparers

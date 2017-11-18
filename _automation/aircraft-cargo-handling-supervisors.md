@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aircraft Cargo Handling Supervisors
+title: Automation of Aircraft Cargo Handling Supervisors
+subtitle: Will robots and artificial intelligence take the job of Aircraft Cargo Handling Supervisors? Get the facts.
 soc:
   code: 53-1011
   title: Aircraft Cargo Handling Supervisors

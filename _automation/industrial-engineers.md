@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial Engineers
+title: Automation of Industrial Engineers
+subtitle: Will robots and artificial intelligence take the job of Industrial Engineers? Get the facts.
 soc:
   code: 17-2112
   title: Industrial Engineers

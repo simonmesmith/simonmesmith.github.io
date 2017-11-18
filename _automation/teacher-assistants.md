@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Teacher Assistants
+title: Automation of Teacher Assistants
+subtitle: Will robots and artificial intelligence take the job of Teacher Assistants? Get the facts.
 soc:
   code: 25-9041
   title: Teacher Assistants

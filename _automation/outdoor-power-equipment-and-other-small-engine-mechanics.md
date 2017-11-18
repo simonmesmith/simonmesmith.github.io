@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Outdoor Power Equipment and Other Small Engine Mechanics
+title: Automation of Outdoor Power Equipment and Other Small Engine Mechanics
+subtitle: Will robots and artificial intelligence take the job of Outdoor Power Equipment and Other Small Engine Mechanics? Get the facts.
 soc:
   code: 49-3053
   title: Outdoor Power Equipment and Other Small Engine Mechanics

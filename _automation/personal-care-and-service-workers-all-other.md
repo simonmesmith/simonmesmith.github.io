@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Personal Care and Service Workers, All Other
+title: Automation of Personal Care and Service Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Personal Care and Service Workers, All Other? Get the facts.
 soc:
   code: 39-9099
   title: Personal Care and Service Workers, All Other

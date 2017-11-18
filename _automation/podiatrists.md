@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Podiatrists
+title: Automation of Podiatrists
+subtitle: Will robots and artificial intelligence take the job of Podiatrists? Get the facts.
 soc:
   code: 29-1081
   title: Podiatrists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Musicians and Singers
+title: Automation of Musicians and Singers
+subtitle: Will robots and artificial intelligence take the job of Musicians and Singers? Get the facts.
 soc:
   code: 27-2042
   title: Musicians and Singers

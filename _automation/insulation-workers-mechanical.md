@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insulation Workers, Mechanical
+title: Automation of Insulation Workers, Mechanical
+subtitle: Will robots and artificial intelligence take the job of Insulation Workers, Mechanical? Get the facts.
 soc:
   code: 47-2132
   title: Insulation Workers, Mechanical

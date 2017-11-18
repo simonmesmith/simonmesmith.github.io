@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Office Machine Operators, Except Computer
+title: Automation of Office Machine Operators, Except Computer
+subtitle: Will robots and artificial intelligence take the job of Office Machine Operators, Except Computer? Get the facts.
 soc:
   code: 43-9071
   title: Office Machine Operators, Except Computer

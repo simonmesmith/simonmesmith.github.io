@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical Engineers
+title: Automation of Electrical Engineers
+subtitle: Will robots and artificial intelligence take the job of Electrical Engineers? Get the facts.
 soc:
   code: 17-2071
   title: Electrical Engineers

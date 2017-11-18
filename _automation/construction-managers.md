@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Construction Managers
+title: Automation of Construction Managers
+subtitle: Will robots and artificial intelligence take the job of Construction Managers? Get the facts.
 soc:
   code: 11-9021
   title: Construction Managers

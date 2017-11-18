@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Veterinary Technologists and Technicians
+title: Automation of Veterinary Technologists and Technicians
+subtitle: Will robots and artificial intelligence take the job of Veterinary Technologists and Technicians? Get the facts.
 soc:
   code: 29-2056
   title: Veterinary Technologists and Technicians

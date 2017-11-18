@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Command and Control Center Specialists
+title: Automation of Command and Control Center Specialists
+subtitle: Will robots and artificial intelligence take the job of Command and Control Center Specialists? Get the facts.
 soc:
   code: 55-3015
   title: Command and Control Center Specialists

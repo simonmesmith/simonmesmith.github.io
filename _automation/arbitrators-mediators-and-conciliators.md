@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Arbitrators, Mediators, and Conciliators
+title: Automation of Arbitrators, Mediators, and Conciliators
+subtitle: Will robots and artificial intelligence take the job of Arbitrators, Mediators, and Conciliators? Get the facts.
 soc:
   code: 23-1022
   title: Arbitrators, Mediators, and Conciliators

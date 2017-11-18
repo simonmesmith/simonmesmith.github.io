@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Operations Research Analysts
+title: Automation of Operations Research Analysts
+subtitle: Will robots and artificial intelligence take the job of Operations Research Analysts? Get the facts.
 soc:
   code: 15-2031
   title: Operations Research Analysts

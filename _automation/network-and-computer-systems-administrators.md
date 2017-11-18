@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Network and Computer Systems Administrators
+title: Automation of Network and Computer Systems Administrators
+subtitle: Will robots and artificial intelligence take the job of Network and Computer Systems Administrators? Get the facts.
 soc:
   code: 15-1142
   title: Network and Computer Systems Administrators

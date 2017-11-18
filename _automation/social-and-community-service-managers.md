@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social and Community Service Managers
+title: Automation of Social and Community Service Managers
+subtitle: Will robots and artificial intelligence take the job of Social and Community Service Managers? Get the facts.
 soc:
   code: 11-9151
   title: Social and Community Service Managers

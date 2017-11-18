@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Armored Assault Vehicle Crew Members
+title: Automation of Armored Assault Vehicle Crew Members
+subtitle: Will robots and artificial intelligence take the job of Armored Assault Vehicle Crew Members? Get the facts.
 soc:
   code: 55-3013
   title: Armored Assault Vehicle Crew Members

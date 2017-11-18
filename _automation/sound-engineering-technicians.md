@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sound Engineering Technicians
+title: Automation of Sound Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Sound Engineering Technicians? Get the facts.
 soc:
   code: 27-4014
   title: Sound Engineering Technicians

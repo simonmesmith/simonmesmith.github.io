@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bus Drivers, Transit and Intercity
+title: Automation of Bus Drivers, Transit and Intercity
+subtitle: Will robots and artificial intelligence take the job of Bus Drivers, Transit and Intercity? Get the facts.
 soc:
   code: 53-3021
   title: Bus Drivers, Transit and Intercity

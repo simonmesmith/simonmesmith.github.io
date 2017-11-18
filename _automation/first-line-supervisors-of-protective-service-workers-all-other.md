@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Protective Service Workers, All Other
+title: Automation of First-Line Supervisors of Protective Service Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Protective Service Workers, All Other? Get the facts.
 soc:
   code: 33-1099
   title: First-Line Supervisors of Protective Service Workers, All Other

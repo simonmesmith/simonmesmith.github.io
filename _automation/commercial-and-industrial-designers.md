@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Commercial and Industrial Designers
+title: Automation of Commercial and Industrial Designers
+subtitle: Will robots and artificial intelligence take the job of Commercial and Industrial Designers? Get the facts.
 soc:
   code: 27-1021
   title: Commercial and Industrial Designers

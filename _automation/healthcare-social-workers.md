@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Healthcare Social Workers
+title: Automation of Healthcare Social Workers
+subtitle: Will robots and artificial intelligence take the job of Healthcare Social Workers? Get the facts.
 soc:
   code: 21-1022
   title: Healthcare Social Workers

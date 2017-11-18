@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Life Scientists, All Other
+title: Automation of Life Scientists, All Other
+subtitle: Will robots and artificial intelligence take the job of Life Scientists, All Other? Get the facts.
 soc:
   code: 19-1099
   title: Life Scientists, All Other

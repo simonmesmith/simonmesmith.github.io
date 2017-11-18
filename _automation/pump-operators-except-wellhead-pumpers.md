@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pump Operators, Except Wellhead Pumpers
+title: Automation of Pump Operators, Except Wellhead Pumpers
+subtitle: Will robots and artificial intelligence take the job of Pump Operators, Except Wellhead Pumpers? Get the facts.
 soc:
   code: 53-7072
   title: Pump Operators, Except Wellhead Pumpers

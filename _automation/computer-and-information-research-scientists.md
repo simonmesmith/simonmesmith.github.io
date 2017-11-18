@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer and Information Research Scientists
+title: Automation of Computer and Information Research Scientists
+subtitle: Will robots and artificial intelligence take the job of Computer and Information Research Scientists? Get the facts.
 soc:
   code: 15-1111
   title: Computer and Information Research Scientists

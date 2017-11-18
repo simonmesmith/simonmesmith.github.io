@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Petroleum Engineers
+title: Automation of Petroleum Engineers
+subtitle: Will robots and artificial intelligence take the job of Petroleum Engineers? Get the facts.
 soc:
   code: 17-2171
   title: Petroleum Engineers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Carpenters
+title: Automation of Carpenters
+subtitle: Will robots and artificial intelligence take the job of Carpenters? Get the facts.
 soc:
   code: 47-2031
   title: Carpenters

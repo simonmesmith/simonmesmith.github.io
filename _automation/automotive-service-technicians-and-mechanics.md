@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Automotive Service Technicians and Mechanics
+title: Automation of Automotive Service Technicians and Mechanics
+subtitle: Will robots and artificial intelligence take the job of Automotive Service Technicians and Mechanics? Get the facts.
 soc:
   code: 49-3023
   title: Automotive Service Technicians and Mechanics

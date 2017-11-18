@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Boilermakers
+title: Automation of Boilermakers
+subtitle: Will robots and artificial intelligence take the job of Boilermakers? Get the facts.
 soc:
   code: 47-2011
   title: Boilermakers

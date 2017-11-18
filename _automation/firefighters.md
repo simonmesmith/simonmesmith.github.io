@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Firefighters
+title: Automation of Firefighters
+subtitle: Will robots and artificial intelligence take the job of Firefighters? Get the facts.
 soc:
   code: 33-2011
   title: Firefighters

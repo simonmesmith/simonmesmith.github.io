@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+title: Automation of Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+subtitle: Will robots and artificial intelligence take the job of Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products? Get the facts.
 soc:
   code: 41-4012
   title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products

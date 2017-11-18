@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Continuous Mining Machine Operators
+title: Automation of Continuous Mining Machine Operators
+subtitle: Will robots and artificial intelligence take the job of Continuous Mining Machine Operators? Get the facts.
 soc:
   code: 47-5041
   title: Continuous Mining Machine Operators

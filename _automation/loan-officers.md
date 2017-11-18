@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Loan Officers
+title: Automation of Loan Officers
+subtitle: Will robots and artificial intelligence take the job of Loan Officers? Get the facts.
 soc:
   code: 13-2072
   title: Loan Officers

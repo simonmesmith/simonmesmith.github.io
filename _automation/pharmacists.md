@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pharmacists
+title: Automation of Pharmacists
+subtitle: Will robots and artificial intelligence take the job of Pharmacists? Get the facts.
 soc:
   code: 29-1051
   title: Pharmacists

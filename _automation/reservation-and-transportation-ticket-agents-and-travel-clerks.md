@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Reservation and Transportation Ticket Agents and Travel Clerks
+title: Automation of Reservation and Transportation Ticket Agents and Travel Clerks
+subtitle: Will robots and artificial intelligence take the job of Reservation and Transportation Ticket Agents and Travel Clerks? Get the facts.
 soc:
   code: 43-4181
   title: Reservation and Transportation Ticket Agents and Travel Clerks

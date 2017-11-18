@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Clinical, Counseling, and School Psychologists
+title: Automation of Clinical, Counseling, and School Psychologists
+subtitle: Will robots and artificial intelligence take the job of Clinical, Counseling, and School Psychologists? Get the facts.
 soc:
   code: 19-3031
   title: Clinical, Counseling, and School Psychologists

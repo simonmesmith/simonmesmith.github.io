@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mathematical Technicians
+title: Automation of Mathematical Technicians
+subtitle: Will robots and artificial intelligence take the job of Mathematical Technicians? Get the facts.
 soc:
   code: 15-2091
   title: Mathematical Technicians

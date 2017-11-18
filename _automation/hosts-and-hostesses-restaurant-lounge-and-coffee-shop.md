@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+title: Automation of Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+subtitle: Will robots and artificial intelligence take the job of Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop? Get the facts.
 soc:
   code: 35-9031
   title: Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop

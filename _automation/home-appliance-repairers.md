@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Home Appliance Repairers
+title: Automation of Home Appliance Repairers
+subtitle: Will robots and artificial intelligence take the job of Home Appliance Repairers? Get the facts.
 soc:
   code: 49-9031
   title: Home Appliance Repairers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Occupational Therapy Aides
+title: Automation of Occupational Therapy Aides
+subtitle: Will robots and artificial intelligence take the job of Occupational Therapy Aides? Get the facts.
 soc:
   code: 31-2012
   title: Occupational Therapy Aides

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Healthcare Support Workers, All Other
+title: Automation of Healthcare Support Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Healthcare Support Workers, All Other? Get the facts.
 soc:
   code: 31-9099
   title: Healthcare Support Workers, All Other

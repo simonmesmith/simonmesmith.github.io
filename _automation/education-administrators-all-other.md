@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education Administrators, All Other
+title: Automation of Education Administrators, All Other
+subtitle: Will robots and artificial intelligence take the job of Education Administrators, All Other? Get the facts.
 soc:
   code: 11-9039
   title: Education Administrators, All Other

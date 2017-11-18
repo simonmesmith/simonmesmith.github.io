@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Biological Science Teachers, Postsecondary
+title: Automation of Biological Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Biological Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1042
   title: Biological Science Teachers, Postsecondary

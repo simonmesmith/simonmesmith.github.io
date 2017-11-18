@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Artillery and Missile Crew Members
+title: Automation of Artillery and Missile Crew Members
+subtitle: Will robots and artificial intelligence take the job of Artillery and Missile Crew Members? Get the facts.
 soc:
   code: 55-3014
   title: Artillery and Missile Crew Members

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Business Teachers, Postsecondary
+title: Automation of Business Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Business Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1011
   title: Business Teachers, Postsecondary

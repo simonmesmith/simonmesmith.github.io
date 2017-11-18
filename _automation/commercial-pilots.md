@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Commercial Pilots
+title: Automation of Commercial Pilots
+subtitle: Will robots and artificial intelligence take the job of Commercial Pilots? Get the facts.
 soc:
   code: 53-2012
   title: Commercial Pilots

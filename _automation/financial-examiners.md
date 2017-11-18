@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Financial Examiners
+title: Automation of Financial Examiners
+subtitle: Will robots and artificial intelligence take the job of Financial Examiners? Get the facts.
 soc:
   code: 13-2061
   title: Financial Examiners

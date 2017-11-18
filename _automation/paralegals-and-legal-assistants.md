@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Paralegals and Legal Assistants
+title: Automation of Paralegals and Legal Assistants
+subtitle: Will robots and artificial intelligence take the job of Paralegals and Legal Assistants? Get the facts.
 soc:
   code: 23-2011
   title: Paralegals and Legal Assistants

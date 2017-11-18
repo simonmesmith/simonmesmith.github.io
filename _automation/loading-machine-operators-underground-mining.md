@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Loading Machine Operators, Underground Mining
+title: Automation of Loading Machine Operators, Underground Mining
+subtitle: Will robots and artificial intelligence take the job of Loading Machine Operators, Underground Mining? Get the facts.
 soc:
   code: 53-7033
   title: Loading Machine Operators, Underground Mining

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bicycle Repairers
+title: Automation of Bicycle Repairers
+subtitle: Will robots and artificial intelligence take the job of Bicycle Repairers? Get the facts.
 soc:
   code: 49-3091
   title: Bicycle Repairers

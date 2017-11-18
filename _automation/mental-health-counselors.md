@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mental Health Counselors
+title: Automation of Mental Health Counselors
+subtitle: Will robots and artificial intelligence take the job of Mental Health Counselors? Get the facts.
 soc:
   code: 21-1014
   title: Mental Health Counselors

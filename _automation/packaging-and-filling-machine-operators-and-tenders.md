@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Packaging and Filling Machine Operators and Tenders
+title: Automation of Packaging and Filling Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Packaging and Filling Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-9111
   title: Packaging and Filling Machine Operators and Tenders

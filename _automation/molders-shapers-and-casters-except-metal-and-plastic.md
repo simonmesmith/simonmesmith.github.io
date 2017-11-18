@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Molders, Shapers, and Casters, Except Metal and Plastic
+title: Automation of Molders, Shapers, and Casters, Except Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Molders, Shapers, and Casters, Except Metal and Plastic? Get the facts.
 soc:
   code: 51-9195
   title: Molders, Shapers, and Casters, Except Metal and Plastic

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Production Workers
+title: Automation of Helpers--Production Workers
+subtitle: Will robots and artificial intelligence take the job of Helpers--Production Workers? Get the facts.
 soc:
   code: 51-9198
   title: Helpers--Production Workers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Civil Engineers
+title: Automation of Civil Engineers
+subtitle: Will robots and artificial intelligence take the job of Civil Engineers? Get the facts.
 soc:
   code: 17-2051
   title: Civil Engineers

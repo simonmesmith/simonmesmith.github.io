@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bookkeeping, Accounting, and Auditing Clerks
+title: Automation of Bookkeeping, Accounting, and Auditing Clerks
+subtitle: Will robots and artificial intelligence take the job of Bookkeeping, Accounting, and Auditing Clerks? Get the facts.
 soc:
   code: 43-3031
   title: Bookkeeping, Accounting, and Auditing Clerks

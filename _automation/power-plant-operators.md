@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Power Plant Operators
+title: Automation of Power Plant Operators
+subtitle: Will robots and artificial intelligence take the job of Power Plant Operators? Get the facts.
 soc:
   code: 51-8013
   title: Power Plant Operators

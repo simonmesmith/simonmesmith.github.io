@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Managers
+title: Automation of Gaming Managers
+subtitle: Will robots and artificial intelligence take the job of Gaming Managers? Get the facts.
 soc:
   code: 11-9071
   title: Gaming Managers

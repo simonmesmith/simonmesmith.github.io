@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hydrologists
+title: Automation of Hydrologists
+subtitle: Will robots and artificial intelligence take the job of Hydrologists? Get the facts.
 soc:
   code: 19-2043
   title: Hydrologists

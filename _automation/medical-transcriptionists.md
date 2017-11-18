@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Transcriptionists
+title: Automation of Medical Transcriptionists
+subtitle: Will robots and artificial intelligence take the job of Medical Transcriptionists? Get the facts.
 soc:
   code: 31-9094
   title: Medical Transcriptionists

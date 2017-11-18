@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mine Cutting and Channeling Machine Operators
+title: Automation of Mine Cutting and Channeling Machine Operators
+subtitle: Will robots and artificial intelligence take the job of Mine Cutting and Channeling Machine Operators? Get the facts.
 soc:
   code: 47-5042
   title: Mine Cutting and Channeling Machine Operators

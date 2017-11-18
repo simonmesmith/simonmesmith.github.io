@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Housekeeping and Janitorial Workers
+title: Automation of First-Line Supervisors of Housekeeping and Janitorial Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Housekeeping and Janitorial Workers? Get the facts.
 soc:
   code: 37-1011
   title: First-Line Supervisors of Housekeeping and Janitorial Workers

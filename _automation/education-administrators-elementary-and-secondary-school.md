@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education Administrators, Elementary and Secondary School
+title: Automation of Education Administrators, Elementary and Secondary School
+subtitle: Will robots and artificial intelligence take the job of Education Administrators, Elementary and Secondary School? Get the facts.
 soc:
   code: 11-9032
   title: Education Administrators, Elementary and Secondary School

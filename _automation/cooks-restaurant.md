@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, Restaurant
+title: Automation of Cooks, Restaurant
+subtitle: Will robots and artificial intelligence take the job of Cooks, Restaurant? Get the facts.
 soc:
   code: 35-2014
   title: Cooks, Restaurant

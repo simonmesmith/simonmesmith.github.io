@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Graduate Teaching Assistants
+title: Automation of Graduate Teaching Assistants
+subtitle: Will robots and artificial intelligence take the job of Graduate Teaching Assistants? Get the facts.
 soc:
   code: 25-1191
   title: Graduate Teaching Assistants

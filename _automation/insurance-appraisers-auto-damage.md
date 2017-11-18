@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insurance Appraisers, Auto Damage
+title: Automation of Insurance Appraisers, Auto Damage
+subtitle: Will robots and artificial intelligence take the job of Insurance Appraisers, Auto Damage? Get the facts.
 soc:
   code: 13-1032
   title: Insurance Appraisers, Auto Damage

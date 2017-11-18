@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Geographers
+title: Automation of Geographers
+subtitle: Will robots and artificial intelligence take the job of Geographers? Get the facts.
 soc:
   code: 19-3092
   title: Geographers

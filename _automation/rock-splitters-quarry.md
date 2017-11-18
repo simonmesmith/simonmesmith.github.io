@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rock Splitters, Quarry
+title: Automation of Rock Splitters, Quarry
+subtitle: Will robots and artificial intelligence take the job of Rock Splitters, Quarry? Get the facts.
 soc:
   code: 47-5051
   title: Rock Splitters, Quarry

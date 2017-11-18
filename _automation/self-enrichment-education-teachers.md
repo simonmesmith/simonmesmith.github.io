@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Self-Enrichment Education Teachers
+title: Automation of Self-Enrichment Education Teachers
+subtitle: Will robots and artificial intelligence take the job of Self-Enrichment Education Teachers? Get the facts.
 soc:
   code: 25-3021
   title: Self-Enrichment Education Teachers

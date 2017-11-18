@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemical Technicians
+title: Automation of Chemical Technicians
+subtitle: Will robots and artificial intelligence take the job of Chemical Technicians? Get the facts.
 soc:
   code: 19-4031
   title: Chemical Technicians

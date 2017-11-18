@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4072
   title: Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bailiffs
+title: Automation of Bailiffs
+subtitle: Will robots and artificial intelligence take the job of Bailiffs? Get the facts.
 soc:
   code: 33-3011
   title: Bailiffs

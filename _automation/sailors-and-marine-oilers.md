@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sailors and Marine Oilers
+title: Automation of Sailors and Marine Oilers
+subtitle: Will robots and artificial intelligence take the job of Sailors and Marine Oilers? Get the facts.
 soc:
   code: 53-5011
   title: Sailors and Marine Oilers

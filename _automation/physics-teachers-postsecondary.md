@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physics Teachers, Postsecondary
+title: Automation of Physics Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Physics Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1054
   title: Physics Teachers, Postsecondary

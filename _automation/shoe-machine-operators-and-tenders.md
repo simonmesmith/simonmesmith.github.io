@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Shoe Machine Operators and Tenders
+title: Automation of Shoe Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Shoe Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-6042
   title: Shoe Machine Operators and Tenders

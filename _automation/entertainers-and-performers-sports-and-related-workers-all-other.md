@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Entertainers and Performers, Sports and Related Workers, All Other
+title: Automation of Entertainers and Performers, Sports and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Entertainers and Performers, Sports and Related Workers, All Other? Get the facts.
 soc:
   code: 27-2099
   title: Entertainers and Performers, Sports and Related Workers, All Other

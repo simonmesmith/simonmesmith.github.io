@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers, Construction Trades, All Other
+title: Automation of Helpers, Construction Trades, All Other
+subtitle: Will robots and artificial intelligence take the job of Helpers, Construction Trades, All Other? Get the facts.
 soc:
   code: 47-3019
   title: Helpers, Construction Trades, All Other

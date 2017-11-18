@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aircraft Launch and Recovery Officers
+title: Automation of Aircraft Launch and Recovery Officers
+subtitle: Will robots and artificial intelligence take the job of Aircraft Launch and Recovery Officers? Get the facts.
 soc:
   code: 55-1012
   title: Aircraft Launch and Recovery Officers

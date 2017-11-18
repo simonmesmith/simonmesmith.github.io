@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nuclear Medicine Technologists
+title: Automation of Nuclear Medicine Technologists
+subtitle: Will robots and artificial intelligence take the job of Nuclear Medicine Technologists? Get the facts.
 soc:
   code: 29-2033
   title: Nuclear Medicine Technologists

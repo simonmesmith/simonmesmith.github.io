@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Engineering Technicians, Except Drafters, All Other
+title: Automation of Engineering Technicians, Except Drafters, All Other
+subtitle: Will robots and artificial intelligence take the job of Engineering Technicians, Except Drafters, All Other? Get the facts.
 soc:
   code: 17-3029
   title: Engineering Technicians, Except Drafters, All Other

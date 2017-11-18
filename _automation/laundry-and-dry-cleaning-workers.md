@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Laundry and Dry-Cleaning Workers
+title: Automation of Laundry and Dry-Cleaning Workers
+subtitle: Will robots and artificial intelligence take the job of Laundry and Dry-Cleaning Workers? Get the facts.
 soc:
   code: 51-6011
   title: Laundry and Dry-Cleaning Workers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemical Equipment Operators and Tenders
+title: Automation of Chemical Equipment Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Chemical Equipment Operators and Tenders? Get the facts.
 soc:
   code: 51-9011
   title: Chemical Equipment Operators and Tenders

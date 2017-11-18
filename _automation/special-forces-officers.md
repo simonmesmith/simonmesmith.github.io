@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Forces Officers
+title: Automation of Special Forces Officers
+subtitle: Will robots and artificial intelligence take the job of Special Forces Officers? Get the facts.
 soc:
   code: 55-1017
   title: Special Forces Officers

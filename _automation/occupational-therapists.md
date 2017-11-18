@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Occupational Therapists
+title: Automation of Occupational Therapists
+subtitle: Will robots and artificial intelligence take the job of Occupational Therapists? Get the facts.
 soc:
   code: 29-1122
   title: Occupational Therapists

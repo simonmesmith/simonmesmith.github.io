@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Water and Wastewater Treatment Plant and System Operators
+title: Automation of Water and Wastewater Treatment Plant and System Operators
+subtitle: Will robots and artificial intelligence take the job of Water and Wastewater Treatment Plant and System Operators? Get the facts.
 soc:
   code: 51-8031
   title: Water and Wastewater Treatment Plant and System Operators

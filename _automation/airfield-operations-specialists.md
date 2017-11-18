@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Airfield Operations Specialists
+title: Automation of Airfield Operations Specialists
+subtitle: Will robots and artificial intelligence take the job of Airfield Operations Specialists? Get the facts.
 soc:
   code: 53-2022
   title: Airfield Operations Specialists

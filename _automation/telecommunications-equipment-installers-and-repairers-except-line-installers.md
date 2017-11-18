@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Telecommunications Equipment Installers and Repairers, Except Line Installers
+title: Automation of Telecommunications Equipment Installers and Repairers, Except Line Installers
+subtitle: Will robots and artificial intelligence take the job of Telecommunications Equipment Installers and Repairers, Except Line Installers? Get the facts.
 soc:
   code: 49-2022
   title: Telecommunications Equipment Installers and Repairers, Except Line Installers

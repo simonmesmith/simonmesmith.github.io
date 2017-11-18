@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farm and Home Management Advisors
+title: Automation of Farm and Home Management Advisors
+subtitle: Will robots and artificial intelligence take the job of Farm and Home Management Advisors? Get the facts.
 soc:
   code: 25-9021
   title: Farm and Home Management Advisors

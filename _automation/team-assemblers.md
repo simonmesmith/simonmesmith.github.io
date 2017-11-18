@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Team Assemblers
+title: Automation of Team Assemblers
+subtitle: Will robots and artificial intelligence take the job of Team Assemblers? Get the facts.
 soc:
   code: 51-2092
   title: Team Assemblers

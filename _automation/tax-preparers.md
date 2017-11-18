@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tax Preparers
+title: Automation of Tax Preparers
+subtitle: Will robots and artificial intelligence take the job of Tax Preparers? Get the facts.
 soc:
   code: 13-2082
   title: Tax Preparers

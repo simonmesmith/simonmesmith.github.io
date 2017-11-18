@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Compensation, Benefits, and Job Analysis Specialists
+title: Automation of Compensation, Benefits, and Job Analysis Specialists
+subtitle: Will robots and artificial intelligence take the job of Compensation, Benefits, and Job Analysis Specialists? Get the facts.
 soc:
   code: 13-1141
   title: Compensation, Benefits, and Job Analysis Specialists

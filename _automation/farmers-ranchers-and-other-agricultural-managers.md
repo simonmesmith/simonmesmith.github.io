@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farmers, Ranchers, and Other Agricultural Managers
+title: Automation of Farmers, Ranchers, and Other Agricultural Managers
+subtitle: Will robots and artificial intelligence take the job of Farmers, Ranchers, and Other Agricultural Managers? Get the facts.
 soc:
   code: 11-9013
   title: Farmers, Ranchers, and Other Agricultural Managers

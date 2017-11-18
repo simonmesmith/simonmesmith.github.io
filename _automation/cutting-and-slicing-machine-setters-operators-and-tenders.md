@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cutting and Slicing Machine Setters, Operators, and Tenders
+title: Automation of Cutting and Slicing Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Cutting and Slicing Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9032
   title: Cutting and Slicing Machine Setters, Operators, and Tenders

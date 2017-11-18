@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Compliance Officers
+title: Automation of Compliance Officers
+subtitle: Will robots and artificial intelligence take the job of Compliance Officers? Get the facts.
 soc:
   code: 13-1041
   title: Compliance Officers

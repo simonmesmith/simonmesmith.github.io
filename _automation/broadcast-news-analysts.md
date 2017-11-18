@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Broadcast News Analysts
+title: Automation of Broadcast News Analysts
+subtitle: Will robots and artificial intelligence take the job of Broadcast News Analysts? Get the facts.
 soc:
   code: 27-3021
   title: Broadcast News Analysts

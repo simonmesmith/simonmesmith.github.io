@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Adult Basic and Secondary Education and Literacy Teachers and Instructors
+title: Automation of Adult Basic and Secondary Education and Literacy Teachers and Instructors
+subtitle: Will robots and artificial intelligence take the job of Adult Basic and Secondary Education and Literacy Teachers and Instructors? Get the facts.
 soc:
   code: 25-3011
   title: Adult Basic and Secondary Education and Literacy Teachers and Instructors

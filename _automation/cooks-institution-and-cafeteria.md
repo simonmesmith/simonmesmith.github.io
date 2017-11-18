@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, Institution and Cafeteria
+title: Automation of Cooks, Institution and Cafeteria
+subtitle: Will robots and artificial intelligence take the job of Cooks, Institution and Cafeteria? Get the facts.
 soc:
   code: 35-2012
   title: Cooks, Institution and Cafeteria

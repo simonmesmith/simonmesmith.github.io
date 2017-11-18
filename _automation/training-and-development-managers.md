@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Training and Development Managers
+title: Automation of Training and Development Managers
+subtitle: Will robots and artificial intelligence take the job of Training and Development Managers? Get the facts.
 soc:
   code: 11-3131
   title: Training and Development Managers

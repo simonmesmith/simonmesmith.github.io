@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Brokerage Clerks
+title: Automation of Brokerage Clerks
+subtitle: Will robots and artificial intelligence take the job of Brokerage Clerks? Get the facts.
 soc:
   code: 43-4011
   title: Brokerage Clerks

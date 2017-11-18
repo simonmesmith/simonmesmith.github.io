@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+title: Automation of Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+subtitle: Will robots and artificial intelligence take the job of Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters? Get the facts.
 soc:
   code: 47-3015
   title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters

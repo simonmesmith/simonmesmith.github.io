@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Child, Family, and School Social Workers
+title: Automation of Child, Family, and School Social Workers
+subtitle: Will robots and artificial intelligence take the job of Child, Family, and School Social Workers? Get the facts.
 soc:
   code: 21-1021
   title: Child, Family, and School Social Workers

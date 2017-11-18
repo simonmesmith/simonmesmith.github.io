@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Securities, Commodities, and Financial Services Sales Agents
+title: Automation of Securities, Commodities, and Financial Services Sales Agents
+subtitle: Will robots and artificial intelligence take the job of Securities, Commodities, and Financial Services Sales Agents? Get the facts.
 soc:
   code: 41-3031
   title: Securities, Commodities, and Financial Services Sales Agents

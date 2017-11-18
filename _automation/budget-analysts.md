@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Budget Analysts
+title: Automation of Budget Analysts
+subtitle: Will robots and artificial intelligence take the job of Budget Analysts? Get the facts.
 soc:
   code: 13-2031
   title: Budget Analysts

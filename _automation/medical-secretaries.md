@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Secretaries
+title: Automation of Medical Secretaries
+subtitle: Will robots and artificial intelligence take the job of Medical Secretaries? Get the facts.
 soc:
   code: 43-6013
   title: Medical Secretaries

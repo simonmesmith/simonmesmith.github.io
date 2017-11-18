@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bridge and Lock Tenders
+title: Automation of Bridge and Lock Tenders
+subtitle: Will robots and artificial intelligence take the job of Bridge and Lock Tenders? Get the facts.
 soc:
   code: 53-6011
   title: Bridge and Lock Tenders

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronics Repairers, Commercial and Industrial Equipment
+title: Automation of Electrical and Electronics Repairers, Commercial and Industrial Equipment
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronics Repairers, Commercial and Industrial Equipment? Get the facts.
 soc:
   code: 49-2094
   title: Electrical and Electronics Repairers, Commercial and Industrial Equipment

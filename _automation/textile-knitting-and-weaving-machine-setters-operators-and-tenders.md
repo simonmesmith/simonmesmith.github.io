@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+title: Automation of Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Textile Knitting and Weaving Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-6063
   title: Textile Knitting and Weaving Machine Setters, Operators, and Tenders

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Artists and Related Workers, All Other
+title: Automation of Artists and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Artists and Related Workers, All Other? Get the facts.
 soc:
   code: 27-1019
   title: Artists and Related Workers, All Other

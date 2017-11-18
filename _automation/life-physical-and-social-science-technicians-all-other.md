@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Life, Physical, and Social Science Technicians, All Other
+title: Automation of Life, Physical, and Social Science Technicians, All Other
+subtitle: Will robots and artificial intelligence take the job of Life, Physical, and Social Science Technicians, All Other? Get the facts.
 soc:
   code: 19-4099
   title: Life, Physical, and Social Science Technicians, All Other

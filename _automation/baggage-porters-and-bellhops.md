@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Baggage Porters and Bellhops
+title: Automation of Baggage Porters and Bellhops
+subtitle: Will robots and artificial intelligence take the job of Baggage Porters and Bellhops? Get the facts.
 soc:
   code: 39-6011
   title: Baggage Porters and Bellhops

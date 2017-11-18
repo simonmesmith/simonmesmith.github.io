@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Atmospheric and Space Scientists
+title: Automation of Atmospheric and Space Scientists
+subtitle: Will robots and artificial intelligence take the job of Atmospheric and Space Scientists? Get the facts.
 soc:
   code: 19-2021
   title: Atmospheric and Space Scientists

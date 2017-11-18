@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chiropractors
+title: Automation of Chiropractors
+subtitle: Will robots and artificial intelligence take the job of Chiropractors? Get the facts.
 soc:
   code: 29-1011
   title: Chiropractors

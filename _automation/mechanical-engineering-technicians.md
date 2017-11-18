@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mechanical Engineering Technicians
+title: Automation of Mechanical Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Mechanical Engineering Technicians? Get the facts.
 soc:
   code: 17-3027
   title: Mechanical Engineering Technicians

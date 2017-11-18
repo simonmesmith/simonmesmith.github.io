@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Military Officer Special and Tactical Operations Leaders, All Other
+title: Automation of Military Officer Special and Tactical Operations Leaders, All Other
+subtitle: Will robots and artificial intelligence take the job of Military Officer Special and Tactical Operations Leaders, All Other? Get the facts.
 soc:
   code: 55-1019
   title: Military Officer Special and Tactical Operations Leaders, All Other

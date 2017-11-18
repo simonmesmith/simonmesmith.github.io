@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Transportation Security Screeners
+title: Automation of Transportation Security Screeners
+subtitle: Will robots and artificial intelligence take the job of Transportation Security Screeners? Get the facts.
 soc:
   code: 33-9093
   title: Transportation Security Screeners

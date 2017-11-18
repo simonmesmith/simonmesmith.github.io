@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4035
   title: Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic

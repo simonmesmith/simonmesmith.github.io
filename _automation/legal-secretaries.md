@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Legal Secretaries
+title: Automation of Legal Secretaries
+subtitle: Will robots and artificial intelligence take the job of Legal Secretaries? Get the facts.
 soc:
   code: 43-6012
   title: Legal Secretaries

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Communications Equipment Operators, All Other
+title: Automation of Communications Equipment Operators, All Other
+subtitle: Will robots and artificial intelligence take the job of Communications Equipment Operators, All Other? Get the facts.
 soc:
   code: 43-2099
   title: Communications Equipment Operators, All Other

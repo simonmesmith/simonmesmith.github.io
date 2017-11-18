@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pipelayers
+title: Automation of Pipelayers
+subtitle: Will robots and artificial intelligence take the job of Pipelayers? Get the facts.
 soc:
   code: 47-2151
   title: Pipelayers

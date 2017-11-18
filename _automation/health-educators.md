@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Health Educators
+title: Automation of Health Educators
+subtitle: Will robots and artificial intelligence take the job of Health Educators? Get the facts.
 soc:
   code: 21-1091
   title: Health Educators

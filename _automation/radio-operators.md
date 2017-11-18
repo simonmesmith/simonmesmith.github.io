@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Radio Operators
+title: Automation of Radio Operators
+subtitle: Will robots and artificial intelligence take the job of Radio Operators? Get the facts.
 soc:
   code: 27-4013
   title: Radio Operators

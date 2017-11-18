@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tire Builders
+title: Automation of Tire Builders
+subtitle: Will robots and artificial intelligence take the job of Tire Builders? Get the facts.
 soc:
   code: 51-9197
   title: Tire Builders

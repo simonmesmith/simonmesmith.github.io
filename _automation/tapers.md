@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tapers
+title: Automation of Tapers
+subtitle: Will robots and artificial intelligence take the job of Tapers? Get the facts.
 soc:
   code: 47-2082
   title: Tapers

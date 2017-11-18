@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cargo and Freight Agents
+title: Automation of Cargo and Freight Agents
+subtitle: Will robots and artificial intelligence take the job of Cargo and Freight Agents? Get the facts.
 soc:
   code: 43-5011
   title: Cargo and Freight Agents

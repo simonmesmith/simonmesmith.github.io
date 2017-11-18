@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Correctional Officers
+title: Automation of First-Line Supervisors of Correctional Officers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Correctional Officers? Get the facts.
 soc:
   code: 33-1011
   title: First-Line Supervisors of Correctional Officers

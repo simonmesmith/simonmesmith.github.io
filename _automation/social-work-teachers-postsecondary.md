@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social Work Teachers, Postsecondary
+title: Automation of Social Work Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Social Work Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1113
   title: Social Work Teachers, Postsecondary

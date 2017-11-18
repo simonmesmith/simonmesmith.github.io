@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pediatricians, General
+title: Automation of Pediatricians, General
+subtitle: Will robots and artificial intelligence take the job of Pediatricians, General? Get the facts.
 soc:
   code: 29-1065
   title: Pediatricians, General

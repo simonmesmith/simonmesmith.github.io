@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Psychologists, All Other
+title: Automation of Psychologists, All Other
+subtitle: Will robots and artificial intelligence take the job of Psychologists, All Other? Get the facts.
 soc:
   code: 19-3039
   title: Psychologists, All Other

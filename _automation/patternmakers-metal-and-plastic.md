@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Patternmakers, Metal and Plastic
+title: Automation of Patternmakers, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Patternmakers, Metal and Plastic? Get the facts.
 soc:
   code: 51-4062
   title: Patternmakers, Metal and Plastic

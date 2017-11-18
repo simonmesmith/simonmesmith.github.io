@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Scientists and Technologists
+title: Automation of Food Scientists and Technologists
+subtitle: Will robots and artificial intelligence take the job of Food Scientists and Technologists? Get the facts.
 soc:
   code: 19-1012
   title: Food Scientists and Technologists

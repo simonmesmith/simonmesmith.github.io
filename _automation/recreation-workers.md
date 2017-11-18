@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Recreation Workers
+title: Automation of Recreation Workers
+subtitle: Will robots and artificial intelligence take the job of Recreation Workers? Get the facts.
 soc:
   code: 39-9032
   title: Recreation Workers

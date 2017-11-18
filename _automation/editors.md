@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Editors
+title: Automation of Editors
+subtitle: Will robots and artificial intelligence take the job of Editors? Get the facts.
 soc:
   code: 27-3041
   title: Editors

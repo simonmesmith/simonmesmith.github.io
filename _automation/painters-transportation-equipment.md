@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Painters, Transportation Equipment
+title: Automation of Painters, Transportation Equipment
+subtitle: Will robots and artificial intelligence take the job of Painters, Transportation Equipment? Get the facts.
 soc:
   code: 51-9122
   title: Painters, Transportation Equipment

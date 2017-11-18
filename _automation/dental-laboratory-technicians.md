@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dental Laboratory Technicians
+title: Automation of Dental Laboratory Technicians
+subtitle: Will robots and artificial intelligence take the job of Dental Laboratory Technicians? Get the facts.
 soc:
   code: 51-9081
   title: Dental Laboratory Technicians

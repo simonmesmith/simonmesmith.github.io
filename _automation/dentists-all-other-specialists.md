@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dentists, All Other Specialists
+title: Automation of Dentists, All Other Specialists
+subtitle: Will robots and artificial intelligence take the job of Dentists, All Other Specialists? Get the facts.
 soc:
   code: 29-1029
   title: Dentists, All Other Specialists

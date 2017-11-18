@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical and Health Services Managers
+title: Automation of Medical and Health Services Managers
+subtitle: Will robots and artificial intelligence take the job of Medical and Health Services Managers? Get the facts.
 soc:
   code: 11-9111
   title: Medical and Health Services Managers

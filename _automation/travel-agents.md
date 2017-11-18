@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Travel Agents
+title: Automation of Travel Agents
+subtitle: Will robots and artificial intelligence take the job of Travel Agents? Get the facts.
 soc:
   code: 41-3041
   title: Travel Agents

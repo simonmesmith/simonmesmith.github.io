@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Metal-Refining Furnace Operators and Tenders
+title: Automation of Metal-Refining Furnace Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Metal-Refining Furnace Operators and Tenders? Get the facts.
 soc:
   code: 51-4051
   title: Metal-Refining Furnace Operators and Tenders

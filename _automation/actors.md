@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Actors
+title: Automation of Actors
+subtitle: Will robots and artificial intelligence take the job of Actors? Get the facts.
 soc:
   code: 27-2011
   title: Actors

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hunters and Trappers
+title: Automation of Hunters and Trappers
+subtitle: Will robots and artificial intelligence take the job of Hunters and Trappers? Get the facts.
 soc:
   code: 45-3021
   title: Hunters and Trappers

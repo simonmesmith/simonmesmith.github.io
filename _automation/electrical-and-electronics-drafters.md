@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronics Drafters
+title: Automation of Electrical and Electronics Drafters
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronics Drafters? Get the facts.
 soc:
   code: 17-3012
   title: Electrical and Electronics Drafters

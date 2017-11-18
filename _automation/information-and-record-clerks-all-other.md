@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Information and Record Clerks, All Other
+title: Automation of Information and Record Clerks, All Other
+subtitle: Will robots and artificial intelligence take the job of Information and Record Clerks, All Other? Get the facts.
 soc:
   code: 43-4199
   title: Information and Record Clerks, All Other

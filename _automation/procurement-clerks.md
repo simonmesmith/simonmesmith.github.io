@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Procurement Clerks
+title: Automation of Procurement Clerks
+subtitle: Will robots and artificial intelligence take the job of Procurement Clerks? Get the facts.
 soc:
   code: 43-3061
   title: Procurement Clerks

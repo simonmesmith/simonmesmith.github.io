@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Correctional Officers and Jailers
+title: Automation of Correctional Officers and Jailers
+subtitle: Will robots and artificial intelligence take the job of Correctional Officers and Jailers? Get the facts.
 soc:
   code: 33-3012
   title: Correctional Officers and Jailers

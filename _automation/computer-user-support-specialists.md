@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer User Support Specialists
+title: Automation of Computer User Support Specialists
+subtitle: Will robots and artificial intelligence take the job of Computer User Support Specialists? Get the facts.
 soc:
   code: 15-1151
   title: Computer User Support Specialists

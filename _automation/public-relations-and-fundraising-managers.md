@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Public Relations and Fundraising Managers
+title: Automation of Public Relations and Fundraising Managers
+subtitle: Will robots and artificial intelligence take the job of Public Relations and Fundraising Managers? Get the facts.
 soc:
   code: 11-2031
   title: Public Relations and Fundraising Managers

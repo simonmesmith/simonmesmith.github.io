@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Derrick Operators, Oil and Gas
+title: Automation of Derrick Operators, Oil and Gas
+subtitle: Will robots and artificial intelligence take the job of Derrick Operators, Oil and Gas? Get the facts.
 soc:
   code: 47-5011
   title: Derrick Operators, Oil and Gas

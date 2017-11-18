@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dental Hygienists
+title: Automation of Dental Hygienists
+subtitle: Will robots and artificial intelligence take the job of Dental Hygienists? Get the facts.
 soc:
   code: 29-2021
   title: Dental Hygienists

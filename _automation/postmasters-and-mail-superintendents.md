@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Postmasters and Mail Superintendents
+title: Automation of Postmasters and Mail Superintendents
+subtitle: Will robots and artificial intelligence take the job of Postmasters and Mail Superintendents? Get the facts.
 soc:
   code: 11-9131
   title: Postmasters and Mail Superintendents

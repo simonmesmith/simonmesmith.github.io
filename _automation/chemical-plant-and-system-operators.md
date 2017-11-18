@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemical Plant and System Operators
+title: Automation of Chemical Plant and System Operators
+subtitle: Will robots and artificial intelligence take the job of Chemical Plant and System Operators? Get the facts.
 soc:
   code: 51-8091
   title: Chemical Plant and System Operators

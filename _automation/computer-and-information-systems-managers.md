@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer and Information Systems Managers
+title: Automation of Computer and Information Systems Managers
+subtitle: Will robots and artificial intelligence take the job of Computer and Information Systems Managers? Get the facts.
 soc:
   code: 11-3021
   title: Computer and Information Systems Managers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Financial Specialists, All Other
+title: Automation of Financial Specialists, All Other
+subtitle: Will robots and artificial intelligence take the job of Financial Specialists, All Other? Get the facts.
 soc:
   code: 13-2099
   title: Financial Specialists, All Other

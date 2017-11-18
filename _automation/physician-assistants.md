@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physician Assistants
+title: Automation of Physician Assistants
+subtitle: Will robots and artificial intelligence take the job of Physician Assistants? Get the facts.
 soc:
   code: 29-1071
   title: Physician Assistants

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Radar and Sonar Technicians
+title: Automation of Radar and Sonar Technicians
+subtitle: Will robots and artificial intelligence take the job of Radar and Sonar Technicians? Get the facts.
 soc:
   code: 55-3017
   title: Radar and Sonar Technicians

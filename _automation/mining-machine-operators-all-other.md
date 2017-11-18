@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mining Machine Operators, All Other
+title: Automation of Mining Machine Operators, All Other
+subtitle: Will robots and artificial intelligence take the job of Mining Machine Operators, All Other? Get the facts.
 soc:
   code: 47-5049
   title: Mining Machine Operators, All Other

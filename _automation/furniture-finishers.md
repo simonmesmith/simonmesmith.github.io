@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Furniture Finishers
+title: Automation of Furniture Finishers
+subtitle: Will robots and artificial intelligence take the job of Furniture Finishers? Get the facts.
 soc:
   code: 51-7021
   title: Furniture Finishers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Epidemiologists
+title: Automation of Epidemiologists
+subtitle: Will robots and artificial intelligence take the job of Epidemiologists? Get the facts.
 soc:
   code: 19-1041
   title: Epidemiologists

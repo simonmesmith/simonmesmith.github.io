@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pesticide Handlers, Sprayers, and Applicators, Vegetation
+title: Automation of Pesticide Handlers, Sprayers, and Applicators, Vegetation
+subtitle: Will robots and artificial intelligence take the job of Pesticide Handlers, Sprayers, and Applicators, Vegetation? Get the facts.
 soc:
   code: 37-3012
   title: Pesticide Handlers, Sprayers, and Applicators, Vegetation

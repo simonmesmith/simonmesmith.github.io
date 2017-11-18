@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Drafters, All Other
+title: Automation of Drafters, All Other
+subtitle: Will robots and artificial intelligence take the job of Drafters, All Other? Get the facts.
 soc:
   code: 17-3019
   title: Drafters, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Equipment Repairers
+title: Automation of Medical Equipment Repairers
+subtitle: Will robots and artificial intelligence take the job of Medical Equipment Repairers? Get the facts.
 soc:
   code: 49-9062
   title: Medical Equipment Repairers

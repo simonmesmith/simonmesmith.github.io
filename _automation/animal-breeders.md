@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Animal Breeders
+title: Automation of Animal Breeders
+subtitle: Will robots and artificial intelligence take the job of Animal Breeders? Get the facts.
 soc:
   code: 45-2021
   title: Animal Breeders

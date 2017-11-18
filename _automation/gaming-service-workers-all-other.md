@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Service Workers, All Other
+title: Automation of Gaming Service Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Gaming Service Workers, All Other? Get the facts.
 soc:
   code: 39-3019
   title: Gaming Service Workers, All Other

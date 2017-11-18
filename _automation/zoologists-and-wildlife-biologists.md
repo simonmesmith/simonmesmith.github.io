@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Zoologists and Wildlife Biologists
+title: Automation of Zoologists and Wildlife Biologists
+subtitle: Will robots and artificial intelligence take the job of Zoologists and Wildlife Biologists? Get the facts.
 soc:
   code: 19-1023
   title: Zoologists and Wildlife Biologists

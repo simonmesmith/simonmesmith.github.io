@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Infantry
+title: Automation of Infantry
+subtitle: Will robots and artificial intelligence take the job of Infantry? Get the facts.
 soc:
   code: 55-3016
   title: Infantry

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hazardous Materials Removal Workers
+title: Automation of Hazardous Materials Removal Workers
+subtitle: Will robots and artificial intelligence take the job of Hazardous Materials Removal Workers? Get the facts.
 soc:
   code: 47-4041
   title: Hazardous Materials Removal Workers

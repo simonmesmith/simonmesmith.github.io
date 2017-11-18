@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pharmacy Aides
+title: Automation of Pharmacy Aides
+subtitle: Will robots and artificial intelligence take the job of Pharmacy Aides? Get the facts.
 soc:
   code: 31-9095
   title: Pharmacy Aides

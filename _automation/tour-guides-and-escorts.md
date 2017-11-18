@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tour Guides and Escorts
+title: Automation of Tour Guides and Escorts
+subtitle: Will robots and artificial intelligence take the job of Tour Guides and Escorts? Get the facts.
 soc:
   code: 39-7011
   title: Tour Guides and Escorts

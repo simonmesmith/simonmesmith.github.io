@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Surveying and Mapping Technicians
+title: Automation of Surveying and Mapping Technicians
+subtitle: Will robots and artificial intelligence take the job of Surveying and Mapping Technicians? Get the facts.
 soc:
   code: 17-3031
   title: Surveying and Mapping Technicians

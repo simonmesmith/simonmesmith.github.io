@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Supervisors
+title: Automation of Gaming Supervisors
+subtitle: Will robots and artificial intelligence take the job of Gaming Supervisors? Get the facts.
 soc:
   code: 39-1011
   title: Gaming Supervisors

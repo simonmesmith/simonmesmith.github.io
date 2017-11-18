@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Counter and Rental Clerks
+title: Automation of Counter and Rental Clerks
+subtitle: Will robots and artificial intelligence take the job of Counter and Rental Clerks? Get the facts.
 soc:
   code: 41-2021
   title: Counter and Rental Clerks

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rail Yard Engineers, Dinkey Operators, and Hostlers
+title: Automation of Rail Yard Engineers, Dinkey Operators, and Hostlers
+subtitle: Will robots and artificial intelligence take the job of Rail Yard Engineers, Dinkey Operators, and Hostlers? Get the facts.
 soc:
   code: 53-4013
   title: Rail Yard Engineers, Dinkey Operators, and Hostlers

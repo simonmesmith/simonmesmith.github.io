@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical and Electronic Engineering Technicians
+title: Automation of Electrical and Electronic Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Electrical and Electronic Engineering Technicians? Get the facts.
 soc:
   code: 17-3023
   title: Electrical and Electronic Engineering Technicians

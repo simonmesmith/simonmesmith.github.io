@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Directors, Religious Activities and Education
+title: Automation of Directors, Religious Activities and Education
+subtitle: Will robots and artificial intelligence take the job of Directors, Religious Activities and Education? Get the facts.
 soc:
   code: 21-2021
   title: Directors, Religious Activities and Education

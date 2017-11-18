@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Logging Equipment Operators
+title: Automation of Logging Equipment Operators
+subtitle: Will robots and artificial intelligence take the job of Logging Equipment Operators? Get the facts.
 soc:
   code: 45-4022
   title: Logging Equipment Operators

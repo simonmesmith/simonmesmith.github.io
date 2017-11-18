@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Psychiatrists
+title: Automation of Psychiatrists
+subtitle: Will robots and artificial intelligence take the job of Psychiatrists? Get the facts.
 soc:
   code: 29-1066
   title: Psychiatrists

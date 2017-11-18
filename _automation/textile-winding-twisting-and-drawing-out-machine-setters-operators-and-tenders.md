@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+title: Automation of Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-6064
   title: Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders

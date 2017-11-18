@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mental Health and Substance Abuse Social Workers
+title: Automation of Mental Health and Substance Abuse Social Workers
+subtitle: Will robots and artificial intelligence take the job of Mental Health and Substance Abuse Social Workers? Get the facts.
 soc:
   code: 21-1023
   title: Mental Health and Substance Abuse Social Workers

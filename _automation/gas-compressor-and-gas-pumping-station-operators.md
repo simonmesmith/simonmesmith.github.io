@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gas Compressor and Gas Pumping Station Operators
+title: Automation of Gas Compressor and Gas Pumping Station Operators
+subtitle: Will robots and artificial intelligence take the job of Gas Compressor and Gas Pumping Station Operators? Get the facts.
 soc:
   code: 53-7071
   title: Gas Compressor and Gas Pumping Station Operators

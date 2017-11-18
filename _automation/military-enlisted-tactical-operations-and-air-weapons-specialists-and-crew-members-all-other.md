@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+title: Automation of Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+subtitle: Will robots and artificial intelligence take the job of Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other? Get the facts.
 soc:
   code: 55-3019
   title: Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other

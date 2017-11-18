@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fine Artists, Including Painters, Sculptors, and Illustrators
+title: Automation of Fine Artists, Including Painters, Sculptors, and Illustrators
+subtitle: Will robots and artificial intelligence take the job of Fine Artists, Including Painters, Sculptors, and Illustrators? Get the facts.
 soc:
   code: 27-1013
   title: Fine Artists, Including Painters, Sculptors, and Illustrators

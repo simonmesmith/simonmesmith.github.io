@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Animal Scientists
+title: Automation of Animal Scientists
+subtitle: Will robots and artificial intelligence take the job of Animal Scientists? Get the facts.
 soc:
   code: 19-1011
   title: Animal Scientists

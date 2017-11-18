@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural Engineers
+title: Automation of Agricultural Engineers
+subtitle: Will robots and artificial intelligence take the job of Agricultural Engineers? Get the facts.
 soc:
   code: 17-2021
   title: Agricultural Engineers

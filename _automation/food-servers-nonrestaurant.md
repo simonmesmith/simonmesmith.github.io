@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Servers, Nonrestaurant
+title: Automation of Food Servers, Nonrestaurant
+subtitle: Will robots and artificial intelligence take the job of Food Servers, Nonrestaurant? Get the facts.
 soc:
   code: 35-3041
   title: Food Servers, Nonrestaurant

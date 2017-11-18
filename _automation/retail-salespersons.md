@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Retail Salespersons
+title: Automation of Retail Salespersons
+subtitle: Will robots and artificial intelligence take the job of Retail Salespersons? Get the facts.
 soc:
   code: 41-2031
   title: Retail Salespersons

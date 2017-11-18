@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Family and General Practitioners
+title: Automation of Family and General Practitioners
+subtitle: Will robots and artificial intelligence take the job of Family and General Practitioners? Get the facts.
 soc:
   code: 29-1062
   title: Family and General Practitioners

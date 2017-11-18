@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Art Directors
+title: Automation of Art Directors
+subtitle: Will robots and artificial intelligence take the job of Art Directors? Get the facts.
 soc:
   code: 27-1011
   title: Art Directors

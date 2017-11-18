@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dishwashers
+title: Automation of Dishwashers
+subtitle: Will robots and artificial intelligence take the job of Dishwashers? Get the facts.
 soc:
   code: 35-9021
   title: Dishwashers

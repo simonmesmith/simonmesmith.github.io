@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Barbers
+title: Automation of Barbers
+subtitle: Will robots and artificial intelligence take the job of Barbers? Get the facts.
 soc:
   code: 39-5011
   title: Barbers

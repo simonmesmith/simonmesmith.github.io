@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electromechanical Equipment Assemblers
+title: Automation of Electromechanical Equipment Assemblers
+subtitle: Will robots and artificial intelligence take the job of Electromechanical Equipment Assemblers? Get the facts.
 soc:
   code: 51-2023
   title: Electromechanical Equipment Assemblers

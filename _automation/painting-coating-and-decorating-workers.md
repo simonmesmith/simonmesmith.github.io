@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Painting, Coating, and Decorating Workers
+title: Automation of Painting, Coating, and Decorating Workers
+subtitle: Will robots and artificial intelligence take the job of Painting, Coating, and Decorating Workers? Get the facts.
 soc:
   code: 51-9123
   title: Painting, Coating, and Decorating Workers

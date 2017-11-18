@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Construction Laborers
+title: Automation of Construction Laborers
+subtitle: Will robots and artificial intelligence take the job of Construction Laborers? Get the facts.
 soc:
   code: 47-2061
   title: Construction Laborers

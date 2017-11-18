@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Structural Metal Fabricators and Fitters
+title: Automation of Structural Metal Fabricators and Fitters
+subtitle: Will robots and artificial intelligence take the job of Structural Metal Fabricators and Fitters? Get the facts.
 soc:
   code: 51-2041
   title: Structural Metal Fabricators and Fitters

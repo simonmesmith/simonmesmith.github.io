@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Transportation Attendants, Except Flight Attendants
+title: Automation of Transportation Attendants, Except Flight Attendants
+subtitle: Will robots and artificial intelligence take the job of Transportation Attendants, Except Flight Attendants? Get the facts.
 soc:
   code: 53-6061
   title: Transportation Attendants, Except Flight Attendants

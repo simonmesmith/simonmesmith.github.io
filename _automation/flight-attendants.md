@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Flight Attendants
+title: Automation of Flight Attendants
+subtitle: Will robots and artificial intelligence take the job of Flight Attendants? Get the facts.
 soc:
   code: 53-2031
   title: Flight Attendants

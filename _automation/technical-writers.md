@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Technical Writers
+title: Automation of Technical Writers
+subtitle: Will robots and artificial intelligence take the job of Technical Writers? Get the facts.
 soc:
   code: 27-3042
   title: Technical Writers

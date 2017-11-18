@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Food Preparation and Serving Workers
+title: Automation of First-Line Supervisors of Food Preparation and Serving Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Food Preparation and Serving Workers? Get the facts.
 soc:
   code: 35-1012
   title: First-Line Supervisors of Food Preparation and Serving Workers

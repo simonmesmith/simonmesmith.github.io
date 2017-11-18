@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Segmental Pavers
+title: Automation of Segmental Pavers
+subtitle: Will robots and artificial intelligence take the job of Segmental Pavers? Get the facts.
 soc:
   code: 47-4091
   title: Segmental Pavers

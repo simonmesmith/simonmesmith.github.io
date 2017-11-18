@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Morticians, Undertakers, and Funeral Directors
+title: Automation of Morticians, Undertakers, and Funeral Directors
+subtitle: Will robots and artificial intelligence take the job of Morticians, Undertakers, and Funeral Directors? Get the facts.
 soc:
   code: 39-4031
   title: Morticians, Undertakers, and Funeral Directors

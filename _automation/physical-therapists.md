@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physical Therapists
+title: Automation of Physical Therapists
+subtitle: Will robots and artificial intelligence take the job of Physical Therapists? Get the facts.
 soc:
   code: 29-1123
   title: Physical Therapists

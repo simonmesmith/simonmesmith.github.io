@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Landscape Architects
+title: Automation of Landscape Architects
+subtitle: Will robots and artificial intelligence take the job of Landscape Architects? Get the facts.
 soc:
   code: 17-1012
   title: Landscape Architects

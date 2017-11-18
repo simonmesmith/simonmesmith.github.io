@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Home Economics Teachers, Postsecondary
+title: Automation of Home Economics Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Home Economics Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1192
   title: Home Economics Teachers, Postsecondary

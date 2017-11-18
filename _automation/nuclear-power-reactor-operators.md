@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nuclear Power Reactor Operators
+title: Automation of Nuclear Power Reactor Operators
+subtitle: Will robots and artificial intelligence take the job of Nuclear Power Reactor Operators? Get the facts.
 soc:
   code: 51-8011
   title: Nuclear Power Reactor Operators

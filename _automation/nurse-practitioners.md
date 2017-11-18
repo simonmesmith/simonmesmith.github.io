@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nurse Practitioners
+title: Automation of Nurse Practitioners
+subtitle: Will robots and artificial intelligence take the job of Nurse Practitioners? Get the facts.
 soc:
   code: 29-1171
   title: Nurse Practitioners

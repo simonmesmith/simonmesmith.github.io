@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Archivists
+title: Automation of Archivists
+subtitle: Will robots and artificial intelligence take the job of Archivists? Get the facts.
 soc:
   code: 25-4011
   title: Archivists

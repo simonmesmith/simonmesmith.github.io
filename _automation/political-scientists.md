@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Political Scientists
+title: Automation of Political Scientists
+subtitle: Will robots and artificial intelligence take the job of Political Scientists? Get the facts.
 soc:
   code: 19-3094
   title: Political Scientists

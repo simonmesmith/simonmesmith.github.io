@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Religious Workers, All Other
+title: Automation of Religious Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Religious Workers, All Other? Get the facts.
 soc:
   code: 21-2099
   title: Religious Workers, All Other

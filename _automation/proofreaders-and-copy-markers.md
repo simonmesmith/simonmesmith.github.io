@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Proofreaders and Copy Markers
+title: Automation of Proofreaders and Copy Markers
+subtitle: Will robots and artificial intelligence take the job of Proofreaders and Copy Markers? Get the facts.
 soc:
   code: 43-9081
   title: Proofreaders and Copy Markers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Community and Social Service Specialists, All Other
+title: Automation of Community and Social Service Specialists, All Other
+subtitle: Will robots and artificial intelligence take the job of Community and Social Service Specialists, All Other? Get the facts.
 soc:
   code: 21-1099
   title: Community and Social Service Specialists, All Other

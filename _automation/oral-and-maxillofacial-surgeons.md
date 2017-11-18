@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Oral and Maxillofacial Surgeons
+title: Automation of Oral and Maxillofacial Surgeons
+subtitle: Will robots and artificial intelligence take the job of Oral and Maxillofacial Surgeons? Get the facts.
 soc:
   code: 29-1022
   title: Oral and Maxillofacial Surgeons

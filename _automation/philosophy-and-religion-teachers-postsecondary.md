@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Philosophy and Religion Teachers, Postsecondary
+title: Automation of Philosophy and Religion Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Philosophy and Religion Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1126
   title: Philosophy and Religion Teachers, Postsecondary

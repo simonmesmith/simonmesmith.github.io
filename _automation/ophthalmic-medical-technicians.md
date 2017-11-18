@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Ophthalmic Medical Technicians
+title: Automation of Ophthalmic Medical Technicians
+subtitle: Will robots and artificial intelligence take the job of Ophthalmic Medical Technicians? Get the facts.
 soc:
   code: 29-2057
   title: Ophthalmic Medical Technicians

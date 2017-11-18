@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forest and Conservation Technicians
+title: Automation of Forest and Conservation Technicians
+subtitle: Will robots and artificial intelligence take the job of Forest and Conservation Technicians? Get the facts.
 soc:
   code: 19-4093
   title: Forest and Conservation Technicians

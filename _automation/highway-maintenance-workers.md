@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Highway Maintenance Workers
+title: Automation of Highway Maintenance Workers
+subtitle: Will robots and artificial intelligence take the job of Highway Maintenance Workers? Get the facts.
 soc:
   code: 47-4051
   title: Highway Maintenance Workers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Public Relations Specialists
+title: Automation of Public Relations Specialists
+subtitle: Will robots and artificial intelligence take the job of Public Relations Specialists? Get the facts.
 soc:
   code: 27-3031
   title: Public Relations Specialists

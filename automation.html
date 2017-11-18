@@ -51,7 +51,7 @@ function searchOccupations() {
             {{ probability }}%
           </span>
           <a href="{{ item.url | prepend: site.baseurl }}">
-            {{ item.title }}
+            {{ item.soc.title }}
           </a>
         </li>
       {% endfor %}

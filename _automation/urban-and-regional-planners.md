@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Urban and Regional Planners
+title: Automation of Urban and Regional Planners
+subtitle: Will robots and artificial intelligence take the job of Urban and Regional Planners? Get the facts.
 soc:
   code: 19-3051
   title: Urban and Regional Planners

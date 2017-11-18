@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sociology Teachers, Postsecondary
+title: Automation of Sociology Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Sociology Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1067
   title: Sociology Teachers, Postsecondary

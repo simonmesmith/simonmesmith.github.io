@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Motorboat Operators
+title: Automation of Motorboat Operators
+subtitle: Will robots and artificial intelligence take the job of Motorboat Operators? Get the facts.
 soc:
   code: 53-5022
   title: Motorboat Operators

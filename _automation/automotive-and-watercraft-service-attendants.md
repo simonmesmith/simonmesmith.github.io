@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Automotive and Watercraft Service Attendants
+title: Automation of Automotive and Watercraft Service Attendants
+subtitle: Will robots and artificial intelligence take the job of Automotive and Watercraft Service Attendants? Get the facts.
 soc:
   code: 53-6031
   title: Automotive and Watercraft Service Attendants

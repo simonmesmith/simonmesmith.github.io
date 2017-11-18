@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial Machinery Mechanics
+title: Automation of Industrial Machinery Mechanics
+subtitle: Will robots and artificial intelligence take the job of Industrial Machinery Mechanics? Get the facts.
 soc:
   code: 49-9041
   title: Industrial Machinery Mechanics

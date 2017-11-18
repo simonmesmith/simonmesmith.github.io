@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fitness Trainers and Aerobics Instructors
+title: Automation of Fitness Trainers and Aerobics Instructors
+subtitle: Will robots and artificial intelligence take the job of Fitness Trainers and Aerobics Instructors? Get the facts.
 soc:
   code: 39-9031
   title: Fitness Trainers and Aerobics Instructors

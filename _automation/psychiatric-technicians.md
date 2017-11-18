@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Psychiatric Technicians
+title: Automation of Psychiatric Technicians
+subtitle: Will robots and artificial intelligence take the job of Psychiatric Technicians? Get the facts.
 soc:
   code: 29-2053
   title: Psychiatric Technicians

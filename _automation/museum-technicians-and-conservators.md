@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Museum Technicians and Conservators
+title: Automation of Museum Technicians and Conservators
+subtitle: Will robots and artificial intelligence take the job of Museum Technicians and Conservators? Get the facts.
 soc:
   code: 25-4013
   title: Museum Technicians and Conservators

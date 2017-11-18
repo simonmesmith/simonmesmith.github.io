@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Wind Turbine Service Technicians
+title: Automation of Wind Turbine Service Technicians
+subtitle: Will robots and artificial intelligence take the job of Wind Turbine Service Technicians? Get the facts.
 soc:
   code: 49-9081
   title: Wind Turbine Service Technicians

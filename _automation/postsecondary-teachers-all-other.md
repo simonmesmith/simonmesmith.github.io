@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Postsecondary Teachers, All Other
+title: Automation of Postsecondary Teachers, All Other
+subtitle: Will robots and artificial intelligence take the job of Postsecondary Teachers, All Other? Get the facts.
 soc:
   code: 25-1199
   title: Postsecondary Teachers, All Other

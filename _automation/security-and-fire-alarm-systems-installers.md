@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Security and Fire Alarm Systems Installers
+title: Automation of Security and Fire Alarm Systems Installers
+subtitle: Will robots and artificial intelligence take the job of Security and Fire Alarm Systems Installers? Get the facts.
 soc:
   code: 49-2098
   title: Security and Fire Alarm Systems Installers

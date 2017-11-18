@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electronic Equipment Installers and Repairers, Motor Vehicles
+title: Automation of Electronic Equipment Installers and Repairers, Motor Vehicles
+subtitle: Will robots and artificial intelligence take the job of Electronic Equipment Installers and Repairers, Motor Vehicles? Get the facts.
 soc:
   code: 49-2096
   title: Electronic Equipment Installers and Repairers, Motor Vehicles

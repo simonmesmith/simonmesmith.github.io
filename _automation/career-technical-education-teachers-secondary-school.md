@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Career/Technical Education Teachers, Secondary School
+title: Automation of Career/Technical Education Teachers, Secondary School
+subtitle: Will robots and artificial intelligence take the job of Career/Technical Education Teachers, Secondary School? Get the facts.
 soc:
   code: 25-2032
   title: Career/Technical Education Teachers, Secondary School

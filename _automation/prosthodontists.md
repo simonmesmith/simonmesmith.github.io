@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Prosthodontists
+title: Automation of Prosthodontists
+subtitle: Will robots and artificial intelligence take the job of Prosthodontists? Get the facts.
 soc:
   code: 29-1024
   title: Prosthodontists

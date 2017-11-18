@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forest Fire Inspectors and Prevention Specialists
+title: Automation of Forest Fire Inspectors and Prevention Specialists
+subtitle: Will robots and artificial intelligence take the job of Forest Fire Inspectors and Prevention Specialists? Get the facts.
 soc:
   code: 33-2022
   title: Forest Fire Inspectors and Prevention Specialists

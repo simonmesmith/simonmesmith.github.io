@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Radiologic Technologists
+title: Automation of Radiologic Technologists
+subtitle: Will robots and artificial intelligence take the job of Radiologic Technologists? Get the facts.
 soc:
   code: 29-2034
   title: Radiologic Technologists

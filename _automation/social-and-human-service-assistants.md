@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social and Human Service Assistants
+title: Automation of Social and Human Service Assistants
+subtitle: Will robots and artificial intelligence take the job of Social and Human Service Assistants? Get the facts.
 soc:
   code: 21-1093
   title: Social and Human Service Assistants

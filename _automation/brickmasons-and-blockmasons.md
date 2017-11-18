@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Brickmasons and Blockmasons
+title: Automation of Brickmasons and Blockmasons
+subtitle: Will robots and artificial intelligence take the job of Brickmasons and Blockmasons? Get the facts.
 soc:
   code: 47-2021
   title: Brickmasons and Blockmasons

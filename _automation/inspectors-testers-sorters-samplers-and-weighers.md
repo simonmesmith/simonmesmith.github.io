@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Inspectors, Testers, Sorters, Samplers, and Weighers
+title: Automation of Inspectors, Testers, Sorters, Samplers, and Weighers
+subtitle: Will robots and artificial intelligence take the job of Inspectors, Testers, Sorters, Samplers, and Weighers? Get the facts.
 soc:
   code: 51-9061
   title: Inspectors, Testers, Sorters, Samplers, and Weighers

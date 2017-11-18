@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Telephone Operators
+title: Automation of Telephone Operators
+subtitle: Will robots and artificial intelligence take the job of Telephone Operators? Get the facts.
 soc:
   code: 43-2021
   title: Telephone Operators

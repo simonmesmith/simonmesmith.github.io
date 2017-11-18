@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Upholsterers
+title: Automation of Upholsterers
+subtitle: Will robots and artificial intelligence take the job of Upholsterers? Get the facts.
 soc:
   code: 51-6093
   title: Upholsterers

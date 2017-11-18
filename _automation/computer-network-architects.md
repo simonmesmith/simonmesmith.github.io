@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Network Architects
+title: Automation of Computer Network Architects
+subtitle: Will robots and artificial intelligence take the job of Computer Network Architects? Get the facts.
 soc:
   code: 15-1143
   title: Computer Network Architects

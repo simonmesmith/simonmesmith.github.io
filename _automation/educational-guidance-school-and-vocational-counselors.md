@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Educational, Guidance, School, and Vocational Counselors
+title: Automation of Educational, Guidance, School, and Vocational Counselors
+subtitle: Will robots and artificial intelligence take the job of Educational, Guidance, School, and Vocational Counselors? Get the facts.
 soc:
   code: 21-1012
   title: Educational, Guidance, School, and Vocational Counselors

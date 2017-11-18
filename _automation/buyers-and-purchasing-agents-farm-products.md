@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Buyers and Purchasing Agents, Farm Products
+title: Automation of Buyers and Purchasing Agents, Farm Products
+subtitle: Will robots and artificial intelligence take the job of Buyers and Purchasing Agents, Farm Products? Get the facts.
 soc:
   code: 13-1021
   title: Buyers and Purchasing Agents, Farm Products

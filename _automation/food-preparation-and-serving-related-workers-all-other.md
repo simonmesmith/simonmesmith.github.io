@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Preparation and Serving Related Workers, All Other
+title: Automation of Food Preparation and Serving Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Food Preparation and Serving Related Workers, All Other? Get the facts.
 soc:
   code: 35-9099
   title: Food Preparation and Serving Related Workers, All Other

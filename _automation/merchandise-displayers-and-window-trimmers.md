@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Merchandise Displayers and Window Trimmers
+title: Automation of Merchandise Displayers and Window Trimmers
+subtitle: Will robots and artificial intelligence take the job of Merchandise Displayers and Window Trimmers? Get the facts.
 soc:
   code: 27-1026
   title: Merchandise Displayers and Window Trimmers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Preschool Teachers, Except Special Education
+title: Automation of Preschool Teachers, Except Special Education
+subtitle: Will robots and artificial intelligence take the job of Preschool Teachers, Except Special Education? Get the facts.
 soc:
   code: 25-2011
   title: Preschool Teachers, Except Special Education

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insurance Sales Agents
+title: Automation of Insurance Sales Agents
+subtitle: Will robots and artificial intelligence take the job of Insurance Sales Agents? Get the facts.
 soc:
   code: 41-3021
   title: Insurance Sales Agents

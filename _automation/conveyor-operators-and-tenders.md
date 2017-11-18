@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Conveyor Operators and Tenders
+title: Automation of Conveyor Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Conveyor Operators and Tenders? Get the facts.
 soc:
   code: 53-7011
   title: Conveyor Operators and Tenders

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Air Crew Members
+title: Automation of First-Line Supervisors of Air Crew Members
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Air Crew Members? Get the facts.
 soc:
   code: 55-2011
   title: First-Line Supervisors of Air Crew Members

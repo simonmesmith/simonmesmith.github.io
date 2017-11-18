@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tailors, Dressmakers, and Custom Sewers
+title: Automation of Tailors, Dressmakers, and Custom Sewers
+subtitle: Will robots and artificial intelligence take the job of Tailors, Dressmakers, and Custom Sewers? Get the facts.
 soc:
   code: 51-6052
   title: Tailors, Dressmakers, and Custom Sewers

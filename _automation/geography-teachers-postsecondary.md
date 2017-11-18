@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Geography Teachers, Postsecondary
+title: Automation of Geography Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Geography Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1064
   title: Geography Teachers, Postsecondary

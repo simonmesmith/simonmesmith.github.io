@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cabinetmakers and Bench Carpenters
+title: Automation of Cabinetmakers and Bench Carpenters
+subtitle: Will robots and artificial intelligence take the job of Cabinetmakers and Bench Carpenters? Get the facts.
 soc:
   code: 51-7011
   title: Cabinetmakers and Bench Carpenters

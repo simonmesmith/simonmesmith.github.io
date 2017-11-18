@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Plant and System Operators, All Other
+title: Automation of Plant and System Operators, All Other
+subtitle: Will robots and artificial intelligence take the job of Plant and System Operators, All Other? Get the facts.
 soc:
   code: 51-8099
   title: Plant and System Operators, All Other

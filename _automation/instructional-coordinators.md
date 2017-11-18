@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Instructional Coordinators
+title: Automation of Instructional Coordinators
+subtitle: Will robots and artificial intelligence take the job of Instructional Coordinators? Get the facts.
 soc:
   code: 25-9031
   title: Instructional Coordinators

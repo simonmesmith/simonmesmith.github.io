@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Airline Pilots, Copilots, and Flight Engineers
+title: Automation of Airline Pilots, Copilots, and Flight Engineers
+subtitle: Will robots and artificial intelligence take the job of Airline Pilots, Copilots, and Flight Engineers? Get the facts.
 soc:
   code: 53-2011
   title: Airline Pilots, Copilots, and Flight Engineers

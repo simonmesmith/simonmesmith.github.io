@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Receptionists and Information Clerks
+title: Automation of Receptionists and Information Clerks
+subtitle: Will robots and artificial intelligence take the job of Receptionists and Information Clerks? Get the facts.
 soc:
   code: 43-4171
   title: Receptionists and Information Clerks

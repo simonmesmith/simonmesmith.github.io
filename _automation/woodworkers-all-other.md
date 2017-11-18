@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Woodworkers, All Other
+title: Automation of Woodworkers, All Other
+subtitle: Will robots and artificial intelligence take the job of Woodworkers, All Other? Get the facts.
 soc:
   code: 51-7099
   title: Woodworkers, All Other

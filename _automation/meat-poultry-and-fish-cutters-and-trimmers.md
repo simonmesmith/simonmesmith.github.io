@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Meat, Poultry, and Fish Cutters and Trimmers
+title: Automation of Meat, Poultry, and Fish Cutters and Trimmers
+subtitle: Will robots and artificial intelligence take the job of Meat, Poultry, and Fish Cutters and Trimmers? Get the facts.
 soc:
   code: 51-3022
   title: Meat, Poultry, and Fish Cutters and Trimmers

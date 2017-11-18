@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Adhesive Bonding Machine Operators and Tenders
+title: Automation of Adhesive Bonding Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Adhesive Bonding Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-9191
   title: Adhesive Bonding Machine Operators and Tenders

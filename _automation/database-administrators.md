@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Database Administrators
+title: Automation of Database Administrators
+subtitle: Will robots and artificial intelligence take the job of Database Administrators? Get the facts.
 soc:
   code: 15-1141
   title: Database Administrators

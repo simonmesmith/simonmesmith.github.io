@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Healthcare Practitioners and Technical Workers, All Other
+title: Automation of Healthcare Practitioners and Technical Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Healthcare Practitioners and Technical Workers, All Other? Get the facts.
 soc:
   code: 29-9099
   title: Healthcare Practitioners and Technical Workers, All Other

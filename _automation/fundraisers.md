@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fundraisers
+title: Automation of Fundraisers
+subtitle: Will robots and artificial intelligence take the job of Fundraisers? Get the facts.
 soc:
   code: 13-1131
   title: Fundraisers

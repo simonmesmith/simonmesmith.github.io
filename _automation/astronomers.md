@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Astronomers
+title: Automation of Astronomers
+subtitle: Will robots and artificial intelligence take the job of Astronomers? Get the facts.
 soc:
   code: 19-2011
   title: Astronomers

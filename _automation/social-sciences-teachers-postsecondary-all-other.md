@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social Sciences Teachers, Postsecondary, All Other
+title: Automation of Social Sciences Teachers, Postsecondary, All Other
+subtitle: Will robots and artificial intelligence take the job of Social Sciences Teachers, Postsecondary, All Other? Get the facts.
 soc:
   code: 25-1069
   title: Social Sciences Teachers, Postsecondary, All Other

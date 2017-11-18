@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Meeting, Convention, and Event Planners
+title: Automation of Meeting, Convention, and Event Planners
+subtitle: Will robots and artificial intelligence take the job of Meeting, Convention, and Event Planners? Get the facts.
 soc:
   code: 13-1121
   title: Meeting, Convention, and Event Planners

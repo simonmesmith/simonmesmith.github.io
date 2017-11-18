@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Conservation Scientists
+title: Automation of Conservation Scientists
+subtitle: Will robots and artificial intelligence take the job of Conservation Scientists? Get the facts.
 soc:
   code: 19-1031
   title: Conservation Scientists

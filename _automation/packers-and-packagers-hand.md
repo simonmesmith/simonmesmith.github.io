@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Packers and Packagers, Hand
+title: Automation of Packers and Packagers, Hand
+subtitle: Will robots and artificial intelligence take the job of Packers and Packagers, Hand? Get the facts.
 soc:
   code: 53-7064
   title: Packers and Packagers, Hand

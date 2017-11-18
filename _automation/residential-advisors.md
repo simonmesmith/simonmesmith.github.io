@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Residential Advisors
+title: Automation of Residential Advisors
+subtitle: Will robots and artificial intelligence take the job of Residential Advisors? Get the facts.
 soc:
   code: 39-9041
   title: Residential Advisors

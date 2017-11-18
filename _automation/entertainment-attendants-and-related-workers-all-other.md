@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Entertainment Attendants and Related Workers, All Other
+title: Automation of Entertainment Attendants and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Entertainment Attendants and Related Workers, All Other? Get the facts.
 soc:
   code: 39-3099
   title: Entertainment Attendants and Related Workers, All Other

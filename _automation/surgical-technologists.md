@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Surgical Technologists
+title: Automation of Surgical Technologists
+subtitle: Will robots and artificial intelligence take the job of Surgical Technologists? Get the facts.
 soc:
   code: 29-2055
   title: Surgical Technologists

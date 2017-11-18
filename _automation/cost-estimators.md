@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cost Estimators
+title: Automation of Cost Estimators
+subtitle: Will robots and artificial intelligence take the job of Cost Estimators? Get the facts.
 soc:
   code: 13-1051
   title: Cost Estimators

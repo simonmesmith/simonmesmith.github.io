@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Funeral Attendants
+title: Automation of Funeral Attendants
+subtitle: Will robots and artificial intelligence take the job of Funeral Attendants? Get the facts.
 soc:
   code: 39-4021
   title: Funeral Attendants

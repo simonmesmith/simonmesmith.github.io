@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Producers and Directors
+title: Automation of Producers and Directors
+subtitle: Will robots and artificial intelligence take the job of Producers and Directors? Get the facts.
 soc:
   code: 27-2012
   title: Producers and Directors

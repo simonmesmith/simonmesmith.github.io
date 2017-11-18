@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Helpers--Electricians
+title: Automation of Helpers--Electricians
+subtitle: Will robots and artificial intelligence take the job of Helpers--Electricians? Get the facts.
 soc:
   code: 47-3013
   title: Helpers--Electricians

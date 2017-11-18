@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Medical Records and Health Information Technicians
+title: Automation of Medical Records and Health Information Technicians
+subtitle: Will robots and artificial intelligence take the job of Medical Records and Health Information Technicians? Get the facts.
 soc:
   code: 29-2071
   title: Medical Records and Health Information Technicians

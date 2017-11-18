@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Speech-Language Pathologists
+title: Automation of Speech-Language Pathologists
+subtitle: Will robots and artificial intelligence take the job of Speech-Language Pathologists? Get the facts.
 soc:
   code: 29-1127
   title: Speech-Language Pathologists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+title: Automation of Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+subtitle: Will robots and artificial intelligence take the job of Aircraft Structure, Surfaces, Rigging, and Systems Assemblers? Get the facts.
 soc:
   code: 51-2011
   title: Aircraft Structure, Surfaces, Rigging, and Systems Assemblers

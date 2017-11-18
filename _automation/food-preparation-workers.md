@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Preparation Workers
+title: Automation of Food Preparation Workers
+subtitle: Will robots and artificial intelligence take the job of Food Preparation Workers? Get the facts.
 soc:
   code: 35-2021
   title: Food Preparation Workers

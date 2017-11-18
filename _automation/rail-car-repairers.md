@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rail Car Repairers
+title: Automation of Rail Car Repairers
+subtitle: Will robots and artificial intelligence take the job of Rail Car Repairers? Get the facts.
 soc:
   code: 49-3043
   title: Rail Car Repairers

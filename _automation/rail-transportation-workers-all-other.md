@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rail Transportation Workers, All Other
+title: Automation of Rail Transportation Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Rail Transportation Workers, All Other? Get the facts.
 soc:
   code: 53-4099
   title: Rail Transportation Workers, All Other

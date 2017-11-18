@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Supervisors of Construction and Extraction Workers
+title: Automation of Supervisors of Construction and Extraction Workers
+subtitle: Will robots and artificial intelligence take the job of Supervisors of Construction and Extraction Workers? Get the facts.
 soc:
   code: 47-1011
   title: Supervisors of Construction and Extraction Workers

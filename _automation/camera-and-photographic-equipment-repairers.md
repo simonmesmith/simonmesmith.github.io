@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Camera and Photographic Equipment Repairers
+title: Automation of Camera and Photographic Equipment Repairers
+subtitle: Will robots and artificial intelligence take the job of Camera and Photographic Equipment Repairers? Get the facts.
 soc:
   code: 49-9061
   title: Camera and Photographic Equipment Repairers

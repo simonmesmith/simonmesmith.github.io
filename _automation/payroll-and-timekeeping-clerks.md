@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Payroll and Timekeeping Clerks
+title: Automation of Payroll and Timekeeping Clerks
+subtitle: Will robots and artificial intelligence take the job of Payroll and Timekeeping Clerks? Get the facts.
 soc:
   code: 43-3051
   title: Payroll and Timekeeping Clerks

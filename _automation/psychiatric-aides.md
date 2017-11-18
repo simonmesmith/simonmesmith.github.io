@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Psychiatric Aides
+title: Automation of Psychiatric Aides
+subtitle: Will robots and artificial intelligence take the job of Psychiatric Aides? Get the facts.
 soc:
   code: 31-1013
   title: Psychiatric Aides

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+title: Automation of First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers? Get the facts.
 soc:
   code: 37-1012
   title: First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers

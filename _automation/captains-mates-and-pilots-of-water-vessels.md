@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Captains, Mates, and Pilots of Water Vessels
+title: Automation of Captains, Mates, and Pilots of Water Vessels
+subtitle: Will robots and artificial intelligence take the job of Captains, Mates, and Pilots of Water Vessels? Get the facts.
 soc:
   code: 53-5021
   title: Captains, Mates, and Pilots of Water Vessels

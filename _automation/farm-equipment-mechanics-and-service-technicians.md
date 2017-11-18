@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Farm Equipment Mechanics and Service Technicians
+title: Automation of Farm Equipment Mechanics and Service Technicians
+subtitle: Will robots and artificial intelligence take the job of Farm Equipment Mechanics and Service Technicians? Get the facts.
 soc:
   code: 49-3041
   title: Farm Equipment Mechanics and Service Technicians

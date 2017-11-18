@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Financial Clerks, All Other
+title: Automation of Financial Clerks, All Other
+subtitle: Will robots and artificial intelligence take the job of Financial Clerks, All Other? Get the facts.
 soc:
   code: 43-3099
   title: Financial Clerks, All Other

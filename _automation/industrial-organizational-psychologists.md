@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial-Organizational Psychologists
+title: Automation of Industrial-Organizational Psychologists
+subtitle: Will robots and artificial intelligence take the job of Industrial-Organizational Psychologists? Get the facts.
 soc:
   code: 19-3032
   title: Industrial-Organizational Psychologists

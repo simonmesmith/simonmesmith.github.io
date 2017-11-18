@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Paper Goods Machine Setters, Operators, and Tenders
+title: Automation of Paper Goods Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Paper Goods Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9196
   title: Paper Goods Machine Setters, Operators, and Tenders

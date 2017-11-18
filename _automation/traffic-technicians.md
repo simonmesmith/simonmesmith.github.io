@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Traffic Technicians
+title: Automation of Traffic Technicians
+subtitle: Will robots and artificial intelligence take the job of Traffic Technicians? Get the facts.
 soc:
   code: 53-6041
   title: Traffic Technicians

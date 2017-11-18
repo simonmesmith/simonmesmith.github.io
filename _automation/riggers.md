@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Riggers
+title: Automation of Riggers
+subtitle: Will robots and artificial intelligence take the job of Riggers? Get the facts.
 soc:
   code: 49-9096
   title: Riggers

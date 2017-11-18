@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Phlebotomists
+title: Automation of Phlebotomists
+subtitle: Will robots and artificial intelligence take the job of Phlebotomists? Get the facts.
 soc:
   code: 31-9097
   title: Phlebotomists

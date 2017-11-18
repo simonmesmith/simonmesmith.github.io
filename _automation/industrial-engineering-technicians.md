@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Industrial Engineering Technicians
+title: Automation of Industrial Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Industrial Engineering Technicians? Get the facts.
 soc:
   code: 17-3026
   title: Industrial Engineering Technicians

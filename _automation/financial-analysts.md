@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Financial Analysts
+title: Automation of Financial Analysts
+subtitle: Will robots and artificial intelligence take the job of Financial Analysts? Get the facts.
 soc:
   code: 13-2051
   title: Financial Analysts

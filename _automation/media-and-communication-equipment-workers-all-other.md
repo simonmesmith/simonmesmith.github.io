@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Media and Communication Equipment Workers, All Other
+title: Automation of Media and Communication Equipment Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Media and Communication Equipment Workers, All Other? Get the facts.
 soc:
   code: 27-4099
   title: Media and Communication Equipment Workers, All Other

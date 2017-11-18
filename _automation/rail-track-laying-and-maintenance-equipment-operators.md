@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rail-Track Laying and Maintenance Equipment Operators
+title: Automation of Rail-Track Laying and Maintenance Equipment Operators
+subtitle: Will robots and artificial intelligence take the job of Rail-Track Laying and Maintenance Equipment Operators? Get the facts.
 soc:
   code: 47-4061
   title: Rail-Track Laying and Maintenance Equipment Operators

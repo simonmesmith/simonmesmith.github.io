@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+title: Automation of Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+subtitle: Will robots and artificial intelligence take the job of Health and Safety Engineers, Except Mining Safety Engineers and Inspectors? Get the facts.
 soc:
   code: 17-2111
   title: Health and Safety Engineers, Except Mining Safety Engineers and Inspectors

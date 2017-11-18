@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hairdressers, Hairstylists, and Cosmetologists
+title: Automation of Hairdressers, Hairstylists, and Cosmetologists
+subtitle: Will robots and artificial intelligence take the job of Hairdressers, Hairstylists, and Cosmetologists? Get the facts.
 soc:
   code: 39-5012
   title: Hairdressers, Hairstylists, and Cosmetologists

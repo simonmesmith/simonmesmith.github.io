@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Recreational Vehicle Service Technicians
+title: Automation of Recreational Vehicle Service Technicians
+subtitle: Will robots and artificial intelligence take the job of Recreational Vehicle Service Technicians? Get the facts.
 soc:
   code: 49-3092
   title: Recreational Vehicle Service Technicians

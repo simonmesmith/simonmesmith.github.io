@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social Workers, All Other
+title: Automation of Social Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Social Workers, All Other? Get the facts.
 soc:
   code: 21-1029
   title: Social Workers, All Other

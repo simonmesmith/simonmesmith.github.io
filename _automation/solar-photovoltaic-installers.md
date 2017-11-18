@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Solar Photovoltaic Installers
+title: Automation of Solar Photovoltaic Installers
+subtitle: Will robots and artificial intelligence take the job of Solar Photovoltaic Installers? Get the facts.
 soc:
   code: 47-2231
   title: Solar Photovoltaic Installers

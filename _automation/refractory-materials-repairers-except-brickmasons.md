@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Refractory Materials Repairers, Except Brickmasons
+title: Automation of Refractory Materials Repairers, Except Brickmasons
+subtitle: Will robots and artificial intelligence take the job of Refractory Materials Repairers, Except Brickmasons? Get the facts.
 soc:
   code: 49-9045
   title: Refractory Materials Repairers, Except Brickmasons

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Automotive Glass Installers and Repairers
+title: Automation of Automotive Glass Installers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Automotive Glass Installers and Repairers? Get the facts.
 soc:
   code: 49-3022
   title: Automotive Glass Installers and Repairers

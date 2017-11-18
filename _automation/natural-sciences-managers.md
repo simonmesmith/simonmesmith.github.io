@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Natural Sciences Managers
+title: Automation of Natural Sciences Managers
+subtitle: Will robots and artificial intelligence take the job of Natural Sciences Managers? Get the facts.
 soc:
   code: 11-9121
   title: Natural Sciences Managers

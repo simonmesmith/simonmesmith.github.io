@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Judges, Magistrate Judges, and Magistrates
+title: Automation of Judges, Magistrate Judges, and Magistrates
+subtitle: Will robots and artificial intelligence take the job of Judges, Magistrate Judges, and Magistrates? Get the facts.
 soc:
   code: 23-1023
   title: Judges, Magistrate Judges, and Magistrates

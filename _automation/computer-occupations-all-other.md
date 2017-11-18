@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Occupations, All Other
+title: Automation of Computer Occupations, All Other
+subtitle: Will robots and artificial intelligence take the job of Computer Occupations, All Other? Get the facts.
 soc:
   code: 15-1199
   title: Computer Occupations, All Other

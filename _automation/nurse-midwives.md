@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nurse Midwives
+title: Automation of Nurse Midwives
+subtitle: Will robots and artificial intelligence take the job of Nurse Midwives? Get the facts.
 soc:
   code: 29-1161
   title: Nurse Midwives

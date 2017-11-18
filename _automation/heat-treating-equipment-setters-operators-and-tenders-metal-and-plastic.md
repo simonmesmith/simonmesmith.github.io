@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4191
   title: Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic

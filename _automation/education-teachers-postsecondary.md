@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education Teachers, Postsecondary
+title: Automation of Education Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Education Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1081
   title: Education Teachers, Postsecondary

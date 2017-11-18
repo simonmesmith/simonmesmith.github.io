@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rotary Drill Operators, Oil and Gas
+title: Automation of Rotary Drill Operators, Oil and Gas
+subtitle: Will robots and artificial intelligence take the job of Rotary Drill Operators, Oil and Gas? Get the facts.
 soc:
   code: 47-5012
   title: Rotary Drill Operators, Oil and Gas

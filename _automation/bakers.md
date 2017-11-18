@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bakers
+title: Automation of Bakers
+subtitle: Will robots and artificial intelligence take the job of Bakers? Get the facts.
 soc:
   code: 51-3011
   title: Bakers

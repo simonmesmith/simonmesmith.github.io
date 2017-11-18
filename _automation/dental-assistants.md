@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dental Assistants
+title: Automation of Dental Assistants
+subtitle: Will robots and artificial intelligence take the job of Dental Assistants? Get the facts.
 soc:
   code: 31-9091
   title: Dental Assistants

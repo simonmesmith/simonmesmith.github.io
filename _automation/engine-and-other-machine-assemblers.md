@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Engine and Other Machine Assemblers
+title: Automation of Engine and Other Machine Assemblers
+subtitle: Will robots and artificial intelligence take the job of Engine and Other Machine Assemblers? Get the facts.
 soc:
   code: 51-2031
   title: Engine and Other Machine Assemblers

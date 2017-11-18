@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+title: Automation of Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9041
   title: Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders

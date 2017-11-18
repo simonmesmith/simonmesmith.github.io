@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insurance Underwriters
+title: Automation of Insurance Underwriters
+subtitle: Will robots and artificial intelligence take the job of Insurance Underwriters? Get the facts.
 soc:
   code: 13-2053
   title: Insurance Underwriters

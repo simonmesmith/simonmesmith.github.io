@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physicists
+title: Automation of Physicists
+subtitle: Will robots and artificial intelligence take the job of Physicists? Get the facts.
 soc:
   code: 19-2012
   title: Physicists

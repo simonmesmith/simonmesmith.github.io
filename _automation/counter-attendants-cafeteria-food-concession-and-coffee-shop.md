@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
+title: Automation of Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
+subtitle: Will robots and artificial intelligence take the job of Counter Attendants, Cafeteria, Food Concession, and Coffee Shop? Get the facts.
 soc:
   code: 35-3022
   title: Counter Attendants, Cafeteria, Food Concession, and Coffee Shop

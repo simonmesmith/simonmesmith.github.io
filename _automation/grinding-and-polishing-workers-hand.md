@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Grinding and Polishing Workers, Hand
+title: Automation of Grinding and Polishing Workers, Hand
+subtitle: Will robots and artificial intelligence take the job of Grinding and Polishing Workers, Hand? Get the facts.
 soc:
   code: 51-9022
   title: Grinding and Polishing Workers, Hand

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer Operators
+title: Automation of Computer Operators
+subtitle: Will robots and artificial intelligence take the job of Computer Operators? Get the facts.
 soc:
   code: 43-9011
   title: Computer Operators

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Non-Retail Sales Workers
+title: Automation of First-Line Supervisors of Non-Retail Sales Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Non-Retail Sales Workers? Get the facts.
 soc:
   code: 41-1012
   title: First-Line Supervisors of Non-Retail Sales Workers

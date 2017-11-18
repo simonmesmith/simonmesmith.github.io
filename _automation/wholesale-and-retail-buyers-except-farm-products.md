@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Wholesale and Retail Buyers, Except Farm Products
+title: Automation of Wholesale and Retail Buyers, Except Farm Products
+subtitle: Will robots and artificial intelligence take the job of Wholesale and Retail Buyers, Except Farm Products? Get the facts.
 soc:
   code: 13-1022
   title: Wholesale and Retail Buyers, Except Farm Products

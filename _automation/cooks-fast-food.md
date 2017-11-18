@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, Fast Food
+title: Automation of Cooks, Fast Food
+subtitle: Will robots and artificial intelligence take the job of Cooks, Fast Food? Get the facts.
 soc:
   code: 35-2011
   title: Cooks, Fast Food

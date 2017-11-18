@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Statisticians
+title: Automation of Statisticians
+subtitle: Will robots and artificial intelligence take the job of Statisticians? Get the facts.
 soc:
   code: 15-2041
   title: Statisticians

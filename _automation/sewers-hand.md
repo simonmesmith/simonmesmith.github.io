@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sewers, Hand
+title: Automation of Sewers, Hand
+subtitle: Will robots and artificial intelligence take the job of Sewers, Hand? Get the facts.
 soc:
   code: 51-6051
   title: Sewers, Hand

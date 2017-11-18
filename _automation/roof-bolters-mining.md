@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Roof Bolters, Mining
+title: Automation of Roof Bolters, Mining
+subtitle: Will robots and artificial intelligence take the job of Roof Bolters, Mining? Get the facts.
 soc:
   code: 47-5061
   title: Roof Bolters, Mining

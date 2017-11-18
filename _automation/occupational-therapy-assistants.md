@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Occupational Therapy Assistants
+title: Automation of Occupational Therapy Assistants
+subtitle: Will robots and artificial intelligence take the job of Occupational Therapy Assistants? Get the facts.
 soc:
   code: 31-2011
   title: Occupational Therapy Assistants

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Civil Engineering Technicians
+title: Automation of Civil Engineering Technicians
+subtitle: Will robots and artificial intelligence take the job of Civil Engineering Technicians? Get the facts.
 soc:
   code: 17-3022
   title: Civil Engineering Technicians

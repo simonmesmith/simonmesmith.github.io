@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tool and Die Makers
+title: Automation of Tool and Die Makers
+subtitle: Will robots and artificial intelligence take the job of Tool and Die Makers? Get the facts.
 soc:
   code: 51-4111
   title: Tool and Die Makers

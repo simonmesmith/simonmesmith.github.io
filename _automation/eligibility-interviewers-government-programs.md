@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Eligibility Interviewers, Government Programs
+title: Automation of Eligibility Interviewers, Government Programs
+subtitle: Will robots and artificial intelligence take the job of Eligibility Interviewers, Government Programs? Get the facts.
 soc:
   code: 43-4061
   title: Eligibility Interviewers, Government Programs

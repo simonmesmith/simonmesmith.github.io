@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Designers, All Other
+title: Automation of Designers, All Other
+subtitle: Will robots and artificial intelligence take the job of Designers, All Other? Get the facts.
 soc:
   code: 27-1029
   title: Designers, All Other

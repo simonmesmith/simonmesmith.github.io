@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Opticians, Dispensing
+title: Automation of Opticians, Dispensing
+subtitle: Will robots and artificial intelligence take the job of Opticians, Dispensing? Get the facts.
 soc:
   code: 29-2081
   title: Opticians, Dispensing

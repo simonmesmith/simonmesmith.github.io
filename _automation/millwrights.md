@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Millwrights
+title: Automation of Millwrights
+subtitle: Will robots and artificial intelligence take the job of Millwrights? Get the facts.
 soc:
   code: 49-9044
   title: Millwrights

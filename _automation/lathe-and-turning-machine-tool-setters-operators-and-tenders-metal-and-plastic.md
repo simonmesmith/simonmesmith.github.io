@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4034
   title: Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic

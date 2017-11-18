@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pourers and Casters, Metal
+title: Automation of Pourers and Casters, Metal
+subtitle: Will robots and artificial intelligence take the job of Pourers and Casters, Metal? Get the facts.
 soc:
   code: 51-4052
   title: Pourers and Casters, Metal

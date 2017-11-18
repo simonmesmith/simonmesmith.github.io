@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural Equipment Operators
+title: Automation of Agricultural Equipment Operators
+subtitle: Will robots and artificial intelligence take the job of Agricultural Equipment Operators? Get the facts.
 soc:
   code: 45-2091
   title: Agricultural Equipment Operators

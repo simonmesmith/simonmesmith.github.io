@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+title: Automation of Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+subtitle: Will robots and artificial intelligence take the job of Secretaries and Administrative Assistants, Except Legal, Medical, and Executive? Get the facts.
 soc:
   code: 43-6014
   title: Secretaries and Administrative Assistants, Except Legal, Medical, and Executive

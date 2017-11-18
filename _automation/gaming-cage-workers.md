@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Cage Workers
+title: Automation of Gaming Cage Workers
+subtitle: Will robots and artificial intelligence take the job of Gaming Cage Workers? Get the facts.
 soc:
   code: 43-3041
   title: Gaming Cage Workers

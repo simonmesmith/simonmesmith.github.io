@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Health Specialties Teachers, Postsecondary
+title: Automation of Health Specialties Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Health Specialties Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1071
   title: Health Specialties Teachers, Postsecondary

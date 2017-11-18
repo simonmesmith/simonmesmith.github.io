@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Library Science Teachers, Postsecondary
+title: Automation of Library Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Library Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1082
   title: Library Science Teachers, Postsecondary

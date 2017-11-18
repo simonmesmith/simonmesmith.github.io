@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Communications Teachers, Postsecondary
+title: Automation of Communications Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Communications Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1122
   title: Communications Teachers, Postsecondary

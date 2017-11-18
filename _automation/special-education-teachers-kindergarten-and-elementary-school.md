@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Education Teachers, Kindergarten and Elementary School
+title: Automation of Special Education Teachers, Kindergarten and Elementary School
+subtitle: Will robots and artificial intelligence take the job of Special Education Teachers, Kindergarten and Elementary School? Get the facts.
 soc:
   code: 25-2052
   title: Special Education Teachers, Kindergarten and Elementary School

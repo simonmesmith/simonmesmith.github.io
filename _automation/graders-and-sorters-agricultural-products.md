@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Graders and Sorters, Agricultural Products
+title: Automation of Graders and Sorters, Agricultural Products
+subtitle: Will robots and artificial intelligence take the job of Graders and Sorters, Agricultural Products? Get the facts.
 soc:
   code: 45-2041
   title: Graders and Sorters, Agricultural Products

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Internists, General
+title: Automation of Internists, General
+subtitle: Will robots and artificial intelligence take the job of Internists, General? Get the facts.
 soc:
   code: 29-1063
   title: Internists, General

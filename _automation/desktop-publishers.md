@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Desktop Publishers
+title: Automation of Desktop Publishers
+subtitle: Will robots and artificial intelligence take the job of Desktop Publishers? Get the facts.
 soc:
   code: 43-9031
   title: Desktop Publishers

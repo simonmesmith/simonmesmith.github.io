@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Genetic Counselors
+title: Automation of Genetic Counselors
+subtitle: Will robots and artificial intelligence take the job of Genetic Counselors? Get the facts.
 soc:
   code: 29-9092
   title: Genetic Counselors

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fabric Menders, Except Garment
+title: Automation of Fabric Menders, Except Garment
+subtitle: Will robots and artificial intelligence take the job of Fabric Menders, Except Garment? Get the facts.
 soc:
   code: 49-9093
   title: Fabric Menders, Except Garment

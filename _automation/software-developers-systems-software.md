@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Software Developers, Systems Software
+title: Automation of Software Developers, Systems Software
+subtitle: Will robots and artificial intelligence take the job of Software Developers, Systems Software? Get the facts.
 soc:
   code: 15-1133
   title: Software Developers, Systems Software

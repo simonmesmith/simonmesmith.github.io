@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Service Managers
+title: Automation of Food Service Managers
+subtitle: Will robots and artificial intelligence take the job of Food Service Managers? Get the facts.
 soc:
   code: 11-9051
   title: Food Service Managers

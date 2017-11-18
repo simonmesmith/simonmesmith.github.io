@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Advertising Sales Agents
+title: Automation of Advertising Sales Agents
+subtitle: Will robots and artificial intelligence take the job of Advertising Sales Agents? Get the facts.
 soc:
   code: 41-3011
   title: Advertising Sales Agents

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming Dealers
+title: Automation of Gaming Dealers
+subtitle: Will robots and artificial intelligence take the job of Gaming Dealers? Get the facts.
 soc:
   code: 39-3011
   title: Gaming Dealers

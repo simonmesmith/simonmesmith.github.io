@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Cooking Machine Operators and Tenders
+title: Automation of Food Cooking Machine Operators and Tenders
+subtitle: Will robots and artificial intelligence take the job of Food Cooking Machine Operators and Tenders? Get the facts.
 soc:
   code: 51-3093
   title: Food Cooking Machine Operators and Tenders

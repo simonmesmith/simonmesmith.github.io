@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Office Clerks, General
+title: Automation of Office Clerks, General
+subtitle: Will robots and artificial intelligence take the job of Office Clerks, General? Get the facts.
 soc:
   code: 43-9061
   title: Office Clerks, General

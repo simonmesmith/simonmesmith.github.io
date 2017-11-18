@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Insulation Workers, Floor, Ceiling, and Wall
+title: Automation of Insulation Workers, Floor, Ceiling, and Wall
+subtitle: Will robots and artificial intelligence take the job of Insulation Workers, Floor, Ceiling, and Wall? Get the facts.
 soc:
   code: 47-2131
   title: Insulation Workers, Floor, Ceiling, and Wall

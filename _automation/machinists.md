@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Machinists
+title: Automation of Machinists
+subtitle: Will robots and artificial intelligence take the job of Machinists? Get the facts.
 soc:
   code: 51-4041
   title: Machinists

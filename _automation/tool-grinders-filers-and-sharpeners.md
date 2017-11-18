@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tool Grinders, Filers, and Sharpeners
+title: Automation of Tool Grinders, Filers, and Sharpeners
+subtitle: Will robots and artificial intelligence take the job of Tool Grinders, Filers, and Sharpeners? Get the facts.
 soc:
   code: 51-4194
   title: Tool Grinders, Filers, and Sharpeners

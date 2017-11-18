@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Air Crew Members
+title: Automation of Air Crew Members
+subtitle: Will robots and artificial intelligence take the job of Air Crew Members? Get the facts.
 soc:
   code: 55-3011
   title: Air Crew Members

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Protective Service Workers, All Other
+title: Automation of Protective Service Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Protective Service Workers, All Other? Get the facts.
 soc:
   code: 33-9099
   title: Protective Service Workers, All Other

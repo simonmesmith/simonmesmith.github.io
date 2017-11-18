@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Purchasing Agents, Except Wholesale, Retail, and Farm Products
+title: Automation of Purchasing Agents, Except Wholesale, Retail, and Farm Products
+subtitle: Will robots and artificial intelligence take the job of Purchasing Agents, Except Wholesale, Retail, and Farm Products? Get the facts.
 soc:
   code: 13-1023
   title: Purchasing Agents, Except Wholesale, Retail, and Farm Products

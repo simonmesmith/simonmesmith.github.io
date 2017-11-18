@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Coil Winders, Tapers, and Finishers
+title: Automation of Coil Winders, Tapers, and Finishers
+subtitle: Will robots and artificial intelligence take the job of Coil Winders, Tapers, and Finishers? Get the facts.
 soc:
   code: 51-2021
   title: Coil Winders, Tapers, and Finishers

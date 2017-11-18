@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4032
   title: Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic

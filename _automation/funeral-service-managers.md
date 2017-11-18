@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Funeral Service Managers
+title: Automation of Funeral Service Managers
+subtitle: Will robots and artificial intelligence take the job of Funeral Service Managers? Get the facts.
 soc:
   code: 11-9061
   title: Funeral Service Managers

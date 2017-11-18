@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chief Executives
+title: Automation of Chief Executives
+subtitle: Will robots and artificial intelligence take the job of Chief Executives? Get the facts.
 soc:
   code: 11-1011
   title: Chief Executives

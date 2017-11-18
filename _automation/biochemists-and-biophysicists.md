@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Biochemists and Biophysicists
+title: Automation of Biochemists and Biophysicists
+subtitle: Will robots and artificial intelligence take the job of Biochemists and Biophysicists? Get the facts.
 soc:
   code: 19-1021
   title: Biochemists and Biophysicists

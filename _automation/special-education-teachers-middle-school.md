@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Education Teachers, Middle School
+title: Automation of Special Education Teachers, Middle School
+subtitle: Will robots and artificial intelligence take the job of Special Education Teachers, Middle School? Get the facts.
 soc:
   code: 25-2053
   title: Special Education Teachers, Middle School

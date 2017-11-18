@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Prepress Technician and Workers
+title: Automation of Prepress Technician and Workers
+subtitle: Will robots and artificial intelligence take the job of Prepress Technician and Workers? Get the facts.
 soc:
   code: 51-5111
   title: Prepress Technician and Workers

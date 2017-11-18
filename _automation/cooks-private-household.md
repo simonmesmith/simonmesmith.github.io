@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, Private Household
+title: Automation of Cooks, Private Household
+subtitle: Will robots and artificial intelligence take the job of Cooks, Private Household? Get the facts.
 soc:
   code: 35-2013
   title: Cooks, Private Household

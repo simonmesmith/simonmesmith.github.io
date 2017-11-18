@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Processing Workers, All Other
+title: Automation of Food Processing Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Food Processing Workers, All Other? Get the facts.
 soc:
   code: 51-3099
   title: Food Processing Workers, All Other

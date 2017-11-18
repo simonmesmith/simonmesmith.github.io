@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bus and Truck Mechanics and Diesel Engine Specialists
+title: Automation of Bus and Truck Mechanics and Diesel Engine Specialists
+subtitle: Will robots and artificial intelligence take the job of Bus and Truck Mechanics and Diesel Engine Specialists? Get the facts.
 soc:
   code: 49-3031
   title: Bus and Truck Mechanics and Diesel Engine Specialists

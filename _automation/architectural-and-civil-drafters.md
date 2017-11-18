@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Architectural and Civil Drafters
+title: Automation of Architectural and Civil Drafters
+subtitle: Will robots and artificial intelligence take the job of Architectural and Civil Drafters? Get the facts.
 soc:
   code: 17-3011
   title: Architectural and Civil Drafters

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Hotel, Motel, and Resort Desk Clerks
+title: Automation of Hotel, Motel, and Resort Desk Clerks
+subtitle: Will robots and artificial intelligence take the job of Hotel, Motel, and Resort Desk Clerks? Get the facts.
 soc:
   code: 43-4081
   title: Hotel, Motel, and Resort Desk Clerks

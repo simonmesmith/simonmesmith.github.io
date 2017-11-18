@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemistry Teachers, Postsecondary
+title: Automation of Chemistry Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Chemistry Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1052
   title: Chemistry Teachers, Postsecondary

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Food Batchmakers
+title: Automation of Food Batchmakers
+subtitle: Will robots and artificial intelligence take the job of Food Batchmakers? Get the facts.
 soc:
   code: 51-3092
   title: Food Batchmakers

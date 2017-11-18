@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Elementary School Teachers, Except Special Education
+title: Automation of Elementary School Teachers, Except Special Education
+subtitle: Will robots and artificial intelligence take the job of Elementary School Teachers, Except Special Education? Get the facts.
 soc:
   code: 25-2021
   title: Elementary School Teachers, Except Special Education

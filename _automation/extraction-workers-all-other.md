@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Extraction Workers, All Other
+title: Automation of Extraction Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Extraction Workers, All Other? Get the facts.
 soc:
   code: 47-5099
   title: Extraction Workers, All Other

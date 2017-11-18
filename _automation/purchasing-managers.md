@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Purchasing Managers
+title: Automation of Purchasing Managers
+subtitle: Will robots and artificial intelligence take the job of Purchasing Managers? Get the facts.
 soc:
   code: 11-3061
   title: Purchasing Managers

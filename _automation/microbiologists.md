@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Microbiologists
+title: Automation of Microbiologists
+subtitle: Will robots and artificial intelligence take the job of Microbiologists? Get the facts.
 soc:
   code: 19-1022
   title: Microbiologists

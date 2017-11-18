@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Machine Feeders and Offbearers
+title: Automation of Machine Feeders and Offbearers
+subtitle: Will robots and artificial intelligence take the job of Machine Feeders and Offbearers? Get the facts.
 soc:
   code: 53-7063
   title: Machine Feeders and Offbearers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Combined Food Preparation and Serving Workers, Including Fast Food
+title: Automation of Combined Food Preparation and Serving Workers, Including Fast Food
+subtitle: Will robots and artificial intelligence take the job of Combined Food Preparation and Serving Workers, Including Fast Food? Get the facts.
 soc:
   code: 35-3021
   title: Combined Food Preparation and Serving Workers, Including Fast Food

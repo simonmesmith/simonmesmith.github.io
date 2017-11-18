@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Soil and Plant Scientists
+title: Automation of Soil and Plant Scientists
+subtitle: Will robots and artificial intelligence take the job of Soil and Plant Scientists? Get the facts.
 soc:
   code: 19-1013
   title: Soil and Plant Scientists

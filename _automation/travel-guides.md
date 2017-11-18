@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Travel Guides
+title: Automation of Travel Guides
+subtitle: Will robots and artificial intelligence take the job of Travel Guides? Get the facts.
 soc:
   code: 39-7012
   title: Travel Guides

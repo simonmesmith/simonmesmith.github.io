@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Transportation Inspectors
+title: Automation of Transportation Inspectors
+subtitle: Will robots and artificial intelligence take the job of Transportation Inspectors? Get the facts.
 soc:
   code: 53-6051
   title: Transportation Inspectors

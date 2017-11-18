@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Recreational Therapists
+title: Automation of Recreational Therapists
+subtitle: Will robots and artificial intelligence take the job of Recreational Therapists? Get the facts.
 soc:
   code: 29-1125
   title: Recreational Therapists

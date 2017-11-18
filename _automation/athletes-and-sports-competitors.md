@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Athletes and Sports Competitors
+title: Automation of Athletes and Sports Competitors
+subtitle: Will robots and artificial intelligence take the job of Athletes and Sports Competitors? Get the facts.
 soc:
   code: 27-2021
   title: Athletes and Sports Competitors

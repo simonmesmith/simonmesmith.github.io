@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Bartenders
+title: Automation of Bartenders
+subtitle: Will robots and artificial intelligence take the job of Bartenders? Get the facts.
 soc:
   code: 35-3011
   title: Bartenders

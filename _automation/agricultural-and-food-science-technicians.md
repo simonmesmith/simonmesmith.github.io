@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural and Food Science Technicians
+title: Automation of Agricultural and Food Science Technicians
+subtitle: Will robots and artificial intelligence take the job of Agricultural and Food Science Technicians? Get the facts.
 soc:
   code: 19-4011
   title: Agricultural and Food Science Technicians

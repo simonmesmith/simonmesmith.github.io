@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: General and Operations Managers
+title: Automation of General and Operations Managers
+subtitle: Will robots and artificial intelligence take the job of General and Operations Managers? Get the facts.
 soc:
   code: 11-1021
   title: General and Operations Managers

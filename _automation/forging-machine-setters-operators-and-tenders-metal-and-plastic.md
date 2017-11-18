@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Forging Machine Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4022
   title: Forging Machine Setters, Operators, and Tenders, Metal and Plastic

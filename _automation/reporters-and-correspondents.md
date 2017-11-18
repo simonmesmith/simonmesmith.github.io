@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Reporters and Correspondents
+title: Automation of Reporters and Correspondents
+subtitle: Will robots and artificial intelligence take the job of Reporters and Correspondents? Get the facts.
 soc:
   code: 27-3022
   title: Reporters and Correspondents

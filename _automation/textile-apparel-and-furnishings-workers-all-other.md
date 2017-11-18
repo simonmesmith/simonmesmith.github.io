@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Textile, Apparel, and Furnishings Workers, All Other
+title: Automation of Textile, Apparel, and Furnishings Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Textile, Apparel, and Furnishings Workers, All Other? Get the facts.
 soc:
   code: 51-6099
   title: Textile, Apparel, and Furnishings Workers, All Other

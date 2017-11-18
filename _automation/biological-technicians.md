@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Biological Technicians
+title: Automation of Biological Technicians
+subtitle: Will robots and artificial intelligence take the job of Biological Technicians? Get the facts.
 soc:
   code: 19-4021
   title: Biological Technicians

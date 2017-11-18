@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aircraft Mechanics and Service Technicians
+title: Automation of Aircraft Mechanics and Service Technicians
+subtitle: Will robots and artificial intelligence take the job of Aircraft Mechanics and Service Technicians? Get the facts.
 soc:
   code: 49-3011
   title: Aircraft Mechanics and Service Technicians

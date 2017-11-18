@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Information Security Analysts
+title: Automation of Information Security Analysts
+subtitle: Will robots and artificial intelligence take the job of Information Security Analysts? Get the facts.
 soc:
   code: 15-1122
   title: Information Security Analysts

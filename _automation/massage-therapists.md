@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Massage Therapists
+title: Automation of Massage Therapists
+subtitle: Will robots and artificial intelligence take the job of Massage Therapists? Get the facts.
 soc:
   code: 31-9011
   title: Massage Therapists

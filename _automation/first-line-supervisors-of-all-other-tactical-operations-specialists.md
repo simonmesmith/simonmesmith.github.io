@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of All Other Tactical Operations Specialists
+title: Automation of First-Line Supervisors of All Other Tactical Operations Specialists
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of All Other Tactical Operations Specialists? Get the facts.
 soc:
   code: 55-2013
   title: First-Line Supervisors of All Other Tactical Operations Specialists

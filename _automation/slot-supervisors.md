@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Slot Supervisors
+title: Automation of Slot Supervisors
+subtitle: Will robots and artificial intelligence take the job of Slot Supervisors? Get the facts.
 soc:
   code: 39-1012
   title: Slot Supervisors

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chefs and Head Cooks
+title: Automation of Chefs and Head Cooks
+subtitle: Will robots and artificial intelligence take the job of Chefs and Head Cooks? Get the facts.
 soc:
   code: 35-1011
   title: Chefs and Head Cooks

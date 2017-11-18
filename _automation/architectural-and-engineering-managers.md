@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Architectural and Engineering Managers
+title: Automation of Architectural and Engineering Managers
+subtitle: Will robots and artificial intelligence take the job of Architectural and Engineering Managers? Get the facts.
 soc:
   code: 11-9041
   title: Architectural and Engineering Managers

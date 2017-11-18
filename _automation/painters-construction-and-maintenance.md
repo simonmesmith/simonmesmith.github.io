@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Painters, Construction and Maintenance
+title: Automation of Painters, Construction and Maintenance
+subtitle: Will robots and artificial intelligence take the job of Painters, Construction and Maintenance? Get the facts.
 soc:
   code: 47-2141
   title: Painters, Construction and Maintenance

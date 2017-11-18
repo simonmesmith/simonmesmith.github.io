@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Multimedia Artists and Animators
+title: Automation of Multimedia Artists and Animators
+subtitle: Will robots and artificial intelligence take the job of Multimedia Artists and Animators? Get the facts.
 soc:
   code: 27-1014
   title: Multimedia Artists and Animators

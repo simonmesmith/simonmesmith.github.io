@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Kindergarten Teachers, Except Special Education
+title: Automation of Kindergarten Teachers, Except Special Education
+subtitle: Will robots and artificial intelligence take the job of Kindergarten Teachers, Except Special Education? Get the facts.
 soc:
   code: 25-2012
   title: Kindergarten Teachers, Except Special Education

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electric Motor, Power Tool, and Related Repairers
+title: Automation of Electric Motor, Power Tool, and Related Repairers
+subtitle: Will robots and artificial intelligence take the job of Electric Motor, Power Tool, and Related Repairers? Get the facts.
 soc:
   code: 49-2092
   title: Electric Motor, Power Tool, and Related Repairers

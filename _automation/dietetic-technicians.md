@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dietetic Technicians
+title: Automation of Dietetic Technicians
+subtitle: Will robots and artificial intelligence take the job of Dietetic Technicians? Get the facts.
 soc:
   code: 29-2051
   title: Dietetic Technicians

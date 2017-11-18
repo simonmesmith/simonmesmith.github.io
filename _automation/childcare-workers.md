@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Childcare Workers
+title: Automation of Childcare Workers
+subtitle: Will robots and artificial intelligence take the job of Childcare Workers? Get the facts.
 soc:
   code: 39-9011
   title: Childcare Workers

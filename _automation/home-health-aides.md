@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Home Health Aides
+title: Automation of Home Health Aides
+subtitle: Will robots and artificial intelligence take the job of Home Health Aides? Get the facts.
 soc:
   code: 31-1011
   title: Home Health Aides

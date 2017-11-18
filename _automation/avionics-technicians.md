@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Avionics Technicians
+title: Automation of Avionics Technicians
+subtitle: Will robots and artificial intelligence take the job of Avionics Technicians? Get the facts.
 soc:
   code: 49-2091
   title: Avionics Technicians

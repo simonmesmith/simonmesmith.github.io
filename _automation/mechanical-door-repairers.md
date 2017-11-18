@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mechanical Door Repairers
+title: Automation of Mechanical Door Repairers
+subtitle: Will robots and artificial intelligence take the job of Mechanical Door Repairers? Get the facts.
 soc:
   code: 49-9011
   title: Mechanical Door Repairers

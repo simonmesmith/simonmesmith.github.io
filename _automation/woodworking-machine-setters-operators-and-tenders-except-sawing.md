@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+title: Automation of Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+subtitle: Will robots and artificial intelligence take the job of Woodworking Machine Setters, Operators, and Tenders, Except Sawing? Get the facts.
 soc:
   code: 51-7042
   title: Woodworking Machine Setters, Operators, and Tenders, Except Sawing

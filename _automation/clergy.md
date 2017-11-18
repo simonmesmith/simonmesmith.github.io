@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Clergy
+title: Automation of Clergy
+subtitle: Will robots and artificial intelligence take the job of Clergy? Get the facts.
 soc:
   code: 21-2011
   title: Clergy

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Environmental Engineers
+title: Automation of Environmental Engineers
+subtitle: Will robots and artificial intelligence take the job of Environmental Engineers? Get the facts.
 soc:
   code: 17-2081
   title: Environmental Engineers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Photographic Process Workers and Processing Machine Operators
+title: Automation of Photographic Process Workers and Processing Machine Operators
+subtitle: Will robots and artificial intelligence take the job of Photographic Process Workers and Processing Machine Operators? Get the facts.
 soc:
   code: 51-9151
   title: Photographic Process Workers and Processing Machine Operators

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Interpreters and Translators
+title: Automation of Interpreters and Translators
+subtitle: Will robots and artificial intelligence take the job of Interpreters and Translators? Get the facts.
 soc:
   code: 27-3091
   title: Interpreters and Translators

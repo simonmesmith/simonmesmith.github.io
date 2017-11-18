@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Music Directors and Composers
+title: Automation of Music Directors and Composers
+subtitle: Will robots and artificial intelligence take the job of Music Directors and Composers? Get the facts.
 soc:
   code: 27-2041
   title: Music Directors and Composers

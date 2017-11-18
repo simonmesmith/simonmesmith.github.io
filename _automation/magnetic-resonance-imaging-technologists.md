@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Magnetic Resonance Imaging Technologists
+title: Automation of Magnetic Resonance Imaging Technologists
+subtitle: Will robots and artificial intelligence take the job of Magnetic Resonance Imaging Technologists? Get the facts.
 soc:
   code: 29-2035
   title: Magnetic Resonance Imaging Technologists

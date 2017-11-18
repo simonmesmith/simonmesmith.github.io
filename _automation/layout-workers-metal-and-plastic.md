@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Layout Workers, Metal and Plastic
+title: Automation of Layout Workers, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Layout Workers, Metal and Plastic? Get the facts.
 soc:
   code: 51-4192
   title: Layout Workers, Metal and Plastic

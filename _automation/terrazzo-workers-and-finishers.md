@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Terrazzo Workers and Finishers
+title: Automation of Terrazzo Workers and Finishers
+subtitle: Will robots and artificial intelligence take the job of Terrazzo Workers and Finishers? Get the facts.
 soc:
   code: 47-2053
   title: Terrazzo Workers and Finishers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Audio-Visual and Multimedia Collections Specialists
+title: Automation of Audio-Visual and Multimedia Collections Specialists
+subtitle: Will robots and artificial intelligence take the job of Audio-Visual and Multimedia Collections Specialists? Get the facts.
 soc:
   code: 25-9011
   title: Audio-Visual and Multimedia Collections Specialists

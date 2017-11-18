@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Mechanics, Installers, and Repairers
+title: Automation of First-Line Supervisors of Mechanics, Installers, and Repairers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Mechanics, Installers, and Repairers? Get the facts.
 soc:
   code: 49-1011
   title: First-Line Supervisors of Mechanics, Installers, and Repairers

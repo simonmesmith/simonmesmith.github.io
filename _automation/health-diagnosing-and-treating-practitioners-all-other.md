@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Health Diagnosing and Treating Practitioners, All Other
+title: Automation of Health Diagnosing and Treating Practitioners, All Other
+subtitle: Will robots and artificial intelligence take the job of Health Diagnosing and Treating Practitioners, All Other? Get the facts.
 soc:
   code: 29-1199
   title: Health Diagnosing and Treating Practitioners, All Other

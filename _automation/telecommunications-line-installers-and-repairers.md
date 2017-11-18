@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Telecommunications Line Installers and Repairers
+title: Automation of Telecommunications Line Installers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Telecommunications Line Installers and Repairers? Get the facts.
 soc:
   code: 49-9052
   title: Telecommunications Line Installers and Repairers

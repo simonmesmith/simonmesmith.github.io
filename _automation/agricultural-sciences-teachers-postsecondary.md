@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural Sciences Teachers, Postsecondary
+title: Automation of Agricultural Sciences Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Agricultural Sciences Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1041
   title: Agricultural Sciences Teachers, Postsecondary

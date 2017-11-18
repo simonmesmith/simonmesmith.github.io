@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Legal Support Workers, All Other
+title: Automation of Legal Support Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Legal Support Workers, All Other? Get the facts.
 soc:
   code: 23-2099
   title: Legal Support Workers, All Other

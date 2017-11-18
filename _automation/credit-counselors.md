@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Credit Counselors
+title: Automation of Credit Counselors
+subtitle: Will robots and artificial intelligence take the job of Credit Counselors? Get the facts.
 soc:
   code: 13-2071
   title: Credit Counselors

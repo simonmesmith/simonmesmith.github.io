@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Embalmers
+title: Automation of Embalmers
+subtitle: Will robots and artificial intelligence take the job of Embalmers? Get the facts.
 soc:
   code: 39-4011
   title: Embalmers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Roustabouts, Oil and Gas
+title: Automation of Roustabouts, Oil and Gas
+subtitle: Will robots and artificial intelligence take the job of Roustabouts, Oil and Gas? Get the facts.
 soc:
   code: 47-5071
   title: Roustabouts, Oil and Gas

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Detectives and Criminal Investigators
+title: Automation of Detectives and Criminal Investigators
+subtitle: Will robots and artificial intelligence take the job of Detectives and Criminal Investigators? Get the facts.
 soc:
   code: 33-3021
   title: Detectives and Criminal Investigators

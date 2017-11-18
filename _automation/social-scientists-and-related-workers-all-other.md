@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Social Scientists and Related Workers, All Other
+title: Automation of Social Scientists and Related Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Social Scientists and Related Workers, All Other? Get the facts.
 soc:
   code: 19-3099
   title: Social Scientists and Related Workers, All Other

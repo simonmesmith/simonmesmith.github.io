@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Human Resources Managers
+title: Automation of Human Resources Managers
+subtitle: Will robots and artificial intelligence take the job of Human Resources Managers? Get the facts.
 soc:
   code: 11-3121
   title: Human Resources Managers

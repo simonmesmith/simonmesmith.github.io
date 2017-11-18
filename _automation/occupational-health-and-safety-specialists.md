@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Occupational Health and Safety Specialists
+title: Automation of Occupational Health and Safety Specialists
+subtitle: Will robots and artificial intelligence take the job of Occupational Health and Safety Specialists? Get the facts.
 soc:
   code: 29-9011
   title: Occupational Health and Safety Specialists

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dentists, General
+title: Automation of Dentists, General
+subtitle: Will robots and artificial intelligence take the job of Dentists, General? Get the facts.
 soc:
   code: 29-1021
   title: Dentists, General

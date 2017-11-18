@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cooks, All Other
+title: Automation of Cooks, All Other
+subtitle: Will robots and artificial intelligence take the job of Cooks, All Other? Get the facts.
 soc:
   code: 35-2019
   title: Cooks, All Other

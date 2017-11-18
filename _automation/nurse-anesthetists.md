@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nurse Anesthetists
+title: Automation of Nurse Anesthetists
+subtitle: Will robots and artificial intelligence take the job of Nurse Anesthetists? Get the facts.
 soc:
   code: 29-1151
   title: Nurse Anesthetists

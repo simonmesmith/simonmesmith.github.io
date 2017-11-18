@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Forestry and Conservation Science Teachers, Postsecondary
+title: Automation of Forestry and Conservation Science Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Forestry and Conservation Science Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1043
   title: Forestry and Conservation Science Teachers, Postsecondary

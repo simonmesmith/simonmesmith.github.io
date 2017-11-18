@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Stationary Engineers and Boiler Operators
+title: Automation of Stationary Engineers and Boiler Operators
+subtitle: Will robots and artificial intelligence take the job of Stationary Engineers and Boiler Operators? Get the facts.
 soc:
   code: 51-8021
   title: Stationary Engineers and Boiler Operators

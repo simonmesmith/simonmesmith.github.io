@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agents and Business Managers of Artists, Performers, and Athletes
+title: Automation of Agents and Business Managers of Artists, Performers, and Athletes
+subtitle: Will robots and artificial intelligence take the job of Agents and Business Managers of Artists, Performers, and Athletes? Get the facts.
 soc:
   code: 13-1011
   title: Agents and Business Managers of Artists, Performers, and Athletes

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mining and Geological Engineers, Including Mining Safety Engineers
+title: Automation of Mining and Geological Engineers, Including Mining Safety Engineers
+subtitle: Will robots and artificial intelligence take the job of Mining and Geological Engineers, Including Mining Safety Engineers? Get the facts.
 soc:
   code: 17-2151
   title: Mining and Geological Engineers, Including Mining Safety Engineers

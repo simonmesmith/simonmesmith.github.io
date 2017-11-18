@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Health Technologists and Technicians, All Other
+title: Automation of Health Technologists and Technicians, All Other
+subtitle: Will robots and artificial intelligence take the job of Health Technologists and Technicians, All Other? Get the facts.
 soc:
   code: 29-2099
   title: Health Technologists and Technicians, All Other

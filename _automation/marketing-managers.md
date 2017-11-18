@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Marketing Managers
+title: Automation of Marketing Managers
+subtitle: Will robots and artificial intelligence take the job of Marketing Managers? Get the facts.
 soc:
   code: 11-2021
   title: Marketing Managers

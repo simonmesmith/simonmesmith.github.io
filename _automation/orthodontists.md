@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Orthodontists
+title: Automation of Orthodontists
+subtitle: Will robots and artificial intelligence take the job of Orthodontists? Get the facts.
 soc:
   code: 29-1023
   title: Orthodontists

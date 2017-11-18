@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Financial Managers
+title: Automation of Financial Managers
+subtitle: Will robots and artificial intelligence take the job of Financial Managers? Get the facts.
 soc:
   code: 11-3031
   title: Financial Managers

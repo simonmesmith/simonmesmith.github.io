@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Shoe and Leather Workers and Repairers
+title: Automation of Shoe and Leather Workers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Shoe and Leather Workers and Repairers? Get the facts.
 soc:
   code: 51-6041
   title: Shoe and Leather Workers and Repairers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Carpet Installers
+title: Automation of Carpet Installers
+subtitle: Will robots and artificial intelligence take the job of Carpet Installers? Get the facts.
 soc:
   code: 47-2041
   title: Carpet Installers

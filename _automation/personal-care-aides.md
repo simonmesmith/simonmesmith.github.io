@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Personal Care Aides
+title: Automation of Personal Care Aides
+subtitle: Will robots and artificial intelligence take the job of Personal Care Aides? Get the facts.
 soc:
   code: 39-9021
   title: Personal Care Aides

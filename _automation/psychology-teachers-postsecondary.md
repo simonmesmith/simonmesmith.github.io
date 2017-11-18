@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Psychology Teachers, Postsecondary
+title: Automation of Psychology Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Psychology Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1066
   title: Psychology Teachers, Postsecondary

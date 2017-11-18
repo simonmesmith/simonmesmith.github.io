@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Education Administrators, Preschool and Childcare Center/Program
+title: Automation of Education Administrators, Preschool and Childcare Center/Program
+subtitle: Will robots and artificial intelligence take the job of Education Administrators, Preschool and Childcare Center/Program? Get the facts.
 soc:
   code: 11-9031
   title: Education Administrators, Preschool and Childcare Center/Program

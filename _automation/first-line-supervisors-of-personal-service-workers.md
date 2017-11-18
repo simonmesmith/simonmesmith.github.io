@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Personal Service Workers
+title: Automation of First-Line Supervisors of Personal Service Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Personal Service Workers? Get the facts.
 soc:
   code: 39-1021
   title: First-Line Supervisors of Personal Service Workers

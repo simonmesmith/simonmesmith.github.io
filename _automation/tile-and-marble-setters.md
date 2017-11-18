@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tile and Marble Setters
+title: Automation of Tile and Marble Setters
+subtitle: Will robots and artificial intelligence take the job of Tile and Marble Setters? Get the facts.
 soc:
   code: 47-2044
   title: Tile and Marble Setters

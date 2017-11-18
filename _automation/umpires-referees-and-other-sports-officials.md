@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Umpires, Referees, and Other Sports Officials
+title: Automation of Umpires, Referees, and Other Sports Officials
+subtitle: Will robots and artificial intelligence take the job of Umpires, Referees, and Other Sports Officials? Get the facts.
 soc:
   code: 27-2023
   title: Umpires, Referees, and Other Sports Officials

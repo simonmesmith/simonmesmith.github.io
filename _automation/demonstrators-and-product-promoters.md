@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Demonstrators and Product Promoters
+title: Automation of Demonstrators and Product Promoters
+subtitle: Will robots and artificial intelligence take the job of Demonstrators and Product Promoters? Get the facts.
 soc:
   code: 41-9011
   title: Demonstrators and Product Promoters

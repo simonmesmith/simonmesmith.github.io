@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Metal Workers and Plastic Workers, All Other
+title: Automation of Metal Workers and Plastic Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Metal Workers and Plastic Workers, All Other? Get the facts.
 soc:
   code: 51-4199
   title: Metal Workers and Plastic Workers, All Other

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Nursing Assistants
+title: Automation of Nursing Assistants
+subtitle: Will robots and artificial intelligence take the job of Nursing Assistants? Get the facts.
 soc:
   code: 31-1014
   title: Nursing Assistants

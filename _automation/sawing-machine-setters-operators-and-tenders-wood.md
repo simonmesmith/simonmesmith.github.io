@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sawing Machine Setters, Operators, and Tenders, Wood
+title: Automation of Sawing Machine Setters, Operators, and Tenders, Wood
+subtitle: Will robots and artificial intelligence take the job of Sawing Machine Setters, Operators, and Tenders, Wood? Get the facts.
 soc:
   code: 51-7041
   title: Sawing Machine Setters, Operators, and Tenders, Wood

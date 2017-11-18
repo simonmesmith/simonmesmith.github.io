@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Substance Abuse and Behavioral Disorder Counselors
+title: Automation of Substance Abuse and Behavioral Disorder Counselors
+subtitle: Will robots and artificial intelligence take the job of Substance Abuse and Behavioral Disorder Counselors? Get the facts.
 soc:
   code: 21-1011
   title: Substance Abuse and Behavioral Disorder Counselors

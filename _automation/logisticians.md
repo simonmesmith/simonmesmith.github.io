@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Logisticians
+title: Automation of Logisticians
+subtitle: Will robots and artificial intelligence take the job of Logisticians? Get the facts.
 soc:
   code: 13-1081
   title: Logisticians

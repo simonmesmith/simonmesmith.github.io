@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Lawyers
+title: Automation of Lawyers
+subtitle: Will robots and artificial intelligence take the job of Lawyers? Get the facts.
 soc:
   code: 23-1011
   title: Lawyers

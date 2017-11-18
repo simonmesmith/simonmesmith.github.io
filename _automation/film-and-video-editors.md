@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Film and Video Editors
+title: Automation of Film and Video Editors
+subtitle: Will robots and artificial intelligence take the job of Film and Video Editors? Get the facts.
 soc:
   code: 27-4032
   title: Film and Video Editors

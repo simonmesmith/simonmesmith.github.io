@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Farming, Fishing, and Forestry Workers
+title: Automation of First-Line Supervisors of Farming, Fishing, and Forestry Workers
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Farming, Fishing, and Forestry Workers? Get the facts.
 soc:
   code: 45-1011
   title: First-Line Supervisors of Farming, Fishing, and Forestry Workers

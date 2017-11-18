@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Manufactured Building and Mobile Home Installers
+title: Automation of Manufactured Building and Mobile Home Installers
+subtitle: Will robots and artificial intelligence take the job of Manufactured Building and Mobile Home Installers? Get the facts.
 soc:
   code: 49-9095
   title: Manufactured Building and Mobile Home Installers

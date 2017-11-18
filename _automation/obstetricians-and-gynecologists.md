@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Obstetricians and Gynecologists
+title: Automation of Obstetricians and Gynecologists
+subtitle: Will robots and artificial intelligence take the job of Obstetricians and Gynecologists? Get the facts.
 soc:
   code: 29-1064
   title: Obstetricians and Gynecologists

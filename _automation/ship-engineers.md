@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Ship Engineers
+title: Automation of Ship Engineers
+subtitle: Will robots and artificial intelligence take the job of Ship Engineers? Get the facts.
 soc:
   code: 53-5031
   title: Ship Engineers

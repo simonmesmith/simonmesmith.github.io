@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Loan Interviewers and Clerks
+title: Automation of Loan Interviewers and Clerks
+subtitle: Will robots and artificial intelligence take the job of Loan Interviewers and Clerks? Get the facts.
 soc:
   code: 43-4131
   title: Loan Interviewers and Clerks

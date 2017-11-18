@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sewing Machine Operators
+title: Automation of Sewing Machine Operators
+subtitle: Will robots and artificial intelligence take the job of Sewing Machine Operators? Get the facts.
 soc:
   code: 51-6031
   title: Sewing Machine Operators

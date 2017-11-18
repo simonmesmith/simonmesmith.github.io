@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Butchers and Meat Cutters
+title: Automation of Butchers and Meat Cutters
+subtitle: Will robots and artificial intelligence take the job of Butchers and Meat Cutters? Get the facts.
 soc:
   code: 51-3021
   title: Butchers and Meat Cutters

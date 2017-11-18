@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Gaming and Sports Book Writers and Runners
+title: Automation of Gaming and Sports Book Writers and Runners
+subtitle: Will robots and artificial intelligence take the job of Gaming and Sports Book Writers and Runners? Get the facts.
 soc:
   code: 39-3012
   title: Gaming and Sports Book Writers and Runners

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Amusement and Recreation Attendants
+title: Automation of Amusement and Recreation Attendants
+subtitle: Will robots and artificial intelligence take the job of Amusement and Recreation Attendants? Get the facts.
 soc:
   code: 39-3091
   title: Amusement and Recreation Attendants

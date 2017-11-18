@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Power Distributors and Dispatchers
+title: Automation of Power Distributors and Dispatchers
+subtitle: Will robots and artificial intelligence take the job of Power Distributors and Dispatchers? Get the facts.
 soc:
   code: 51-8012
   title: Power Distributors and Dispatchers

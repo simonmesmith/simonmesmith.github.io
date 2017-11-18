@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+title: Automation of Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+subtitle: Will robots and artificial intelligence take the job of Door-to-Door Sales Workers, News and Street Vendors, and Related Workers? Get the facts.
 soc:
   code: 41-9091
   title: Door-to-Door Sales Workers, News and Street Vendors, and Related Workers

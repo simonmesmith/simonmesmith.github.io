@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electronics Engineers, Except Computer
+title: Automation of Electronics Engineers, Except Computer
+subtitle: Will robots and artificial intelligence take the job of Electronics Engineers, Except Computer? Get the facts.
 soc:
   code: 17-2072
   title: Electronics Engineers, Except Computer

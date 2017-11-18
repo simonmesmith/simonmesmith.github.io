@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Motion Picture Projectionists
+title: Automation of Motion Picture Projectionists
+subtitle: Will robots and artificial intelligence take the job of Motion Picture Projectionists? Get the facts.
 soc:
   code: 39-3021
   title: Motion Picture Projectionists

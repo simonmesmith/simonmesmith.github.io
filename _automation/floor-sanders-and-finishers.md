@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Floor Sanders and Finishers
+title: Automation of Floor Sanders and Finishers
+subtitle: Will robots and artificial intelligence take the job of Floor Sanders and Finishers? Get the facts.
 soc:
   code: 47-2043
   title: Floor Sanders and Finishers

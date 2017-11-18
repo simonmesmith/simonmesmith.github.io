@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Materials Scientists
+title: Automation of Materials Scientists
+subtitle: Will robots and artificial intelligence take the job of Materials Scientists? Get the facts.
 soc:
   code: 19-2032
   title: Materials Scientists

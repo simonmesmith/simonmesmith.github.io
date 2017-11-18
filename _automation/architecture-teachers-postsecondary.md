@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Architecture Teachers, Postsecondary
+title: Automation of Architecture Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Architecture Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1031
   title: Architecture Teachers, Postsecondary

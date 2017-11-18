@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Legislators
+title: Automation of Legislators
+subtitle: Will robots and artificial intelligence take the job of Legislators? Get the facts.
 soc:
   code: 11-1031
   title: Legislators

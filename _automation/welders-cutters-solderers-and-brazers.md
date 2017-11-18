@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Welders, Cutters, Solderers, and Brazers
+title: Automation of Welders, Cutters, Solderers, and Brazers
+subtitle: Will robots and artificial intelligence take the job of Welders, Cutters, Solderers, and Brazers? Get the facts.
 soc:
   code: 51-4121
   title: Welders, Cutters, Solderers, and Brazers

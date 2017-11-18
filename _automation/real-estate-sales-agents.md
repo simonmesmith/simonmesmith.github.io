@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Real Estate Sales Agents
+title: Automation of Real Estate Sales Agents
+subtitle: Will robots and artificial intelligence take the job of Real Estate Sales Agents? Get the facts.
 soc:
   code: 41-9022
   title: Real Estate Sales Agents

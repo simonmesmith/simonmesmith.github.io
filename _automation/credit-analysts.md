@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Credit Analysts
+title: Automation of Credit Analysts
+subtitle: Will robots and artificial intelligence take the job of Credit Analysts? Get the facts.
 soc:
   code: 13-2041
   title: Credit Analysts

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+title: Automation of Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Area, Ethnic, and Cultural Studies Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1062
   title: Area, Ethnic, and Cultural Studies Teachers, Postsecondary

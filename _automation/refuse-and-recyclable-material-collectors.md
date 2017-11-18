@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Refuse and Recyclable Material Collectors
+title: Automation of Refuse and Recyclable Material Collectors
+subtitle: Will robots and artificial intelligence take the job of Refuse and Recyclable Material Collectors? Get the facts.
 soc:
   code: 53-7081
   title: Refuse and Recyclable Material Collectors

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Actuaries
+title: Automation of Actuaries
+subtitle: Will robots and artificial intelligence take the job of Actuaries? Get the facts.
 soc:
   code: 15-2011
   title: Actuaries

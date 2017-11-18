@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Postal Service Mail Sorters, Processors, and Processing Machine Operators
+title: Automation of Postal Service Mail Sorters, Processors, and Processing Machine Operators
+subtitle: Will robots and artificial intelligence take the job of Postal Service Mail Sorters, Processors, and Processing Machine Operators? Get the facts.
 soc:
   code: 43-5053
   title: Postal Service Mail Sorters, Processors, and Processing Machine Operators

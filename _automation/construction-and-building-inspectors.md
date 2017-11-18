@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Construction and Building Inspectors
+title: Automation of Construction and Building Inspectors
+subtitle: Will robots and artificial intelligence take the job of Construction and Building Inspectors? Get the facts.
 soc:
   code: 47-4011
   title: Construction and Building Inspectors

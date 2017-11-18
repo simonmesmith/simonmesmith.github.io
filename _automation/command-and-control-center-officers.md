@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Command and Control Center Officers
+title: Automation of Command and Control Center Officers
+subtitle: Will robots and artificial intelligence take the job of Command and Control Center Officers? Get the facts.
 soc:
   code: 55-1015
   title: Command and Control Center Officers

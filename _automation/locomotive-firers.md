@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Locomotive Firers
+title: Automation of Locomotive Firers
+subtitle: Will robots and artificial intelligence take the job of Locomotive Firers? Get the facts.
 soc:
   code: 53-4012
   title: Locomotive Firers

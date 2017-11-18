@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Etchers and Engravers
+title: Automation of Etchers and Engravers
+subtitle: Will robots and artificial intelligence take the job of Etchers and Engravers? Get the facts.
 soc:
   code: 51-9194
   title: Etchers and Engravers

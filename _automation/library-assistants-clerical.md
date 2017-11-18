@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Library Assistants, Clerical
+title: Automation of Library Assistants, Clerical
+subtitle: Will robots and artificial intelligence take the job of Library Assistants, Clerical? Get the facts.
 soc:
   code: 43-4121
   title: Library Assistants, Clerical

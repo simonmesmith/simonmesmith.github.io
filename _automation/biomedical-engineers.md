@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Biomedical Engineers
+title: Automation of Biomedical Engineers
+subtitle: Will robots and artificial intelligence take the job of Biomedical Engineers? Get the facts.
 soc:
   code: 17-2031
   title: Biomedical Engineers

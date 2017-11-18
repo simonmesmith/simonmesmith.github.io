@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Special Education Teachers, All Other
+title: Automation of Special Education Teachers, All Other
+subtitle: Will robots and artificial intelligence take the job of Special Education Teachers, All Other? Get the facts.
 soc:
   code: 25-2059
   title: Special Education Teachers, All Other

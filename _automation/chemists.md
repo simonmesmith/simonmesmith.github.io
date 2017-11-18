@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Chemists
+title: Automation of Chemists
+subtitle: Will robots and artificial intelligence take the job of Chemists? Get the facts.
 soc:
   code: 19-2031
   title: Chemists

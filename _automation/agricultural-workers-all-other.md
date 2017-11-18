@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Agricultural Workers, All Other
+title: Automation of Agricultural Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Agricultural Workers, All Other? Get the facts.
 soc:
   code: 45-2099
   title: Agricultural Workers, All Other

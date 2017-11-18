@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Lodging Managers
+title: Automation of Lodging Managers
+subtitle: Will robots and artificial intelligence take the job of Lodging Managers? Get the facts.
 soc:
   code: 11-9081
   title: Lodging Managers

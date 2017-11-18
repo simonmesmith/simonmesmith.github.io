@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Physical Scientists, All Other
+title: Automation of Physical Scientists, All Other
+subtitle: Will robots and artificial intelligence take the job of Physical Scientists, All Other? Get the facts.
 soc:
   code: 19-2099
   title: Physical Scientists, All Other

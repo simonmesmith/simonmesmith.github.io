@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electrical Power-Line Installers and Repairers
+title: Automation of Electrical Power-Line Installers and Repairers
+subtitle: Will robots and artificial intelligence take the job of Electrical Power-Line Installers and Repairers? Get the facts.
 soc:
   code: 49-9051
   title: Electrical Power-Line Installers and Repairers

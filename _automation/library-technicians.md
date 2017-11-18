@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Library Technicians
+title: Automation of Library Technicians
+subtitle: Will robots and artificial intelligence take the job of Library Technicians? Get the facts.
 soc:
   code: 25-4031
   title: Library Technicians

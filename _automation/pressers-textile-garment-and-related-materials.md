@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Pressers, Textile, Garment, and Related Materials
+title: Automation of Pressers, Textile, Garment, and Related Materials
+subtitle: Will robots and artificial intelligence take the job of Pressers, Textile, Garment, and Related Materials? Get the facts.
 soc:
   code: 51-6021
   title: Pressers, Textile, Garment, and Related Materials

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Accountants and Auditors
+title: Automation of Accountants and Auditors
+subtitle: Will robots and artificial intelligence take the job of Accountants and Auditors? Get the facts.
 soc:
   code: 13-2011
   title: Accountants and Auditors

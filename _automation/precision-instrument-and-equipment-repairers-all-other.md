@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Precision Instrument and Equipment Repairers, All Other
+title: Automation of Precision Instrument and Equipment Repairers, All Other
+subtitle: Will robots and artificial intelligence take the job of Precision Instrument and Equipment Repairers, All Other? Get the facts.
 soc:
   code: 49-9069
   title: Precision Instrument and Equipment Repairers, All Other

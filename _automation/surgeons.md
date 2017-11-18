@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Surgeons
+title: Automation of Surgeons
+subtitle: Will robots and artificial intelligence take the job of Surgeons? Get the facts.
 soc:
   code: 29-1067
   title: Surgeons

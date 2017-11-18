@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Personal Financial Advisors
+title: Automation of Personal Financial Advisors
+subtitle: Will robots and artificial intelligence take the job of Personal Financial Advisors? Get the facts.
 soc:
   code: 13-2052
   title: Personal Financial Advisors

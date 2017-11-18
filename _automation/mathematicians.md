@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Mathematicians
+title: Automation of Mathematicians
+subtitle: Will robots and artificial intelligence take the job of Mathematicians? Get the facts.
 soc:
   code: 15-2021
   title: Mathematicians

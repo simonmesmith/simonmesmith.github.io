@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Historians
+title: Automation of Historians
+subtitle: Will robots and artificial intelligence take the job of Historians? Get the facts.
 soc:
   code: 19-3093
   title: Historians

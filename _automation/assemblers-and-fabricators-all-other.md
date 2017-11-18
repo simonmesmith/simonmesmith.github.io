@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Assemblers and Fabricators, All Other
+title: Automation of Assemblers and Fabricators, All Other
+subtitle: Will robots and artificial intelligence take the job of Assemblers and Fabricators, All Other? Get the facts.
 soc:
   code: 51-2099
   title: Assemblers and Fabricators, All Other

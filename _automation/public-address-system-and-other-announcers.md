@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Public Address System and Other Announcers
+title: Automation of Public Address System and Other Announcers
+subtitle: Will robots and artificial intelligence take the job of Public Address System and Other Announcers? Get the facts.
 soc:
   code: 27-3012
   title: Public Address System and Other Announcers

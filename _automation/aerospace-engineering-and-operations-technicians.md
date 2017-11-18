@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Aerospace Engineering and Operations Technicians
+title: Automation of Aerospace Engineering and Operations Technicians
+subtitle: Will robots and artificial intelligence take the job of Aerospace Engineering and Operations Technicians? Get the facts.
 soc:
   code: 17-3021
   title: Aerospace Engineering and Operations Technicians

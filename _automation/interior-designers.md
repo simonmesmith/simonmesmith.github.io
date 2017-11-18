@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Interior Designers
+title: Automation of Interior Designers
+subtitle: Will robots and artificial intelligence take the job of Interior Designers? Get the facts.
 soc:
   code: 27-1025
   title: Interior Designers

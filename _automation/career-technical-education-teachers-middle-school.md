@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Career/Technical Education Teachers, Middle School
+title: Automation of Career/Technical Education Teachers, Middle School
+subtitle: Will robots and artificial intelligence take the job of Career/Technical Education Teachers, Middle School? Get the facts.
 soc:
   code: 25-2023
   title: Career/Technical Education Teachers, Middle School

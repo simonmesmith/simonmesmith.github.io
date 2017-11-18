@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Dredge Operators
+title: Automation of Dredge Operators
+subtitle: Will robots and artificial intelligence take the job of Dredge Operators? Get the facts.
 soc:
   code: 53-7031
   title: Dredge Operators

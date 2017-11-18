@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Court Reporters
+title: Automation of Court Reporters
+subtitle: Will robots and artificial intelligence take the job of Court Reporters? Get the facts.
 soc:
   code: 23-2091
   title: Court Reporters

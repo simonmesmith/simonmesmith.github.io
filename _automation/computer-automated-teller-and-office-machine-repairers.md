@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Computer, Automated Teller, and Office Machine Repairers
+title: Automation of Computer, Automated Teller, and Office Machine Repairers
+subtitle: Will robots and artificial intelligence take the job of Computer, Automated Teller, and Office Machine Repairers? Get the facts.
 soc:
   code: 49-2011
   title: Computer, Automated Teller, and Office Machine Repairers

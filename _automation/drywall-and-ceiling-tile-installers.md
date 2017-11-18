@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Drywall and Ceiling Tile Installers
+title: Automation of Drywall and Ceiling Tile Installers
+subtitle: Will robots and artificial intelligence take the job of Drywall and Ceiling Tile Installers? Get the facts.
 soc:
   code: 47-2081
   title: Drywall and Ceiling Tile Installers

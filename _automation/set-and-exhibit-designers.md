@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Set and Exhibit Designers
+title: Automation of Set and Exhibit Designers
+subtitle: Will robots and artificial intelligence take the job of Set and Exhibit Designers? Get the facts.
 soc:
   code: 27-1027
   title: Set and Exhibit Designers

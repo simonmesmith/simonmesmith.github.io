@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+title: Automation of Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+subtitle: Will robots and artificial intelligence take the job of Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic? Get the facts.
 soc:
   code: 51-4081
   title: Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Logging Workers, All Other
+title: Automation of Logging Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Logging Workers, All Other? Get the facts.
 soc:
   code: 45-4029
   title: Logging Workers, All Other

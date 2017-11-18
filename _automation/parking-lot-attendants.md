@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Parking Lot Attendants
+title: Automation of Parking Lot Attendants
+subtitle: Will robots and artificial intelligence take the job of Parking Lot Attendants? Get the facts.
 soc:
   code: 53-6021
   title: Parking Lot Attendants

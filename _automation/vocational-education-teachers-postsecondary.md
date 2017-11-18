@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Vocational Education Teachers, Postsecondary
+title: Automation of Vocational Education Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Vocational Education Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1194
   title: Vocational Education Teachers, Postsecondary

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Sales Representatives, Services, All Other
+title: Automation of Sales Representatives, Services, All Other
+subtitle: Will robots and artificial intelligence take the job of Sales Representatives, Services, All Other? Get the facts.
 soc:
   code: 41-3099
   title: Sales Representatives, Services, All Other

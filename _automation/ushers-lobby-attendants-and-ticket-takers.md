@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Ushers, Lobby Attendants, and Ticket Takers
+title: Automation of Ushers, Lobby Attendants, and Ticket Takers
+subtitle: Will robots and artificial intelligence take the job of Ushers, Lobby Attendants, and Ticket Takers? Get the facts.
 soc:
   code: 39-3031
   title: Ushers, Lobby Attendants, and Ticket Takers

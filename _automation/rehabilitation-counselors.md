@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Rehabilitation Counselors
+title: Automation of Rehabilitation Counselors
+subtitle: Will robots and artificial intelligence take the job of Rehabilitation Counselors? Get the facts.
 soc:
   code: 21-1015
   title: Rehabilitation Counselors

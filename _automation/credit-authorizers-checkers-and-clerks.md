@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Credit Authorizers, Checkers, and Clerks
+title: Automation of Credit Authorizers, Checkers, and Clerks
+subtitle: Will robots and artificial intelligence take the job of Credit Authorizers, Checkers, and Clerks? Get the facts.
 soc:
   code: 43-4041
   title: Credit Authorizers, Checkers, and Clerks

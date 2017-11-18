@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Signal and Track Switch Repairers
+title: Automation of Signal and Track Switch Repairers
+subtitle: Will robots and artificial intelligence take the job of Signal and Track Switch Repairers? Get the facts.
 soc:
   code: 49-9097
   title: Signal and Track Switch Repairers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Production Workers, All Other
+title: Automation of Production Workers, All Other
+subtitle: Will robots and artificial intelligence take the job of Production Workers, All Other? Get the facts.
 soc:
   code: 51-9199
   title: Production Workers, All Other

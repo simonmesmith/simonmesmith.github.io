@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Administrative Services Managers
+title: Automation of Administrative Services Managers
+subtitle: Will robots and artificial intelligence take the job of Administrative Services Managers? Get the facts.
 soc:
   code: 11-3011
   title: Administrative Services Managers

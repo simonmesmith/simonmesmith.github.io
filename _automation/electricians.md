@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Electricians
+title: Automation of Electricians
+subtitle: Will robots and artificial intelligence take the job of Electricians? Get the facts.
 soc:
   code: 47-2111
   title: Electricians

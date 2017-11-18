@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+title: Automation of First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+subtitle: Will robots and artificial intelligence take the job of First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand? Get the facts.
 soc:
   code: 53-1021
   title: First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand

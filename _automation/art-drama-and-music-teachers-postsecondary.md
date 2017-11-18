@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Art, Drama, and Music Teachers, Postsecondary
+title: Automation of Art, Drama, and Music Teachers, Postsecondary
+subtitle: Will robots and artificial intelligence take the job of Art, Drama, and Music Teachers, Postsecondary? Get the facts.
 soc:
   code: 25-1121
   title: Art, Drama, and Music Teachers, Postsecondary

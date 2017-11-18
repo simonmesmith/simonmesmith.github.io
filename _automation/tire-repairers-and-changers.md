@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Tire Repairers and Changers
+title: Automation of Tire Repairers and Changers
+subtitle: Will robots and artificial intelligence take the job of Tire Repairers and Changers? Get the facts.
 soc:
   code: 49-3093
   title: Tire Repairers and Changers

@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+title: Automation of Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+subtitle: Will robots and artificial intelligence take the job of Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders? Get the facts.
 soc:
   code: 51-9021
   title: Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders

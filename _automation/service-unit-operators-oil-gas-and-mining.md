@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Service Unit Operators, Oil, Gas, and Mining
+title: Automation of Service Unit Operators, Oil, Gas, and Mining
+subtitle: Will robots and artificial intelligence take the job of Service Unit Operators, Oil, Gas, and Mining? Get the facts.
 soc:
   code: 47-5013
   title: Service Unit Operators, Oil, Gas, and Mining

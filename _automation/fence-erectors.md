@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Fence Erectors
+title: Automation of Fence Erectors
+subtitle: Will robots and artificial intelligence take the job of Fence Erectors? Get the facts.
 soc:
   code: 47-4031
   title: Fence Erectors

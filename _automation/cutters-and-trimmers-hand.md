@@ -1,6 +1,7 @@
 ---
 layout: automation
-title: Cutters and Trimmers, Hand
+title: Automation of Cutters and Trimmers, Hand
+subtitle: Will robots and artificial intelligence take the job of Cutters and Trimmers, Hand? Get the facts.
 soc:
   code: 51-9031
   title: Cutters and Trimmers, Hand
