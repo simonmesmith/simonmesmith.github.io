@@ -142,7 +142,7 @@ layout: base
         <div class="media-body">
           <h4 class="media-heading"><a href="{{ source.url }}">{{ source.title }}</a></h4>
           {{ source.description }}<br/>
-          <span class="text-muted">Saved from {{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }} on {{ page.date | date: "%b %d, %Y" }}</span>
+          <span class="text-muted">Saved from {{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }} on {{ source.date | date: "%b %d, %Y" }}</span>
         </div>
       </div>
     {% endfor %}
