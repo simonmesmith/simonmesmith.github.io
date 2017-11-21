@@ -9,6 +9,7 @@ layout: base
 {% assign change = page.employment.change.us | times: 100 %}
 {% assign first_tag = page.tags | first %}
 {% assign sources = site.sources | where:'tags', first_tag | sort:'date' | reverse %}
+{% assign economic_value = page.employment.current.us | times: page.wage.annual.us %}
 {% assign entities = site.entities | where:'categories', 'companies' %}
 {% assign companies = entities | where:'tags', first_tag %}
 
@@ -56,7 +57,7 @@ layout: base
       <div class="col-md-3">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">{{ page.employment.current.us }} employed</h3>
+            <h3 class="panel-title">{% include numbers.html number=page.employment.current.us %} employed</h3>
           </div>
           <div class="panel-body">
             currently in the US
@@ -68,7 +69,7 @@ layout: base
           <div class="panel-heading">
             <h3 class="panel-title">
               {% if page.wage.annual.us  %}
-                ${{ page.wage.annual.us | money }} annual wage
+                ${% include numbers.html number=page.wage.annual.us %} annual wage
               {% else %}
                 ${{ page.wage.hourly.us | money }} hourly wage
               {% endif %}
@@ -97,16 +98,16 @@ layout: base
       Risk of automation
     </h3>
     <p>
-      This occupation is {{ probability }}% likely to be automated. It ranks {{ page.rank.oxford }} of 699 occupations analyzed (higher rank means higher likelihood).
+      This occupation is {{ probability }}% likely to be automated. It ranks {{ page.rank.oxford }} of 702 occupations analyzed (higher rank means higher likelihood).
     </p>
 
     <h3>
       People affected and economic value
     </h3>
     <p>
-      In the US, {{ page.employment.current.us }} people have this job.
+      In the US, {% include numbers.html number=page.employment.current.us %} people have this job.
       {% if page.wage.annual.us %}
-        Their mean annual wage is ${{ page.wage.annual.us | money }}. The occupation therefore represents ${{ page.employment.current.us | times: page.wage.annual.us }} in annual economic value.
+        They earn ${% include numbers.html number=page.wage.annual.us %} per year on average (the mean annual wage). The occupation therefore represents ${% include numbers.html number=economic_value %} in annual economic value.
       {% endif %}
       {% if page.wage.hourly.us %}
         The mean hourly wage for this occupation is ${{ page.wage.hourly.us | money }}.
@@ -125,7 +126,7 @@ layout: base
       {% endif %}
       {{ change }}%
       between 2016 and 2026.
-      At this rate, there would be {{ page.employment.projected.us }} people with this job at that time.
+      At this rate, there would be {% include numbers.html number=page.employment.projected.us %} people with this job at that time.
     </p>
 
     {{ content }}
