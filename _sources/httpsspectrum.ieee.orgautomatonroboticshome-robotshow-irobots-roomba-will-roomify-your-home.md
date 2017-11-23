@@ -18,6 +18,5 @@ tags:
   - Technology
   - Computing
   - Maid
-  - Janitor
   - Housekeeping
 ---
