@@ -15,7 +15,7 @@ employment:
     us: 0.071
 wage:
   hourly:
-    us: 
+    us:
   annual:
     us: 44820
 probability:
@@ -23,5 +23,5 @@ probability:
 rank:
   oxford: #N/A
 tags:
-  - 
+  - Government
 ---
