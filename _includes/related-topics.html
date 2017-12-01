@@ -1,0 +1,16 @@
+{% assign tags = include.tags %}
+{% if tags %}
+  <h3>Related topics</h3>
+  <ul>
+    {% for tag in tags %}
+      {% assign topics = site.topics | where:'tags', tag %}
+      {% if topics.size > 0 %}
+        {% for topic in topics %}
+          <li><a href="{{ topic.url }}">{{ topic.name }}</a></li>
+        {% endfor %}
+      {% else %}
+        <li>{{ tag }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

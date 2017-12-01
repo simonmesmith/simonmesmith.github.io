@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Generating drug brand names with neural networks
+tags:
+  - Artificial intelligence
 ---
 
 Creating new drug brand names is hard. Apart from the general challenge of branding, there's the added challenge of needing a name that physicians, patients and pharmacists won't confuse with existing names—and that won't imply claims not supported by a drug's label. But we live in the age of artificial intelligence. Could it help?
@@ -47,4 +49,4 @@ Here are two things I would consider to build upon this work in future:
 
 So there you have it, the ability to generate hundreds or thousands of drug brand names instantaneously, and a path towards improving the results over time.
 
-_This post originally appeared on the [Klick Health blog](https://www.klick.com/health/news/blog/strategy/generating-drug-brand-names-with-neural-networks/)._ 
+_This post originally appeared on the [Klick Health blog](https://www.klick.com/health/news/blog/strategy/generating-drug-brand-names-with-neural-networks/)._

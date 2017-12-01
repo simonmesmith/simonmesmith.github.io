@@ -8,11 +8,7 @@ layout: base
 {% assign probability = page.probability.oxford | times: 100 %}
 {% assign change = page.employment.change.us | times: 100 %}
 {% assign first_tag = page.tags | first %}
-{% assign sources = site.sources | where:'tags', first_tag | sort:'date' | reverse %}
 {% assign economic_value = page.employment.current.us | times: page.wage.annual.us %}
-{% assign entities = site.entities | where:'categories', 'companies' %}
-{% assign companies = entities | where:'tags', first_tag %}
-
 <div class="container">
 
   <article role="main" class="automation">
@@ -131,40 +127,7 @@ layout: base
 
     {{ content }}
 
-    <h3>Related articles</h3>
-    {% if sources.size == 0 %}
-      <p>I haven't added any related articles yet. If you know some, please post them in the comments.</p>
-    {% endif %}
-    {% for source in sources %}
-      <div class="media">
-        <div class="media-left">
-          <img class="media-object" style="width: 64px" src="//logo.clearbit.com/{{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }}?size=64">
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading"><a href="{{ source.url }}">{{ source.title }}</a></h4>
-          {{ source.description }}<br/>
-          <span class="text-muted">Saved from {{ source.link | remove:'http://' | remove:'https://' | remove:'www.' | split:'/' | first }} on {{ source.date | date: "%b %d, %Y" }}</span>
-        </div>
-      </div>
-    {% endfor %}
-
-    <h3>
-      Related companies
-    </h3>
-    {% if companies.size == 0 %}
-      <p>I haven't added any related companies yet. If you know one, please post it in the comments.</p>
-    {% endif %}
-    {% for company in companies %}
-      <div class="media">
-        <div class="media-left">
-          <img class="media-object" style="width: 64px" src="//logo.clearbit.com/{{ company.domain }}?size=64">
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading"><a href="http://{{ company.domain }}">{{ company.name }}</a></h4>
-          {{ company.description }}
-        </div>
-      </div>
-    {% endfor %}
+    {% include related-topics.html tags=page.tags %}
 
     <h3>
       References and notes

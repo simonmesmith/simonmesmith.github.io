@@ -3,3 +3,4 @@ _DelSyncFiles
 _site
 .Ulysses-Group.plist
 *.plist
+.jekyll-metadata
