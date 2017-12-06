@@ -35,7 +35,7 @@ layout: base
         {{ content }}
       </article>
 
-      <!-- {% if page.tags.size > 0 %}
+      {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
           {% if site.link-tags %}
@@ -46,9 +46,7 @@ layout: base
             {{ page.tags | join: ", " }}
           {% endif %}
         </div>
-      {% endif %} -->
-
-      {% include related-topics.html tags=page.tags %}
+      {% endif %}
 
       {% if page.social-share %}
         {% include social-share.html %}
