@@ -4,4 +4,4 @@ title: About me
 subtitle:
 ---
 
-For organizations with innovative solutions to meaningful problems but insufficient customer acquisition, retention and advocacy, I'm a growth leader who combines platforms, processes and people to create scalable growth engines that achieve aggressive business goals, leveraging 18 years of strategy, marketing and technology experience and an insatiable drive for maximum effectiveness and continuous optimization.
+I provide leadership to startups with innovative solutions to meaningful problems. My focus is combining platforms, processes, and people to create scalable growth engines. For this, I apply 18 years of strategy, marketing, and technology experience. Along with an insatiable drive for peak effectiveness and continuous optimization.
