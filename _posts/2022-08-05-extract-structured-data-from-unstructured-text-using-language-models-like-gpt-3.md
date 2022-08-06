@@ -1,8 +1,8 @@
-—
+---
 layout: post
 title:  “Extract structured data from unstructured text using language models like GPT-3”
 tags: coding machine-learning language-models
-—
+---
 
 # Extract structured data from unstructured text using language models like GPT-3
 
