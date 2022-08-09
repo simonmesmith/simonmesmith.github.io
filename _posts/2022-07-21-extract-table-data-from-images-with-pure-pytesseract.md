@@ -164,7 +164,7 @@ def read(image_path: str, distance_threshold=25.0) -> pd.DataFrame:
 To extract table data from an image as a Pandas dataframe, now all you have to run is this:
 
 ```python
-img = "/path-to-your-image.jpg
+img = "/path-to-your-image.jpg"
 df = read(img)
 ```
 
