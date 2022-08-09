@@ -1,3 +1,69 @@
-remote_theme: mmistakes/minimal-mistakes
+# Theme
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
+
+# Theme skin
+minimal_mistakes_skin: contrast
+
+# Site settings
+title: Simon Smith
+subtitle: Playing with code
+email: simon@simonsmith.ca
+description: >-
+  The website of Simon Smith of Toronto, Ontario, Canada.
+baseurl: ""
+url: "https://www.simonsmith.ca/"
+github_username:  simonmesmith
+repository: "simonmesmith/simonmesmith.github.io"
+masthead_title: "Simon Smith"
+breadcrumbs: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      author_profile: true
+author:
+  name     : "Simon Smith"
+  avatar   : "/assets/images/author-avatar.jpeg"
+  bio      : "Engineer. Former executive."
+  location : "Toronto, Ontario, Canada"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:simon@simonsmith.ca"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simonsmith/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/simonmesmith"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/47371369-simon-smith"      
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+

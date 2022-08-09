@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: single
 title:  Extract structured data from unstructured text using language models like GPT-3
 tags: coding machine-learning language-models
 ---
-
-# Extract structured data from unstructured text using language models like GPT-3
 
 Recently I faced a common challenge: extracting structured information from millions of unstructured text documents.
 
