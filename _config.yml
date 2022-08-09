@@ -1,7 +1,10 @@
 # Theme
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Theme skin
 minimal_mistakes_skin: contrast
