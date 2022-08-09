@@ -22,4 +22,4 @@ I wrote some code to do this, which I've called "[Colorgram](https://gist.github
 
 ![Colorful modern living room colorgrammed](/assets/images/colorful-modern-living-room-colorgrammed.png)
 
-PS: I got a lot of knowledge and borrowed a fair amount of code from various things I found online. I didn't keep track of that, so apologies for not giving proper credit where it's due.
+PS: I owe a debt to various places where I learned how to do this and copied some code snippets. I don't remember them all but now wish I did. If you recognize this as something you've worked on, and want credit, please let me know as I'm happy to give it!
