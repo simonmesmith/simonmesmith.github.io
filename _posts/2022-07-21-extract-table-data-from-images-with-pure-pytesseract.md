@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Extract table data from images with pure Pytesseract
+title: Extract table data from images with pure Pytesseract
 tags: coding image-recognition image-processing
 ---
 

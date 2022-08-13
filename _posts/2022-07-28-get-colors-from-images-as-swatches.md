@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Get colors from images as swatches
+title: Get colors from images as swatches
 tags: coding image-recognition image-processing
 ---
 
