@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Use offset to work with unindexed arrays in BigQuery
-tags: coding image-recognition image-processing
+tags: sql bigquery
 ---
 
 Recently I faced a challenge of working with multilevel nested arrays in BigQuery. The table I was working with had a structure somewhat like this:
@@ -47,6 +47,6 @@ level_two_flattened AS (
 
 With this done, I could work with `level_one_flattened` and `level_two_flattened`, then reaggregate everything at the end in the appropriate order using the offset-generated indexes.
 
-It's not rocket science, and I'm sure people with much greater expertise in SQl than me are very familiar with this. But it wasn't something I needed to use until recently, when it came in very handy.
+It's not rocket science, and I'm sure people with much greater expertise in SQL than me are very familiar with this. But it wasn't something I needed to use until recently, when it came in very handy.
 
 [Read more about `UNNEST` and `OFFSET` in BigQuery's docs here](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#unnest_operator).
