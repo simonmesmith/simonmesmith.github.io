@@ -42,7 +42,7 @@ author:
   links:
     - label: "About"
       icon: "fas fa-fw fa-address-card"
-      url: "/about.html"
+      url: "/about"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:simon@simonsmith.ca"
