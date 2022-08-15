@@ -1,7 +1,8 @@
 ---
 title: About me
 layout: single
-—--
+author_profile: true
+---
 
 Equally comfortable in a boardroom or IDE, I’m a 22-year tech industry veteran and former executive now pursuing my software engineering passion full-time. 
 
