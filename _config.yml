@@ -31,7 +31,7 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: pages
+      type: single
     values:
       author_profile: true
 author:
