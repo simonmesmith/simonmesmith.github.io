@@ -16,7 +16,7 @@ email: simon@simonsmith.ca
 description: >-
   The website of Simon Smith of Toronto, Ontario, Canada.
 baseurl: ""
-url: "https://www.simonsmith.ca/"
+url: "https://www.simonsmith.ca"
 github_username:  simonmesmith
 repository: "simonmesmith/simonmesmith.github.io"
 masthead_title: "Simon Smith"
