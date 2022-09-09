@@ -22,7 +22,6 @@ repository: "simonmesmith/simonmesmith.github.io"
 masthead_title: "Simon Smith"
 breadcrumbs: true
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -30,12 +29,20 @@ defaults:
       show_date: true
       read_time: true
       author_profile: true
+  - scope:
+      path: ""
+      type: single
+    values:
+      author_profile: true
 author:
   name     : "Simon Smith"
   avatar   : "/assets/images/author-avatar.jpeg"
   bio      : "Engineer. Former executive."
   location : "Toronto, Ontario, Canada"
   links:
+    - label: "About"
+      icon: "fas fa-fw fa-address-card"
+      url: "/about"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:simon@simonsmith.ca"
