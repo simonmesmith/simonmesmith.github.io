@@ -26,6 +26,8 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration, DataCollatorFo
 
 # 3. Set model, tokenizer, and data_collator variables
 
+Note: You can use other versions of T5 too. [See your options here](https://huggingface.co/docs/transformers/model_doc/t5).
+
 ```python
 tokenizer = T5Tokenizer.from_pretrained("t5-base")
 model = T5ForConditionalGeneration.from_pretrained("t5-base")
@@ -107,7 +109,7 @@ trainer.train()
 
 # 10. Save the tokenizer and model
 
-Note: Udate the "output_directory" to wherever you want to save everything.
+Note: Udate "output_directory" to wherever you want to save everything.
 
 ```python
 tokenizer.save_pretrained("output_directory")
