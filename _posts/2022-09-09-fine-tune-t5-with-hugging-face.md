@@ -109,7 +109,7 @@ trainer.train()
 
 # 10. Save the tokenizer and model
 
-Note: Udate "output_directory" to wherever you want to save everything.
+Note: Update "output_directory" to wherever you want to save everything.
 
 ```python
 tokenizer.save_pretrained("output_directory")
