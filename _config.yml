@@ -11,7 +11,7 @@ minimal_mistakes_skin: contrast
 
 # Site settings
 title: Simon Smith
-subtitle: Playing with code
+# subtitle: AI Product R&D Engineer Driving Innovation with Large Language Models
 email: simon@simonsmith.ca
 description: >-
   The website of Simon Smith of Toronto, Ontario, Canada.
@@ -37,12 +37,12 @@ defaults:
 author:
   name     : "Simon Smith"
   avatar   : "/assets/images/author-avatar.jpeg"
-  bio      : "Engineer. Former executive."
+  # bio      : "Engineer. Former executive."
   location : "Toronto, Ontario, Canada"
   links:
-    - label: "About"
-      icon: "fas fa-fw fa-address-card"
-      url: "/about"
+    # - label: "About"
+    #   icon: "fas fa-fw fa-address-card"
+    #   url: "/about"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:simon@simonsmith.ca"
