@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Introducing Agentflow: Execute complex LLM workflows with simple JSON
+title: "Introducing Agentflow: Execute complex LLM workflows with simple JSON"
 tags: large-language-models workflows automation gpt-3.5 gpt-4
 ---
 
