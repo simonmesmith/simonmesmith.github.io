@@ -21,7 +21,6 @@ pip install pylitsense
 ## Use
 
 ```python
-
 from pylitsense.pylitsense import PyLitSense
 
 # Initialize
