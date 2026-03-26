@@ -11,6 +11,7 @@ html, body {
 body {
   font-family: 'Source Sans Pro', 'Source Sans 3', sans-serif;
   background: linear-gradient(135deg, #002B5B 0%, #6A0DAD 50%, #D10070 100%);
+  background-attachment: fixed;
   display: flex;
   align-items: center;
   justify-content: center;
